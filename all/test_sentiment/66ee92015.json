@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi,we found her outside of our house in port klang...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "We take her in and give her bath and food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "she is quite a lover as she will listen to what we say.hope to find a good owner who can accept her .God bless you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.82377017,
+      "mentions": [
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.049147908,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "port klang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.049147908,
+      "mentions": [
+        {
+          "text": {
+            "content": "port klang",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04419372,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016449938,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01257829,
+      "mentions": [
+        {
+          "text": {
+            "content": "bath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.004712095,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

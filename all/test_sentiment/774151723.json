@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A cute, friendly, fat boy!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is just like Garfield!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9148512,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Garfield",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08514881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Garfield",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He has white fur, blue eyes and his tail is short and twisted at the end with a light cream colour.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He's really affectionate and purrs a lot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I am currently studying in PJ but sometimes travel back to my hometown of Ipoh.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested in adopting him, we can arrange for a suitable place and time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "The adoption fee is to cover some minor medical treatment and his vaccination.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25998262,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21946067,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21946067,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08705633,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059279393,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028723588,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hometown",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026564393,
+      "mentions": [
+        {
+          "text": {
+            "content": "hometown",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023942428,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019985607,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PJ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017161164,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ipoh",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01rv39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ipoh"
+      },
+      "salience": 0.015751163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ipoh",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013973138,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008658849,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

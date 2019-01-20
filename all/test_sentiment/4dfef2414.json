@@ -1,0 +1,295 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Toro could be your Guard Dog .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "male full grown local dog about 3 years old . good guard dog, loud barker .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "short-haired, black, Rottweiler-like .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "independent, smart, vaccinated, friendly .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "free to loving home with large garden (semi-d or bungalow) Call number given between 12pm-2pm and 8pm-10pm Location: Sg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Petani, Kedah",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Guard Dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.61470085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guard Dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toro",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/09hvmt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Toro_(company)"
+      },
+      "salience": 0.15501496,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05103711,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034717526,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "barker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02790841,
+      "mentions": [
+        {
+          "text": {
+            "content": "barker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025660273,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01939463,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rottweiler",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rottweiler",
+        "mid": "/m/01nw62"
+      },
+      "salience": 0.016707154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rottweiler",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0136109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008546225,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bungalow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008546225,
+      "mentions": [
+        {
+          "text": {
+            "content": "bungalow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sg",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0080639105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sg",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Petani",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/042tdt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sungai_Petani"
+      },
+      "salience": 0.008045898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petani",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01xl46",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah"
+      },
+      "salience": 0.008045898,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This lil' brat is active and energetic.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is also very friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Makes a good loyal friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "brat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.53851885,
+      "mentions": [
+        {
+          "text": {
+            "content": "brat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4326161,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028865065,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,539 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens been abandoned by a cruel person without their mom infront of my house... 2 females and 3 males.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I think they are about 2+ weeks old bcoz their eyes already open.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I took care of them since /...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I can't have anymore cats in my house bcoz I can't afford to pay more for pet food ETC.. please consider them!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Serious adopter needed to take care of them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Hope they'll find a great owner who'll love them whole heart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Note : Adopter from Kedah also can contact me if you really want to adopt this poor kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Bcoz I live near border Perlis-Kedah.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please don't ask me to post them anywhere in Peninsular Malaysia or Sabah/Sarawak bcoz its impossible.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "They're too weak.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "P/S : 3 of the kittens have been reserved by two people.. there is two left~ Tompok &amp; Brown-Tabby-Like... :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37850264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16756988,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06237598,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom infront",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06237598,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom infront",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "females",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06237598,
+      "mentions": [
+        {
+          "text": {
+            "content": "females",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06237598,
+      "mentions": [
+        {
+          "text": {
+            "content": "males",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047591947,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026129758,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Peninsular Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09bdm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Peninsular_Malaysia"
+      },
+      "salience": 0.016335886,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peninsular Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014489672,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011606087,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01022116,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008931921,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077741593,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077741593,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007641254,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071729403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007068536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067104544,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "P/S",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053782533,
+      "mentions": [
+        {
+          "text": {
+            "content": "P/S",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Perlis-Kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01xl46",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah"
+      },
+      "salience": 0.0042662993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Perlis-Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037658566,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sarawak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06_z0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sarawak"
+      },
+      "salience": 0.0031884515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarawak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sabah",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sabah",
+        "mid": "/m/07348"
+      },
+      "salience": 0.0031884515,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sabah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0029620058,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tompok & Brown-Tabby",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0022262922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tompok &amp; Brown-Tabby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

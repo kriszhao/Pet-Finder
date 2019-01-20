@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She's a very good girl that will love you more than others.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Will be a very good companion for a family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is lovely , but I need to put her up for adoption as I am too busy , feeling bad for not being hv enough time to take care of her , so I would like to find another lovely n responsible people to love her. . cageless and stay indoor only *serious adopter's * should agree for us to visit occasionally.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone interest just leave a comment and WhatsApp me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4779809,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31963977,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "others",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1072432,
+      "mentions": [
+        {
+          "text": {
+            "content": "others",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020605898,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015790947,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014758924,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "comment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0135028865,
+      "mentions": [
+        {
+          "text": {
+            "content": "comment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011081834,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone interest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068038176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone interest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042827213,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cageless",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042827213,
+      "mentions": [
+        {
+          "text": {
+            "content": "cageless",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.004026365,
+      "mentions": [
+        {
+          "text": {
+            "content": "WhatsApp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

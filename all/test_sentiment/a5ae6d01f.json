@@ -1,0 +1,367 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ben is a very active dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is full of energy and loves to play with water &amp; toys.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The new owner must either have good size play/running area or must make time to take Ben for walks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is very loving &amp; just can't stop being super excited every time he see you regardless once u got up from sleep in the morning or just got back from work, its like he never see u for years.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He have sensitive skin, the place that he sleeps must be clean, he loved swimming,playing with balls and catching food when ever u throw it in the air.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Ben is a very much loved pet by us, am sure he will make his new owner happy as much he had for me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We will miss him dearly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ben",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7867314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ben",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ben",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06324204,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "energy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024481134,
+      "mentions": [
+        {
+          "text": {
+            "content": "energy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024481134,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015309142,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014760379,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010220699,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009367097,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009207524,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006355133,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006355133,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.006299898,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005745782,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005594073,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00438669,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034892722,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "swimming",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0020477783,
+      "mentions": [
+        {
+          "text": {
+            "content": "swimming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "balls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019256512,
+      "mentions": [
+        {
+          "text": {
+            "content": "balls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.7,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

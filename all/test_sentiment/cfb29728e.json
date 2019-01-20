@@ -1,0 +1,301 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A stray kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Maybe lost his way home or someone abandoned him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He is clean, ears is clean and I can't see any fleas around his body.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He came into my house out of nowhere...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And I gave him Orijen cat food to eat..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He ate it so eager..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I think he is just soooo hungry..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "After that, he slept so comfortably.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "FYI, he have a long tail (not seen in this pics).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7783228,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043068312,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043068312,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043068312,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019790655,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011859962,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011254376,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011254376,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011156785,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010302819,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Orijen",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0j28c3v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Orijen"
+      },
+      "salience": 0.0061030206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orijen",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pics",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.005408119,
+      "mentions": [
+        {
+          "text": {
+            "content": "pics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053421445,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

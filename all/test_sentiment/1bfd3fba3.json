@@ -1,0 +1,181 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cute Puppy, to look for adoption due to no time for taking care, just 2.5 months, can take dog food, first vaccine and de-worm done on 4th-August-.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Self correction at OKR-Kuchai Lama, Kuala Lumpur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Self collection..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32700092,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cute Puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29272088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cute Puppy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10989285,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10989285,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08906161,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Self collection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023199854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Self collection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OKR-Kuchai Lama",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019722834,
+      "mentions": [
+        {
+          "text": {
+            "content": "OKR-Kuchai Lama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Self correction",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014666726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Self correction",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kuala Lumpur",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.013841481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuala Lumpur",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

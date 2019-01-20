@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "cute and playful,have to stay indoor,vaccine and neuter. ..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "neuter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.67995965,
+      "mentions": [
+        {
+          "text": {
+            "content": "neuter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32004032,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

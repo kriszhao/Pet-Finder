@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "playfull,kind,a sweet heart,cute,mostly a potato couch,happy with other cat or people,she responded to you when you call,",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3726118,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "potato couch",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.28018504,
+      "mentions": [
+        {
+          "text": {
+            "content": "potato couch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25840703,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.088796146,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

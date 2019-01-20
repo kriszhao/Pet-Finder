@@ -1,0 +1,396 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My aunt in Kulim, Kedah has a litter of 4 puppies (3 male, 1 female) born in July .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Sire is a purebred MKA certified Shih Tzu, Dam is a mixed breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The puppies have not been vaccinated or dewormed yet but the RM50 fee per pup is to subsidise the 1st vaccination and deworming.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please WhatsApp me at as I am handling the adoption process on behalf of my aunt, as she is not as tech-savvy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I am located in Petaling Jaya, so adopters from Klang Valley are welcome as well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "aunt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21251507,
+      "mentions": [
+        {
+          "text": {
+            "content": "aunt",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18327463,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1623421,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kulim",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kulim_District",
+        "mid": "/m/0fnbbq"
+      },
+      "salience": 0.09839881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kulim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01xl46",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah"
+      },
+      "salience": 0.09839881,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sire",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03718311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sire",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026770502,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM50 fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025370194,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM50 fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021124702,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deworming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019392466,
+      "mentions": [
+        {
+          "text": {
+            "content": "deworming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019392466,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dam",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014936976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012874609,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shih Tzu",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01s7fj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shih_Tzu"
+      },
+      "salience": 0.012429011,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shih Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MKA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012429011,
+      "mentions": [
+        {
+          "text": {
+            "content": "MKA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.011449695,
+      "mentions": [
+        {
+          "text": {
+            "content": "WhatsApp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "aunt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00729526,
+      "mentions": [
+        {
+          "text": {
+            "content": "aunt",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "behalf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064090206,
+      "mentions": [
+        {
+          "text": {
+            "content": "behalf",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petaling Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03dqts",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya"
+      },
+      "salience": 0.0060300473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petaling Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Klang Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03zszl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Klang_Valley"
+      },
+      "salience": 0.0060300473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klang Valley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption process",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005953461,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption process",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

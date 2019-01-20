@@ -1,0 +1,310 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ebbi was going to be put down along with his siblings at the animal shelter as they were ill.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "After antibiotics and some TLC, he is running around the house chasing his siblings without a care in the world.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is the cheekiest kitten and loves attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has beautiful hazel eyes and likes playing with his toys, plastics bottles and empty candy wrappers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Hope to find a forever home for this playful kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ebbi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7593505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ebbi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10986824,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030008577,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011377589,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010004774,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010004774,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010004774,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antibiotics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009883404,
+      "mentions": [
+        {
+          "text": {
+            "content": "antibiotics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009715284,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0068749394,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plastics bottles",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0068749394,
+      "mentions": [
+        {
+          "text": {
+            "content": "plastics bottles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "candy wrappers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068749394,
+      "mentions": [
+        {
+          "text": {
+            "content": "candy wrappers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TLC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0058599967,
+      "mentions": [
+        {
+          "text": {
+            "content": "TLC",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005468852,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0048057977,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hazel eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030226395,
+      "mentions": [
+        {
+          "text": {
+            "content": "hazel eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

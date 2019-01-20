@@ -1,0 +1,354 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "For adoption of Foxy, pls contact: Tracey - LOcation: KL &amp; Bangsar ------------------------------------------------------------ 名字 : 小狐狸 Name : Foxy 颜色 : 灰褐色 Colour : greyish brown 性别 Sex : 母 female D.O.B: Born in July 性格:很乖，不会吵闹，只有肚子饿的时候才会喵喵叫 Character : very obedient and quiet kitten 特点 :很可爱和两粒大眼睛 Feature : very cute with beautiful big eyes location: kl &amp; bangsar ------------------------------------------------------------",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "LOcation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.102454916,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOcation",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Foxy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Foxy_(P2P)",
+        "mid": "/m/04gj9pl"
+      },
+      "salience": 0.102454916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foxy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Foxy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.0765815,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bangsar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0765815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bangsar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "------------------------------------------------------------",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0765815,
+      "mentions": [
+        {
+          "text": {
+            "content": "------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pls contact: Tracey",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.07368219,
+      "mentions": [
+        {
+          "text": {
+            "content": "pls contact: Tracey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "very obedient and quiet kitten",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.047487866,
+      "mentions": [
+        {
+          "text": {
+            "content": "very obedient and quiet kitten",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "名字",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046367396,
+      "mentions": [
+        {
+          "text": {
+            "content": "名字",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "狐狸",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046367396,
+      "mentions": [
+        {
+          "text": {
+            "content": "狐狸",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Character",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044559542,
+      "mentions": [
+        {
+          "text": {
+            "content": "Character",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "特点",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028631289,
+      "mentions": [
+        {
+          "text": {
+            "content": "特点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "greyish brown 性别 Sex : 母 female D.O.B: Born in July",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.027851328,
+      "mentions": [
+        {
+          "text": {
+            "content": "greyish brown 性别 Sex : 母 female D.O.B: Born in July",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "性格",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023475096,
+      "mentions": [
+        {
+          "text": {
+            "content": "性格",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "------------------------------------------------------------",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022881627,
+      "mentions": [
+        {
+          "text": {
+            "content": "------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "very cute with beautiful big eyes location: kl & bangsar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.022320021,
+      "mentions": [
+        {
+          "text": {
+            "content": "very cute with beautiful big eyes location: kl &amp; bangsar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "肚子",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020991098,
+      "mentions": [
+        {
+          "text": {
+            "content": "肚子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Colour",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Color",
+        "mid": "/m/01sdr"
+      },
+      "salience": 0.020417731,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colour",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "灰褐色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017202266,
+      "mentions": [
+        {
+          "text": {
+            "content": "灰褐色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "颜色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017202266,
+      "mentions": [
+        {
+          "text": {
+            "content": "颜色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Feature",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.015918722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feature",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "眼睛",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013408353,
+      "mentions": [
+        {
+          "text": {
+            "content": "眼睛",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.6
+  },
+  "language": "zh",
+  "categories": []
+}

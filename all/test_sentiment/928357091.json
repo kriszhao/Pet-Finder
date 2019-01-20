@@ -1,0 +1,164 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Buckwheats owner migrated to Canada and could not bring Buckwheat with him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We are looking for a permanent owner for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Preferably with no other dog in the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please call -",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49382982,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Buckwheats",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1930326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buckwheats",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d060g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Canada"
+      },
+      "salience": 0.1718594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Canada",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Buckwheat",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0ks8n",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Buckwheat"
+      },
+      "salience": 0.046468675,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buckwheat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040740095,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027034694,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027034694,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

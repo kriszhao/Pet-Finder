@@ -1,0 +1,215 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My classmate, Mariel has found these two lovely puppies nearby her house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She told me that the vaccination for these two puppies depends on whether the adopters want to do it themselves or she can help do it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "URGENT NEED OF ADOPTER: Her family said that they could only keep the pups for a day or two or else they're sending them to a shelter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mariel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.81228715,
+      "mentions": [
+        {
+          "text": {
+            "content": "classmate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Mariel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04362693,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04134884,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03645236,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0136532625,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTER",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012627287,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTER",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01200568,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NEED",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01110246,
+      "mentions": [
+        {
+          "text": {
+            "content": "NEED",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075987065,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0058744387,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034228635,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

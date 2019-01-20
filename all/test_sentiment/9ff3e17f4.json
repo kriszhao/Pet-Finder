@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Adopted by family in USJ Subang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Missed you all &amp; pray for your happy life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7845098,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "USJ Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/054t4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya"
+      },
+      "salience": 0.15282051,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062669694,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

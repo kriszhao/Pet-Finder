@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He is playful and adorable puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Smart as well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.97948223,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Smart",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020517739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smart",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

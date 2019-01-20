@@ -1,0 +1,220 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tiger here is one very active lil paw buddy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He has a craze for plastic bags and just loves playing with them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He like to be close with humans, especially when palying.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "If u find a lil paw brushing against your toe, tht lil' tiger's soft paws, means he want to play with u.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "If u r interested, please call me ASAP (Liwi)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tiger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8158308,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "lil paw buddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04706059,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lil paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029885447,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "craze",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027173804,
+      "mentions": [
+        {
+          "text": {
+            "content": "craze",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.027173804,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018548014,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016970854,
+      "mentions": [
+        {
+          "text": {
+            "content": "toe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006415802,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005636986,
+      "mentions": [
+        {
+          "text": {
+            "content": "paws",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Liwi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053038993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liwi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

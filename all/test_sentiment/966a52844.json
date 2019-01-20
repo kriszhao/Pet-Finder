@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "cheerful and loving.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "i love air conditioning and bed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "and i love sleeping and please rub my belly ... loved to be pampered",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "air conditioning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28322205,
+      "mentions": [
+        {
+          "text": {
+            "content": "air conditioning",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2668363,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sleeping",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26239794,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleeping",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18754372,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

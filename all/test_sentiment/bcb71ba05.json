@@ -1,0 +1,196 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sky the German Shepherd mix has to be rehomed because his family are moving into a condo and can't keep the dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "A healthy dog who goes out for walks every day and has always lived outside.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Hasn't been socialised with other dogs or small children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26666516,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sky",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.19281763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German Shepherd",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd",
+        "mid": "/m/0km5c"
+      },
+      "salience": 0.16668057,
+      "mentions": [
+        {
+          "text": {
+            "content": "German Shepherd",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.109956674,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07873166,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0754981,
+      "mentions": [
+        {
+          "text": {
+            "content": "condo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03900431,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034336474,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018154701,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018154701,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

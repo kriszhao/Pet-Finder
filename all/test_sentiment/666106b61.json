@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "i have 5 dogs and the males does not get along, so I plan to look for adopter who like to adopt the male dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5608197,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35024452,
+      "mentions": [
+        {
+          "text": {
+            "content": "males",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08893581,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

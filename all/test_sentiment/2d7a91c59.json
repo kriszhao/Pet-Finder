@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I adopted Lynelle on 13 December .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am happy to have her in my life and she is doing remarkably well at home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Glad that I adopted her!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Love her a lot! :-D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lynelle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9030358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lynelle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033245396,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030542668,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017094318,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": ":-D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016081812,
+      "mentions": [
+        {
+          "text": {
+            "content": ":-D",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

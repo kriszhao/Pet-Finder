@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tiger's son - 2nd generation Name : Jerry D.O.B : /",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tiger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.62071824,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "generation Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.316074,
+      "mentions": [
+        {
+          "text": {
+            "content": "generation Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jerry D.O.B",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06320774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerry D.O.B",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

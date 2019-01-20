@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "rescued by the roadside, cute, tame, friendly with children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "roadside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.65071195,
+      "mentions": [
+        {
+          "text": {
+            "content": "roadside",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34928805,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

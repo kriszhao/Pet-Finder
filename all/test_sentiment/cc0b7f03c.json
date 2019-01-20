@@ -1,0 +1,243 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Someone dumped these puppies at my friend's garden.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "They are happy and healthy puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "2 Male &amp; 2 Female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Don't know the breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "According to the pet shop lady this kind of dog will be big in size when they became adult.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22493775,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20054936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20054936,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18781273,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08133742,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024988584,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018835817,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Male & 2 Female",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.01602887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Male &amp; 2 Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013218732,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adult",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013218732,
+      "mentions": [
+        {
+          "text": {
+            "content": "adult",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010222633,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet shop lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008299984,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet shop lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

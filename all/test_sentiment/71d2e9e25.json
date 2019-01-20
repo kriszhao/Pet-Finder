@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Adorable 2 month old puppy up for adoption!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Taken to vet to be dewormed and given vaccines and antibiotics.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Overall healthy, active and playful!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact for more information: Em- Ben-",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.52419317,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2320958,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08167282,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccines",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antibiotics",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.08167282,
+      "mentions": [
+        {
+          "text": {
+            "content": "antibiotics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05661418,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Em- Ben",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023751251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Em- Ben",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

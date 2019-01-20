@@ -1,0 +1,142 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lexy is 5 year old female golden retriever.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She like being indoors since she was a pup and she always sleeps most of the time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But she loves meeting new friends and greets them too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She enjoys eating kibbles with hot rice and a 15-minutes walk every evening.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lexy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9251374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lexy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "golden retriever",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032234885,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "most",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017926782,
+      "mentions": [
+        {
+          "text": {
+            "content": "most",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012350474,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012350474,
+      "mentions": [
+        {
+          "text": {
+            "content": "rice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

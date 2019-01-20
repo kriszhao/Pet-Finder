@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please don't separate us!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "we are looking for adopter who is willing to adopt two of us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "two",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "two",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

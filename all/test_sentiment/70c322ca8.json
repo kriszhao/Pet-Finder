@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Owner moving house and dog no space to stain",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5230718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24472184,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17508051,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057125848,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mummy cat (tuxedo) with three kittens under 1 month old in need of a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I found these cats by the row of shops opposite Subang Jaya Medical Center (SS12).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you need to locate them, please contact me at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mummy cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29490784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mummy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tuxedo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29490784,
+      "mentions": [
+        {
+          "text": {
+            "content": "tuxedo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12084217,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.082858376,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.082858376,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040951442,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "row",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037622243,
+      "mentions": [
+        {
+          "text": {
+            "content": "row",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shops",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.037622243,
+      "mentions": [
+        {
+          "text": {
+            "content": "shops",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang Jaya Medical Center",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0074294554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang Jaya Medical Center",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

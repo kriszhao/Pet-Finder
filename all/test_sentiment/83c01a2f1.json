@@ -1,0 +1,66 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tiga is friendly, but timid.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "After some time with you she will ask for as much patting as possible.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tiga",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tiga_(musician)",
+        "mid": "/m/03f6d0x"
+      },
+      "salience": 0.8675734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiga",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "patting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13242665,
+      "mentions": [
+        {
+          "text": {
+            "content": "patting",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

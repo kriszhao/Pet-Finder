@@ -1,0 +1,145 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Described as having gone through much difficulty, Tucker the puppy used to be abused by humans and attacked by other dogs in a large parking compound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Rescued and recuperated, Tucker is now looking for a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tucker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29784912,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tucker",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Tucker",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "difficulty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1878944,
+      "mentions": [
+        {
+          "text": {
+            "content": "difficulty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1878944,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13163808,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.121331595,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parking compound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041494414,
+      "mentions": [
+        {
+          "text": {
+            "content": "parking compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03189798,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

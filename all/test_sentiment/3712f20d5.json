@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "When she was 1,5 month old ,I rescued her with other 3 babies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "However 2 babies can't make it...She is clever friendly ,playful and so cute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Toilet trained and De-flea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you interested her, PLEASE comment me!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.587807,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28773224,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078179404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "De-flea",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0k8by",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Flea"
+      },
+      "salience": 0.046281356,
+      "mentions": [
+        {
+          "text": {
+            "content": "De-flea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

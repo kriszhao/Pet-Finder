@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Metallica is one big fella who is very alert and mischievous.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "he's more of silver colour than grey.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "if u r interested pls text me or just call me ASAP.she'll b ready for adoption late june.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "pls include details such as ur name, where do u live, are u a student/working, how many pets do u currently have.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "i would prefer a house not more than 2 cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "contact me, Liwi at.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.632948,
+      "mentions": [
+        {
+          "text": {
+            "content": "fella",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Liwi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16211629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liwi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Metallica",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/04rcr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Metallica"
+      },
+      "salience": 0.07599678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Metallica",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031664815,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022848727,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020101987,
+      "mentions": [
+        {
+          "text": {
+            "content": "grey",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013709619,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013661547,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00944055,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00944055,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "student/working",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040603606,
+      "mentions": [
+        {
+          "text": {
+            "content": "student/working",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004010779,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

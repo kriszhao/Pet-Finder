@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She born in 02 April.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's very smart and loving also very playful and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The reason of giving is changing house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "giving",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46240345,
+      "mentions": [
+        {
+          "text": {
+            "content": "giving",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.32645985,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2111367,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

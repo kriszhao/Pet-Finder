@@ -1,0 +1,146 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We actually adopted fer a month ago but unfortunately she is too playful and bullying our older dog who is 12yrs old and a small dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "London is a cute and love people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Plse adopt her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Raymond",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.370145,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3409014,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14199215,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Plse",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06588177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plse",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Raymond",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04604655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raymond",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "London",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04jpl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/London"
+      },
+      "salience": 0.0350331,
+      "mentions": [
+        {
+          "text": {
+            "content": "London",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

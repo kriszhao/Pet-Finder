@@ -1,0 +1,576 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mickey,Mini,Milo and Milky are litter from a stray mother that I am fostering as she was pregnant when I found her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mickey and Mini have very similar fur pattern and colour.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "One has mustache around the mouth, another one has nose pad on, very funny!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "they have patches like cow, very adorable!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mickey is boy and Mini is girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "they can be adopt individually, but are preferred to adopt together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They can eats wet food and kibble, they can drink from bowl and litter trained.both are flee free and deworm once ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ The condition to adopt are : Must vaccinate Must spay/neuter when they are 5 months old Must keep indoor No caging unless it's for quarantine/ transportation Must provide premium kibbles Update me with pic/message once a while Adopter have 2 weeks probation period.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If you change you mind, you could return them to within 2 weeks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "In future if you are unable to take care of them anymore, you need to return them to me",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2785476,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.21288656,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mickey",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/057ph",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mickey_Mouse"
+      },
+      "salience": 0.1988389,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mickey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mickey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mickey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mini",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04921085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Milo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037373446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Milo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Milky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037373446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Milky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013539462,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011604538,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mustache",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011547042,
+      "mentions": [
+        {
+          "text": {
+            "content": "mustache",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011547042,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nose pad",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011547042,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose pad",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01150642,
+      "mentions": [
+        {
+          "text": {
+            "content": "cow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur pattern",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011463246,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur pattern",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011366315,
+      "mentions": [
+        {
+          "text": {
+            "content": "patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009905663,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibble",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008892977,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibble",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008892977,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007814024,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bowl",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007814024,
+      "mentions": [
+        {
+          "text": {
+            "content": "bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "caging",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065956493,
+      "mentions": [
+        {
+          "text": {
+            "content": "caging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "premium kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006153557,
+      "mentions": [
+        {
+          "text": {
+            "content": "premium kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spay/neuter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.005905461,
+      "mentions": [
+        {
+          "text": {
+            "content": "spay/neuter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quarantine/ transportation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054061073,
+      "mentions": [
+        {
+          "text": {
+            "content": "quarantine/ transportation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054061073,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pic",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0054061073,
+      "mentions": [
+        {
+          "text": {
+            "content": "pic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043198783,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0037403682,
+      "mentions": [
+        {
+          "text": {
+            "content": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030809883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002314187,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

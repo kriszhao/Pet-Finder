@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "found on street,seen like breeder throw out afraid of thunder,gentle and quiet,steady suitable for accompany child and senior citizen adopter have to update her recent to me,have to take vaccine every years,I will occasionally interview her ..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "breeder",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5421155,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2068899,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thunder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.086663194,
+      "mentions": [
+        {
+          "text": {
+            "content": "thunder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06041894,
+      "mentions": [
+        {
+          "text": {
+            "content": "child",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "citizen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055638637,
+      "mentions": [
+        {
+          "text": {
+            "content": "citizen",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048273854,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

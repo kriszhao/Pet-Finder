@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "5 little kittens, yellow white color, male female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Unable to care, always outstation and kittens outside my yard.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Someone put them in my thrash bin and heard it meowing in the drain during heavy rain today, 5/9/",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4253444,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15571818,
+      "mentions": [
+        {
+          "text": {
+            "content": "color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15571818,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061447393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05994359,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yard",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.052770354,
+      "mentions": [
+        {
+          "text": {
+            "content": "yard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03648311,
+      "mentions": [
+        {
+          "text": {
+            "content": "drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.03648311,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016091693,
+      "mentions": [
+        {
+          "text": {
+            "content": "bin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

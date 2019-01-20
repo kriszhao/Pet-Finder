@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mix persian and domestic cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Food: Blackwood kitten",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5175942,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24161962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1303119,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blackwood",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.11047425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackwood",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

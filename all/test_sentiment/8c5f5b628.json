@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "hi, somebody dumped me inside the drain and i almost drowned.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "luckily ive been save by my rescuer but too bad she cannot keep me for long.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "please adopt me and i need a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "i promise i will give u all my love :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.52529824,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21214129,
+      "mentions": [
+        {
+          "text": {
+            "content": "drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19413169,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.042085916,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026342895,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

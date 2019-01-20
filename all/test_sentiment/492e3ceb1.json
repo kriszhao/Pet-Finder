@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found two puppies abandoned in a paper bag near a resort near Janda Baik.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for a home for them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.52471334,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "resort",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16401191,
+      "mentions": [
+        {
+          "text": {
+            "content": "resort",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paper bag",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.16215011,
+      "mentions": [
+        {
+          "text": {
+            "content": "paper bag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Janda Baik",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tg_tlk9"
+      },
+      "salience": 0.09198081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janda Baik",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.057143837,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

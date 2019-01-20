@@ -1,0 +1,125 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Its was rescued and fully recovered!!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Healthy just a little bit mis-perfect on his mouth.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please give him a second chance to get a warm home Rm fees for neuter",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rm",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.3470176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2653345,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17936328,
+      "mentions": [
+        {
+          "text": {
+            "content": "fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neuter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1406748,
+      "mentions": [
+        {
+          "text": {
+            "content": "neuter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06760987,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

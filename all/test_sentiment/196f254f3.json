@@ -1,0 +1,280 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kitten for adoption!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "(Klang) A mother cat That I feed daily gave birth on my rooftop.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I managed to get one kitten down but I am having difficulties getting the other kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "However, I have since spayed the mother cat and is currently feeding the two kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately, I cannot keep these cuties as I have a small dog and a very territorial cat at home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mother cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41057482,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19972022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15262818,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045600127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03377167,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02940283,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rooftop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02940283,
+      "mentions": [
+        {
+          "text": {
+            "content": "rooftop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02681466,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "difficulties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020060426,
+      "mentions": [
+        {
+          "text": {
+            "content": "difficulties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01252834,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0120796645,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009685962,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009567923,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008162335,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

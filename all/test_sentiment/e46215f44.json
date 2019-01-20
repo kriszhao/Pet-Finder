@@ -1,0 +1,100 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "cutie is a very cute girl.And she looks like small bear with nice thick furs.... she is really really cute and can be a great companion for u... adopter must spay/neuter her before adopting...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "you will never leave her after seeing...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7596975,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girl.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.097267665,
+      "mentions": [
+        {
+          "text": {
+            "content": "bear",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07614207,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "furs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06689276,
+      "mentions": [
+        {
+          "text": {
+            "content": "furs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

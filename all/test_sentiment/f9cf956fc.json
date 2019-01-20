@@ -1,0 +1,180 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rescued from the road side, dying due to starvation.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Good guard dog as he does not bark much but only when strangers approach.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Understand and take command well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He was rescued and been staying with the other rescued dog ,Glory, for sometimes, so it will be good if both can be adopted together .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35948008,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Glory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22690502,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Glory",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "starvation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14822796,
+      "mentions": [
+        {
+          "text": {
+            "content": "starvation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.082994126,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05725008,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "approach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050377473,
+      "mentions": [
+        {
+          "text": {
+            "content": "approach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050377473,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024387805,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Putih is very active cat ;)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Putih",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/White",
+        "mid": "/m/083jv"
+      },
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "Putih",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

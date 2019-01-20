@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I was found in the middle of the road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "My rescuer literally pulled me out from under a car, which nearly hit me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I need a loving home as they cant keep me at home since everyone else are allergic to cat fur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please help!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "middle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.4459511,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.18009701,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.15167072,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.077265084,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05378023,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040864233,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029381003,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02099059,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

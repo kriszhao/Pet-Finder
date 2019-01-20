@@ -1,0 +1,103 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "3 of them are all in white and black colour...very fat...cute playful, currently eating wet food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Still on toilet training. ....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "please do call me (ina). .... they need a new home.....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46099705,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3240563,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14781724,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.067129426,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

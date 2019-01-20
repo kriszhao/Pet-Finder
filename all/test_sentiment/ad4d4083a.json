@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He was found crossing on a busy street so Christine Lee has rescued him &amp; brought him to vet &amp; currently fostered by her in klang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you are keen please call Christine Terms &amp; Conditions Apply",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Christine Lee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.65664047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christine Lee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2602512,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "klang",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057073098,
+      "mentions": [
+        {
+          "text": {
+            "content": "klang",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Christine Terms & Conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026035223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Christine Terms &amp; Conditions",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

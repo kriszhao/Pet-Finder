@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found them on the way home in the middle of the road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "bad people put them in a basket without thinking about the pass-by car and motor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "call me for adoption @ . they are always clean (bath 3 times a week) , playful &amp; healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27585322,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.27585322,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1130343,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1130343,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10231684,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "basket",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03784457,
+      "mentions": [
+        {
+          "text": {
+            "content": "basket",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.035191387,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035191387,
+      "mentions": [
+        {
+          "text": {
+            "content": "motor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption @",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011680802,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption @",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

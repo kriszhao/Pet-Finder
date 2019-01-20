@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We took in a pregnant stray mother cat 7 months ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "These 4 cuddly guys were born in our house, but we have to let them go since we're moving out of the country soon they are approximately 12 weeks old and have been vaccinated once.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "guys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6140424,
+      "mentions": [
+        {
+          "text": {
+            "content": "guys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27403033,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08559844,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026328862,
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

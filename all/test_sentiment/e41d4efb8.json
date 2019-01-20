@@ -1,0 +1,160 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "For any inquiry or adoption, pls call: Ching - Location : KL ------------------------------------------------------------------ Name: Gender: Male DOB: around July 1st vaccination: Done on 4.9. 1st de-wormed : Done on 4.9.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "FREE: vaccination FREE: Castration (when he reach 6-8 months old) --------------------------------------------------------------------------",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "inquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2074352,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2074352,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19880992,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ching - Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1309643,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ching - Location",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1309643,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06057819,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gender: Male DOB",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036469568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender: Male DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Castration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027343344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Castration",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

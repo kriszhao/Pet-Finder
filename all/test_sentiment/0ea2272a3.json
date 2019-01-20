@@ -1,0 +1,421 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Muffin is a well behaved loving dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Gender: Female Weight: Approx 3kgs She suffered a foot injury when she was younger and having gone to numerous vet clinics it was said that the foot cannot be healed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "No matter, it does not give her pain and she moves around just fine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is looking for a compassionate new home that will love her as she is.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is used to being an indoor house pet and is house trained to potty on a mat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately her current owner is relocating overseas and cannot take her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested in adopting Muffin, she is available for viewing in Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "For more info, please contact Kevin:.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Whatsapp is preferred.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Muffin",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01tcjp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Muffin"
+      },
+      "salience": 0.45583862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muffin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Muffin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20141558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07229933,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07100717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foot injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027219318,
+      "mentions": [
+        {
+          "text": {
+            "content": "foot injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet clinics",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.027219318,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet clinics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02457253,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020939497,
+      "mentions": [
+        {
+          "text": {
+            "content": "foot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018313384,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016909646,
+      "mentions": [
+        {
+          "text": {
+            "content": "house pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0139856255,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008883007,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008858693,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056007355,
+      "mentions": [
+        {
+          "text": {
+            "content": "mat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0055881934,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "overseas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0055881934,
+      "mentions": [
+        {
+          "text": {
+            "content": "overseas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.0052620135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kevin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00525338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kevin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.0052457764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

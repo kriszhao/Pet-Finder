@@ -1,0 +1,166 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Simba loves horsing around with his brothers and hiding to ambush them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has beautiful fur and a straight tail like his mommy.He has just learnt to eat dry food and is toilet trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Hope to find a forever home for him",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Simba",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03wjyj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Simba"
+      },
+      "salience": 0.7641704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simba",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14522415,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020627944,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020379422,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018948996,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014326206,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0100069,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006315969,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

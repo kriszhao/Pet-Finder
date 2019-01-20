@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I love the outdoors and I love to curl up when i take a nap.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I love any kind of fish.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I can take care of myself and will come when called.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I am very healthy, playful and smart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "And I love the camera too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Mama have found a new home for me and my other 'siblings'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "We are happy here in Johor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "outdoors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4757995,
+      "mentions": [
+        {
+          "text": {
+            "content": "outdoors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20331152,
+      "mentions": [
+        {
+          "text": {
+            "content": "nap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066946395,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062535435,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058837276,
+      "mentions": [
+        {
+          "text": {
+            "content": "fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04073588,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04073588,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "camera",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.019092908,
+      "mentions": [
+        {
+          "text": {
+            "content": "camera",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Johor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jng9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor"
+      },
+      "salience": 0.016871247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015133969,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.5,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

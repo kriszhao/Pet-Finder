@@ -1,0 +1,159 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These are my ADORABLE lil kittens, named Caramel, Toffee and Coffee...theyre very active...and like to play...but never play with them outside for the first two months....they need to settle in first!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Make great companians when bored...visit their instagram in The_Kitty_Trio",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lil kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5967439,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADORABLE",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.12389691,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADORABLE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Toffee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08154801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toffee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Coffee",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.08154801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coffee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Caramel",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0h55s",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Caramel"
+      },
+      "salience": 0.06778977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caramel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "companians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030146662,
+      "mentions": [
+        {
+          "text": {
+            "content": "companians",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instagram",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0glpjll",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Instagram"
+      },
+      "salience": 0.010335326,
+      "mentions": [
+        {
+          "text": {
+            "content": "instagram",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "The_Kitty_Trio",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007991421,
+      "mentions": [
+        {
+          "text": {
+            "content": "The_Kitty_Trio",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

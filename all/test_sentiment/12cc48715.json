@@ -1,0 +1,295 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "we have 2 kittens available: 1) a domestic medium hair kitten which a mixture of black grey and white fur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "very playful and loving.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "the kitten has been potty trained to use a litter box and eats both dry and wet food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "2) a turkish angora (white with blue heys and three cute black dots on the head.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "just like it's sister this kitten is playful and yet potty trained to use a litter box and eats both dry and wet food",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2507387,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20550016,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.103124686,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mixture",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07781784,
+      "mentions": [
+        {
+          "text": {
+            "content": "mixture",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07781784,
+      "mentions": [
+        {
+          "text": {
+            "content": "grey",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07781784,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05353846,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029499974,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028711226,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "turkish angora",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023745336,
+      "mentions": [
+        {
+          "text": {
+            "content": "turkish angora",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023745336,
+      "mentions": [
+        {
+          "text": {
+            "content": "heys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017885456,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0142714735,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007892834,
+      "mentions": [
+        {
+          "text": {
+            "content": "dots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007892834,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

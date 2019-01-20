@@ -1,0 +1,368 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This group of puppies was found near market, together with their mother, when they were a day old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They were forced out of the market to the middle of the road, and were rescued from being run over by cars.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "All of them are very adorable, cute and bubbly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They are greedy eater and very well socialised, both with human and also other animals.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They will make a good, loving family pet if brought up well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please give them a chance to be loved n cared for.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption fee of RM80 include complete vaccination, deworming and neutering.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.4357626,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13875976,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12295187,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12295187,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026730038,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eater",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018499041,
+      "mentions": [
+        {
+          "text": {
+            "content": "eater",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016114235,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015918603,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015918603,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015647626,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014668509,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008927332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008412322,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007705578,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deworming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007705578,
+      "mentions": [
+        {
+          "text": {
+            "content": "deworming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007705578,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "n",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006912961,
+      "mentions": [
+        {
+          "text": {
+            "content": "n",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048658703,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003841995,
+      "mentions": [
+        {
+          "text": {
+            "content": "family pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.8,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

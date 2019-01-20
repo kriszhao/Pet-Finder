@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Now I only adopted one.but the one I adopted is missing it's daugther.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My financial cant support me to adopt two of them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If anyone can adopt Mother and Daugther, Please call me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.63226765,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daugther",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15131703,
+      "mentions": [
+        {
+          "text": {
+            "content": "daugther",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cant",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07805415,
+      "mentions": [
+        {
+          "text": {
+            "content": "cant",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "two",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0605264,
+      "mentions": [
+        {
+          "text": {
+            "content": "two",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Daugther",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030739615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daugther",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mother",
+        "mid": "/m/0lbxz"
+      },
+      "salience": 0.027020853,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02007429,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

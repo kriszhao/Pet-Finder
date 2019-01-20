@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Double is double sweet boy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Micheal substantially bullying him a lot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "But he dont care...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I gonna miss you Double....A",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41195145,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Double",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3046273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Double",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Micheal",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19348639,
+      "mentions": [
+        {
+          "text": {
+            "content": "Micheal",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037478007,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03427793,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "A",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018178921,
+      "mentions": [
+        {
+          "text": {
+            "content": "A",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

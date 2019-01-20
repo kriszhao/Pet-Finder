@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I rescue this kitty with his other 2brothers, one of the brothers died unfortunately few days after I brought them home due to severe lung infection.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He is the strongest one, very cute and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is ready for his new loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "You can contact me at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35923052,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26044145,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "2brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10517909,
+      "mentions": [
+        {
+          "text": {
+            "content": "2brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10517909,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07275755,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lung infection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07275755,
+      "mentions": [
+        {
+          "text": {
+            "content": "lung infection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02445474,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

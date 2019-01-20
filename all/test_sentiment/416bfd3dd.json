@@ -1,0 +1,177 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mylo was a stray kitten found near some mamak stalls.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's now a fully indoor kitten, after being lovingly cared for over the past 6 months.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She's vacc, dewormed and spayed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A very affectionate, playful and bright kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Will come with litter tray, and carry case.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mylo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8646587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mylo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mamak stalls",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.079768926,
+      "mentions": [
+        {
+          "text": {
+            "content": "mamak stalls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter tray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018796057,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter tray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "case",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013211619,
+      "mentions": [
+        {
+          "text": {
+            "content": "case",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013182304,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010382402,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

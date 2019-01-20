@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "May may is a very loving dog . .....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "love human....and friendly....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "i really sad to let her go because of work purpose...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "i wish she can have a good owner to take care of her.... she have a bit of skin allergic....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.59399444,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15528142,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love human",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09696771,
+      "mentions": [
+        {
+          "text": {
+            "content": "love human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work purpose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06639675,
+      "mentions": [
+        {
+          "text": {
+            "content": "work purpose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032276157,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031884294,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023199225,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

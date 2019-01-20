@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Princess is a very sweet and gentle lady, please find her a sweet home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I will pay for the vaccine and spaying fees.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me at Nancy",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.46461514,
+      "mentions": [
+        {
+          "text": {
+            "content": "lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Princess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34599465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13332786,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030175181,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01335035,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nancy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012536855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

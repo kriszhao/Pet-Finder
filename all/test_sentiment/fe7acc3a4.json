@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I have rescued and took care of the dog for some time.It is well trained and it is very friendly and lovely.It looks healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4342986,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27763554,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time.It",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17103742,
+      "mentions": [
+        {
+          "text": {
+            "content": "time.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lovely.It",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.117028415,
+      "mentions": [
+        {
+          "text": {
+            "content": "lovely.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

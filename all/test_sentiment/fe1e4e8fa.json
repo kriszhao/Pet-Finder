@@ -1,0 +1,230 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 Kittens (Male) &amp; Mother are available for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "All kittens are: Dewormed 2 time Vaccinated De-Flea The Mother: Dewormed Vaccinated De-Flea Spayed *The kittens haven't been spay or neuter because they are still too young.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "For viewing appointment, please contact Ms Nurul No adoption fee required.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2873125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27101484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11149962,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07295167,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058721907,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03785548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "De-Flea",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03785548,
+      "mentions": [
+        {
+          "text": {
+            "content": "De-Flea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "De-Flea",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03740041,
+      "mentions": [
+        {
+          "text": {
+            "content": "De-Flea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nurul No",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03599563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nurul No",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "viewing appointment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023026653,
+      "mentions": [
+        {
+          "text": {
+            "content": "viewing appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016163822,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neuter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01020198,
+      "mentions": [
+        {
+          "text": {
+            "content": "neuter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

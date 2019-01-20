@@ -1,0 +1,186 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm helping a friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She wants to give a mama cat and her two kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Cage will be provided.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I'm not sure about the details (vaccinated etc) but if you are interested, just text/whatsapp me and I'll forward you to her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "This lovely family lives in Subang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.849692,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035133466,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031230986,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031114697,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cage",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/06_4_k",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cage"
+      },
+      "salience": 0.018386876,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cage",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015921079,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009542153,
+      "mentions": [
+        {
+          "text": {
+            "content": "text",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008978736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

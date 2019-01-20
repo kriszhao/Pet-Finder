@@ -1,0 +1,314 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These are my second batch kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I'm putting them for adoption as I plan to spay the mommy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "These kittens have started to eat kitten biscuit and drink powder milk.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Kakak and Kochi are female, John and Gorgon are male.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "All of them are DMH except Gorgon which is DSH.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If you cannot adopt all, I hope you can adopt them as a pair.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "batch kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7546892,
+      "mentions": [
+        {
+          "text": {
+            "content": "batch kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030104712,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029387997,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027776413,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DMH",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02630778,
+      "mentions": [
+        {
+          "text": {
+            "content": "DMH",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019177606,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten biscuit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018937487,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten biscuit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "powder milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018937487,
+      "mentions": [
+        {
+          "text": {
+            "content": "powder milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018800413,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kochi",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0fl2s",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kochi"
+      },
+      "salience": 0.011184126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kochi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kakak",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sister",
+        "mid": "/g/1220qxds"
+      },
+      "salience": 0.010913226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kakak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gorgon",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gorgon",
+        "mid": "/m/0ky0v"
+      },
+      "salience": 0.0103191165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gorgon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gorgon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010015499,
+      "mentions": [
+        {
+          "text": {
+            "content": "John",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pair",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009116227,
+      "mentions": [
+        {
+          "text": {
+            "content": "pair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DSH",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00433269,
+      "mentions": [
+        {
+          "text": {
+            "content": "DSH",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

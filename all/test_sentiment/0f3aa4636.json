@@ -1,0 +1,258 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jay is a rescued kitten with an eye infection.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He has now fully recovered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Jay is super adorable, very playful and have a healthy appetite.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is a stealth kitten, hardly uttering any meow.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Haha!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He knows how to use the litter box.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Preference will be given to adopter who will spay him at six months; and also first come first serve.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I will not reserve him as I've another sick kitten (his sibling Pam, who has severe eye infection) to attend to.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly WATSAPP me at .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jay",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8109531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Jay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye infection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.088339545,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye infection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056835756,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sibling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Pam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010180249,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010106635,
+      "mentions": [
+        {
+          "text": {
+            "content": "meow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010019133,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Preference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007958074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Preference",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye infection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005607497,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye infection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "this is one of three abandoned kittens in my house that I found myself with when returning to Malaysia.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She is very affectionate and gentle mannered, a sleek and pretty little feline, all black with two white patches on the underbelly, and longish hair with a nice fluffy tail.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is a roamer now, but knows how to use a litter box and will easily adapt to an apartment environment as she is still quite young.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Does not bite or scratch, very easy to handle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "roamer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39123043,
+      "mentions": [
+        {
+          "text": {
+            "content": "roamer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31097397,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09841774,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09841774,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09pmkv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "salience": 0.02349373,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013130484,
+      "mentions": [
+        {
+          "text": {
+            "content": "patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "underbelly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013130484,
+      "mentions": [
+        {
+          "text": {
+            "content": "underbelly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013130484,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feline",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012971504,
+      "mentions": [
+        {
+          "text": {
+            "content": "feline",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012056826,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0090601565,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003986462,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

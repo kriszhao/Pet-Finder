@@ -1,0 +1,276 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mummy cat found pregnant rescued from a nearby shop lot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She gave birth at my house almost 2 months ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mummy will be neutered this Saturday.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Kittens are independent, can use the litter tray, have been dewormed &amp; can eat kibbles.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I am feeding them grain free kibbles.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They all have beautiful tiger stripes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please open your house to them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very affectionate and endearing.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mummy cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30147088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mummy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2188606,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2188606,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.048523992,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04271594,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.032427557,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030351214,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter tray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.029070515,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter tray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028371125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger stripes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019818494,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger stripes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mummy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0lbxz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mother"
+      },
+      "salience": 0.019458128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mummy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01007098,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

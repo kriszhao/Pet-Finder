@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A dog is in need of a home ASAP!Friendly and harmless!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.61433554,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1938678,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19179668,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

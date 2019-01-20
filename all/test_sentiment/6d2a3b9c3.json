@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Active and playful male dog for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Vaccinated 1st &amp; 2nd (10-in-1).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "RM to cover vaccination cost (nego).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41728106,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41728106,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nego",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07316325,
+      "mentions": [
+        {
+          "text": {
+            "content": "nego",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064843796,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02743082,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

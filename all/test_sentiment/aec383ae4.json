@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found kitty (mother cat)with 4 cute kittens. (2 ginger, 1 white, 1 tabby).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5285502,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21826695,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ginger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14317288,
+      "mentions": [
+        {
+          "text": {
+            "content": "ginger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabby",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.110009946,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

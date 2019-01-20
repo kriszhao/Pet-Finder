@@ -1,0 +1,514 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "hey guys, here is BATMAN. he enjoys the sweet tunes of ray charles and stevie wonder. he's just like any other kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "soft, furry and really playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "he has a small disadvantage that he doesn't like to admit though, Batman is blind.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He was born without an eye in one socket and is blind in the other.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "But his disability is not apparent at all unless mentioned.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He loves chasing toy mice, newspaper balls and the back of your heels.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "After a hard day at play, he likes to cuddle up and fall fast asleep.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He likes nothing more than a safe haven where he can live and be loved.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me if you're interested in fulfilling BATMAN's wishes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "ps: His disability does not pose any hinderance to his well-being, he gets along just fine, hardly bumping into anything as if he has sight because he IS BATMAN.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "please, only serious and true animal lovers consider his adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "BATMAN.",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/01d5g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Batman"
+      },
+      "salience": 0.20853227,
+      "mentions": [
+        {
+          "text": {
+            "content": "BATMAN.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "BATMAN",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "BATMAN",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Batman",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tunes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.101060316,
+      "mentions": [
+        {
+          "text": {
+            "content": "tunes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ray charles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.101060316,
+      "mentions": [
+        {
+          "text": {
+            "content": "ray charles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stevie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.101060316,
+      "mentions": [
+        {
+          "text": {
+            "content": "stevie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.101060316,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.101060316,
+      "mentions": [
+        {
+          "text": {
+            "content": "guys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disability",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08736409,
+      "mentions": [
+        {
+          "text": {
+            "content": "disability",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "disability",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disadvantage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023352752,
+      "mentions": [
+        {
+          "text": {
+            "content": "disadvantage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014351769,
+      "mentions": [
+        {
+          "text": {
+            "content": "other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "newspaper balls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012703655,
+      "mentions": [
+        {
+          "text": {
+            "content": "newspaper balls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012703655,
+      "mentions": [
+        {
+          "text": {
+            "content": "heels",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012703655,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy mice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012703655,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy mice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "socket",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012611349,
+      "mentions": [
+        {
+          "text": {
+            "content": "socket",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012611349,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "play",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011636204,
+      "mentions": [
+        {
+          "text": {
+            "content": "play",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "haven",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009806009,
+      "mentions": [
+        {
+          "text": {
+            "content": "haven",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hinderance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008735377,
+      "mentions": [
+        {
+          "text": {
+            "content": "hinderance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "well-being",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008735377,
+      "mentions": [
+        {
+          "text": {
+            "content": "well-being",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00611675,
+      "mentions": [
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00611675,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006109588,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006109588,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wishes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038381927,
+      "mentions": [
+        {
+          "text": {
+            "content": "wishes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6.1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

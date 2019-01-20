@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Pup was born on 8.8. ** ref Popi pup pup post",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Pup",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7626717,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pup",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pup pup post",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17121737,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup pup post",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Popi",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.066110946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Popi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

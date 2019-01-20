@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found by my daughter in a bush, we have kept her until we could get her neutered, but my husband and son are allergic to cats so we can't keep her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is a beautiful and loving cat who loves to have her tummy rubbed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Great with my children, not timid and great fun!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "daughter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7036969,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bush",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14024703,
+      "mentions": [
+        {
+          "text": {
+            "content": "bush",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03844945,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03844945,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037083894,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012925578,
+      "mentions": [
+        {
+          "text": {
+            "content": "tummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012861652,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009017998,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072680633,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

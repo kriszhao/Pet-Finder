@@ -1,0 +1,313 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "5 puppies with their mommy was found at the park in front of my house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "1 of the pup (Champ) had a wound around the back legs, but is now all healed up after treatment at the vet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "All 5 pups have been brought to the vet (Hands and Paws at Aman Suria) for a full checkup, dewormed and given mange treatment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39639038,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17522366,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06984591,
+      "mentions": [
+        {
+          "text": {
+            "content": "park",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06984591,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06984591,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024408069,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.024408069,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023377612,
+      "mentions": [
+        {
+          "text": {
+            "content": "back legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023094561,
+      "mentions": [
+        {
+          "text": {
+            "content": "wound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Champ",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023094561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Champ",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023094561,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Paws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01613077,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paws",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mange treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012870365,
+      "mentions": [
+        {
+          "text": {
+            "content": "mange treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012324111,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "checkup",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.011311459,
+      "mentions": [
+        {
+          "text": {
+            "content": "checkup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aman Suria",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009558634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aman Suria",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008077932,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070975265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

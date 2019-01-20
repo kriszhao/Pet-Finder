@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rescued.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you wanna see more pictures, whatsapp the contact no given.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks.. ;)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pictures",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.5112653,
+      "mentions": [
+        {
+          "text": {
+            "content": "pictures",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3371723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15156241,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

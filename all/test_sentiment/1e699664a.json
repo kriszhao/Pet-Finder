@@ -1,0 +1,271 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Prince has flip flop ears!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "One droopy and one raised and this makes him special :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Very alert to his surroundings and will make a good guard dog and companion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Note: For serious adopter only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Questions will be asked to ensure the puppy gets a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "INTERESTED ADOPTER/S: PLEASE TAKE NOTE THAT PUPPY IS BEING FOSTERED AT PUCHONG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Prince",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.63099384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prince",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "flip flop ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17261873,
+      "mentions": [
+        {
+          "text": {
+            "content": "flip flop ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTER/S",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031642564,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTER/S",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026305867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023225322,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surroundings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022944674,
+      "mentions": [
+        {
+          "text": {
+            "content": "surroundings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Questions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021197535,
+      "mentions": [
+        {
+          "text": {
+            "content": "Questions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018429315,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NOTE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01817252,
+      "mentions": [
+        {
+          "text": {
+            "content": "NOTE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PUPPY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012753122,
+      "mentions": [
+        {
+          "text": {
+            "content": "PUPPY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008025488,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007052038,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PUCHONG",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cxff7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Puchong"
+      },
+      "salience": 0.0066389698,
+      "mentions": [
+        {
+          "text": {
+            "content": "PUCHONG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

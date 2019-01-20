@@ -1,0 +1,352 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "&quot;Mitch is a super friendly, extremely gentle dog who's bursting with energy!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Like any wolf he needs lots of exercise and play time, otherwise he will get up to mischief!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He needs to be PART OF THE PACK, spending time with you and getting lots of love and attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mitch can live with other dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "When he gets attached to you, he will play-bite, which will not hurt anyone but may mean he isn't suitable for small children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He needs to get LOTS of exercise!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "&quot;",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mitch",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.63505816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mitch",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mitch",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.110154256,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "LOTS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09008253,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "energy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027997058,
+      "mentions": [
+        {
+          "text": {
+            "content": "energy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "play-bite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025154468,
+      "mentions": [
+        {
+          "text": {
+            "content": "play-bite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exercise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015434983,
+      "mentions": [
+        {
+          "text": {
+            "content": "exercise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wolf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013575244,
+      "mentions": [
+        {
+          "text": {
+            "content": "wolf",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011530553,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PART",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011387611,
+      "mentions": [
+        {
+          "text": {
+            "content": "PART",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PACK",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00925164,
+      "mentions": [
+        {
+          "text": {
+            "content": "PACK",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mischief",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009184618,
+      "mentions": [
+        {
+          "text": {
+            "content": "mischief",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0084924,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0084924,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008462557,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006213459,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exercise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0050664586,
+      "mentions": [
+        {
+          "text": {
+            "content": "exercise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044615837,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

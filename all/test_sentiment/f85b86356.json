@@ -1,0 +1,502 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm looking for forever homes for two lovable and mild tempered male Siamese-mix cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They were left in our apartment building and even though we placed posters of them around the neighbourhood no owners have come forward to claim them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "We've named them Angus and Argus in the meantime and they are brothers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Angus fell from a balcony on the third floor and has a slight fracture on his paw.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We've taken him to the vet and he's currently being treated for it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He's a real trooper and is on the road to recovery.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Argus on the other hand is fit and ready to be rehomed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Both these darling boys are very manja and enjoy lots of tender loving care.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They are also litter trained, used to cat carriers and visits to the vet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Angus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3843037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Angus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Angus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "trooper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09876479,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08946353,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08946353,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "posters",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06292693,
+      "mentions": [
+        {
+          "text": {
+            "content": "posters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05513799,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Siamese",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g_3r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Siamese_cat"
+      },
+      "salience": 0.05367436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Siamese",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "apartment building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016722117,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016722117,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "darling boys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015126768,
+      "mentions": [
+        {
+          "text": {
+            "content": "darling boys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011814123,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011343125,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fracture",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011343125,
+      "mentions": [
+        {
+          "text": {
+            "content": "fracture",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "balcony",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011343125,
+      "mentions": [
+        {
+          "text": {
+            "content": "balcony",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meantime",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011244501,
+      "mentions": [
+        {
+          "text": {
+            "content": "meantime",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010410136,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Argus",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009789185,
+      "mentions": [
+        {
+          "text": {
+            "content": "Argus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Argus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075949193,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0061959107,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054509854,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat carriers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005443101,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat carriers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visits",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005443101,
+      "mentions": [
+        {
+          "text": {
+            "content": "visits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034284424,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recovery",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0034284424,
+      "mentions": [
+        {
+          "text": {
+            "content": "recovery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034219478,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

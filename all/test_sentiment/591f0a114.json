@@ -1,0 +1,225 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Titu is sweet girl who loves human company.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is gentle and friendly and mischievous.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is not choosy when it comes to food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She eats any brand kibbler.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am currently feeding her prostar and Blackwood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am giving her away due to my moving off to a high rise next year.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pleaseeeeee help!!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Titu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8327127,
+      "mentions": [
+        {
+          "text": {
+            "content": "Titu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10355734,
+      "mentions": [
+        {
+          "text": {
+            "content": "human company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012995502,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brand kibbler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0129500395,
+      "mentions": [
+        {
+          "text": {
+            "content": "brand kibbler",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "prostar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011858733,
+      "mentions": [
+        {
+          "text": {
+            "content": "prostar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008935385,
+      "mentions": [
+        {
+          "text": {
+            "content": "rise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blackwood",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007034164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackwood",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062538595,
+      "mentions": [
+        {
+          "text": {
+            "content": "help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pleaseeeeee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037022822,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pleaseeeeee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

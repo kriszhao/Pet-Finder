@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Serious pet lovers only.Must have time to take care of it.Must have a house and enough space for it to play.It is a friendly playful dog.phots will be uploaded soon..you can collect him in puchong",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pet lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3647596,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.27528566,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14717263,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090218335,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "play.It",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04984631,
+      "mentions": [
+        {
+          "text": {
+            "content": "play.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puchong",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.044582356,
+      "mentions": [
+        {
+          "text": {
+            "content": "puchong",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog.phots",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0281351,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog.phots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

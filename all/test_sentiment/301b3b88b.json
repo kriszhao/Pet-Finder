@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Call Selangor @ for details of this dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Playful but not guard dog material.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Selangor @",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41260934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor @",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28545716,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22925404,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog material",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07267947,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog material",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

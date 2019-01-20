@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "% toilet trained Know basic commands like Sit, Stay, Down, Roll, Come here, “NO”, etc. (well trained) Prefer to have them placed in the same home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Prefer to meet potential owners first.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please call9 for further information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37334645,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29756418,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sit",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0748502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sit",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Down",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0748502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Down",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "NO",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05169009,
+      "mentions": [
+        {
+          "text": {
+            "content": "NO",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Roll",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05107301,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roll",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029311262,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02682126,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020493338,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

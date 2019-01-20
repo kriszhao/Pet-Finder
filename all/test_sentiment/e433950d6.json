@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Unexpected birth.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Mother cute and lovable, good guard dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "1 male 2 female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "will spay and neuter accordingly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Selangor, for adoption arrangement please call/",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.5021344,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2743405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07786037,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07731284,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption arrangement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054086693,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption arrangement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.014265184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

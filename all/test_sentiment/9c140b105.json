@@ -1,0 +1,163 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Nyonya and Raccoon are almost identical, the only difference at this point in time in the length of their tails and the markings on their foreheads.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They are both active and enjoy exploring their surroundings and doing acrobatic activities!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "difference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5926961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nyonya",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "difference",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11501986,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Raccoon",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0dq75",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Raccoon"
+      },
+      "salience": 0.112529926,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raccoon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "length",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051392473,
+      "mentions": [
+        {
+          "text": {
+            "content": "length",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tails",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051392473,
+      "mentions": [
+        {
+          "text": {
+            "content": "tails",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foreheads",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047285583,
+      "mentions": [
+        {
+          "text": {
+            "content": "foreheads",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surroundings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017438795,
+      "mentions": [
+        {
+          "text": {
+            "content": "surroundings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "activities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012244806,
+      "mentions": [
+        {
+          "text": {
+            "content": "activities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

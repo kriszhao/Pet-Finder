@@ -1,0 +1,791 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "**She is survivor from a car accident, that's why her jaw looks weird.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Cat adoption requirements:-  The cat should be an INDOOR cat ONLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Access to the outdoors is dangerous for the cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": " The cat should be treated as a family member with loving care and affection.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "There should not have any physical, mental, or emotional abuse of the cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": " Adopter should provide all required and/or needed veterinary care, including: vaccinations and fecal checks as recommended by the veterinarian; and prompt treatment by a licensed veterinarian for any illness or injury.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": " If not already done, adopter should have the cat spayed/neutered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": " Adopter must agree not to sell or give this animal to any person, company, organization or animal shelter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If an alternative home becomes necessary for the animal, adopter required to contact the rescuer.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter also be required to care for the cat until a foster home becomes available.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": " For the cat’s safety, adopter should make sure that the cat will be carried in a cat carrier any time it is transported.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": " Adopter should not keep the cat confined to a room or small area for long periods of time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "At last, please consider seriously while this is a family member that need your care for years.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37300602,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "survivor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24291213,
+      "mentions": [
+        {
+          "text": {
+            "content": "survivor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1094486,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04185862,
+      "mentions": [
+        {
+          "text": {
+            "content": "car accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04086907,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cat adoption requirements",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020375526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat adoption requirements",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": " Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012680107,
+      "mentions": [
+        {
+          "text": {
+            "content": " Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": " Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family member",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011195723,
+      "mentions": [
+        {
+          "text": {
+            "content": "family member",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0096048275,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Access",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009288793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Access",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family member",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008764598,
+      "mentions": [
+        {
+          "text": {
+            "content": "family member",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outdoors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007730184,
+      "mentions": [
+        {
+          "text": {
+            "content": "outdoors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "affection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077029867,
+      "mentions": [
+        {
+          "text": {
+            "content": "affection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "veterinarian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059645376,
+      "mentions": [
+        {
+          "text": {
+            "content": "veterinarian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "veterinarian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059645376,
+      "mentions": [
+        {
+          "text": {
+            "content": "veterinarian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005446503,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052408343,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "illness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052408343,
+      "mentions": [
+        {
+          "text": {
+            "content": "illness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052408343,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "checks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005176905,
+      "mentions": [
+        {
+          "text": {
+            "content": "checks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051252097,
+      "mentions": [
+        {
+          "text": {
+            "content": "abuse",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004930187,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047923685,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0047923685,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "organization",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0047923685,
+      "mentions": [
+        {
+          "text": {
+            "content": "organization",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal shelter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047923685,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": " Adopter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0045834268,
+      "mentions": [
+        {
+          "text": {
+            "content": " Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004563918,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat carrier",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0035988784,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat carrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "safety",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035988784,
+      "mentions": [
+        {
+          "text": {
+            "content": "safety",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034518808,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028728405,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002674724,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002517039,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002517039,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019756802,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017996677,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015827963,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013262002,
+      "mentions": [
+        {
+          "text": {
+            "content": "",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

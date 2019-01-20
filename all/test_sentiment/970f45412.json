@@ -1,0 +1,204 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A good tempered mother dog with two cute puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Rescued from Tanjung Malim and now are fostered in Seremban.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Puppies were born on 14/5/ evening.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Rescuer cannot foster them too long because the dogs are not getting along well with the ones at her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please help. :'(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mother dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3498089,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18623805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1640685,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12756473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tanjung Malim",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/064pm0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tanjung_Malim"
+      },
+      "salience": 0.04299577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tanjung Malim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04198983,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034168765,
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Seremban",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0371_6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seremban"
+      },
+      "salience": 0.02915838,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seremban",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024007073,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

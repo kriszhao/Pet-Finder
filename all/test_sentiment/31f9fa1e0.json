@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 stray dogs found nearby our office (in Taman Shamelin Perkasa, KL).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Quite in healthy condition, quiet and friendly dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6055212,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "office",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.18301174,
+      "mentions": [
+        {
+          "text": {
+            "content": "office",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taman Shamelin Perkasa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1v2ywcvs"
+      },
+      "salience": 0.07804146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Shamelin Perkasa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.07804146,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035631187,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01975293,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

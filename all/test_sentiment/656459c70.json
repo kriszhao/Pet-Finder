@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I like to play wif my other sista, I'm adorable, lovely, playful and sometime mummy say I'm notty too!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please feel free to visit me at my fosterer place!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "wooff!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "wooff!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "sista",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6683288,
+      "mentions": [
+        {
+          "text": {
+            "content": "sista",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17154339,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16012777,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

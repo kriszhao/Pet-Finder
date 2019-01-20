@@ -1,0 +1,146 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Smiley is a very happy and cheerful young cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She was here for a couple of weeks and still waiting for the right person to come for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Are you the one?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If you are, she is waiting for you at Ampang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Smiley",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Smiley",
+        "mid": "/m/06n05"
+      },
+      "salience": 0.44655332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smiley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31304696,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1008219,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08309587,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03236583,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ampang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024116106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ampang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

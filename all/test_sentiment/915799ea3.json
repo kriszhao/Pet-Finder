@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "my owner dumped me and just left me infront of my rescuer home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "my my rescuer cannot keep me.please take me back home i need a loving family",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.56873685,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16063653,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "infront",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1162728,
+      "mentions": [
+        {
+          "text": {
+            "content": "infront",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06735718,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054413803,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0325828,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.4
+  },
+  "language": "en",
+  "categories": []
+}

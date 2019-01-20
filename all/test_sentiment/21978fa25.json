@@ -1,0 +1,221 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hyperactive, very playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If you can give this boy a loving home, please contact me via Whatsapp.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please consider the responsibilities of being a pet owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "It is life-time commitment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Animals are not toys.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They have feelings too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29941136,
+      "mentions": [
+        {
+          "text": {
+            "content": "commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16210227,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "responsibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.109605014,
+      "mentions": [
+        {
+          "text": {
+            "content": "responsibilities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1006834,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.09531736,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.083301075,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.064700715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "feelings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052338406,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03254041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

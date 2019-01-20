@@ -1,0 +1,235 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This dog is believed to have been abandoned.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She has a collar but has been hanging around with the stray dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She knows simple command like 'sit' and 'shake hands'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Reason for URGENT ADOPTION: someone filed a complaint to DBKL about the stray dogs and the dogs must be removed immediately.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39192456,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27129686,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.07226539,
+      "mentions": [
+        {
+          "text": {
+            "content": "collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049428042,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049428042,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045400612,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045242205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "complaint",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024592226,
+      "mentions": [
+        {
+          "text": {
+            "content": "complaint",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cnp39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall"
+      },
+      "salience": 0.02028523,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTION",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015068419,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTION",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015068419,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

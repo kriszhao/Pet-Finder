@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My coat are super shiny and fine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Friendly and alert.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Perfect as a house pet..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8036981,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alert",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12774172,
+      "mentions": [
+        {
+          "text": {
+            "content": "alert",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068560176,
+      "mentions": [
+        {
+          "text": {
+            "content": "house pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

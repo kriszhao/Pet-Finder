@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Very adorable doggie.. conditions for adoption must adopt together with Mei.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3657539,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26167005,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2587943,
+      "mentions": [
+        {
+          "text": {
+            "content": "conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11378172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mei",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,96 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Omaha is a slightly goofy and plenty lovable pup!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He loves to run and play in the Adventure Park, and will do well in a family who can exercise him often!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Omaha",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0chrx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Omaha,_Nebraska"
+      },
+      "salience": 0.46034673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Omaha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3299582,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15899298,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adventure Park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05070211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adventure Park",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

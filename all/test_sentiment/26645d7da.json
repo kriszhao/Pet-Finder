@@ -1,0 +1,465 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My dog, Yang Yang is a terrier mix, 6 years old, male, medium size and around 10kg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Due to having no place to stay, he has to urgently move out from his current place within this 7 days.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I really hope a dog lover can adopt him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Previously, Yang Yang was staying with us, but he was a little aggressive and there was a newborn baby in our household, so we were not able to keep him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "For the past few months, he has been staying at my friend's hostel and behaves very well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately, they have to move out very soon, and we have to urgently find him a new home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is not too friendly at first, but will warm up once he is familiar with the person.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Below is a blood test report of him, he is healthy but has heartworm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He loves eating, especially fruits, chicken, bones and snacks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He will love and care for you affectionately once he is familiar with you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Loves running and playing!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Hope a dog lover can adopt him~",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Yang Yang",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/011smb7x",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Yang_Yang_(actor)"
+      },
+      "salience": 0.74198854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yang Yang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Yang Yang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "terrier mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16394602,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "terrier mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029757673,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068763243,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006306571,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006306571,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005337027,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004197953,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "household",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037592992,
+      "mentions": [
+        {
+          "text": {
+            "content": "household",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hostel",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003749024,
+      "mentions": [
+        {
+          "text": {
+            "content": "hostel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003749024,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Loves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036686559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eating",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027386087,
+      "mentions": [
+        {
+          "text": {
+            "content": "eating",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heartworm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002579231,
+      "mentions": [
+        {
+          "text": {
+            "content": "heartworm",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fruits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025755025,
+      "mentions": [
+        {
+          "text": {
+            "content": "fruits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chicken",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025755025,
+      "mentions": [
+        {
+          "text": {
+            "content": "chicken",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025755025,
+      "mentions": [
+        {
+          "text": {
+            "content": "bones",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "snacks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025755025,
+      "mentions": [
+        {
+          "text": {
+            "content": "snacks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002242628,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood test report",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0013611523,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood test report",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001133673,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

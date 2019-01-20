@@ -1,0 +1,185 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ruby is 9 years old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very good watch dog and very loyal.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "No complications, she likes to gives you a pathetic look ......so you tend to give her more food as a reward.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "That's why she's a little chubby!! :p",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I am going overseas to study and I can't bring Ruby with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please provide a loving home for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ruby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.76453197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ruby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ruby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "watch dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11613578,
+      "mentions": [
+        {
+          "text": {
+            "content": "watch dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reward",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030876119,
+      "mentions": [
+        {
+          "text": {
+            "content": "reward",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "complications",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030133817,
+      "mentions": [
+        {
+          "text": {
+            "content": "complications",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02361605,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023329632,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011376621,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

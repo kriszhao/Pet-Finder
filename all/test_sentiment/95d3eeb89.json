@@ -1,0 +1,342 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We adopted Xiao Hua from SPCA Penang, she is very active and smart, very good guard dog!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Her fur is special in a way.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Our house is located right beside main road (everyday heavy traffic).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She hates cats, each time when she was released, she would ran over the road, she got involved with an accident last year, suffered minor injuries, motorcyclist was injured too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Due to this situation, we are forced to tie her up since then, we reallt feel bad that she loose freedom, we sincerely trying to relocate her to a new home and new master, she needs to stay at a place which has no heavy trafic roads.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Xiao Hua",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5776165,
+      "mentions": [
+        {
+          "text": {
+            "content": "Xiao Hua",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0814198,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11b61qy6zc"
+      },
+      "salience": 0.06968323,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057332277,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026181482,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021804273,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021696614,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021349976,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motorcyclist",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015166729,
+      "mentions": [
+        {
+          "text": {
+            "content": "motorcyclist",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0147998985,
+      "mentions": [
+        {
+          "text": {
+            "content": "accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traffic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014671389,
+      "mentions": [
+        {
+          "text": {
+            "content": "traffic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014619803,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injuries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01358408,
+      "mentions": [
+        {
+          "text": {
+            "content": "injuries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013547001,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010218807,
+      "mentions": [
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010218807,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roads",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0089310445,
+      "mentions": [
+        {
+          "text": {
+            "content": "roads",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007158304,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

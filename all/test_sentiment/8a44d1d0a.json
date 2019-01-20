@@ -1,0 +1,308 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dear dog lovers, please HELP!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I am an abondoned cute puppy urgently seeking a kind master to shower me with love.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The last resort for me is to go SPCA PJ tommorrow.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "There are too many other animals having the similar fate like me there, and only the strong ones will survive.Those older, weaker and sick one will be put into sleep.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I wish to grow up heathily and see this beautiful world for many years to come.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Appreciate your kindness to adopt me and provide me a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am an intelligent puppy and i will be very obedient, pls adopt me!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.44491893,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20526156,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17724104,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "resort",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025406938,
+      "mentions": [
+        {
+          "text": {
+            "content": "resort",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024185264,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02127236,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014448195,
+      "mentions": [
+        {
+          "text": {
+            "content": "fate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014448195,
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01392779,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013262758,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013262758,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kindness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011611581,
+      "mentions": [
+        {
+          "text": {
+            "content": "kindness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA PJ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008486351,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0076033757,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0046629077,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

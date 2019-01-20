@@ -1,0 +1,113 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This kitten was found in the car engine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Showered, dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Strongly advise to neuter him once reach 6months.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Location JB",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6921869,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car engine",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.22030407,
+      "mentions": [
+        {
+          "text": {
+            "content": "car engine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054834437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "JB",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03267462,
+      "mentions": [
+        {
+          "text": {
+            "content": "JB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

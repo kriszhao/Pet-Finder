@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bibi is adorable&amp; well train in looking after a shop",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bibi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.78020364,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bibi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.21979637,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

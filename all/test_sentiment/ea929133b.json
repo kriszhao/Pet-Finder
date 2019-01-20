@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Two male rescue kittens- extremely affectionate, very purry, great with kids!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They are about 9 weeks old and ready for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They are litter trained and have been dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please let me know if you need more info or photos.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "------------- We are a rescue family!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Our goal is to help at least 50 cats while we are in Malaysia.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Rescue record to date...23 fur balls saved!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "rescue kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.71816915,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089149214,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02951369,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02936835,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.027202992,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023214495,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020444235,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rescue record",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014310699,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescue record",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur balls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014310699,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur balls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09pmkv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "salience": 0.012116438,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rescue family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011384646,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "goal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010815415,
+      "mentions": [
+        {
+          "text": {
+            "content": "goal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

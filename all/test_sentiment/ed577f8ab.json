@@ -1,0 +1,303 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I have a 11 months old Jack Russell Terrier looking for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Its killing me and my wife to have to give her away since we deliver her and raise till now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "But we have no choice since she and her siblings are trying to kill each other, we've tried many methods including training centre, still doest work :(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "We DO NOT BREED HER ON PURPOSE, its just an accident when we send our daughter nana to boarding, the pet shop put her together with another male dog not knowing she was on heat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact if you are fully ready and are really a dog lover",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "wife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.514816,
+      "mentions": [
+        {
+          "text": {
+            "content": "wife",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16782142,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jack Russell Terrier",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.099906385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Russell Terrier",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PURPOSE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039162938,
+      "mentions": [
+        {
+          "text": {
+            "content": "PURPOSE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021550136,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021287905,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021028847,
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "methods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019301115,
+      "mentions": [
+        {
+          "text": {
+            "content": "methods",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet shop",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017437229,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016919702,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014867932,
+      "mentions": [
+        {
+          "text": {
+            "content": "heat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training centre",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.013197752,
+      "mentions": [
+        {
+          "text": {
+            "content": "training centre",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013115276,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0065291333,
+      "mentions": [
+        {
+          "text": {
+            "content": "accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daughter nana",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065291333,
+      "mentions": [
+        {
+          "text": {
+            "content": "daughter nana",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boarding",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0065291333,
+      "mentions": [
+        {
+          "text": {
+            "content": "boarding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

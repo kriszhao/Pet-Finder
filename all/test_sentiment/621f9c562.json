@@ -1,0 +1,134 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This Sweet Pie was rescued recently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is very chubby &amp; absolutely adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pls call if you are able to provide her a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Location: Butterworth, Penang",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sweet Pie",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.7058051,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweet Pie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.112940915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08683124,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Butterworth",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03sqpj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Butterworth,_Penang"
+      },
+      "salience": 0.047211356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butterworth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.047211356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,330 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm one handsome boy name Bart as in Bart Simpson...but honestly I'm more handsome.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Getting very well with human and even 4 legs like me..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I'm the clown in my pack.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Don't judge me wrong I'm a smart dog who learned new trick in just a nick of time..provided with endless belly rub and food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Treats my biggest motivation ..I need a home a forever home and I'll shower you back with biggest heart I have .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "To love and protect you till my last breath.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "clown",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.40032923,
+      "mentions": [
+        {
+          "text": {
+            "content": "clown",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bart Simpson",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0h6cb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bart_Simpson"
+      },
+      "salience": 0.36736828,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Bart",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bart Simpson",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11313001,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020332573,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013751836,
+      "mentions": [
+        {
+          "text": {
+            "content": "legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pack",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013683764,
+      "mentions": [
+        {
+          "text": {
+            "content": "pack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012670021,
+      "mentions": [
+        {
+          "text": {
+            "content": "trick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012670021,
+      "mentions": [
+        {
+          "text": {
+            "content": "nick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009532059,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009532059,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066628535,
+      "mentions": [
+        {
+          "text": {
+            "content": "breath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly rub",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041980487,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly rub",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041980487,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Treats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004186548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Treats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motivation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004186548,
+      "mentions": [
+        {
+          "text": {
+            "content": "motivation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0035681005,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,553 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hey guys!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I’m lending a hand to help a friend who needs someone who can adopt both of the furkids above!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My friend is having a baby and is living in an apartment hence the limited space with a newborn coming on the way, she had no choice but to give up both her babies for adoption with a heavy heart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Thus our only criteria is the following:- - we hope both the dogs can be adopted together so that they’ll still have each other!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "- update us of the furkids situation once in awhile (pics via whatsapp) For serious adopter only *please Drop me a comment here or if you can view my email address/ contact number, feel free to reach to me in your convenient ways if you are keen to have them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Note: I would've taken this two cuties if I haven't already owned 7 dogs myself xD",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24119803,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11556539,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guys",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11084201,
+      "mentions": [
+        {
+          "text": {
+            "content": "guys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06136472,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "furkids",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06136472,
+      "mentions": [
+        {
+          "text": {
+            "content": "furkids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054004557,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037058838,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02332384,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020499738,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020499738,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020499738,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "newborn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020499738,
+      "mentions": [
+        {
+          "text": {
+            "content": "newborn",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "criteria",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01679064,
+      "mentions": [
+        {
+          "text": {
+            "content": "criteria",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015759194,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014018423,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "following",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013969027,
+      "mentions": [
+        {
+          "text": {
+            "content": "following",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013847467,
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013847467,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pics",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012784069,
+      "mentions": [
+        {
+          "text": {
+            "content": "pics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "awhile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012784069,
+      "mentions": [
+        {
+          "text": {
+            "content": "awhile",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "furkids situation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012784069,
+      "mentions": [
+        {
+          "text": {
+            "content": "furkids situation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012662748,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010570044,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009638506,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "email address",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009638506,
+      "mentions": [
+        {
+          "text": {
+            "content": "email address",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009638506,
+      "mentions": [
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077085923,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007665327,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006733599,
+      "mentions": [
+        {
+          "text": {
+            "content": "Note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004229017,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "comment",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.004229017,
+      "mentions": [
+        {
+          "text": {
+            "content": "comment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "xD",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.003980649,
+      "mentions": [
+        {
+          "text": {
+            "content": "xD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

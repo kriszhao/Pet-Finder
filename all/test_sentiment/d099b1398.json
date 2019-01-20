@@ -1,0 +1,74 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "found this puppy in Skudai, Johor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6266458,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Skudai",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/058z21",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Skudai"
+      },
+      "salience": 0.2826942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Skudai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Johor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jng9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor"
+      },
+      "salience": 0.09066003,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

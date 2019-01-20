@@ -1,0 +1,597 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm Emilie Bobbi Brown.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I got these names while I was wandering at the street and my current fosterer composed them into my name.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I used to hide under cars for shade, had some conversation with neighbours' dogs, begging for food and water.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It was the first time a human touched me and I never felt such warmth in my life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I followed her home and she offered me some food, shelter and company.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "***** We found Emilie wandering around the neighbourhood and her origin is unknown, suspecting it is another abandon case.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She still has trust in human and is approachable at that time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "We took her in and spayed her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We realized Emilie is a very loyal one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She waits for us every evening, and greet us gently when we arrived home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is a timid dog, but we can see she has her mischievous side when she got a toy to play with.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Currently, she is recovered from spaying and is ready to be adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Emilie Bobbi Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.68440473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emilie Bobbi Brown",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Emilie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Emilie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0613198,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "names",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042048037,
+      "mentions": [
+        {
+          "text": {
+            "content": "names",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021160813,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021160813,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019206315,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "warmth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010986183,
+      "mentions": [
+        {
+          "text": {
+            "content": "warmth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009168852,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbours",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009123411,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbours",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009123411,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008017464,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008017464,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conversation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008017464,
+      "mentions": [
+        {
+          "text": {
+            "content": "conversation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shade",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008017464,
+      "mentions": [
+        {
+          "text": {
+            "content": "shade",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008017464,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abandon case",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006374487,
+      "mentions": [
+        {
+          "text": {
+            "content": "abandon case",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006185055,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060485825,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "origin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059950333,
+      "mentions": [
+        {
+          "text": {
+            "content": "origin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005665014,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0054463623,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0054463623,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005394653,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053142277,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trust",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049770945,
+      "mentions": [
+        {
+          "text": {
+            "content": "trust",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004770462,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0037353816,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002611948,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002609154,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0016365141,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

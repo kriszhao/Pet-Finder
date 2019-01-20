@@ -1,0 +1,201 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Last week, 5 puppies (&gt; 6 weeks old est) was rescued from a drain near Bukit Raja.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Currently looking for someone who can adopt them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I have detick them are currently in good condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Taking care all 5 of them a bit difficult since they started to fight each other.Hope to get them adopted soon or please advice what will be the best thing to do since not able to keep them for longer period. :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "The puppies has not been dewormed ,vaccinated or neutered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4368717,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15580374,
+      "mentions": [
+        {
+          "text": {
+            "content": "drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12955555,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Raja",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0dsjjy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Raja"
+      },
+      "salience": 0.0934516,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Raja",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05202603,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05184426,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "other.Hope",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032322727,
+      "mentions": [
+        {
+          "text": {
+            "content": "other.Hope",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02862164,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019502735,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

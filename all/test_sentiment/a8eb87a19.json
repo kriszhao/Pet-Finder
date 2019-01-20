@@ -1,0 +1,254 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This little kitten was rescued from the streets on 8 May in the middle of the night.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was wandering aimlessly and I rescued it for fear that it would be run over by cars.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It has been dewormed but it cannot be vaccinated yet until it is 9weeks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It is now at a shelter nearby Teluk Bahang, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Interested adopters will have to personally check her out there, she is waiting for you!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me if you are interested!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is such an adorable kitten that she deserves a loving family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2918929,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25847542,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1348313,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10145839,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.087027855,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.033321608,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030703316,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Teluk Bahang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_f2x",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Teluk_Bahang"
+      },
+      "salience": 0.018189628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teluk Bahang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.018189628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016124401,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009785583,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

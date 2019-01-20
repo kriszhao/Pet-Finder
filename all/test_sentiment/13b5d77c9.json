@@ -1,0 +1,146 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The same family with Maomao, Ma kun and Mei chan .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Friendly, playful and love to follow the owner .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Will jump to u when saw u lying on sofa...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They totally look alike ...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43434536,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maomao",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27597678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maomao",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ma kun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11188961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ma kun",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mei chan",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mey_Chan",
+        "mid": "/g/11c1nxctv9"
+      },
+      "salience": 0.07654328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mei chan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057427704,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sofa",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.043817263,
+      "mentions": [
+        {
+          "text": {
+            "content": "sofa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

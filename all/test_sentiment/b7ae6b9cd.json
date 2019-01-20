@@ -1,0 +1,257 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "GSD is very beautiful and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Doberman is a very good guard dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Both of them staying together since puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hope can adopt them together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I prefer the person from Penang .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Incase, there is no one to adopt them, I will put them down until end of this month.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I love them very much, cause of I need to migrate, I need experience owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "GSD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0km5c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd"
+      },
+      "salience": 0.31728578,
+      "mentions": [
+        {
+          "text": {
+            "content": "GSD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Doberman",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/06pq2r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dobermann"
+      },
+      "salience": 0.1566032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doberman",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10748762,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08394756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066882856,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057211656,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056871362,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hope",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05667217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hope",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03949542,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.03393382,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "experience owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023608565,
+      "mentions": [
+        {
+          "text": {
+            "content": "experience owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

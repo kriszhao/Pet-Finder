@@ -1,0 +1,315 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Poopie is an indoor cat and requires lots of love and attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He knows a few tricks like rolling over and blinking on demand etc.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is a heavy purrer and loves to cuddle but he is not a lap cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He is healthy, has his medical book.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He gets his nails cut every 2 weeks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My job requires me to travel a lot and I am finding it difficult to take care of poops.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I am looking for a genuine cat lover who can adopt him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Poopie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39371136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poopie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purrer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15393473,
+      "mentions": [
+        {
+          "text": {
+            "content": "purrer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13144045,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11632792,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058609877,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap cat",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.023936614,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tricks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02208301,
+      "mentions": [
+        {
+          "text": {
+            "content": "tricks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020899327,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "demand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0149407275,
+      "mentions": [
+        {
+          "text": {
+            "content": "demand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "book",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013766143,
+      "mentions": [
+        {
+          "text": {
+            "content": "book",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nails",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013728605,
+      "mentions": [
+        {
+          "text": {
+            "content": "nails",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011826443,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poops",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011760298,
+      "mentions": [
+        {
+          "text": {
+            "content": "poops",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008493982,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045405137,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

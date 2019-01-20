@@ -1,0 +1,296 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Chelsea is what we call a rock and roll dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She was rescued from DBKL, a certain death and has led a charmed life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She lives to kiss and hug.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Some say she is able to hypnotize in 1 gaze.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hehe, lots of fun and happiness from this doggie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Chelsea will be a good dog to to anyone who wants an independent and adorable doggie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "rock and roll dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.38132036,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock and roll dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chelsea",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/023fb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chelsea_F.C."
+      },
+      "salience": 0.27584317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chelsea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chelsea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047374148,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0421539,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.038473587,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038473587,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037292972,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gaze",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03545816,
+      "mentions": [
+        {
+          "text": {
+            "content": "gaze",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cnp39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall"
+      },
+      "salience": 0.03375106,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021254497,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013368234,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011745445,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011745445,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "happiness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011745445,
+      "mentions": [
+        {
+          "text": {
+            "content": "happiness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

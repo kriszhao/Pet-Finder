@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Foxy joined the ranks of the SPCA's lovables in January .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's a loving dog who really deserves a caring family who'll dote on her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Foxy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5205352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foxy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ranks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23159221,
+      "mentions": [
+        {
+          "text": {
+            "content": "ranks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lovables",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.077444516,
+      "mentions": [
+        {
+          "text": {
+            "content": "lovables",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0117qddf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Cruelty_to_Animals"
+      },
+      "salience": 0.06823411,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06682431,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035369698,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

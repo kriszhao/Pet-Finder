@@ -1,0 +1,157 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This cute and fluffy cat has been roaming around my apartment for the last 2 months or so and i ended up feeding him/her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Likes to cuddle and very tame.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I would love to find a loving home for the cat for i am not able to keep feeding because of the management of my apartment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please call me if you would like to adopt this cutie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.5585081,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3612704,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.039629046,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019345883,
+      "mentions": [
+        {
+          "text": {
+            "content": "management",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013524108,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feeding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007722443,
+      "mentions": [
+        {
+          "text": {
+            "content": "feeding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

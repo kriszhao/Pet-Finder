@@ -1,0 +1,148 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "In good health.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Very calm and polite and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Obedient.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I rescued her about 7 months back.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have to give her away as i am a student myself and have to go back to my country.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "It will be very grateful if someone adopts riley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "student",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6717785,
+      "mentions": [
+        {
+          "text": {
+            "content": "student",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27309325,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026055275,
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018253509,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "riley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010819468,
+      "mentions": [
+        {
+          "text": {
+            "content": "riley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,248 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This baby was 1 among 7 pups that was born to my neighbor's dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My neighbor was not feeding the mom and all 7 pups and after feeding them for about a week, i called up the SPCA and got them all sent there.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "they are about 6 weeks old now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Extremely adorable and lovable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pickup at SPCA.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "IF you are interested, please msg me (meera) at for more information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "meera",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5369601,
+      "mentions": [
+        {
+          "text": {
+            "content": "meera",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.117301576,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.116587445,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0117qddf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Cruelty_to_Animals"
+      },
+      "salience": 0.072986886,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "SPCA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "neighbor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04682663,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04129626,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022854166,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015493385,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013625394,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pickup",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009454579,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pickup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066135353,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,486 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These 3 siblings were rescued from the trash bin when they were just newborns (umbilical cord still attached).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A cruel person placed them in 3 tightly sealed plastic bags and threw them in the trash bin.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Thankfully, they were rescued on time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We were so worried that they could not survive without their mother.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "But now all 3 of them are very healthy and active little kitties.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "We would love to keep them but we have way too many cats at home already and our rescue work is never ending.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So, we hope that we can find them a loving home through Petfinder.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you think you can give these kitties a loving home, please contact me via Whatsapp.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Please consider the responsibilities if being a pet owner before deciding to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "It is a lifetime commitment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Animals are not toys.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They have feelings too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41148868,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "newborns",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trash bin",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.15707707,
+      "mentions": [
+        {
+          "text": {
+            "content": "trash bin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cord",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13866886,
+      "mentions": [
+        {
+          "text": {
+            "content": "cord",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lifetime commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032926768,
+      "mentions": [
+        {
+          "text": {
+            "content": "lifetime commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trash bin",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029484726,
+      "mentions": [
+        {
+          "text": {
+            "content": "trash bin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.025919354,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025177415,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020540874,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020024884,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017367663,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescue work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016055716,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01586,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012047384,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "responsibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012047384,
+      "mentions": [
+        {
+          "text": {
+            "content": "responsibilities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011489653,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010628949,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010304204,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feelings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008304362,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008211699,
+      "mentions": [
+        {
+          "text": {
+            "content": "Animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.0071363426,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.006103009,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petfinder",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petfinder",
+        "mid": "/m/0cdyq6"
+      },
+      "salience": 0.0031349773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petfinder",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

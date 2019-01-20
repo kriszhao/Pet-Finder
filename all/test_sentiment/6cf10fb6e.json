@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hope is a stray cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Currently on recovery due to worm infestation in a clinic in Taipan.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Hope",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.45613134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hope",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32924122,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "recovery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09319685,
+      "mentions": [
+        {
+          "text": {
+            "content": "recovery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.065142184,
+      "mentions": [
+        {
+          "text": {
+            "content": "clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worm infestation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028955976,
+      "mentions": [
+        {
+          "text": {
+            "content": "worm infestation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taipan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02733245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taipan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

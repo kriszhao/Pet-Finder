@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Playful and cute.Tricoloured female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tricoloured",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.64902157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tricoloured",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3509784,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

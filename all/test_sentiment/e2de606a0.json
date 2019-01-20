@@ -1,0 +1,90 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "🌟Mutz🌟 is our cute, lovely and caring male cat, who we have to give only into a serious cat- loving new home, as we - heart-breaking- need to leave our whole cat-family for adoption 😿😿😿",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mutz🌟",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.78341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mutz🌟",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat-family",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10586814,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat-family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07200174,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03872012,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

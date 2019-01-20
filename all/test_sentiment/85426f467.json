@@ -1,0 +1,166 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Brownie &amp; Monjee are two very cute and loving stray dogs just being rescued from DBKL by me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Currently im keeping them in my friends house but they are not safe there as the neighbors are complaining.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "So im looking for a kind hearted person who can adopt them and provide them home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Brownie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32429084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brownie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Monjee",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20449035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monjee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16736051,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.107520424,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07839503,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cnp39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall"
+      },
+      "salience": 0.05469941,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "neighbors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041400004,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02184341,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

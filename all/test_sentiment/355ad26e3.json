@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Toffee is a happy little American Cocker Spaniel…unfortunately she had cataract at a young age and couldn't see very well now but she can still move around fine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's really affectionate and good with children!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I have to put her up for adoption as I'm moving to a small apartment and will not be able to have her around :(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Toffee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38758433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toffee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "American Cocker Spaniel",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Cocker_Spaniel",
+        "mid": "/m/01p2lr"
+      },
+      "salience": 0.25659335,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Cocker Spaniel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cataract",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1344184,
+      "mentions": [
+        {
+          "text": {
+            "content": "cataract",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1344184,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041740153,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03140177,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01384361,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

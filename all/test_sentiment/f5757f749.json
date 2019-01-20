@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "kaval's bro.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "cute, playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "fat and happy :D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kaval",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.648178,
+      "mentions": [
+        {
+          "text": {
+            "content": "kaval",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bro",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31670624,
+      "mentions": [
+        {
+          "text": {
+            "content": "bro",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": ":D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035115816,
+      "mentions": [
+        {
+          "text": {
+            "content": ":D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

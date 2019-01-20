@@ -1,0 +1,293 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found the kittens in the back of my husband's car's bumper.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They were inside for 2 days and finally dropped out on the 2 nd night.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "So they followed my husband to worked and came back!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "However, the mother cat never came to the rescue, so I had no choice but to feed them every 4-5 hrs using syringe.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They looked like their eyes just opened.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "After 7 weeks of syringe feeding, they finally learn to eat solid and also know how to use the kitty litter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Now they are ready for a new home!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22016416,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17149124,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1520082,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bumper",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1520082,
+      "mentions": [
+        {
+          "text": {
+            "content": "bumper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.1520082,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02292433,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02205491,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "syringe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020930765,
+      "mentions": [
+        {
+          "text": {
+            "content": "syringe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019801803,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01817903,
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015655546,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "syringe feeding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013653145,
+      "mentions": [
+        {
+          "text": {
+            "content": "syringe feeding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009569272,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009551195,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

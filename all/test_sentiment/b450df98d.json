@@ -1,0 +1,280 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Maggie is a sweet little doggie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is super active and extremely healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She loves to play and is lovable in nature.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is very smart and very quick to respond!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Will make an excellent companion, wonderful playmate and a good friend :).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is a looking for a warm and loving home because she was abandoned when she was a little pup and has gone through a traumatic near death experience due to malnutrition and pneumonia.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She is currently with a fosterer and will be needing a forever home soon.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you all and have a nice day!!! :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Maggie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8170157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maggie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10127683,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015605215,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011082301,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playmate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010637715,
+      "mentions": [
+        {
+          "text": {
+            "content": "playmate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010637715,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008354874,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008333913,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0073447716,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "near death experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032369783,
+      "mentions": [
+        {
+          "text": {
+            "content": "near death experience",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "malnutrition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032369783,
+      "mentions": [
+        {
+          "text": {
+            "content": "malnutrition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pneumonia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032369783,
+      "mentions": [
+        {
+          "text": {
+            "content": "pneumonia",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6.2,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

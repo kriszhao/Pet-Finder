@@ -1,0 +1,253 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 puppies 5mths old vaccinated , dewormed and spayed for adoption .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Bella and Belle ( sisters ) were rescued from a market backlane in Taman Eng Ann Klang Very healthy and alert -good watchdogs and they need your generosity to provide them a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Note : All adoption fees will be chanelled back to existing and future rescued animals in need.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31002468,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28145507,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12823844,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market backlane",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0375962,
+      "mentions": [
+        {
+          "text": {
+            "content": "market backlane",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037507307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bella",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Belle",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.037507307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Belle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "watchdogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034950174,
+      "mentions": [
+        {
+          "text": {
+            "content": "watchdogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "generosity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02983203,
+      "mentions": [
+        {
+          "text": {
+            "content": "generosity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022972733,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taman Eng Ann Klang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022601992,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Eng Ann Klang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018433457,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018433457,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011570646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008876482,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

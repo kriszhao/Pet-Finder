@@ -1,0 +1,285 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A male mixed-breed puppy (slightly mixed with labrador) of approximately 10 months old, formerly domesticated but currently abandoned by his owner who had shifted from the neighbourhood for the past 1 week.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "A dog gentle-in-nature, friendly, short and neat-coated, light brown coat, light golden-brown eyes, pinkish lips and nose.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Gold is found lingering near my home &amp; I would like to seek interested kind samaritan(s) to adopt him due to restrain of space to keep Gold as pet (living in a rented house on a shared-basis).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21597598,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "labrador",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21597598,
+      "mentions": [
+        {
+          "text": {
+            "content": "labrador",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2091737,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09010768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gold",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Gold",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05833813,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03232262,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028614325,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026272278,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lips",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026272278,
+      "mentions": [
+        {
+          "text": {
+            "content": "lips",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026272278,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019737603,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019737603,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013837646,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0086809425,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind samaritan(s)",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0086809425,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind samaritan(s)",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

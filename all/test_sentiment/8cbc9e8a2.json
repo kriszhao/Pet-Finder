@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A very Small sized pups for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Suitable to be kept in apartments.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Location: butterworth/penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please call/watsapp",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34548345,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34548345,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartments",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11186862,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartments",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11133001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "butterworth/penang",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.050479792,
+      "mentions": [
+        {
+          "text": {
+            "content": "butterworth/penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "watsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035354648,
+      "mentions": [
+        {
+          "text": {
+            "content": "watsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

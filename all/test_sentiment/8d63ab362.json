@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi all, I have rescued a mongrel from the streets as he was abandoned.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Have vaccinated and sent for checkup to the vet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My house compound is too small and I am not in most of the time to be able to take care of him effectively.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Cute, adorable and well toilet trained...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "please contact me at and help provide him with a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "all",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31649318,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mongrel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31649318,
+      "mentions": [
+        {
+          "text": {
+            "content": "mongrel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12733103,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house compound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05108906,
+      "mentions": [
+        {
+          "text": {
+            "content": "house compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "checkup",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04227652,
+      "mentions": [
+        {
+          "text": {
+            "content": "checkup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04227652,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "most",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03910765,
+      "mentions": [
+        {
+          "text": {
+            "content": "most",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02944339,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020599028,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01489041,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

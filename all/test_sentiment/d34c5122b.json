@@ -1,0 +1,228 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The mother is about 2 years old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "According to the Pak guard, her previous babies died of accidents because she stayed at the taman guard house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "So I took her and her adorable and tiny babies to stay with me, until they found their forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I won't be able to care for them because I will be travelling a lot next year due to work commitment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "short clip of them --&gt;",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.719018,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11573579,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029800598,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029800598,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accidents",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.026222415,
+      "mentions": [
+        {
+          "text": {
+            "content": "accidents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01776125,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016425543,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pak",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015579264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0123563865,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008661928,
+      "mentions": [
+        {
+          "text": {
+            "content": "work commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clip",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.008638262,
+      "mentions": [
+        {
+          "text": {
+            "content": "clip",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,163 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Emma and her 2 kittens were found in an abandon house in my residential area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Ive already neutered emma since the kittens started to eat by its own.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "These 2 kittens are male and very active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Emma",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4805471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Emma",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22664677,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "emma",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.10798435,
+      "mentions": [
+        {
+          "text": {
+            "content": "emma",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "abandon house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053718667,
+      "mentions": [
+        {
+          "text": {
+            "content": "abandon house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053718667,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03912963,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02238673,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ive",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015868085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ive",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

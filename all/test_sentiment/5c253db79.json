@@ -1,0 +1,273 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Anya boy is a very active kitten.Smart kid,knows how to use the litter box and can light up your home.Friendly n likes to be hugged n petted often.Loves noisy toys.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Anya boy is a rescued kitten, i found it near my home when it was getting beaten up by a kid.It was a 1 month old tiny,frail kitten then,almost skeletal.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Now,all healthy and close to 5 months,Anya boy is a healthy smart &amp; handsome boy,a fast learner who will whisk your heart away :) ;) ;)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.74724245,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "learner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054909565,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "learner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Smart",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053325076,
+      "mentions": [
+        {
+          "text": {
+            "content": "Smart",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030577978,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "n",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023337383,
+      "mentions": [
+        {
+          "text": {
+            "content": "n",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02209179,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "often.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019167336,
+      "mentions": [
+        {
+          "text": {
+            "content": "often.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Friendly",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018260367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friendly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011585017,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kid.It",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005542576,
+      "mentions": [
+        {
+          "text": {
+            "content": "kid.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Anya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005188533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049229036,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038490389,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

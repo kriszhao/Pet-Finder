@@ -1,0 +1,344 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We have a lovely female dog that we are putting for an adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "- 8 weeks old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "- Obedient and independent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "- Good toilet manner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Type: Mix breed of German Shepherd or Rottweiler with local breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Reason: We found this dog 4 days ago near our housing area, afraid of her well-being, we took her in our house and now looking for safe and confortable home for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Interested party, please call my handphone, only genuine care takers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5814275,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0882971,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033018727,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032618005,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030245492,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028964162,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet manner",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028754434,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet manner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Type",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028676108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Type",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "housing area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026588267,
+      "mentions": [
+        {
+          "text": {
+            "content": "housing area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020063503,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "party",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020025644,
+      "mentions": [
+        {
+          "text": {
+            "content": "party",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rottweiler",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01nw62",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rottweiler"
+      },
+      "salience": 0.01720192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rottweiler",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German Shepherd",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0km5c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd"
+      },
+      "salience": 0.01720192,
+      "mentions": [
+        {
+          "text": {
+            "content": "German Shepherd",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "handphone",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014032726,
+      "mentions": [
+        {
+          "text": {
+            "content": "handphone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care takers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014032726,
+      "mentions": [
+        {
+          "text": {
+            "content": "care takers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010035511,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "well-being",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008816253,
+      "mentions": [
+        {
+          "text": {
+            "content": "well-being",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

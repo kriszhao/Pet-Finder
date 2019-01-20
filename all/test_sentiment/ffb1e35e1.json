@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found: At a shop area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption fee will be used for spaying.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "shop area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.5061003,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3084728,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18542689,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,452 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Daisy, Charlie and Rue are three adorable kittens who were born in my Segambut home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Their mother has been nursing them, but 2 weeks ago they have been weaned off mummy and are eating kibbles.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are very good natured, playful and loving.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I will be moving to a condominium next week and can't keep them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are used to running free in the house but know how to sit in a cage as well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Rue is very very manja.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Charlie is very playful and cheeky.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Daisy is the fattest of the lot and mostly keeps to herself but occasionally likes cuddles too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I really hope someone can take all three of them because they are so close and won't want to be separated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I will also be providing you with a 2kg bag of their kitten food and one litter box and scoop.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49142793,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Daisy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17368126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daisy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Daisy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07504591,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Segambut",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0v2h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Segambut"
+      },
+      "salience": 0.045097988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Segambut",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03677033,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Charlie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03436247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charlie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Charlie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rue",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03436247,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rue",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rue",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "three",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02110924,
+      "mentions": [
+        {
+          "text": {
+            "content": "three",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01407392,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01407392,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009523048,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condominium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009432828,
+      "mentions": [
+        {
+          "text": {
+            "content": "condominium",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008740126,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00457754,
+      "mentions": [
+        {
+          "text": {
+            "content": "bag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00457754,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00457754,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00457754,
+      "mentions": [
+        {
+          "text": {
+            "content": "scoop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004257698,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fattest",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.003679158,
+      "mentions": [
+        {
+          "text": {
+            "content": "fattest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuddles",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0031744903,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuddles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002877056,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

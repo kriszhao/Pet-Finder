@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Anyone interested to give these cutie pies a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They were found at a warung closeby.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "They are healthy and litter trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They are also flea free.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They must be adopted together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49138612,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutie pies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21030349,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie pies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16134468,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "warung closeby",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07152965,
+      "mentions": [
+        {
+          "text": {
+            "content": "warung closeby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06543607,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

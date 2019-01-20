@@ -1,0 +1,378 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The 2 mth old male kitten is a cleaver &amp; independent boy, was rescued from road side.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "We are eager to find him a new home, because my partner &amp; I unable to foster him for too long.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The 6mth old female kitten is one of the stray baby at my area, she is too friendly &amp; gentle, she loves to greet everyone who comes out from lift or walk pass the corridor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We really afraid some people will hurts her, because a few cat-hater is living at the block.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "(we did received threaten msg from cat-hater want us to stop feeding the stray cats) We don't have much space for her, if you wants her, I will keep her in the cage for a day still possible, so please let me know asap.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22671135,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15998334,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cleaver",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11854839,
+      "mentions": [
+        {
+          "text": {
+            "content": "cleaver",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11854839,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11854839,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05008286,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034462553,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022212453,
+      "mentions": [
+        {
+          "text": {
+            "content": "partner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019085305,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat-hater",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015738575,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat-hater",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lift",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015123322,
+      "mentions": [
+        {
+          "text": {
+            "content": "lift",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01493912,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01493912,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corridor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01493912,
+      "mentions": [
+        {
+          "text": {
+            "content": "corridor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013830993,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010402278,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010275375,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00728538,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat-hater",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051984265,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat-hater",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "block",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045788987,
+      "mentions": [
+        {
+          "text": {
+            "content": "block",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "msg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045663496,
+      "mentions": [
+        {
+          "text": {
+            "content": "msg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

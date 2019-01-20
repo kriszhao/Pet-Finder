@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "owner migrate to oversea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "adoption only for animal lover not for BREEDER two poodle 4 yrs old (male and female) another two 2 yrs old (male and female) T&amp;C apply.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "ESTHER",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6115418,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13724758,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13724758,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BREEDER",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.05645773,
+      "mentions": [
+        {
+          "text": {
+            "content": "BREEDER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "T&C",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029698964,
+      "mentions": [
+        {
+          "text": {
+            "content": "T&amp;C",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ESTHER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027806344,
+      "mentions": [
+        {
+          "text": {
+            "content": "ESTHER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is 1 of 8 puppies abandoned by the roadside near my housing area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I took them in because they are too young to find food and shelter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Now 8 weeks old, vaccinated, healthy and ready to be adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "DaiGaJe (big sister) is boisterous and very obedient for such a young pup.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4751431,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roadside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15749608,
+      "mentions": [
+        {
+          "text": {
+            "content": "roadside",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "housing area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15749608,
+      "mentions": [
+        {
+          "text": {
+            "content": "housing area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08236111,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053372856,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036770683,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025818076,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DaiGaJe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0115420185,
+      "mentions": [
+        {
+          "text": {
+            "content": "DaiGaJe",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,225 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These are the 4 puppies that are to be adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "As this morning, 2 (Rotwel &amp; Bearie)taken by my auntie and 1 (Stripee) taken by neighbour's friend whom 3 years old dog was stolen.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pending 1 (Terriet) booked but will only take after CNY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "To be adopter, back out and do not wish to adopt Terriet, therefore he's open for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6863214,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07549501,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035625406,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "auntie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035194945,
+      "mentions": [
+        {
+          "text": {
+            "content": "auntie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032717917,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rotwel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030884719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rotwel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bearie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030884719,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bearie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Terriet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028370224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terriet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Terriet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Stripee",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.020901384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stripee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017195465,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CNY",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0064088395,
+      "mentions": [
+        {
+          "text": {
+            "content": "CNY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

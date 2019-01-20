@@ -1,0 +1,423 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dong Dong is a well-trained yet playful girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She has gone through few levels of training (Pre-Novice, Novice and Intermediate).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is a good indoor dog and never lives backyard or outdoor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She is microchipped and has a MKA certificate (but I lost the certificate).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She could get along well with children but somehow will cause unintentionally injury to young kids (as bull terrier breed is active, it plays rough and has to be trained to be gentle) Hence, a family with young children is not suitable to keep her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Due to relocation on June , I can't bring her along with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I truly hope a dog lover who could keep her well and allow me to follow-up from the time being.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If you're interested, please contact me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Whatsapp is preferred all the time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Dong Dong",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7677564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dong Dong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "levels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027979929,
+      "mentions": [
+        {
+          "text": {
+            "content": "levels",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027979929,
+      "mentions": [
+        {
+          "text": {
+            "content": "training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pre-Novice",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.027979929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pre-Novice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017722271,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015477134,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01441102,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "backyard",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013612057,
+      "mentions": [
+        {
+          "text": {
+            "content": "backyard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Novice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010717054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Novice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Intermediate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010717054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intermediate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01045054,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008252011,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "certificate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008173915,
+      "mentions": [
+        {
+          "text": {
+            "content": "certificate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "certificate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008173915,
+      "mentions": [
+        {
+          "text": {
+            "content": "certificate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007574253,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072526843,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bull terrier breed",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0072526843,
+      "mentions": [
+        {
+          "text": {
+            "content": "bull terrier breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MKA",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004253251,
+      "mentions": [
+        {
+          "text": {
+            "content": "MKA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "relocation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002199372,
+      "mentions": [
+        {
+          "text": {
+            "content": "relocation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp",
+        "mid": "/m/0gwzvs1"
+      },
+      "salience": 0.0020645924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

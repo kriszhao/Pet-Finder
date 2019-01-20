@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rottie look alike pups for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Location: butterworth/penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pls watsapp or call",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rottie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01nw62",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rottweiler"
+      },
+      "salience": 0.38731393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rottie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26786572,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18695469,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09425999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04622497,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "butterworth/penang",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017380709,
+      "mentions": [
+        {
+          "text": {
+            "content": "butterworth/penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

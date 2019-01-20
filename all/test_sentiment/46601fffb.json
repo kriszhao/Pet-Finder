@@ -1,0 +1,636 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Peanut.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He lost his mother at the age of one week.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "By luck I bumped upon them (Peanut and siblings, Pumpkin and Poppy) while walking home in my area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The mother's body was found just around the corner of the same road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "These babies were crying for milk I suppose...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I took them back home and looked after them till they are good to be rehome.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "A kind friend came forward and took two of them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I have peanut with me who is looking for a furever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He is very playful and love playing with you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is fun with other animals too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He loves to play and find small amusing stuff to keep his time going..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He loves loves to watch water rushing through the taps and all that bubbles it forms.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Always welcoming you when you return from work sucha joy!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "For more details you can reach me or whatsapp on Cheers, Koki",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Peanut",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Peanut",
+        "mid": "/m/0fg0m"
+      },
+      "salience": 0.1271554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peanut",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Peanut",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.12509458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peanut",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12190792,
+      "mentions": [
+        {
+          "text": {
+            "content": "babies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07437552,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06543995,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06511828,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029386995,
+      "mentions": [
+        {
+          "text": {
+            "content": "taps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02823588,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028136577,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024814857,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pumpkin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024814857,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pumpkin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024814857,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024727521,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01945432,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peanut",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018956745,
+      "mentions": [
+        {
+          "text": {
+            "content": "peanut",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018912125,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "two",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018522557,
+      "mentions": [
+        {
+          "text": {
+            "content": "two",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01669979,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corner",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01669979,
+      "mentions": [
+        {
+          "text": {
+            "content": "corner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016654106,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015382356,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Poppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014688984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poppy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013704304,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011538661,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008070434,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008070434,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008063083,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008063083,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stuff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007890551,
+      "mentions": [
+        {
+          "text": {
+            "content": "stuff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005073186,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cheers",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.004766152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheers",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Koki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004766152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Koki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 7.4,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

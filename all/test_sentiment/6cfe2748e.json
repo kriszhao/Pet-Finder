@@ -1,0 +1,253 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Churro is a marbled british shorthair tabby mix who was left behind by his irresponsible owners.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is very vocal (will meow back at you if you speak to him but not after you close the door behind you to go to sleep, he great that way!) and loves attention from humans.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He is very chilled and calm so will not make your house messy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Toilet trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "hope to find a forever home for Churro :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "shorthair tabby mix",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7671684,
+      "mentions": [
+        {
+          "text": {
+            "content": "shorthair tabby mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Churro",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01_8f5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Churro"
+      },
+      "salience": 0.09072048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Churro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Churro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "british",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05168858,
+      "mentions": [
+        {
+          "text": {
+            "content": "british",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033581253,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0102787735,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0102787735,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008452853,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0077205743,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076934365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053779525,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036274935,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0034114232,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

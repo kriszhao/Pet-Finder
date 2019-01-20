@@ -1,0 +1,271 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She was dumped on street two weeks ago currently living on a busy street with on going traffic and always got wet cause the rain.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She also almost got hit by car just now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is a happy go lucky dog but met a useless human who cant committed to raise her and spay her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is going to give birth anytime.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you can help her please go to 84,jalan dato yusof shahbuddin 20 taman sentosa klang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Selangor ( she is living under the car opposite the field and behind old folk home)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6126261,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.114333354,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.091824464,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045533158,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "traffic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040148057,
+      "mentions": [
+        {
+          "text": {
+            "content": "traffic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040148057,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.015049501,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009320293,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0073080002,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "field",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006422136,
+      "mentions": [
+        {
+          "text": {
+            "content": "field",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folk home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006422136,
+      "mentions": [
+        {
+          "text": {
+            "content": "folk home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dato yusof shahbuddin 20 taman sentosa klang",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0054384563,
+      "mentions": [
+        {
+          "text": {
+            "content": "dato yusof shahbuddin 20 taman sentosa klang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.0054263035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

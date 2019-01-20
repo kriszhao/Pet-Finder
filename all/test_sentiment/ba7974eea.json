@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We rescued a pregnant tuxedo cat 3 months ago and now the kittens are 2 months old and up for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "There are 3 healthy and cute kittens now at our house and we just can't keep them because our toddler has developed allergy to cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for a new loving home for these cute and friendly furry friends.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We are in Putrajaya...Please feel free to call me for adoption, it's free!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "tuxedo cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31228074,
+      "mentions": [
+        {
+          "text": {
+            "content": "tuxedo cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1407626,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13827398,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13745722,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toddler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072570875,
+      "mentions": [
+        {
+          "text": {
+            "content": "toddler",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041511536,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "allergy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038115457,
+      "mentions": [
+        {
+          "text": {
+            "content": "allergy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038115457,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02863837,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022767749,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Putrajaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6vy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Putrajaya"
+      },
+      "salience": 0.016907847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Putrajaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012598134,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

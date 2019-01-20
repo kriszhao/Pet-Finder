@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Got it from a thief with RM if it is yours please provide evidence.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Email to",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "thief",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44478288,
+      "mentions": [
+        {
+          "text": {
+            "content": "thief",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30907357,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "evidence",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1699281,
+      "mentions": [
+        {
+          "text": {
+            "content": "evidence",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07621546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

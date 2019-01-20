@@ -1,0 +1,228 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We found her this morning in the alley behind my house, and she was very hungry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We can't afford to keep her as we already have two cats and space is limited.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She's very cute and is a very pretty deep gray.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Partially potty trained as she knows to do her business in the cat litter, but we had to point her in the right direction.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Willing to pay for spaying, vaccination and de-worming.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "alley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.35549647,
+      "mentions": [
+        {
+          "text": {
+            "content": "alley",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.35549647,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056375023,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gray",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054747567,
+      "mentions": [
+        {
+          "text": {
+            "content": "gray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04582383,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "direction",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032270707,
+      "mentions": [
+        {
+          "text": {
+            "content": "direction",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022560222,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022560222,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "de-worming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022560222,
+      "mentions": [
+        {
+          "text": {
+            "content": "de-worming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "business",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017918766,
+      "mentions": [
+        {
+          "text": {
+            "content": "business",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014190484,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These pups were born as soon as the mother dog was saved.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They are about 3 months old, and really adorable pups.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We are keeping the mother dog, but giving away the pups.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They have been under good care, and they are very active and smart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8281776,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.106635004,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03051523,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022328569,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012343621,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

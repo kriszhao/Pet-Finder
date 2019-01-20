@@ -1,0 +1,557 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They say I'm a drama king, but yet I'm cute, don't I?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Sometimes, I sing like Pavarotti,but I'm just trying to get your attention, I understand if you are busy, I can stay alone, be quiet and be a good boy I promise!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I had fully vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Someone promised to bring me home last month and I'm very exciting waiting to go to my new and forever home, but then she turned me down at the very last minute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "But nevermind, as a happy go lucky puppy I always believe that the best is yet to come... so I'm waiting for the better papa mummy to bring me home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I like big buddies, so I get along very well with everyone, I mean everyone, no matter you are 2 leggged or 4 legged, I'm still loving you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "oh yeah but the most that I love is kid and lenglui, what to do, I'm a kid too, and I'm a boy, of course I like lenglui la...but lengzai I also ok de....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "So any lengzai lenglui willing to bring me home?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I mean, my forever home, with family and love?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oh by the way, I'm not neuter yet, I'm too small now, but I hope that my new papa and mama will bring me to neuter when the time comes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "drama king",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43415183,
+      "mentions": [
+        {
+          "text": {
+            "content": "drama king",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09764221,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07638176,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046632465,
+      "mentions": [
+        {
+          "text": {
+            "content": "Someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pavarotti",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Luciano_Pavarotti",
+        "mid": "/m/01h5j3"
+      },
+      "salience": 0.035531815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pavarotti",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03193356,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021658529,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018512746,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01604701,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01604701,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "buddies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0155537,
+      "mentions": [
+        {
+          "text": {
+            "content": "buddies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "papa mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015398261,
+      "mentions": [
+        {
+          "text": {
+            "content": "papa mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015398261,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "waiting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015252017,
+      "mentions": [
+        {
+          "text": {
+            "content": "waiting",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "most",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015183227,
+      "mentions": [
+        {
+          "text": {
+            "content": "most",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015041906,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015020158,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014097797,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lengzai lenglui",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013214488,
+      "mentions": [
+        {
+          "text": {
+            "content": "lengzai lenglui",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010573473,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010573473,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nevermind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009189147,
+      "mentions": [
+        {
+          "text": {
+            "content": "nevermind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "papa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00894925,
+      "mentions": [
+        {
+          "text": {
+            "content": "papa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007392039,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007392039,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067736646,
+      "mentions": [
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lenglui",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058065816,
+      "mentions": [
+        {
+          "text": {
+            "content": "lenglui",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "course",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004651581,
+      "mentions": [
+        {
+          "text": {
+            "content": "course",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.4,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

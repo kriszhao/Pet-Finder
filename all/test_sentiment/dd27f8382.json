@@ -1,0 +1,203 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Chole and Gappy was found at cheras area, Gappy was adopted at IOI adoption drive.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Chole has very stunning orange colour fur, big hear and eyes full of spirit.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Pls do give her a changes",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Chole",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.61095315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chole",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chole",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gappy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12579085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gappy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cheras area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07372482,
+      "mentions": [
+        {
+          "text": {
+            "content": "cheras area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption drive",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.05122397,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption drive",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gappy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050504033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gappy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "IOI",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/11c3zqh07z",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/I.O.I"
+      },
+      "salience": 0.030374564,
+      "mentions": [
+        {
+          "text": {
+            "content": "IOI",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023022253,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spirit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01741653,
+      "mentions": [
+        {
+          "text": {
+            "content": "spirit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "changes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009303186,
+      "mentions": [
+        {
+          "text": {
+            "content": "changes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00768664,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

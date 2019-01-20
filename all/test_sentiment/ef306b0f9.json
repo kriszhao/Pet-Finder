@@ -1,0 +1,75 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "shih tzu breed she is very healthy im giving because me and my friends are going back to my country adoption fee nego whatsapp",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "shih tzu breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8544593,
+      "mentions": [
+        {
+          "text": {
+            "content": "shih tzu breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "im",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09448416,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country adoption fee nego whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051056538,
+      "mentions": [
+        {
+          "text": {
+            "content": "country adoption fee nego whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

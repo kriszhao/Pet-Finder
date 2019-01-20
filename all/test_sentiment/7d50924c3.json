@@ -1,0 +1,233 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lovely little female Persian baby cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Perfect.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The kitten is now (end of September) a little bit larger than a handful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She comes from neglected keeping, and is now being fostered by us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She got her first vaccination (5-in-1) and deworming on September 29.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Her ears are freshly cleaned, and her eyes are currently being treated for gingivitis.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Should all resolve within a couple of days.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.64048785,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15070906,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Persian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09295466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Persian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029677728,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "handful",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02014319,
+      "mentions": [
+        {
+          "text": {
+            "content": "handful",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "keeping",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020072915,
+      "mentions": [
+        {
+          "text": {
+            "content": "keeping",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014032015,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gingivitis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014032015,
+      "mentions": [
+        {
+          "text": {
+            "content": "gingivitis",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011709749,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006180802,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,205 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My wife and I rescued a dog last christmas not knowing that she was pregnant to 8 little ones.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She gave birth to all 8 on 25 Jan'14.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "At the time of this writing, all puppies are a perfect 8 weeks old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "6 have been given away, leaving this sweet little one and her sister (posted separately).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is very less playful than her sister, but the more gentle and manja of the two.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "wife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6206472,
+      "mentions": [
+        {
+          "text": {
+            "content": "wife",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15744217,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.075185806,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06334188,
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "writing",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021183364,
+      "mentions": [
+        {
+          "text": {
+            "content": "writing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021030808,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020674467,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010247158,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "two",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010247158,
+      "mentions": [
+        {
+          "text": {
+            "content": "two",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

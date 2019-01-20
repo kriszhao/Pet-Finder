@@ -1,0 +1,165 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "His right eye is somehow injured and it is blind now....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He acts as the leader as he is one of the eldest in the group.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He needs a warm home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He will be a loyal guard and a best pal for you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.54673856,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leader",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26377523,
+      "mentions": [
+        {
+          "text": {
+            "content": "leader",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "guard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14246632,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eldest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017668555,
+      "mentions": [
+        {
+          "text": {
+            "content": "eldest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016229007,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008536267,
+      "mentions": [
+        {
+          "text": {
+            "content": "pal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004586047,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

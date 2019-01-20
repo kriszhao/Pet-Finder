@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm playful, cute, affectionate!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "And I can shake hand, I sit when my master asked me to, and eat when my master let me to.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I need a home with caring, full of love, and a master who likes playing with me!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25418803,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19962694,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1991102,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18116589,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.120612375,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04529659,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

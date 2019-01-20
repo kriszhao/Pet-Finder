@@ -1,0 +1,281 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I am truly sad to tell that I have to let go Pumpkin for adoption because right now I'm renting a house and the house owner wont let me keep her around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She's my world and I really hope any of you who wanted to adopt her would love her as much as I do.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The adoption fee is RM because this include her foods(enough for 3 months and its Blackwood Indoor) litter box and scoop, litter sand, her toy and her food plate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27957532,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19788739,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08254192,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08254192,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "any",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07677,
+      "mentions": [
+        {
+          "text": {
+            "content": "any",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house owner wont",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049093373,
+      "mentions": [
+        {
+          "text": {
+            "content": "house owner wont",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pumpkin",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pumpkin",
+        "mid": "/m/05zsy"
+      },
+      "salience": 0.043046053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pumpkin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03412222,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03412222,
+      "mentions": [
+        {
+          "text": {
+            "content": "scoop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter sand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02390478,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter sand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02390478,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food plate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02390478,
+      "mentions": [
+        {
+          "text": {
+            "content": "food plate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blackwood Indoor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02019346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackwood Indoor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "foods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017060326,
+      "mentions": [
+        {
+          "text": {
+            "content": "foods",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011331439,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

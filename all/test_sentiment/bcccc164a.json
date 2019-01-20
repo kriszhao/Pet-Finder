@@ -1,0 +1,183 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "An all black male german shepherd dog was found wandering lost at section 5.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Seems to have been lost for some time as he looks traumatized and has maggot holes on him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Comes with microchip.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Owner would need to verify the microchip number for proof of ownership.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You can contact me at after 5pm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "german shepherd dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.490646,
+      "mentions": [
+        {
+          "text": {
+            "content": "german shepherd dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "section",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2023129,
+      "mentions": [
+        {
+          "text": {
+            "content": "section",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "microchip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07141476,
+      "mentions": [
+        {
+          "text": {
+            "content": "microchip",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maggot holes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06317681,
+      "mentions": [
+        {
+          "text": {
+            "content": "maggot holes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ownership",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05386766,
+      "mentions": [
+        {
+          "text": {
+            "content": "ownership",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "microchip number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04739272,
+      "mentions": [
+        {
+          "text": {
+            "content": "microchip number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "proof",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04739272,
+      "mentions": [
+        {
+          "text": {
+            "content": "proof",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023796434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

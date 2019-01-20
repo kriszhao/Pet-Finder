@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rescue together with 3 siblings at the rubbish near the forest.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5320024,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17611274,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rubbish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1647669,
+      "mentions": [
+        {
+          "text": {
+            "content": "rubbish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forest",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12711798,
+      "mentions": [
+        {
+          "text": {
+            "content": "forest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": -0.5
+  },
+  "language": "en",
+  "categories": []
+}

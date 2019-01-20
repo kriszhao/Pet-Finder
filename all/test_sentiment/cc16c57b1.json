@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Blackie is adorable one year old Persian male.. he is very active playful and affectionate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "vaccinated, dewormed and neutered, he is ready to join a happy loving family!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Blackie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.91247004,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Persian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07074807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Persian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016781865,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

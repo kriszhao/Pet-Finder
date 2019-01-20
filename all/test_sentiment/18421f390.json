@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Friday are active,eat alot,well-trained,Friendly :D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Shinny coat,Soft fur",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "alot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5368282,
+      "mentions": [
+        {
+          "text": {
+            "content": "alot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shinny coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1931703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shinny coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1366562,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Friendly :D",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1333453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friendly :D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

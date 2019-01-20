@@ -1,0 +1,48 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is very active and shy at the same time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It takes some time to get used to her and needs some affection.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "affection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "affection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

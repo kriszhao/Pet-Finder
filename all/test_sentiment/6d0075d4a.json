@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This Teddy was found at Happy Garden Old Klang Road.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Onwer please claim your puppy The cream puppy are rescue from DBKL pound, she is up for adoption as well",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Teddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33950546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teddy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cream puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33866778,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Happy Garden Old Klang Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.093416125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Happy Garden Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08908846,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08754344,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03772612,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL pound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014052589,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL pound",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

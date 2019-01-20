@@ -1,0 +1,283 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These two dogs were dumped at factory site @ jalan Sepadu , Seksyen 25, Axis Industrial Park, Shah Alam, Selangor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They are hungry and shivery in the cold.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "As I am here for a contract period that expire on Sunday, I cannot take care of them after that.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If you have a little space in your house, will you mind consider to save these two lives.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Tel or Lim",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25668344,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory site",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25668344,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory site",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "@ jalan Sepadu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15608814,
+      "mentions": [
+        {
+          "text": {
+            "content": "@ jalan Sepadu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Seksyen 25",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1q5blg24r"
+      },
+      "salience": 0.060586855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seksyen 25",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Axis Industrial Park",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc8fbz9c"
+      },
+      "salience": 0.060586855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Axis Industrial Park",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shah Alam",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0syrf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shah_Alam"
+      },
+      "salience": 0.041070327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah Alam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor",
+        "mid": "/m/01jc9d"
+      },
+      "salience": 0.041070327,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033809133,
+      "mentions": [
+        {
+          "text": {
+            "content": "cold",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023232484,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022949835,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lives",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016284736,
+      "mentions": [
+        {
+          "text": {
+            "content": "lives",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011733254,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009610602,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009610602,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

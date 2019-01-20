@@ -1,0 +1,129 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Thanks for all your interests in Ginger.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She has found a new home in Johor with all the other 'siblings'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.49729627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "interests",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21297751,
+      "mentions": [
+        {
+          "text": {
+            "content": "interests",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ginger",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0f9n3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger"
+      },
+      "salience": 0.1301195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ginger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06777057,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051376924,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Johor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jng9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor"
+      },
+      "salience": 0.040459197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

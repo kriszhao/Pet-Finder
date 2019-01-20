@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Aaawwww... look at CINTA, isn't she sweet?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You can tell by the look in CINTA's eyes, she is so bored of where she is now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "This girl is lovely...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "ALL SHE NEEDS IS LOVE....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "CINTA",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.47425225,
+      "mentions": [
+        {
+          "text": {
+            "content": "CINTA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "CINTA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20251973,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12404395,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.122553565,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LOVE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07663052,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOVE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

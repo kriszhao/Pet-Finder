@@ -1,0 +1,272 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Daisy and Nikki are looking for a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They are very sweet and friendly, get along well with other dogs, cats and children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "So families would be perfect for them or people who have pets already.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They are de-wormed and vaccinations have started.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Daisy and Nikki already know how to walk on the leash and are quick learners when it comes to potty training.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2927945,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "families",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19223095,
+      "mentions": [
+        {
+          "text": {
+            "content": "families",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nikki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.123419665,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nikki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Nikki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089815006,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Daisy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06614453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daisy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Daisy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038590454,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038590454,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038590454,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035259813,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026786344,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "learners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023702897,
+      "mentions": [
+        {
+          "text": {
+            "content": "learners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01878325,
+      "mentions": [
+        {
+          "text": {
+            "content": "training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015291659,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Intelligent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter must pay for the neutering fee...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6270674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3729326,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

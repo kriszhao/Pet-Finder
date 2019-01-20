@@ -1,0 +1,265 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Marshy is the fattest of her siblings, and Hiker is the smallest but Hiker is the most chatty and adventurous.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "We want to find them a forever home, as we’ve already got enough fur kids with us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Both just started eating solids and wet food, they eat Powercat brand food, but you can slowly wean them off it to other brands, see if they’re agreeable to it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "If you’re interested to adopt these kids, please email me and I’d be more than happy to send more photos n videos and let’s arrange a pickup date!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Marshy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/016nsr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Marsh"
+      },
+      "salience": 0.4123984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marshy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "fattest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hiker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17016411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hiker",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Hiker",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "solids",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15270609,
+      "mentions": [
+        {
+          "text": {
+            "content": "solids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13555071,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01994844,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brand food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01994844,
+      "mentions": [
+        {
+          "text": {
+            "content": "brand food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brands",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018312866,
+      "mentions": [
+        {
+          "text": {
+            "content": "brands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01740963,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013771872,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01243924,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Powercat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0103897685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Powercat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00848022,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00848022,
+      "mentions": [
+        {
+          "text": {
+            "content": "videos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

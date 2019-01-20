@@ -1,0 +1,425 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Rosie, a cute and active and loving circa 3 months pup.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is looking for a forever home urgently - someone who love and care for her and ready to be with her till she is old because that is what she is going to give to you - love, care, joy and most of all, her forever faithfulness and loyalty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She has been dewormed and has learned the command 'no'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Pee and poo on grass.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you are serious interest in adopting Rosie - please contact rescuer .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "P/S: Rescuer has 2 dogs, thus, is unable to take in more (since rescuer's neighbour is not dog-friendly at all!).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5110777,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rosie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22567227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rosie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rosie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08475916,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01813211,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015942704,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012414809,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010911707,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "most",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010911707,
+      "mentions": [
+        {
+          "text": {
+            "content": "most",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010911707,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faithfulness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010911707,
+      "mentions": [
+        {
+          "text": {
+            "content": "faithfulness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010901451,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loyalty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010015054,
+      "mentions": [
+        {
+          "text": {
+            "content": "loyalty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009965423,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009930356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "P/S",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074529494,
+      "mentions": [
+        {
+          "text": {
+            "content": "P/S",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074529494,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006513529,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062763267,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059755314,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040932163,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032887715,
+      "mentions": [
+        {
+          "text": {
+            "content": "poo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032887715,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "interest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003200082,
+      "mentions": [
+        {
+          "text": {
+            "content": "interest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

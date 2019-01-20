@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "my puppy just 1 month old , start to eat dog food . because i already have 1 dog male and 1 female .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "my female dog birth 4 puppies i keep 1 puupy other i want for adopt .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5674675,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11452266,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11452266,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.106630474,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puupy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035674952,
+      "mentions": [
+        {
+          "text": {
+            "content": "puupy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02761242,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopt",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017345767,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016223542,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

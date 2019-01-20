@@ -1,0 +1,775 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She was a real survivor!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I almost stepped on her on my way to a friend's place, and instead of running away, she actually came to me and allowed me to pet her!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You could say she rescued herself!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "That was 2 weeks ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have never seen such a friendly kitten; she purrs like a motorboat on overdrive, loves being pet, meows for attention and would not hesitate to jump on your lap!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "In fact, she was purring away in my car and clambering over my lap/ chest for attention even before I reach home!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is dewormed, washed and given Frontline spray.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She was a quite thin but has since put on some weight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is also litter-trained (self trained...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "huhuhu).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Every time I walk close to her she will meow her acknowledgement (or meow wanting to be pet... hehehe) While healthy, she hobbles along as there seems to be a problem with her left paw.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The vet says she has probably suffered an accident which causes her to walk on her 'ankle'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "But come play time, she will still bat and attack the mouse-on-a-string toy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I have too many cats to take care of another, though I can assure any new adopter that she doesn't seem to require any special attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She can be active and jump onto my bed or sofa or explore the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please consider giving her a new home and she will love you back many times over.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please keep her indoors (to prevent any further accidents), and promise to vaccinate her and spay her (in a few more month's time).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54364216,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "survivor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16766632,
+      "mentions": [
+        {
+          "text": {
+            "content": "survivor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10493591,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032523546,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.021663915,
+      "mentions": [
+        {
+          "text": {
+            "content": "accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01450357,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01450357,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006203178,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motorboat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005450328,
+      "mentions": [
+        {
+          "text": {
+            "content": "motorboat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "overdrive",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005450328,
+      "mentions": [
+        {
+          "text": {
+            "content": "overdrive",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004747333,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041876817,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041783117,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041707098,
+      "mentions": [
+        {
+          "text": {
+            "content": "problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037029185,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "huhuhu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036927776,
+      "mentions": [
+        {
+          "text": {
+            "content": "huhuhu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "acknowledgement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036884546,
+      "mentions": [
+        {
+          "text": {
+            "content": "acknowledgement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003670644,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003670644,
+      "mentions": [
+        {
+          "text": {
+            "content": "chest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.003670644,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003670644,
+      "mentions": [
+        {
+          "text": {
+            "content": "fact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spray",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036636966,
+      "mentions": [
+        {
+          "text": {
+            "content": "spray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033843827,
+      "mentions": [
+        {
+          "text": {
+            "content": "meow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033843827,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033394622,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025431714,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025410142,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sofa",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0025410142,
+      "mentions": [
+        {
+          "text": {
+            "content": "sofa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025410142,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0025389981,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0023823893,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accidents",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0021766613,
+      "mentions": [
+        {
+          "text": {
+            "content": "accidents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "indoors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016093585,
+      "mentions": [
+        {
+          "text": {
+            "content": "indoors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0015949319,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015551558,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012768443,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ankle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011172736,
+      "mentions": [
+        {
+          "text": {
+            "content": "ankle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "another",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011151555,
+      "mentions": [
+        {
+          "text": {
+            "content": "another",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011015126,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

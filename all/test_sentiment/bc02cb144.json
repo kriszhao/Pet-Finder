@@ -1,0 +1,166 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Molly is a adorable and active little puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She was rescue somewhere near Puchong, abandon by the roadside.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She has went thru medical check up including blood test, dewormed and vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Molly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.75472134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11348531,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030559663,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030559663,
+      "mentions": [
+        {
+          "text": {
+            "content": "somewhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roadside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028427629,
+      "mentions": [
+        {
+          "text": {
+            "content": "roadside",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puchong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cxff7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Puchong"
+      },
+      "salience": 0.018440746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puchong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "blood test",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014339125,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood test",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "check",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009466522,
+      "mentions": [
+        {
+          "text": {
+            "content": "check",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

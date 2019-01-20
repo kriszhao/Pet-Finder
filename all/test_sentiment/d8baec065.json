@@ -1,0 +1,267 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sammy was found dumped in Old Klang Road area when he was barely 1 month old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Second Chance dog shelter took him in and nurtured him till he is fit and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He has been vaccinated 2 times and has been dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He likes human company as well as his canine friends.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He always has a ready smile for you , so please call Mrs. Lai or to take him home!Adoption is free, just give him a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sammy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7294214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sammy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09640599,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.058555663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog shelter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020866333,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11b7gf0ghy"
+      },
+      "salience": 0.019368537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012712893,
+      "mentions": [
+        {
+          "text": {
+            "content": "human company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012602807,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "canine friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011529426,
+      "mentions": [
+        {
+          "text": {
+            "content": "canine friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010973491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Chance",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010426831,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008678391,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004643344,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038149348,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

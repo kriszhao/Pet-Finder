@@ -1,0 +1,155 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hello, everyone I am Max.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "My mum calls me &quot;black face&quot;, but in fact, I am just a shy little fellow.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Though I am the most quiet guy in my family but I have one big black nose.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fellow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.77691835,
+      "mentions": [
+        {
+          "text": {
+            "content": "fellow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "guy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13677579,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027221756,
+      "mentions": [
+        {
+          "text": {
+            "content": "mum",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01871095,
+      "mentions": [
+        {
+          "text": {
+            "content": "fact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018485276,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012926379,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008961478,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

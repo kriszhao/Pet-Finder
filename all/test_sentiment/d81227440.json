@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Black Beauty has been joining my community cats for her daily meals morning and evening for the past 2 days.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is very friendly and is actually mistaken for being scary just because she is black Hope to find her a good home Contact Nandhini at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Black Beauty",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.39178696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black Beauty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "meals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2650127,
+      "mentions": [
+        {
+          "text": {
+            "content": "meals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "community cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22518103,
+      "mentions": [
+        {
+          "text": {
+            "content": "community cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hope",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04766457,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hope",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.044160992,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Contact Nandhini",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.026193723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contact Nandhini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

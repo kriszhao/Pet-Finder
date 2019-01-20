@@ -1,0 +1,253 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He was rescued last month with one existing eye already blind and the other eyeball hanging out.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Doctors had to completely remove it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Currently he is blind, doesn't require large space as blind dogs are comfortable once they're used to a certain spot(comfort zone) and eats normally with no health problems.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I will sponsor food and medical cost for life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please call or whatsapp me to discuss more info.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.36571243,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1534637,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyeball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14618285,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyeball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Doctors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0776856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doctors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044762883,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "comfort zone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044762883,
+      "mentions": [
+        {
+          "text": {
+            "content": "comfort zone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037604257,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033690028,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033690028,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024003021,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023562947,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health problems",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014879342,
+      "mentions": [
+        {
+          "text": {
+            "content": "health problems",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

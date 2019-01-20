@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rescued Bandit from the streets of Damansara Perdana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He has been living with us for about 6 weeks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is very smart, healthy, playful and loving and understands simple commands like &quot;sit&quot;.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Also responds to his name &quot;Bandit&quot;.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rescued Bandit",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.71368504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescued Bandit",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19704273,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Damansara Perdana",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0db4vp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Damansara_Perdana"
+      },
+      "salience": 0.04956473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damansara Perdana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013522867,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bandit",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00912544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandit",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008529586,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008529586,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

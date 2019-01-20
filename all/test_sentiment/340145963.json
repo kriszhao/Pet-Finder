@@ -1,0 +1,503 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The rescuer of this dog, Miss X, has been tricked into taking this dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Here is the story...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Miss X lost her Shih Tzu and has put up posters around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Two drug addicts called her up saying that they have found her dog and told her to meet them up.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "So, when Miss X went to that place, she was forced to pay the two drug addicts and take the dog back.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The dog has a broken jaw and the vet has no idea how long he has been having this broken jaw because when the surgery was scheduled, they realised that there were no more bones to be reunited.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "So, this dog has to live with a broken jaw.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He can still eat dog biscuits very well and so basically not much special care is needed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If you would like to give this Shih Tzu a chance to have a loving home, feel free to contact me anytime.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "X",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30190822,
+      "mentions": [
+        {
+          "text": {
+            "content": "X",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Miss",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drug addicts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09990002,
+      "mentions": [
+        {
+          "text": {
+            "content": "drug addicts",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "drug addicts",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09575161,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shih Tzu",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01s7fj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shih_Tzu"
+      },
+      "salience": 0.09329632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shih Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Shih Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08720479,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.083333895,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054555926,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Miss X",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045189593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miss X",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Miss X",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "story",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031957116,
+      "mentions": [
+        {
+          "text": {
+            "content": "story",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019473769,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surgery",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.018282266,
+      "mentions": [
+        {
+          "text": {
+            "content": "surgery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010616103,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "posters",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010139407,
+      "mentions": [
+        {
+          "text": {
+            "content": "posters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0085770115,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007872195,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068088127,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "idea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063116695,
+      "mentions": [
+        {
+          "text": {
+            "content": "idea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog biscuits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004742682,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog biscuits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004742682,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032759286,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026022529,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025305212,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009272049,
+      "mentions": [
+        {
+          "text": {
+            "content": "bones",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.9,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

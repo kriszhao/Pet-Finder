@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "BlingBling is about 2years old and needs a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is very active and loves to play with cat toys...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "BlingBling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.67608404,
+      "mentions": [
+        {
+          "text": {
+            "content": "BlingBling",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25090992,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.07300605,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

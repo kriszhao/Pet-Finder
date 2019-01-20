@@ -1,0 +1,237 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Olive is a great guard dog (seriously offenssive if strangers come near to the gate) yet she is kind, caring and cheerful dog (her best friend is my bunny named butter).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Obviously because I don't appreciate house lizard, making her dislikes the reptiles too..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If not because of I am leaving for study, Olive will be my best mate!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Olive",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.57133293,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olive",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Olive",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13155292,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.067770064,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052192196,
+      "mentions": [
+        {
+          "text": {
+            "content": "gate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "butter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049758658,
+      "mentions": [
+        {
+          "text": {
+            "content": "butter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bunny",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045762066,
+      "mentions": [
+        {
+          "text": {
+            "content": "bunny",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043100096,
+      "mentions": [
+        {
+          "text": {
+            "content": "best friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012038163,
+      "mentions": [
+        {
+          "text": {
+            "content": "study",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01039442,
+      "mentions": [
+        {
+          "text": {
+            "content": "mate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house lizard",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054543703,
+      "mentions": [
+        {
+          "text": {
+            "content": "house lizard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dislikes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053220657,
+      "mentions": [
+        {
+          "text": {
+            "content": "dislikes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reptiles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053220657,
+      "mentions": [
+        {
+          "text": {
+            "content": "reptiles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

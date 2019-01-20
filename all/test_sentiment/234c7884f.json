@@ -1,0 +1,220 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Simba is a cute and warm one month old male kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Found him crying and shivering in the rain below a car.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Took him to the vet and he is alright now after getting medicines.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Already paid for the cost of treatment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Free adoption...pick from Wangsa Maju Area....pls call Yasir at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Simba",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.88210446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simba",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020401448,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020254951,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020254951,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medicines",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018740812,
+      "mentions": [
+        {
+          "text": {
+            "content": "medicines",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014080664,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062242835,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062242835,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wangsa Maju Area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0058570793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wangsa Maju Area",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yasir",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058570793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yasir",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

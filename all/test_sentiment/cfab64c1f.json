@@ -1,0 +1,348 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "For adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I rescued this little kitten seven days ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is about 1.5 month old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is very cute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I dont think that she was vaccinated or neutered, however I can help a new owner to share the cost.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "For any inquiry or adoption, pls contact: Ms Olga (Call / SMS / E-mail) E-mail: olgam.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "( Viber / Whats-App) + Please give a loving home to this little angel :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.56470394,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21157478,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025973532,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025458941,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024436196,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02238439,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pls contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02238439,
+      "mentions": [
+        {
+          "text": {
+            "content": "pls contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.01686465,
+      "mentions": [
+        {
+          "text": {
+            "content": "App",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Olga",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016646754,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olga",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "angel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011821069,
+      "mentions": [
+        {
+          "text": {
+            "content": "angel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "olgam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010006648,
+      "mentions": [
+        {
+          "text": {
+            "content": "olgam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Viber",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Viber",
+        "mid": "/m/0hncjr3"
+      },
+      "salience": 0.009987735,
+      "mentions": [
+        {
+          "text": {
+            "content": "Viber",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009024391,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "E-mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0084554525,
+      "mentions": [
+        {
+          "text": {
+            "content": "E-mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "E-mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0084554525,
+      "mentions": [
+        {
+          "text": {
+            "content": "E-mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074285935,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Call",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.004393094,
+      "mentions": [
+        {
+          "text": {
+            "content": "Call",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

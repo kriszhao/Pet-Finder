@@ -1,0 +1,375 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Brownie came to my house, he was dirty and hungry...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "My husband bathed for it and gave him food...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is at my house, but since I have another dog, I could not keep Brownie...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Brownie is very well behaved and likes to follow you wherever you go...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is still very young so he doesn't bark at strangers...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "When we rescued him, he had ticks...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "But we have already cleaned him, and the vet has checked that he's a healthy lil boy...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "We just gave his first vaccine on the 9th Jan...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We do not want any adoption fee, but we hope his new owner will reimburse us with the amount we spent on his vaccination and deworming..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lil boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28505492,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Brownie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02hlnc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+      },
+      "salience": 0.2728195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brownie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Brownie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25492626,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10627767,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Brownie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011937236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brownie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01188932,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011686572,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008041593,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073634638,
+      "mentions": [
+        {
+          "text": {
+            "content": "ticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005524749,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004403905,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003868741,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "amount",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003868741,
+      "mentions": [
+        {
+          "text": {
+            "content": "amount",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deworming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003868741,
+      "mentions": [
+        {
+          "text": {
+            "content": "deworming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032723176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027642283,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024320423,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

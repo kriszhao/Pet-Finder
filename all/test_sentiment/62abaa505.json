@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Pet issue resolved with my condominium management .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Cats NOT available for adoption anymore .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Pet issue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5388014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pet issue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condominium management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25430414,
+      "mentions": [
+        {
+          "text": {
+            "content": "condominium management",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.117503405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08939107,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

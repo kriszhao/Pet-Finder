@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "His name is Tian Tian.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Breed: domestic short + maine coon , 10 mths old, boy, dewormed, vaccinated, spayed, litter trained, very gd in interacting, relatively big in size",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43392965,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tian Tian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33105066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tian Tian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08028068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.055512812,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054852013,
+      "mentions": [
+        {
+          "text": {
+            "content": "coon",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027232902,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017141286,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

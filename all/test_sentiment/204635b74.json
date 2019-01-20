@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Petsy and Benny needs a new home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Our neighbour disapprove of us having these dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They say it is disturbance.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "But has far as i know it only barks when it sees strangers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "It loving and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Both of them likes to play hide and seek and fetch.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.3202092,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petsy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22789495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petsy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Benny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22789495,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "neighbour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07292262,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disturbance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06352454,
+      "mentions": [
+        {
+          "text": {
+            "content": "disturbance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04947648,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022903966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015173284,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

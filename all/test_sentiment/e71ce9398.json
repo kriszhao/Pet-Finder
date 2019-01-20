@@ -1,0 +1,556 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi all, At my office carpark recently have some puppies which is deliver by the mongrel that usually stay around our office building.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "All the doggie are look cute and cubby.Come to have a view,choose which you want to bring home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Do contact me asap before my company admin call the DBKL to collect them out send to zoo for the tiger...sob sob Latest info, All the yellow and cream colour have been adopt.Just left 2 females gray colour puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please spayed this puppies when you bring them home to prevent them from create more puppies in the future.Please be a resposible owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Only for serious person who want to adopt this doggies only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly send me an email with ur name and contact number if you interested.Thank You To all, the doggie all have been adopt,thanks",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35756627,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mongrel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17162482,
+      "mentions": [
+        {
+          "text": {
+            "content": "mongrel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09904676,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "office carpark",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.070656784,
+      "mentions": [
+        {
+          "text": {
+            "content": "office carpark",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cnp39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall"
+      },
+      "salience": 0.035771202,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03471217,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "office building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027272206,
+      "mentions": [
+        {
+          "text": {
+            "content": "office building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cubby.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017225623,
+      "mentions": [
+        {
+          "text": {
+            "content": "cubby.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016012043,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015673792,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "view",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0130020715,
+      "mentions": [
+        {
+          "text": {
+            "content": "view",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010119732,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009355364,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "zoo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008957654,
+      "mentions": [
+        {
+          "text": {
+            "content": "zoo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008957654,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008957654,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yellow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008957654,
+      "mentions": [
+        {
+          "text": {
+            "content": "yellow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company admin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008848452,
+      "mentions": [
+        {
+          "text": {
+            "content": "company admin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008220527,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "females",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008220527,
+      "mentions": [
+        {
+          "text": {
+            "content": "females",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colour puppy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008003895,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076850466,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0061458177,
+      "mentions": [
+        {
+          "text": {
+            "content": "email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061458177,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006112989,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005370452,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043034935,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043034935,
+      "mentions": [
+        {
+          "text": {
+            "content": "thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036332041,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033407698,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030856857,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027103953,
+      "mentions": [
+        {
+          "text": {
+            "content": "future.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

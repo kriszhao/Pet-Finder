@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The cats were rescued while they were young and found w/o their mother around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Love them to bits.They are siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Reason to let go: my dad is ill recently and undergone major surgery.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "As he requires our attention most of the time and for the sake of his health, we would like to find another loving home for these two cuties.Delivery to your homes within Klang Valley can be arranged.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.31173447,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30170405,
+      "mentions": [
+        {
+          "text": {
+            "content": "dad",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "w",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14969173,
+      "mentions": [
+        {
+          "text": {
+            "content": "w",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06829249,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059138753,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02103556,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surgery",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019619359,
+      "mentions": [
+        {
+          "text": {
+            "content": "surgery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01938134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Delivery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013548638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Delivery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009496874,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008823072,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sake",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005956801,
+      "mentions": [
+        {
+          "text": {
+            "content": "sake",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005956801,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klang Valley",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03zszl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Klang_Valley"
+      },
+      "salience": 0.005620063,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klang Valley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

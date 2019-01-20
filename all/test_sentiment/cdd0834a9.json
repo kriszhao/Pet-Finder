@@ -1,0 +1,226 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This beautiful kitten has been rescued by my son.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She is very active and good with children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Litter trained Colour: black and white Collect from KLCC contact via Tel or whatsapp: I can help with the payment of the first Vet bill",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.69947696,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10196714,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034224816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034224816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033978786,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "payment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023760678,
+      "mentions": [
+        {
+          "text": {
+            "content": "payment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KLCC",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0j3gb1k",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Centre"
+      },
+      "salience": 0.018674372,
+      "mentions": [
+        {
+          "text": {
+            "content": "KLCC",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bill",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016675258,
+      "mentions": [
+        {
+          "text": {
+            "content": "bill",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0104705,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0104705,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vet",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009879603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tel",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0061965794,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

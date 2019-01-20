@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Toilet trained only in toilet or outdoors.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Comes with all necessities, food bowl, water bowl,leash, toys..she is active, loving, loves to pose for photos, must follow you wherever you go around the house....fun companion..looking for someone with space and time for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3123109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3123109,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food bowl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06215365,
+      "mentions": [
+        {
+          "text": {
+            "content": "food bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "necessities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054729957,
+      "mentions": [
+        {
+          "text": {
+            "content": "necessities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051639482,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water bowl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042206008,
+      "mentions": [
+        {
+          "text": {
+            "content": "water bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037133135,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.037133135,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0345197,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026081016,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01829699,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011485123,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A spayed and vaccinated domestic longhair cat for adoption, is limping with a previously broken leg but otherwise healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for a new home to keep her indoor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact Ms Sim if interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "一只已结扎打预防针雌性本地长毛猫，一只脚曾经骨折有点瘸，除此之外健康。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "领养条件是不能放出门自己溜达。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "有意领养者请联络 Ms Sim。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09lkz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adoption"
+      },
+      "salience": 0.4848314,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Please contact Ms Sim if interested.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.08463098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Please contact Ms Sim if interested.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "毛猫",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0j46v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_cat"
+      },
+      "salience": 0.08046054,
+      "mentions": [
+        {
+          "text": {
+            "content": "毛猫",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "脚",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07490833,
+      "mentions": [
+        {
+          "text": {
+            "content": "脚",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "预防针雌性",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06783527,
+      "mentions": [
+        {
+          "text": {
+            "content": "预防针雌性",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "本地长",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06783527,
+      "mentions": [
+        {
+          "text": {
+            "content": "本地长",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ms Sim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040818255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ms Sim",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "健康",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035090476,
+      "mentions": [
+        {
+          "text": {
+            "content": "健康",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "领养条件",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03449551,
+      "mentions": [
+        {
+          "text": {
+            "content": "领养条件",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "领养者",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029093958,
+      "mentions": [
+        {
+          "text": {
+            "content": "领养者",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "zh",
+  "categories": []
+}

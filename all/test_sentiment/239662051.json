@@ -1,0 +1,183 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mr.Snow White is so affectionate to humans and will not hiss even other cat are hissing to him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He's an ideal domestic cat , don't bite or show aggressiveness even you stroke his tummy and hind legs, but except his right hind leg, will meow louder a bit because he's sprained it few weeks ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mr.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6367545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1298173,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Snow White",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09492695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snow White",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05914823,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024115026,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01995033,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01612029,
+      "mentions": [
+        {
+          "text": {
+            "content": "tummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aggressiveness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0084405355,
+      "mentions": [
+        {
+          "text": {
+            "content": "aggressiveness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hind legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053634164,
+      "mentions": [
+        {
+          "text": {
+            "content": "hind legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hind leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053634164,
+      "mentions": [
+        {
+          "text": {
+            "content": "hind leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

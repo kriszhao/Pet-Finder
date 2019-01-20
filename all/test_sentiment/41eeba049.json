@@ -1,0 +1,243 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These two tabby kittens are litter-box trained, vaccinated, dewormed and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They are sociable, playful, cheeky and manja.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They love playing with each other, stealing plastic wrappers (beware), the smell of tuna, and chasing string.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Since birth, they have lived indoors and have been weaned by their mother.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They are now ready to leave the nest and are looking for a happy home :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "tabby kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.65706486,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter-box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15705457,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter-box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021131212,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wrappers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021131212,
+      "mentions": [
+        {
+          "text": {
+            "content": "wrappers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020979032,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020248087,
+      "mentions": [
+        {
+          "text": {
+            "content": "nest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019406531,
+      "mentions": [
+        {
+          "text": {
+            "content": "smell",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tuna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019406531,
+      "mentions": [
+        {
+          "text": {
+            "content": "tuna",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "string",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019406531,
+      "mentions": [
+        {
+          "text": {
+            "content": "string",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019338708,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014610801,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010221931,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

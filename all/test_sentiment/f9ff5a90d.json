@@ -1,0 +1,244 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Alanis was rescued together with her sibling, March and we are looking for a loving home for them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They are very loving &amp; playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The added advantage is tat they have been toilet trained &amp; can save so much hassle for prospective adopters.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Location: Butterworth, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please call for further details.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Alanis",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0gdh5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alanis_Morissette"
+      },
+      "salience": 0.5101949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alanis",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sibling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20087251,
+      "mentions": [
+        {
+          "text": {
+            "content": "sibling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advantage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12798648,
+      "mentions": [
+        {
+          "text": {
+            "content": "advantage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "tat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.055193767,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024820918,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018752923,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018687189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013073831,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Butterworth",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Butterworth,_Penang",
+        "mid": "/m/03sqpj"
+      },
+      "salience": 0.011079809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butterworth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.011079809,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hassle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008257889,
+      "mentions": [
+        {
+          "text": {
+            "content": "hassle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

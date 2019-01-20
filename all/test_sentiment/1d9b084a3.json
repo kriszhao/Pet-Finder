@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "One month old puppy boy needs a home urgently!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Any kind soul out there please do not hesitate to contact me for details or viewing thank you very much!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39115882,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.33732006,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13536356,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "viewing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0943599,
+      "mentions": [
+        {
+          "text": {
+            "content": "viewing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04179766,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

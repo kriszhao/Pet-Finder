@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "For any inquiry or adoption, pls call: Ching - Location : Sri Petaling, KL ----------------------------------------------------- Name: Mr. Hacker Gender: Male DOB: around January ------------------------------------------------------------------",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "inquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24732034,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24732034,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ching - Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15834714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ching - Location",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hacker Gender: Male DOB",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14919032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Hacker Gender: Male DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mr.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06839722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sri Petaling",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_w4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Petaling"
+      },
+      "salience": 0.06471233,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sri Petaling",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.06471233,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

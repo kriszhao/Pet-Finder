@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "-female -5 months -intact( non neuter) -FIFE registerated -vaccinated n dewormed -breeding quality any interested sms",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "neuter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34941635,
+      "mentions": [
+        {
+          "text": {
+            "content": "neuter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25220832,
+      "mentions": [
+        {
+          "text": {
+            "content": "quality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FIFE",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.21792343,
+      "mentions": [
+        {
+          "text": {
+            "content": "FIFE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18045188,
+      "mentions": [
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

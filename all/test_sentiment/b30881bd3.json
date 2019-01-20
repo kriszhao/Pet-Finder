@@ -1,0 +1,283 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I have 3 cute little kitties for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I'll deworm them in a few days as one of them has diahrrea (am not sure which one).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Do SMS me if you would like to book them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Update /09: orange tabby (male), light brown (female).She looks white in photo but is actually very light brown with white patches and brown tail.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Would prefer if adopter can take both and watch them play together....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "very entertaining!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32049575,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28107974,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06412604,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diahrrea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054770418,
+      "mentions": [
+        {
+          "text": {
+            "content": "diahrrea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light brown",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038880967,
+      "mentions": [
+        {
+          "text": {
+            "content": "light brown",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Update",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037236836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Update",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036914613,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabby",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034187518,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034187518,
+      "mentions": [
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025808623,
+      "mentions": [
+        {
+          "text": {
+            "content": "patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brown tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025808623,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0206469,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brown",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014507559,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011348894,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

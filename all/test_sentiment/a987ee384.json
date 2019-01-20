@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Her name is Luna, and i got her when she was 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is a mix of Husky and Golden Retriver, she had the husky look just the fur is golden.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Recently found out my mum got cancer, so can't rear dog anymore, trying to find a good owner to take care of her!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is very friendly, playful and like to stick to people! Contact for more information!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.45050213,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Luna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29865256,
+      "mentions": [
+        {
+          "text": {
+            "content": "Luna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09387677,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054115616,
+      "mentions": [
+        {
+          "text": {
+            "content": "mum",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03843498,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012558553,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010333404,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009556296,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Husky",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0061278567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Husky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Golden Retriver",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01t032",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Retriever"
+      },
+      "salience": 0.0061278567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Retriver",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cancer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006003875,
+      "mentions": [
+        {
+          "text": {
+            "content": "cancer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005039465,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005039465,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036311748,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

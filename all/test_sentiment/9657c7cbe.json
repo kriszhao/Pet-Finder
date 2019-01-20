@@ -1,0 +1,793 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens have all found homes, thanks very much for your inquiries All four kitties are born from a beautiful Calico Japanese bobtail mum, which is famous for being friendly and talkative.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Seeing as they were born at this centre, we thought it would fitting to name them accordingly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Mukti - Beautiful Creamy white male kitten with blue eyes, his the heaviest of the bunch, adventurous and sweet, always first to welcome you home as you step thru the door.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Mouna - Caramelized striped tabby markings, yellowish-green-grey eyes and brown leather paw pads.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's a speedy one and is highly attracted to strings, cardboard and socks..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Very soft underbelly and big ears, she's bound to become a beautiful cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Rishi - Grey markings on pure white coat, Rishi is very easy to handle and hold.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He also enjoys tunneling into tight spaces and sniffing toes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Adventurous kitty that loves exploring new surroundings, Rishi stares at you with curious eyes and has a very cute and sweet mew sound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Moksha - The noisiest, clumsiest and most endearing of the four, Moksha actually has weaker hind legs and very special markings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He is super docile and very sweet, usually resting and almost never using his teeth and claws He'd make a great indoor kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "bobtail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16786234,
+      "mentions": [
+        {
+          "text": {
+            "content": "bobtail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11388878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0809412,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rishi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0772338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rishi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rishi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.057562992,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "inquiries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057562992,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057562992,
+      "mentions": [
+        {
+          "text": {
+            "content": "mum",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05398667,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mouna - Caramelized",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04597611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mouna - Caramelized",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034372173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Calico",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0c41p1c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Calico_cat"
+      },
+      "salience": 0.034372173,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calico",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rishi - Grey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020935342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rishi - Grey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015817,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "centre",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01065657,
+      "mentions": [
+        {
+          "text": {
+            "content": "centre",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabby markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0090117175,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0090117175,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008933311,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008213434,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw pads",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007223573,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw pads",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "socks",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00720381,
+      "mentions": [
+        {
+          "text": {
+            "content": "socks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cardboard",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00720381,
+      "mentions": [
+        {
+          "text": {
+            "content": "cardboard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00720381,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00720381,
+      "mentions": [
+        {
+          "text": {
+            "content": "strings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007160674,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bunch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007160674,
+      "mentions": [
+        {
+          "text": {
+            "content": "bunch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heaviest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007160674,
+      "mentions": [
+        {
+          "text": {
+            "content": "heaviest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007013348,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "underbelly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006595686,
+      "mentions": [
+        {
+          "text": {
+            "content": "underbelly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006595686,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006583211,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mukti - Beautiful Creamy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062761195,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mukti - Beautiful Creamy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "noisiest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057968106,
+      "mentions": [
+        {
+          "text": {
+            "content": "noisiest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mew sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004947384,
+      "mentions": [
+        {
+          "text": {
+            "content": "mew sound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049409815,
+      "mentions": [
+        {
+          "text": {
+            "content": "legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043172515,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038862962,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "teeth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034978304,
+      "mentions": [
+        {
+          "text": {
+            "content": "teeth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "claws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034550754,
+      "mentions": [
+        {
+          "text": {
+            "content": "claws",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Moksha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033258481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moksha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002708958,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021733395,
+      "mentions": [
+        {
+          "text": {
+            "content": "toes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaces",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0021733395,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaces",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surroundings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021701918,
+      "mentions": [
+        {
+          "text": {
+            "content": "surroundings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tunneling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002120502,
+      "mentions": [
+        {
+          "text": {
+            "content": "tunneling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 8.3,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

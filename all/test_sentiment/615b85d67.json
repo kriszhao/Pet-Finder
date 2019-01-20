@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I love Elyas so so so much, he is a very smart and active kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "also he is so kind and he loves to sleep on your tommy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He had completed all his vaccination.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Recently my work place has changed and i cant spend time like before for him, so i need to find a loving home for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Elyas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9546454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elyas",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01489611,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tommy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014788767,
+      "mentions": [
+        {
+          "text": {
+            "content": "tommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01108027,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045894366,
+      "mentions": [
+        {
+          "text": {
+            "content": "work place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

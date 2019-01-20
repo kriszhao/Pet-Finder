@@ -1,0 +1,165 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I am letting go this cat to anyone (cat lovers) whose interested to adopt her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is only 3 year old++ have a couple named Bubu.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I would love if anyone interested to adopt both of them because i dont want to separate them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6915523,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17923804,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0641859,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02131104,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "old++",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020799028,
+      "mentions": [
+        {
+          "text": {
+            "content": "old++",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bubu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016355032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bubu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006558708,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

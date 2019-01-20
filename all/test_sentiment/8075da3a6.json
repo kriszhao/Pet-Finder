@@ -1,0 +1,278 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found Mimi as a small, fragile kitten in the parking lot of Menara Pinang several years ago and he grew into a beautiful and affectionate cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We gave him a girl's name because his &quot;package&quot; was so small we thought he was female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We kept his name because he knew it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Sometime later we got a Shih-Tzu and a small Westie terrier.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mimi does not like the dogs and has been unhappy since.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is much more introverted around the dogs than he was before.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.56568354,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parking lot",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15048902,
+      "mentions": [
+        {
+          "text": {
+            "content": "parking lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067118295,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mimi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04197437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mimi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mimi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040135,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Menara Pinang",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03523264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Menara Pinang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "package",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022190731,
+      "mentions": [
+        {
+          "text": {
+            "content": "package",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022067012,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019400438,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016881146,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010704395,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Westie terrier",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005927549,
+      "mentions": [
+        {
+          "text": {
+            "content": "Westie terrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shih-Tzu",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01s7fj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shih_Tzu"
+      },
+      "salience": 0.0021958638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shih-Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

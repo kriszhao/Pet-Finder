@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This baby shih tzu is only 2 months old...i just wish to find a good owner... conditions: 1)give &quot;royal canin&quot; as her dog food...not so expensive 2months only rm for 4kg packing.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "2)Wish her to be a indoor doggie 3)wish her new owner can give her enough of love!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "thanks!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.36804795,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby shih tzu",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.27249843,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby shih tzu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10438477,
+      "mentions": [
+        {
+          "text": {
+            "content": "conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.065025724,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059805885,
+      "mentions": [
+        {
+          "text": {
+            "content": "rm",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "canin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04995503,
+      "mentions": [
+        {
+          "text": {
+            "content": "canin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04111821,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015435292,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01193702,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enough",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011791697,
+      "mentions": [
+        {
+          "text": {
+            "content": "enough",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

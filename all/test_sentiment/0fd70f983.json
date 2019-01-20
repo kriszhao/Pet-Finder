@@ -1,0 +1,173 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tanjong was rescued in April .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He likes being with people and often stays indoors because he is very afraid of the rain and thunderstorms.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is very alert at strangers and cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Above all, he is adorable although aged and have no temperament disorder.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tanjong",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.47931394,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tanjong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15607007,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10746398,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thunderstorms",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.10746398,
+      "mentions": [
+        {
+          "text": {
+            "content": "thunderstorms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament disorder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05139229,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament disorder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032803703,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032803703,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032688327,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

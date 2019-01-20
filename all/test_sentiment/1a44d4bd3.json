@@ -1,0 +1,239 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She born at /.She is Lovely,likes to act Cute,Playful and Adorable kitty.She currently need a LOYAL owner to adopt her and gives her LOVE and TIME.Please adopt her if anyone is interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "*Adopter is advice to Vaccinate,Dewormed and Spayed / Neutered to ensure a healthy and happy life for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "*please inform or contact me if interested to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24368837,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "/.She",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21237347,
+      "mentions": [
+        {
+          "text": {
+            "content": "/.She",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09lkz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adoption"
+      },
+      "salience": 0.098057695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.094517,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0780745,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TIME.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06520542,
+      "mentions": [
+        {
+          "text": {
+            "content": "TIME.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cute",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056603115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cute",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Playful",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056603115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Playful",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "LOVE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04999943,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOVE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02193696,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vaccinate",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/121j1nlf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vaccination"
+      },
+      "salience": 0.017231211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccinate",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dewormed",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03nnncz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Deworming"
+      },
+      "salience": 0.0057097147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dewormed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,56 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The most loyal creature on Earth, they will love you unconditionally",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "creature",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.76564676,
+      "mentions": [
+        {
+          "text": {
+            "content": "creature",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth",
+        "mid": "/m/02j71"
+      },
+      "salience": 0.23435323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

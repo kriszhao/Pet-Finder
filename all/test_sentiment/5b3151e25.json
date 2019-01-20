@@ -1,0 +1,77 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I have adopted Mr Mickey and he is very happy in his new home now....welcome Mr Mickey",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mickey",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/057ph",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mickey_Mouse"
+      },
+      "salience": 0.97632545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mickey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Mickey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023674536,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

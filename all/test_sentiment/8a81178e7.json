@@ -1,0 +1,224 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She born at /.She is hyperactive,naughty and Playful kitty.She currently need a LOYAL owner to adopt her and gives her LOVE and TIME.Please adopt her if anyone is interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "*Adopter is advice to Vaccinate,Dewormed and Spayed / Neutered the kitten to ensure a healthy and happy life for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "*please inform or contact me if interested to adopt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "/.She",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22935879,
+      "mentions": [
+        {
+          "text": {
+            "content": "/.She",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21399038,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adoption",
+        "mid": "/m/09lkz"
+      },
+      "salience": 0.10613676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09306124,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Playful kitty.",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.088474154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Playful kitty.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08454014,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TIME.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.069779165,
+      "mentions": [
+        {
+          "text": {
+            "content": "TIME.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LOVE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053518794,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOVE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023779739,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vaccinate",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/121j1nlf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vaccination"
+      },
+      "salience": 0.01868041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccinate",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dewormed",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Deworming",
+        "mid": "/m/03nnncz"
+      },
+      "salience": 0.01868041,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dewormed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

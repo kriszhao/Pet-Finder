@@ -1,0 +1,378 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Monica is 3 month old female German Sherphed mix..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She was rescued near the market of Taman Megah, PJ by a volunteer form Second Chance one week ago.She is a very gentle and a very quiet girl (does not bark much), she is sociable and can mix with big or small dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Even our vet likes her a lot!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Currently she is placed at our shelter at Old Klang Rd 3rd Mile.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pl call Mrs Lai , Kim or Mei Leng if you want to take her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Monica",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.66568637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Monica",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.103647254,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sherphed",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049740378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sherphed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04306rv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_language"
+      },
+      "salience": 0.049740378,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020678151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015619418,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "volunteer form",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015619418,
+      "mentions": [
+        {
+          "text": {
+            "content": "volunteer form",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010697674,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009819793,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PJ",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03dqts",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya"
+      },
+      "salience": 0.009266722,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taman Megah",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/1q5bmx26z"
+      },
+      "salience": 0.009266722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Megah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065218653,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0062607676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Chance",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0058753416,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Rd 3rd Mile",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004348553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Rd 3rd Mile",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pl",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004336652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035736337,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032275717,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030366743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mei Leng",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030366743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mei Leng",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

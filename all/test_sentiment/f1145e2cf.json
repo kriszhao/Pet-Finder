@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Brownies, a 4 month old male puppy rescued from street need a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me if you need a companion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks❣ 在街上拯救到一隻小狗， 名為brownies, 需要有心人給牠一個溫暖的家！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "謝謝！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Brownies",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02hlnc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+      },
+      "salience": 0.61822104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brownies",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "brownies",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.06869033,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "街上",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054597322,
+      "mentions": [
+        {
+          "text": {
+            "content": "街上",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "小狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054597322,
+      "mentions": [
+        {
+          "text": {
+            "content": "小狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040071025,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.032454386,
+      "mentions": [
+        {
+          "text": {
+            "content": "家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.2
+  },
+  "language": "zh-Hant",
+  "categories": []
+}

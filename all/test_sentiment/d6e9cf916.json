@@ -1,0 +1,146 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kampung Cat Mix Persian Female and very obedient.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She was born to my Persian female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "To many cats around so need to give away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Genuine Cat love needs inquire only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kampung Cat Mix Persian Female",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.57326466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kampung Cat Mix Persian Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13440552,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10843011,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Persian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07080858,
+      "mentions": [
+        {
+          "text": {
+            "content": "Persian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057643164,
+      "mentions": [
+        {
+          "text": {
+            "content": "love needs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01yrx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat"
+      },
+      "salience": 0.05544797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

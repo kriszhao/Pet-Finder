@@ -1,0 +1,489 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They were found when i was wandering at the Pasar Malam in Seri Kembangan this evening, near the Main Pasar there.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Three of them are without the care of their mum after my observation for some half and hour and asking the auntie at the coffee shop We looking for kind and responsible person to adopt any one of these three little puppies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "These little ones are really innocent and deserve a chance to live, not least, this helps to reduce the increasing number of stray dogs We have applied the flea and tick prevention dose on them and they have been dewormed, we hope the potential owner will bring the puppy for vaccination which a responsible owner will do.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If you have any question, please don't hesitate to ask.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately, we couldn't adopt them as we are currently having two dogs and our baby is coming to the world soon",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Main Pasar",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.4278941,
+      "mentions": [
+        {
+          "text": {
+            "content": "Main Pasar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Seri Kembangan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seri_Kembangan",
+        "mid": "/m/05ztfx"
+      },
+      "salience": 0.07070784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seri Kembangan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pasar Malam",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/04c2td",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pasar_malam"
+      },
+      "salience": 0.07070784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pasar Malam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Three",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061750557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Three",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053300392,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02201272,
+      "mentions": [
+        {
+          "text": {
+            "content": "mum",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "observation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02201272,
+      "mentions": [
+        {
+          "text": {
+            "content": "observation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "half",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02201272,
+      "mentions": [
+        {
+          "text": {
+            "content": "half",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02201272,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017134853,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014983071,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "auntie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148742385,
+      "mentions": [
+        {
+          "text": {
+            "content": "auntie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coffee shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0148742385,
+      "mentions": [
+        {
+          "text": {
+            "content": "coffee shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148742385,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0148742385,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148742385,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ones",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014620081,
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014394796,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013750454,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013750454,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0118013155,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "question",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010206032,
+      "mentions": [
+        {
+          "text": {
+            "content": "question",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "prevention dose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009871685,
+      "mentions": [
+        {
+          "text": {
+            "content": "prevention dose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008213601,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072155474,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0072155474,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005509166,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004550591,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

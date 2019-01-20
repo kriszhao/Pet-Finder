@@ -1,0 +1,90 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Friendly and alert Able to listen to basic instruction Lovable Need to put up for adoption as no time to manage,busy work schedule",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lovable Need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.42204273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lovable Need",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "instruction",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Friendly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34121427,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friendly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15297177,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work schedule",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.083771236,
+      "mentions": [
+        {
+          "text": {
+            "content": "work schedule",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

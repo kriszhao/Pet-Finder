@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "age: 2 months old gender: female very tame and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "siamese mix domestic long hair RM88 only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "want to sell it URGENTLY!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "reason for selling, i'm continuing my study and no one to look after the cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "self collect at taman impian ehsan.(near to the mines shopping mall) contact comel really need a new home..tq",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32522961,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32522961,
+      "mentions": [
+        {
+          "text": {
+            "content": "gender",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06403073,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06349672,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04004672,
+      "mentions": [
+        {
+          "text": {
+            "content": "study",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04004672,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shopping mall",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030173844,
+      "mentions": [
+        {
+          "text": {
+            "content": "shopping mall",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030173844,
+      "mentions": [
+        {
+          "text": {
+            "content": "mines",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "comel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021167642,
+      "mentions": [
+        {
+          "text": {
+            "content": "comel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tq",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021167642,
+      "mentions": [
+        {
+          "text": {
+            "content": "tq",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0180524,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013323115,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taman impian ehsan.",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1220fpbh",
+        "wikipedia_url": "https://ms.wikipedia.org/wiki/Taman_Impian_Ehsan"
+      },
+      "salience": 0.007861362,
+      "mentions": [
+        {
+          "text": {
+            "content": "taman impian ehsan.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

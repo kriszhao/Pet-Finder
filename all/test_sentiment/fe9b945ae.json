@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is adorable loving girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption fee rm Her steel cage, 5kg food, bowl, sand, towel, milk, scope will come along for rm Contact (watsapp)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.75028026,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045494396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watsapp",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.033981476,
+      "mentions": [
+        {
+          "text": {
+            "content": "rm Contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "watsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031304672,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bowl",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.031304672,
+      "mentions": [
+        {
+          "text": {
+            "content": "bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030927997,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028759718,
+      "mentions": [
+        {
+          "text": {
+            "content": "sand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "towel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028759718,
+      "mentions": [
+        {
+          "text": {
+            "content": "towel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0095935315,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "scope",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0095935315,
+      "mentions": [
+        {
+          "text": {
+            "content": "scope",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

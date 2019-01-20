@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I rescued this little cutie at Jalan Perak, KL.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "It was all alone and starving for food and love.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested in becoming Tiger's forever mommy/daddy, please contact me at .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.52187914,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Perak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1thd45pk"
+      },
+      "salience": 0.13127506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Perak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+        "mid": "/m/049d1"
+      },
+      "salience": 0.13127506,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07391818,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07391818,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05435534,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tiger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013379067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My mum was found these 2 tiny lil in a market.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They looking for food and was kick out by the local stall people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5490198,
+      "mentions": [
+        {
+          "text": {
+            "content": "mum",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16774751,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16582406,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07651749,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stall people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040891096,
+      "mentions": [
+        {
+          "text": {
+            "content": "stall people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

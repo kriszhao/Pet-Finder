@@ -1,0 +1,222 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Timmy is very timid and became even adder after his pal from the cage got adopted and Timmy has been alone since then.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is definiely not the dog which happily approach you thourgh the bars to be pat, but if you take him home he will be a very loyal and loving friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "And as all dogs related to Pincher, he may become very alert in the terriotory he assumes as his home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Timmy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.79667723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Timmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Timmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0707606,
+      "mentions": [
+        {
+          "text": {
+            "content": "adder",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03931289,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028010039,
+      "mentions": [
+        {
+          "text": {
+            "content": "pal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028010039,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009346418,
+      "mentions": [
+        {
+          "text": {
+            "content": "bars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008581099,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006446047,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terriotory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045187636,
+      "mentions": [
+        {
+          "text": {
+            "content": "terriotory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045187636,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pincher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038180961,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pincher",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

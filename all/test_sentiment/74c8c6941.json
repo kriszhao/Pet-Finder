@@ -1,0 +1,308 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Buttershy is a Golden Retriever mixed from a litter of 6.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's healthy and playful like a puppy should be!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She's currently 6 weeks old and is on a diet of milk replacer and grinded dog food so she can eat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I've already got 2 dogs so adding a third one would be a strain.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Hence, for the time being, I'm only fostering this angel.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Am only interested in serious adopters who have a basic understanding of proper puppy &amp; dog care and can provide a forever loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.22884162,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Golden Retriever",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01t032",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Retriever"
+      },
+      "salience": 0.17621854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Retriever",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Buttershy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1662748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buttershy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "strain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13746339,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "strain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06170077,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.050574448,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030169338,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02980365,
+      "mentions": [
+        {
+          "text": {
+            "content": "diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "milk replacer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02980365,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk replacer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "understanding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02048465,
+      "mentions": [
+        {
+          "text": {
+            "content": "understanding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017344376,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016542735,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014537899,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011099605,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "angel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009140543,
+      "mentions": [
+        {
+          "text": {
+            "content": "angel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,308 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Leo is a 4 month old male kitten, was found under a car alone about 2 months ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is very playful, enjoys being cuddled and litter tray trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Susu was found by my neighbour one week ago at guard post.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Both Leo and Susu get along well and they are enjoying each others company.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I would be very grateful if they can be adopted together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My preference of adopter is who can give them great care and love and supports spay/neuter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6121463,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Leo",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/078fxh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_(astrology)"
+      },
+      "salience": 0.1374517,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06621857,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Susu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022982186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Susu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Susu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "neighbour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021968098,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard post",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021968098,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard post",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter tray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02180926,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter tray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Leo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019806566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "preference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018135887,
+      "mentions": [
+        {
+          "text": {
+            "content": "preference",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015095512,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010581052,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spay/neuter",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010581052,
+      "mentions": [
+        {
+          "text": {
+            "content": "spay/neuter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008077758,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "others",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006669922,
+      "mentions": [
+        {
+          "text": {
+            "content": "others",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0065080486,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,209 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Saw this cute lil' puppy wondering around the &quot;pasar&quot; area at Butterworth, Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "After a while she gets tired and lay down to sleep by the road side.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "So pity... :(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone who is willing to give her a permanent home, please contact me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "lil",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31543782,
+      "mentions": [
+        {
+          "text": {
+            "content": "lil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20252866,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18771404,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08253609,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pasar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08253609,
+      "mentions": [
+        {
+          "text": {
+            "content": "pasar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Butterworth",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03sqpj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Butterworth,_Penang"
+      },
+      "salience": 0.03384186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butterworth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6xq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang"
+      },
+      "salience": 0.03384186,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025629444,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025629444,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010304708,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

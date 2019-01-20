@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mocha, a female puppy,5 months &quot;young&quot; ,waiting for her forever home...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "if u would love her as part of your family pls contact me now!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "T&amp;C apply!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mocha",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/06jdrl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Caffè_mocha"
+      },
+      "salience": 0.600212,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mocha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.28164685,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.081404746,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01225259,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01225259,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "T&C",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012231272,
+      "mentions": [
+        {
+          "text": {
+            "content": "T&amp;C",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

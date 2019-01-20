@@ -1,0 +1,491 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found the cat when looking for my Adult pet Lilino which when missing on 28 july ...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "i found the cat helpless begging for food...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "i take him home and feed him ... still on medication..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "a minor cut found on his paw.. maybe because of of dog attack as my house area is the dog territory..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "hope he can get better soon and open for adoption... not sure which breed is it..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "i just put Bengal there because there's a stripe like a tiger around his body.. and he's will roar like a tiger when the light off for bed time... lol..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "lmao... rofl this cat is up for adoption, permission given by the owner... call me ASAP...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18634653,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15061387,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hope",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1001342,
+      "mentions": [
+        {
+          "text": {
+            "content": "hope",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lilino",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09032919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilino",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adult",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/016c68",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adult"
+      },
+      "salience": 0.09032919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adult",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035063833,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "begging",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028131299,
+      "mentions": [
+        {
+          "text": {
+            "content": "begging",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028131299,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027992103,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog territory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02438012,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog territory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cut",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022652812,
+      "mentions": [
+        {
+          "text": {
+            "content": "cut",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020989772,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019873684,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog attack",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019081281,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog attack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019081281,
+      "mentions": [
+        {
+          "text": {
+            "content": "house area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medication",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018915359,
+      "mentions": [
+        {
+          "text": {
+            "content": "medication",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018848754,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014954938,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013778562,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013139568,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010454382,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bengal",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0103109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengal",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009184102,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "permission",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009184102,
+      "mentions": [
+        {
+          "text": {
+            "content": "permission",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065652127,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057668258,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stripe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057668258,
+      "mentions": [
+        {
+          "text": {
+            "content": "stripe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

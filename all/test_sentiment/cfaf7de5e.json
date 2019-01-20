@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hey all, this is Earth!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "His meowmmy brought him to my front door, together with his four other siblings about 5 weeks ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He has recovered from his eye infection and is now looking for a home to call his own!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "E-mail me ya! :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43240476,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Earth",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/02j71",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth"
+      },
+      "salience": 0.3347587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "meowmmy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058466204,
+      "mentions": [
+        {
+          "text": {
+            "content": "meowmmy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058466204,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057759758,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04036816,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye infection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017776202,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye infection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

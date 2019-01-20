@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I saw this poor puppy at factory area in Puchong, he is very cute, fat, active, happy and always wanted to get close to me, therefore I decided to pick him up and send to vet for temporary foster. .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hope that he will find a permanent home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If interested, kindly drop me a message or call me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39246273,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.39246273,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puchong",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Puchong",
+        "mid": "/m/0cxff7"
+      },
+      "salience": 0.09635567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puchong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.058141053,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034349862,
+      "mentions": [
+        {
+          "text": {
+            "content": "foster",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026227957,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

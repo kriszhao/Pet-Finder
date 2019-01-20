@@ -1,0 +1,253 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lilo is a mixed breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She has short hair and has been toilet trained to pee and poo on weeweepads.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Her first adopter starved her while her second adopter could not handle her energy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She's 10 months old and is already spayed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She needs space to run around so those with landed property is much appreciated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Adopter will be interviewed and subject to house visits.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lilo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7124226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12556075,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050332222,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021158114,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019529002,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019529002,
+      "mentions": [
+        {
+          "text": {
+            "content": "poo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weeweepads",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013237139,
+      "mentions": [
+        {
+          "text": {
+            "content": "weeweepads",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "energy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012393235,
+      "mentions": [
+        {
+          "text": {
+            "content": "energy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "property",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009188143,
+      "mentions": [
+        {
+          "text": {
+            "content": "property",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067750504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house visits",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.006428577,
+      "mentions": [
+        {
+          "text": {
+            "content": "house visits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003446182,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

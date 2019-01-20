@@ -1,0 +1,90 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mimi, our lovely, nice burma-mix lady is looking for a new home, where she will be treated in a carefull, serious way, as we - very heart-breaking - have to give her into only good , cat-loving hands 🌹😿🌹",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mimi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7363842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mimi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "burma-mix lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16474657,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06429403,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034575175,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

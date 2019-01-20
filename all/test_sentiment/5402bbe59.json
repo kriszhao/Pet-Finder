@@ -1,0 +1,88 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Extremely soft and a darling, doesn't leave your sight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Cuddly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If interested, contact Thanks Koki",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5387843,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "darling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41662943,
+      "mentions": [
+        {
+          "text": {
+            "content": "darling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks Koki",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044586223,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks Koki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

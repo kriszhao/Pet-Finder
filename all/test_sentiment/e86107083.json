@@ -1,0 +1,298 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found them roaming around the sidewalk of my workplace.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "One of them(the black one) been kicked around like trash.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "When I try to find if it's mommy around the compound, I found the stripes one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I already took them to the vet and dewormed it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "And also gave them vitamins.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please adopt them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Adoption is free.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "No charge.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "As long as you promise me that you'll give them your love and care.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "sidewalk",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.26530796,
+      "mentions": [
+        {
+          "text": {
+            "content": "sidewalk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "workplace",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.26530796,
+      "mentions": [
+        {
+          "text": {
+            "content": "workplace",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "One",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14335562,
+      "mentions": [
+        {
+          "text": {
+            "content": "One",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11663761,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "compound",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03432383,
+      "mentions": [
+        {
+          "text": {
+            "content": "compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stripes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03432383,
+      "mentions": [
+        {
+          "text": {
+            "content": "stripes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03407517,
+      "mentions": [
+        {
+          "text": {
+            "content": "trash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031396307,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023488501,
+      "mentions": [
+        {
+          "text": {
+            "content": "charge",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016433591,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012542858,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0124280155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vitamins",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010378737,
+      "mentions": [
+        {
+          "text": {
+            "content": "vitamins",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

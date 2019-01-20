@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "We adopted Chloe from the pet store when she was 3 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It was told that she suffered abuse before adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She has been with my family for seven good years.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Chloe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8517474,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chloe",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pet store",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08962663,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet store",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02808668,
+      "mentions": [
+        {
+          "text": {
+            "content": "abuse",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021151705,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00938756,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

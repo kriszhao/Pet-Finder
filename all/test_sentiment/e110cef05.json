@@ -1,0 +1,281 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I desperately need to get her a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She needs an EXTREMELY PATIENT, UNDERSTANDING and GENTLE owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Preferably, an experienced dog owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We found her by the roadside at Bandar Baru Selayang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She may seem like a big scary dog but she's very loving.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She may need some time to trust and adjust to you because we suspect she's been abused before, this makes her a very anxious and alert.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please do leave me a message on my handphone if you can't get through(I might be at school at that time )",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5214183,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.20680347,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PATIENT",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06934298,
+      "mentions": [
+        {
+          "text": {
+            "content": "PATIENT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03543426,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "UNDERSTANDING",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031164836,
+      "mentions": [
+        {
+          "text": {
+            "content": "UNDERSTANDING",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028877273,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024009734,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roadside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02090724,
+      "mentions": [
+        {
+          "text": {
+            "content": "roadside",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GENTLE",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.018489541,
+      "mentions": [
+        {
+          "text": {
+            "content": "GENTLE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "handphone",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014558156,
+      "mentions": [
+        {
+          "text": {
+            "content": "handphone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bandar Baru Selayang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0b7zl3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Baru_Selayang"
+      },
+      "salience": 0.012386117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandar Baru Selayang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "school",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01020029,
+      "mentions": [
+        {
+          "text": {
+            "content": "school",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alert",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064078383,
+      "mentions": [
+        {
+          "text": {
+            "content": "alert",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

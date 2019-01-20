@@ -1,0 +1,100 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ayaya is sweet girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She has face like her mother (persian cross) My role first come first serve.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ayaya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9146888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ayaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03671946,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cross",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03376409,
+      "mentions": [
+        {
+          "text": {
+            "content": "cross",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "role",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148276165,
+      "mentions": [
+        {
+          "text": {
+            "content": "role",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "this pets is quite listening and stable emotional pls call grace",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8244262,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17557383,
+      "mentions": [
+        {
+          "text": {
+            "content": "grace",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

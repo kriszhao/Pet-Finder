@@ -1,0 +1,264 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lily is an adorable dog/ pet to have.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She needs hardly any attention but will be delighted to receive a pat or a dog chew as a treat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Lily has grown up in a family of two relatively young children, currently aged 9 &amp; 11, and is also an EXCELLENT guard dog to have.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Also, if you have any other pets, Lily should adjust relatively well to them as she has grown up with our other dog, Maxi - a Dobermann , who is two years younger to her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lily",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5936795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lily",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lily",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lily",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12642574,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12114068,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030012557,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dobermann",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/06pq2r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dobermann"
+      },
+      "salience": 0.022005737,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Maxi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dobermann",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020510165,
+      "mentions": [
+        {
+          "text": {
+            "content": "pat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019877745,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015891314,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012698536,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog chew",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012606758,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog chew",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012606758,
+      "mentions": [
+        {
+          "text": {
+            "content": "treat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012544544,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

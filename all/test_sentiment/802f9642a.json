@@ -1,0 +1,268 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kingsley was rescued by a friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is currently having conjunctivitis.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "But not to worry as all he needs is eye drops every 3-4 hours and he should be fine in a few days.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Characteristics: (a) very brave (b) extremely loving - loves to cuddle (c) playful (d) well-behaved If you would like to view/adopt, feel free to contact me anytime.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please do consider the responsibilities of being a pet owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "It is a life-time commitment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Animals are not toys.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They have feelings too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kingsley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6253851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kingsley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14518353,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conjunctivitis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07292702,
+      "mentions": [
+        {
+          "text": {
+            "content": "conjunctivitis",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commitment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05114881,
+      "mentions": [
+        {
+          "text": {
+            "content": "commitment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02959598,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Characteristics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01905087,
+      "mentions": [
+        {
+          "text": {
+            "content": "Characteristics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "responsibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013338127,
+      "mentions": [
+        {
+          "text": {
+            "content": "responsibilities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013338127,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.011754844,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feelings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009187287,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009090286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please call either of the numbers given after 5pm to get more details or Please sms : Julie : states Bo Bo.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Will return call after 6pm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "either",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.41565055,
+      "mentions": [
+        {
+          "text": {
+            "content": "either",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "numbers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18066502,
+      "mentions": [
+        {
+          "text": {
+            "content": "numbers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15961653,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11712667,
+      "mentions": [
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Julie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.070904024,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028784255,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bo Bo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027252965,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bo Bo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,388 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sandy and Momo are siblings, adorable and playful but inseparable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They bring lots of laughter with their funny antics, yet could be slightly annoying with their cheeky behaviour.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You are sure to fall in love with them at first sight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "The adoption fee is to cover part of the neutering and vaccination cost spent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I have no choice but to give them up because my mom has gotten allergic to cats and we can't keep them in the house anymore.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The least I can do for these lovely furkids are to find them a nice new home, filled with as much love (if not more) for them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.62823385,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Momo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06332398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Momo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sandy",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.061827593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sandy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044724092,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "antics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "antics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016169654,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015179051,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014412668,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013458933,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013458933,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "behaviour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013408476,
+      "mentions": [
+        {
+          "text": {
+            "content": "behaviour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01334209,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012319759,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012169793,
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "furkids",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009272717,
+      "mentions": [
+        {
+          "text": {
+            "content": "furkids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008344849,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007393444,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "least",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051435735,
+      "mentions": [
+        {
+          "text": {
+            "content": "least",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004081435,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004081435,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.7,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

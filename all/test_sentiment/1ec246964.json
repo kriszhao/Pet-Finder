@@ -1,0 +1,209 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Max and Maxine need a home!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are friendly and gentle siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Come and meet our animals for adoption at Selangor (Tues - Sun, 10am - 4pm) and fall in love!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "www.spca.org.my",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28669584,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21416953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Maxine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21416953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maxine",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.12137267,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04778286,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043903254,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.026117848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023327157,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.spca.org.my",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01qhnc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/.org"
+      },
+      "salience": 0.013782591,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.spca.org.my",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tues - Sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008678697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tues - Sun",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,172 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This terrier was bought to Malaysia from Iran as a puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately the owner has to move to Germany in January and cannot take her terrier with her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He is healthy and lively and would suit a home that will spoil him!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "terrier",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.3121141,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2090195,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia",
+        "mid": "/m/09pmkv"
+      },
+      "salience": 0.17360374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.114264674,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03shp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Iran"
+      },
+      "salience": 0.0689422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Iran",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05285682,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terrier",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.046161707,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0345h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Germany"
+      },
+      "salience": 0.023037264,
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

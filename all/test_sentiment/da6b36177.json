@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this male ginger behind my flat building.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He was looking so confused and scared so decided to take him in.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Looks very healthy but will need deworm and deflea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact, i can send him nearby putrajaya/ cyberjaya/ seri kembangan/ bangi.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "ginger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5876679,
+      "mentions": [
+        {
+          "text": {
+            "content": "ginger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24408399,
+      "mentions": [
+        {
+          "text": {
+            "content": "building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deflea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07611571,
+      "mentions": [
+        {
+          "text": {
+            "content": "deflea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cyberjaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0qnfc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cyberjaya"
+      },
+      "salience": 0.034105603,
+      "mentions": [
+        {
+          "text": {
+            "content": "cyberjaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "putrajaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0g6vy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Putrajaya"
+      },
+      "salience": 0.034105603,
+      "mentions": [
+        {
+          "text": {
+            "content": "putrajaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "seri kembangan/ bangi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023921236,
+      "mentions": [
+        {
+          "text": {
+            "content": "seri kembangan/ bangi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

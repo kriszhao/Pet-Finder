@@ -1,0 +1,300 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hello everyone My name is Sakura Blossoms, named after the Japanese beautiful flower sakura also known as cherry blossoms.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I love my name - it's so ladylike which suits my purrrsonality.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I am pretty like the flower and I want to share a beautiful life with you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "You will love me because I will always be next to you and in your arms through your ups and downs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "You will never be alone because I am here for you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Let's spread the love Take me home with you Love, Sakura",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.64513695,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08598975,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sakura Blossoms",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01wh_8",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cherry_blossom"
+      },
+      "salience": 0.074451655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sakura Blossoms",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sakura",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Japanese",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0517234,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japanese",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "flower sakura",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041534968,
+      "mentions": [
+        {
+          "text": {
+            "content": "flower sakura",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cherry blossoms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037949882,
+      "mentions": [
+        {
+          "text": {
+            "content": "cherry blossoms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012744393,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flower",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012519013,
+      "mentions": [
+        {
+          "text": {
+            "content": "flower",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purrrsonality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010923163,
+      "mentions": [
+        {
+          "text": {
+            "content": "purrrsonality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007835504,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005289847,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003332415,
+      "mentions": [
+        {
+          "text": {
+            "content": "arms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ups",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003332415,
+      "mentions": [
+        {
+          "text": {
+            "content": "ups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "downs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003332415,
+      "mentions": [
+        {
+          "text": {
+            "content": "downs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.3,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

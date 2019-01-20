@@ -1,0 +1,186 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He is an Akita mix.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Blue eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very intelligent and lovable dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Preferably dog trainers or very patient owner because he has biting history.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please feel free to call me for more information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.65561604,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Akita",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cqg0t",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Akita_(dog)"
+      },
+      "salience": 0.1382487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Akita",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "patient owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07058385,
+      "mentions": [
+        {
+          "text": {
+            "content": "patient owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04525116,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034812298,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog trainers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030923093,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog trainers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015068165,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "history",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009496685,
+      "mentions": [
+        {
+          "text": {
+            "content": "history",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

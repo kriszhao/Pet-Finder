@@ -1,0 +1,264 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Daisy: Female, 11 months old, vaccinated and spayed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Athletic young girl with a formidable jump.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Excited in anticipation of play or activities, but quite calm and easy to handle once in activity.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Come and meet our animals for adoption at Selangor (Tues - Sun, 10am - 4pm) and fall in love!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "www.spca.org.my",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Daisy: Female",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.34488475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daisy: Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11136225,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "activities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08658368,
+      "mentions": [
+        {
+          "text": {
+            "content": "activities",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "activity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0795503,
+      "mentions": [
+        {
+          "text": {
+            "content": "activity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "play",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07620843,
+      "mentions": [
+        {
+          "text": {
+            "content": "play",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jump",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07566119,
+      "mentions": [
+        {
+          "text": {
+            "content": "jump",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anticipation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07529021,
+      "mentions": [
+        {
+          "text": {
+            "content": "anticipation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037021484,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tues - Sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03129629,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tues - Sun",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023250451,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023250451,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.spca.org.my",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0117qddf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Cruelty_to_Animals"
+      },
+      "salience": 0.02187878,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.spca.org.my",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.013761727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

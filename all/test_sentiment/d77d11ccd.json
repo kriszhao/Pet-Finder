@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Basically trained, Children friendly, Pure breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.51824605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37699717,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pure",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.104756765,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pure",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

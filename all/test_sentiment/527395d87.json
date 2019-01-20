@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tonto is a lovely dog but due to changes in our family dynamics we can no longer have him around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We are looking for a good home for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tonto",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03s3yg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tonto"
+      },
+      "salience": 0.5670265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tonto",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18881509,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family dynamics",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10478578,
+      "mentions": [
+        {
+          "text": {
+            "content": "family dynamics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "changes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10356117,
+      "mentions": [
+        {
+          "text": {
+            "content": "changes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03581148,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

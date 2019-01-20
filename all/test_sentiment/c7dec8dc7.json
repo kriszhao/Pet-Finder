@@ -1,0 +1,336 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "There is the mummy cat and her three 2-weeks-old kittens.In good health.Very agreeable temperament and would adapt effortlessly with new owner.Very desperate to find the new owner as the Hari Raya is fast approaching, which means the dorm which I am living in would be totally deserted for more than a week..she would be starving with 3 kittens waiting for her to feed them..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I originally found the mummy cat when I first moved in to my present dorm.She was heavily pregnant then.I could see that the cat had been well taken care of in the past but abandoned later.she has shiny coat of fur and clean,a sign of good care by her previous owner..Would those interested contact me to have these poor cats relocated to a new home?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens.In",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0hjzp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kitten"
+      },
+      "salience": 0.6254927,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens.In",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mummy cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08519259,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05800505,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04404596,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dorm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04352497,
+      "mentions": [
+        {
+          "text": {
+            "content": "dorm",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04315771,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028036285,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hari Raya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013418296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hari Raya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mummy cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008546113,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dorm.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077984533,
+      "mentions": [
+        {
+          "text": {
+            "content": "dorm.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058832313,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005169649,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005169649,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sign",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005169649,
+      "mentions": [
+        {
+          "text": {
+            "content": "sign",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045180623,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041972306,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0036211372,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036211372,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002958182,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "then.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002473963,
+      "mentions": [
+        {
+          "text": {
+            "content": "then.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

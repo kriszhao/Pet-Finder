@@ -1,0 +1,263 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, I’m Veronica.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My Buffy Baby is so sweet and I’ll be sad to see her go, but I’m moving and can’t take her with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She’s a gorgeous brown color, with white markings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She’s wonderfully behaved with men, women, and children, and mostly ignores our cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Never had a health problem; There is no adoption fee.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me at-, serious offers only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks for your time!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6613123,
+      "mentions": [
+        {
+          "text": {
+            "content": "color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Veronica",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11635758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Veronica",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "My Buffy Baby",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.068325594,
+      "mentions": [
+        {
+          "text": {
+            "content": "My Buffy Baby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025078965,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022943752,
+      "mentions": [
+        {
+          "text": {
+            "content": "men",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "women",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022943752,
+      "mentions": [
+        {
+          "text": {
+            "content": "women",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022943752,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020750277,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012079417,
+      "mentions": [
+        {
+          "text": {
+            "content": "offers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012056603,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007614439,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075935954,
+      "mentions": [
+        {
+          "text": {
+            "content": "health problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

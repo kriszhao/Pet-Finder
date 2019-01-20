@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Depends on the dog photos, please add my fb .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "FB:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.5613061,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FB",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22881792,
+      "mentions": [
+        {
+          "text": {
+            "content": "FB",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20987596,
+      "mentions": [
+        {
+          "text": {
+            "content": "fb",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

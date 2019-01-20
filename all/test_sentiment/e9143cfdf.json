@@ -1,0 +1,265 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tiny is a rescued kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is the tiniest among his siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Tiny is very active and loves to play.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has a healthy appetite, litter box trained, dewormed and de-flead.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I am an advocate of spaying and neutering.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are uncomfortable with that, I am sure there are other kitten owners that does not require this procedure when adopting.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If you are still interested in NEUTERING Tiny at six months, kindly watsapp me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tiny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7506706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advocate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11509766,
+      "mentions": [
+        {
+          "text": {
+            "content": "advocate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiniest",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05825837,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiniest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01775946,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012038912,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012038912,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011925289,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011925289,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NEUTERING Tiny",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.004920629,
+      "mentions": [
+        {
+          "text": {
+            "content": "NEUTERING Tiny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitten owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003571002,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "procedure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017938771,
+      "mentions": [
+        {
+          "text": {
+            "content": "procedure",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

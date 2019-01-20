@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Chocolate is a healthy kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Comel and manja.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "S/he is litter box trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Chocolate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.780962,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chocolate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14899175,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043984238,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Comel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026062023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Comel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

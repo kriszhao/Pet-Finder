@@ -1,0 +1,228 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Titus.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's a 2-month-old puppy that I rescued from a construction site along with his two brothers, Lucius and Marius.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's the ever-inquisitive one; always straying far from the group to explore and roam!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He barks loudly and is a great early-warning system against any stranger that approaches.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "His barking will also ensure that you will never lose him! :D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Titus",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.82618785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Titus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05681881,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "construction site",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022736223,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction site",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015515396,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015403312,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014245423,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "barking",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014077981,
+      "mentions": [
+        {
+          "text": {
+            "content": "barking",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stranger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010717482,
+      "mentions": [
+        {
+          "text": {
+            "content": "stranger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lucius",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009136093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucius",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Marius",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009136093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marius",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "system",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060253604,
+      "mentions": [
+        {
+          "text": {
+            "content": "system",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

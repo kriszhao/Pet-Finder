@@ -1,0 +1,105 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Schnupsel 😺, our funny, nice and cute male kitten, is looking for a really good caring cat-lover family, as we - very heart-breaking- need to rehome our whole cat-family 😿😿😿 The adoption fees we request, are only because we are looking for serious cat-lovers !!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Schnupsel 😺",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7037695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Schnupsel 😺",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10949793,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat-family",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10203761,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat-family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat-lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05490881,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat-lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029786132,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

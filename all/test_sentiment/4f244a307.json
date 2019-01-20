@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "It have been 3 months now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "No one have come forward for Kaka.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Kaka is now one of our family member.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She gets well with Golden and Felix but sometimes she barks at them for &quot;who knows why&quot;.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is very happy !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "___________________________________________________ We think she is lost.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is shy and extreme afraid.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She has minor injure- a dog attack her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Urgently looking for her owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is currently living with us and we dont mind taking her!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39179704,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14746933,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family member",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11564781,
+      "mentions": [
+        {
+          "text": {
+            "content": "family member",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kaka",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10633146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kaka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Kaka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog attack",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.05423815,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog attack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.054159954,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Golden",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.046225585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Felix",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046225585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Felix",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0379051,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

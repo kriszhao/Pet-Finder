@@ -1,0 +1,195 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mister Pus is a British Blue pedigree cat that has been with us since 8 weeks old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He currently lives indoors and outdoors but has previously lived solely indoors.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is of gentle nature and patient with young children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Perfect family pet and we are reluctant to lose him but are moving to a new country and logistically taking him with us is not an option.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mister Pus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5128979,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mister Pus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "pedigree cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blue",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3652613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blue",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06140578,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013391359,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patient",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01229762,
+      "mentions": [
+        {
+          "text": {
+            "content": "patient",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01229762,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0092570335,
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "option",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008293059,
+      "mentions": [
+        {
+          "text": {
+            "content": "option",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048983423,
+      "mentions": [
+        {
+          "text": {
+            "content": "family pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

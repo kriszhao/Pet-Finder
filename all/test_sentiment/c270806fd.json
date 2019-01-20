@@ -1,0 +1,333 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Nala and her brother Felipe were found behind my office.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is healthy weight and has very fluffy fur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Her eyes are hazel.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is very playful and active and you cannot miss her raccoon tail!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is also toilet trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Hope to find a forever home for her!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "New mommy/daddy preferably should have own vehicle, stable job and has experience with cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Nala",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/121y0bnz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nala_(The_Lion_King)"
+      },
+      "salience": 0.64748883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nala",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Felipe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16403286,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Felipe",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "office",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0788245,
+      "mentions": [
+        {
+          "text": {
+            "content": "office",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01922075,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hazel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012804804,
+      "mentions": [
+        {
+          "text": {
+            "content": "hazel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010205423,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009909882,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "raccoon tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009403988,
+      "mentions": [
+        {
+          "text": {
+            "content": "raccoon tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009378373,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mommy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070488555,
+      "mentions": [
+        {
+          "text": {
+            "content": "mommy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vehicle",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0069630514,
+      "mentions": [
+        {
+          "text": {
+            "content": "vehicle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067945467,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049400493,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049400493,
+      "mentions": [
+        {
+          "text": {
+            "content": "experience",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049400493,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0031040094,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

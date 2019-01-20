@@ -1,0 +1,206 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found these 2 puppies at Gelang Patah Johor.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They were born on 15th Oct .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Mama is a terrier and papa a mixed breed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The black puppy is a female and the black + brown is a male.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.49684924,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gelang Patah Johor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d1jbg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gelang_Patah"
+      },
+      "salience": 0.110769585,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gelang Patah Johor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "terrier",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07888605,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "papa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05695042,
+      "mentions": [
+        {
+          "text": {
+            "content": "papa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05695042,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05472749,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044284243,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03847928,
+      "mentions": [
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brown",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03620597,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025897296,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

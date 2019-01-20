@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He's a sweet and independant fat male cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He was found in Kg Baru, and rescued Feb in .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's been living with me and likes attention (just a pat on the head) end of each day.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He's slightly shy and hates load sudden sound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.8723235,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035248008,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027558608,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kg Baru",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kampung_Baru,_Kuala_Lumpur",
+        "mid": "/m/0cm70b"
+      },
+      "salience": 0.022671366,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kg Baru",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hates",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018662712,
+      "mentions": [
+        {
+          "text": {
+            "content": "hates",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011767884,
+      "mentions": [
+        {
+          "text": {
+            "content": "pat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011767884,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

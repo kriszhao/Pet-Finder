@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mix Dachshund Dog Age--3 years 6 months Healthy Owner have no time to take care,always travelling outstation.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mix Dachshund",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3894594,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mix Dachshund",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dog Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25765628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dog Age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18896966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outstation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.094495706,
+      "mentions": [
+        {
+          "text": {
+            "content": "outstation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.069418974,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

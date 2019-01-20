@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mr. Goody Two Shoes is a mixed breed (with a little bit of bull terrier in him).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is very mild tempered (friendly) and an easy dog to care for.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He was recently rescued and he has been neutered and dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is looking for a good family to adopt him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mr.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6165035,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Goody Two Shoes",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/026zk4y",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_History_of_Little_Goody_Two-Shoes"
+      },
+      "salience": 0.28735656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goody Two Shoes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04448994,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bull terrier",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03050561,
+      "mentions": [
+        {
+          "text": {
+            "content": "bull terrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013851218,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072931633,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

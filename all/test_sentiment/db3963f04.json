@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mittens is about two months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's a bit timid at first, but very very sweet and calm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She has gorgeous markings and a long perfect tail, and the cutest little face.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I wish I could keep her, she is such a doll!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I put one month as she is somewhere between one and two months old, I found her so I don't know exactly how old she is.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mittens",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.48742795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doll",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3315391,
+      "mentions": [
+        {
+          "text": {
+            "content": "doll",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055267334,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054598995,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054598995,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016567636,
+      "mentions": [
+        {
+          "text": {
+            "content": "somewhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

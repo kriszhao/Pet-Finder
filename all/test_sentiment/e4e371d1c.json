@@ -1,0 +1,251 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Gorilla is a smart and active dog, she loves to play catch and definitely will keep you up and running if you're an active person.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She's a very loveable dog but unfortunately I have to migrate out of the country in a very short notice.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I am unable to bring her along as the process to migrate her over would take too long and no one will be able to look after her over here.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Therefore I am looking for a good pet lover that would be willing to adopt her and provide her with lots of love and passion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.49102718,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1597864,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13755614,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gorilla",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0396p",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gorilla"
+      },
+      "salience": 0.0702652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gorilla",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "catch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049086347,
+      "mentions": [
+        {
+          "text": {
+            "content": "catch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025815329,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "process",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017142728,
+      "mentions": [
+        {
+          "text": {
+            "content": "process",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012698544,
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "notice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012698544,
+      "mentions": [
+        {
+          "text": {
+            "content": "notice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0069569224,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061130202,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "passion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061130202,
+      "mentions": [
+        {
+          "text": {
+            "content": "passion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047406103,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

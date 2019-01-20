@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She's been living with us for about 2 months but unfortunately we can't give her a forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She's been living in our porch area.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Vaccinated and dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Will contribute towards spaying costs once she's old enough.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Friendly and very manja.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.55857456,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "porch area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.25212532,
+      "mentions": [
+        {
+          "text": {
+            "content": "porch area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18930012,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying costs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

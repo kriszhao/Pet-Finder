@@ -1,0 +1,289 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens - 3 months old - Male - Healthy Alvin - White, Long Tail - Very Curious Simon - Ginger - Cautious of things.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Took 2 days to try the kibbles.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Theodore - White, Short Tail - Fatty These 3 kittens were adopted back in Nov but now the owner needs to move to a different state and is not willing to take them along Kindly contact Nandhini at or Rizana at if you are willing to give them a home Thank You Nandhini",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25057626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21981372,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Alvin - White",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15394062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alvin - White",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060483716,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Long Tail",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/04ycj4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Long_tail"
+      },
+      "salience": 0.060342103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Long Tail",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Curious Simon - Ginger - Cautious",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053140137,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curious Simon - Ginger - Cautious",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04488803,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Short Tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03359975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Short Tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027136682,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020493042,
+      "mentions": [
+        {
+          "text": {
+            "content": "contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Theodore - White",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0dwsl2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Theodore_H._White"
+      },
+      "salience": 0.019950533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Theodore - White",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nandhini",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013818779,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nandhini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rizana",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012143591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rizana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010973198,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nandhini",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0096829105,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nandhini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009016923,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

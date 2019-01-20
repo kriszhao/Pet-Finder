@@ -1,0 +1,233 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "he's chichita's brother.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "just came to us on 23/8/08.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "was not living in an ideal condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "the marks on his back are due to fight with his dad.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "a good case study for us, we're turning into cat shrinks to help broncos out.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "so far he's responding well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "although timid and jumpy, he loves to be pet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.67936724,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chichita",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13713978,
+      "mentions": [
+        {
+          "text": {
+            "content": "chichita",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029802922,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029802922,
+      "mentions": [
+        {
+          "text": {
+            "content": "dad",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "case study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02972212,
+      "mentions": [
+        {
+          "text": {
+            "content": "case study",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029545745,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "marks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028734531,
+      "mentions": [
+        {
+          "text": {
+            "content": "marks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017732456,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009076128,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "broncos",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009076128,
+      "mentions": [
+        {
+          "text": {
+            "content": "broncos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

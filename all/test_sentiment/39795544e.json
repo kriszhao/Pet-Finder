@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ralph is composed and calm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He gets a little moody only when dragged out from his nap.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is lazy and loves relaxing on he upper shelf of his cage being desturbed by no one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ralph",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9213344,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ralph",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031652234,
+      "mentions": [
+        {
+          "text": {
+            "content": "nap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021918768,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015407002,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009687607,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelf",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

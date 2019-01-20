@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Princess is the smallest size of her 6-litter pack.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is a runt :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Even at months old, her size is still small and think she will grow up to medium size.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She walks daintily and is very well mannered!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Thats why I named her Princess.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Note: For serious adopter only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Questions will be asked to ensure the puppy gets a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "runt",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.50980324,
+      "mentions": [
+        {
+          "text": {
+            "content": "runt",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Princess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38245028,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pack",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03681161,
+      "mentions": [
+        {
+          "text": {
+            "content": "pack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018108862,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015282147,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Princess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009860914,
+      "mentions": [
+        {
+          "text": {
+            "content": "Princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Questions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008425973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Questions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005909192,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005909192,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037234803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037151568,
+      "mentions": [
+        {
+          "text": {
+            "content": "Note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

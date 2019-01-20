@@ -1,0 +1,215 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Beauty's brother.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Look similar but with short hair.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mother dog a stray outside my factory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The mother dog is a smart dog n sensitive to sounds.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If take after the mother Max will be a good guard dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5459682,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15899396,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog n",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beauty",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Beauty",
+        "mid": "/m/01f43"
+      },
+      "salience": 0.11808548,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beauty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Max",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04740716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038277965,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034525406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026210092,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022528244,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sounds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008003518,
+      "mentions": [
+        {
+          "text": {
+            "content": "sounds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

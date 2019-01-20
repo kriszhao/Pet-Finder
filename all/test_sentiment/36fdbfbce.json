@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please give this cute fella a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is just 4 weeks old and has a small white mustache underneath his mouth.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.84699994,
+      "mentions": [
+        {
+          "text": {
+            "content": "fella",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08623089,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mustache",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03915971,
+      "mentions": [
+        {
+          "text": {
+            "content": "mustache",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027609441,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

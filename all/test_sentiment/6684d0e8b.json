@@ -1,0 +1,131 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "she's a darling of Kiki..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Born on 25th June ...A bit shy and love to be cuddled..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you Eda Idayu for welcoming her into your house on 19th Sept ..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "May GOD Bless You...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "darling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6943998,
+      "mentions": [
+        {
+          "text": {
+            "content": "darling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kiki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18910287,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kiki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Eda Idayu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09098609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eda Idayu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013147606,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GOD",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.012363667,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

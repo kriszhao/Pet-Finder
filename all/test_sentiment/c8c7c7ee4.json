@@ -1,0 +1,215 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I love Tina.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is a clever, loving, playful kitty who even taught herself how to play fetch (she even drags her fluffy stick toys back to me).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She lets me sleep all night, and only jumps on me when the alarm goes off (she knows!).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She has been my companion for 6 months now but I have to leave Malaysia and need to find her a loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I know she will adapt quickly to a happy house, I would love for her to have an actual house as she has grown up in an apartment with no real grass!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tina",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.93497723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tina",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alarm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017514963,
+      "mentions": [
+        {
+          "text": {
+            "content": "alarm",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stick toys",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013142678,
+      "mentions": [
+        {
+          "text": {
+            "content": "stick toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia",
+        "mid": "/m/09pmkv"
+      },
+      "salience": 0.009634737,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0070135756,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0048549324,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004318355,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004318355,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0042251716,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

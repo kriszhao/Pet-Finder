@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This 3 years old male Rottweiler has severe hip dysplasia.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is required to be on a strict diet in order to lose weight and he is currently on 4 tablets of Maximus-Joint Osteoarthritis Treatment per day to treat his condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rottweiler",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01nw62",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rottweiler"
+      },
+      "salience": 0.7931255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rottweiler",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hip dysplasia",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08480271,
+      "mentions": [
+        {
+          "text": {
+            "content": "hip dysplasia",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029270016,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028919032,
+      "mentions": [
+        {
+          "text": {
+            "content": "diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "order",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028919032,
+      "mentions": [
+        {
+          "text": {
+            "content": "order",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014131291,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maximus-Joint Osteoarthritis Treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01195014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maximus-Joint Osteoarthritis Treatment",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tablets",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008882299,
+      "mentions": [
+        {
+          "text": {
+            "content": "tablets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

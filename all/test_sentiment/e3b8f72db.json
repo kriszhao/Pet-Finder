@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "TIA needs to be taken out immediately.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's been in the shelter for too long and its not a nice place to be.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Tia is a Collie mix.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Mummy a Collie and daddy a Mongrel.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Tia is an obedient and gentle girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "TIA",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.35909918,
+      "mentions": [
+        {
+          "text": {
+            "content": "TIA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tia",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/07s82",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Transient_ischemic_attack"
+      },
+      "salience": 0.35241097,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Tia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07614489,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065392405,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.064605564,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Collie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02kcj6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Collie"
+      },
+      "salience": 0.03573345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Collie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mongrel",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/02ksvq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mongrel"
+      },
+      "salience": 0.026743071,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mongrel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019870471,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

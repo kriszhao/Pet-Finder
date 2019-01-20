@@ -1,0 +1,280 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This dog was left alone in a park.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Looking cute and pitiful my son brought home in order to find him a better home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "So far, this dog does not make noise at nite, so u can have a good sleep.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He also knows how to pee on the grass.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "In summary...easy to take care, just need to hve routine food and to be train well as he is a an intelligent dog",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5869444,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14097247,
+      "mentions": [
+        {
+          "text": {
+            "content": "park",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06674621,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03977004,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028772645,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027411776,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "order",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027411776,
+      "mentions": [
+        {
+          "text": {
+            "content": "order",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016976627,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148442695,
+      "mentions": [
+        {
+          "text": {
+            "content": "noise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01475197,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012896885,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011136402,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056900326,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "summary",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056744665,
+      "mentions": [
+        {
+          "text": {
+            "content": "summary",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

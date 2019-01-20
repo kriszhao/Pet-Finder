@@ -1,0 +1,361 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These pups were found in Banting.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They were fed by a kind Malay girl who then got in touch with NANCY, who rescued them and is now fostering them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ben (male) and Hana (female) are both very smart and toilet-trained to poo &amp; pee on grass.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They are very intelligent and easy to train.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They will be good additions to your home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Location: BANGSAR.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please call NANCY LEE in order to view them (I am just IT admin).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "TQ!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3409789,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NANCY LEE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28408915,
+      "mentions": [
+        {
+          "text": {
+            "content": "NANCY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "NANCY LEE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08855242,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Banting",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0578hl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Banting"
+      },
+      "salience": 0.08830545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Banting",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027778842,
+      "mentions": [
+        {
+          "text": {
+            "content": "touch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "additions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02754209,
+      "mentions": [
+        {
+          "text": {
+            "content": "additions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "IT admin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023119682,
+      "mentions": [
+        {
+          "text": {
+            "content": "IT admin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018936414,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017383179,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malay",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016486144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013006611,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "order",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012982069,
+      "mentions": [
+        {
+          "text": {
+            "content": "order",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hana",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011221593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ben",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010816285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ben",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "BANGSAR",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/02b1f3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bangsar"
+      },
+      "salience": 0.0076999296,
+      "mentions": [
+        {
+          "text": {
+            "content": "BANGSAR",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005728152,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TQ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053730803,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

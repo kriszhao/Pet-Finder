@@ -1,0 +1,752 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cheney is a little American Forest Cat which falls under Maine Coon group, orange &amp; creamy tabby with light marble patterning on tummy..cute in size, a fun loving 11months old kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We provide a foster home for him while he was sick few months back.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "whereby his previous owner wasn't able to provide good environment for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He's all healthy now and looking for a new loving home, preferably a home that have other cat(s) too..so that he won't feel lonely.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We're looking for new adopter getting him a good home with loving environment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "New owner must always be in touch with us and update us on his condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "We should build network as friends.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "New owner must have existence cat at home coz we don't want him to be lonely.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "* Name: Cheney (a boy name means Heart of Oak Tree) * Breed: American Forest Cat (small Maine Coon) * Colour: Brown, Orange, Cream * Pattern: Tortoiseshell Marble * Age: 11months * Food: Royal Canin 32 (persian kitten) and/or IAMS Kitten (purple)..No whiskas,friskies,kibbles..Just",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cheney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32270384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cheney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "American Forest Cat",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Forest_cat",
+        "mid": "/m/017fsk"
+      },
+      "salience": 0.20988372,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Forest Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "American Forest Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "patterning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039945986,
+      "mentions": [
+        {
+          "text": {
+            "content": "patterning",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "marble",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039945986,
+      "mentions": [
+        {
+          "text": {
+            "content": "marble",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.037719324,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035226036,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035204824,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tabby",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035204824,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035204824,
+      "mentions": [
+        {
+          "text": {
+            "content": "tummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035204824,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Heart of Oak Tree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03240581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heart of Oak Tree",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maine Coon",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0j60j",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Maine_Coon"
+      },
+      "salience": 0.022445505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maine Coon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Maine Coon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016836425,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013517291,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009134249,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007058345,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "network",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006735756,
+      "mentions": [
+        {
+          "text": {
+            "content": "network",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006250404,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat(s)",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058414596,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat(s)",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005010567,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004030647,
+      "mentions": [
+        {
+          "text": {
+            "content": "touch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004030647,
+      "mentions": [
+        {
+          "text": {
+            "content": "condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040230234,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003801516,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tortoiseshell Marble",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.003441477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tortoiseshell Marble",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pattern",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003441477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pattern",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030232866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0030232866,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002641614,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friskies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021165235,
+      "mentions": [
+        {
+          "text": {
+            "content": "friskies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021165235,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001887318,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Orange",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017874702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Orange",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017874702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brown",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "existence cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017586375,
+      "mentions": [
+        {
+          "text": {
+            "content": "existence cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "IAMS Kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015616363,
+      "mentions": [
+        {
+          "text": {
+            "content": "IAMS Kitten",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015098101,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012866086,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Royal Canin 32",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11fcr09yfj"
+      },
+      "salience": 0.0012510258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal Canin 32",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

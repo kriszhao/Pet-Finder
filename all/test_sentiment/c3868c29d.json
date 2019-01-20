@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She's a cutie pie who definitely knows how to be super creativewith any toy you give her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "However, she needs a fellow feline companion or else she's going to be a handful for you to manage",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cutie pie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.85973334,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie pie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.09028113,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "handful",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038259182,
+      "mentions": [
+        {
+          "text": {
+            "content": "handful",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011726315,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

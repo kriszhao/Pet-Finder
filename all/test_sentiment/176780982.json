@@ -1,0 +1,348 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Rizzo was rescued from a condo in Damansara Perdana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She had a skin condition, which has healed, and is in good health.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is a cute little bundle of energy - racing around the house with my adult dog, and playing constantly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She already knows the command 'sit' and she is only two months old - Rizzo is a very bright little puppy!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She has a great appetite, and a happy temperament and personality.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is a chatty little puppy as well, she will 'chat' to you when it's dinner time!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Can you give her a forever home - you won't be disappointed!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Rizzo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5989746,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rizzo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rizzo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "skin condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13414612,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09678145,
+      "mentions": [
+        {
+          "text": {
+            "content": "condo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Damansara Perdana",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0db4vp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Damansara_Perdana"
+      },
+      "salience": 0.05167841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damansara Perdana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0162028,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014668834,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bundle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013926268,
+      "mentions": [
+        {
+          "text": {
+            "content": "bundle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011001053,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011001053,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adult dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010905588,
+      "mentions": [
+        {
+          "text": {
+            "content": "adult dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010905588,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "energy - racing",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.010905588,
+      "mentions": [
+        {
+          "text": {
+            "content": "energy - racing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004845945,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004045492,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033370676,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033370676,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033370676,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

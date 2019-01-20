@@ -1,0 +1,183 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Snow is a very friendly dog that I found at the cemetery near my house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He likes to play and eat and loves being rubbed and petted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The management of the cemetery want to get rid of him so I have sent him to be neutered and vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He desperately needs a new home or at least someone to foster him because after he gets neutered, I have nowhere to send him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Snow",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/06_dn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Snow"
+      },
+      "salience": 0.7121725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snow",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cemetery",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07825248,
+      "mentions": [
+        {
+          "text": {
+            "content": "cemetery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06902469,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06273125,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cemetery",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026109355,
+      "mentions": [
+        {
+          "text": {
+            "content": "cemetery",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022963252,
+      "mentions": [
+        {
+          "text": {
+            "content": "management",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022797447,
+      "mentions": [
+        {
+          "text": {
+            "content": "loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0059489864,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

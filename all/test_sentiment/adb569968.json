@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kay-9 is the only child born on .09.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "This intelligent little boy is white in colour with black patches and spots.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He understands basic commands like 'Sit', 'Paw' and more importantly, 'No!'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kay-9",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.3170458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kay-9",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22409892,
+      "mentions": [
+        {
+          "text": {
+            "content": "child",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1713344,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0610771,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0610771,
+      "mentions": [
+        {
+          "text": {
+            "content": "patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056135908,
+      "mentions": [
+        {
+          "text": {
+            "content": "spots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055862002,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042295113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Paw",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sit",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011073666,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sit",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

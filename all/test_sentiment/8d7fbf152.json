@@ -1,0 +1,228 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Junior is a active dog that i found near my church... he is very friendly and playful that loves to play around... he is toilet trained and well mannered that will follow all our instructions..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am giving him out for adoption because i have no time to look after him as he needs someone to play and love him... and charges are for providing him vitamins since the day he came here and as a adoption fee (CAN BE NEGOTIATED)...images above are not real but he will look exactly the same and anyone interested can contact me at ...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Junior",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6431272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Junior",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19860506,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "church",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06794348,
+      "mentions": [
+        {
+          "text": {
+            "content": "church",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026539674,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instructions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017796367,
+      "mentions": [
+        {
+          "text": {
+            "content": "instructions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010016561,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charges",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007886641,
+      "mentions": [
+        {
+          "text": {
+            "content": "charges",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006892551,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062488336,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0059497776,
+      "mentions": [
+        {
+          "text": {
+            "content": "images",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "same",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042719175,
+      "mentions": [
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026783634,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vitamins",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0020435688,
+      "mentions": [
+        {
+          "text": {
+            "content": "vitamins",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

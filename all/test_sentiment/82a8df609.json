@@ -1,0 +1,225 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They were born in end of July and they are now ready for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Mother dog was pregnant and gave birth to 4 pups.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "2 males and 2 female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Mother dog is a small size dog but no idea about the father and that is why we cannot determine the size of maturity.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mother dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3007418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20208614,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mother dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09437917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mother dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06803309,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06769887,
+      "mentions": [
+        {
+          "text": {
+            "content": "males",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06721175,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062177803,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "father",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04682158,
+      "mentions": [
+        {
+          "text": {
+            "content": "father",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03737289,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "maturity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032852475,
+      "mentions": [
+        {
+          "text": {
+            "content": "maturity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "idea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020624459,
+      "mentions": [
+        {
+          "text": {
+            "content": "idea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

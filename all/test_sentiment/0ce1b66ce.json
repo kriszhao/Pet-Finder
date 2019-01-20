@@ -1,0 +1,303 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found him scuttling between cars on the Akleh highway and lucky thing managed to pick him up with the help of my friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Her brother/sister was not so lucky.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He has fluffy fur, healthy weight and is very loving and friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Would love to home him with other cat(s) in a home with experienced cat owners with landed property (no condos and all day cage).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He will be the perfect company",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.19250116,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.17959528,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "highway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.17959528,
+      "mentions": [
+        {
+          "text": {
+            "content": "highway",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Akleh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.109211154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Akleh",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07095275,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07095275,
+      "mentions": [
+        {
+          "text": {
+            "content": "help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04827279,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brother/sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026400363,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother/sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02353867,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02353867,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016255215,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "property",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016255215,
+      "mentions": [
+        {
+          "text": {
+            "content": "property",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condos",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016255215,
+      "mentions": [
+        {
+          "text": {
+            "content": "condos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "day cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011394042,
+      "mentions": [
+        {
+          "text": {
+            "content": "day cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat(s)",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008134664,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat(s)",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0071467767,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

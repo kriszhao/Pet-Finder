@@ -1,0 +1,333 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hello, my name is Kentucky and I love hugs, cuddles and lotsa lovin’ from human beings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am lookng for a loving home and owner who can take care of me and shower me with love and lotsa attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am very lovable and would like to sit on your lap all day long and dream about ribbons and cardboard boxes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am female and about 4 – 5 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have been recently vaccinated and de-wormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please adopt me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "XOXO Tucky P/S : You can call my friendly rescuer Melissa @ if you’d like to adopt me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17649594,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hugs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15717527,
+      "mentions": [
+        {
+          "text": {
+            "content": "hugs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuddles",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.14827812,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuddles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lovin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14827812,
+      "mentions": [
+        {
+          "text": {
+            "content": "lovin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0498y",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kentucky"
+      },
+      "salience": 0.11350875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kentucky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "human beings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05791951,
+      "mentions": [
+        {
+          "text": {
+            "content": "human beings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028062867,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028062867,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021715518,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Melissa @",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020560771,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Melissa @",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019120747,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018982163,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018982163,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ribbons",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017550895,
+      "mentions": [
+        {
+          "text": {
+            "content": "ribbons",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cardboard boxes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017550895,
+      "mentions": [
+        {
+          "text": {
+            "content": "cardboard boxes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "XOXO Tucky P",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077553918,
+      "mentions": [
+        {
+          "text": {
+            "content": "XOXO Tucky P",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.8,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

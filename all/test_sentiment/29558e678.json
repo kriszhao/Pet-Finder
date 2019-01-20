@@ -1,0 +1,580 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Pyro, born on 21 April at my house, along with 3 other brothers &amp; sisters.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "It all started when I saved her mother, Julie, was straying at Sri Gombak's 7-Eleven.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I decided to take Julie back because of her appearance which didn't seem to be bothered by the by-passers that went in-out from 7-Eleven and accidentally kicked Julie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "That time, I didn't noticed that Julie is pregnant until I brought her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Back to Pyro, good thing is, Julies's temperament is very good and this kind of carried to her 4 new later born kittens, includes, Pyro, Sofea, Gambit &amp; Mieko Jr.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "In addition to that, Julie is a Domestic Medium Hair cat, Pyro were 1 of them who inherited with the medium hair gene.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pyro is very friendly and full of curiosity with corrugated box. :P",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has the most appetite among his siblings, also likes to play with my bell teaser stick with her sister Sofea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Julie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42072225,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Julie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pyro",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13882968,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pyro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pyro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pyro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pyro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Pyro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08458547,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07457488,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07457488,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appearance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0629533,
+      "mentions": [
+        {
+          "text": {
+            "content": "appearance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "7-Eleven",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0crk6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/7-Eleven"
+      },
+      "salience": 0.015010832,
+      "mentions": [
+        {
+          "text": {
+            "content": "7-Eleven",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "7-Eleven",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01227911,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temperament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010313394,
+      "mentions": [
+        {
+          "text": {
+            "content": "temperament",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010313394,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "by-passers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009292986,
+      "mentions": [
+        {
+          "text": {
+            "content": "by-passers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008579106,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008579106,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sri Gombak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1v298j6p"
+      },
+      "salience": 0.008185934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sri Gombak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Julies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007572311,
+      "mentions": [
+        {
+          "text": {
+            "content": "Julies",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sofea",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007467307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sofea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sofea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hair gene",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064531816,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair gene",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curiosity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064409696,
+      "mentions": [
+        {
+          "text": {
+            "content": "curiosity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051251836,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051251836,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004502099,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bell teaser stick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004502099,
+      "mentions": [
+        {
+          "text": {
+            "content": "bell teaser stick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003620801,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003223096,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "addition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028310064,
+      "mentions": [
+        {
+          "text": {
+            "content": "addition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": ":P",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026656494,
+      "mentions": [
+        {
+          "text": {
+            "content": ":P",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gambit & Mieko Jr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001676786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gambit &amp; Mieko Jr",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

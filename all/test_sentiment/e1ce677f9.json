@@ -1,0 +1,258 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hye :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I'm looking for owners who can keep TAMMY in the house, or let her have her freedom inside/outside the house compound ONLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "TAMMY is a female cat and only 8 months old .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "SHE only eats cat food and also PLEASE DONT TRAINED HER TO EAT ANY KINDS OF FOOD OTHER THAN CAT FOOD BECAUSE SHE IS FULLY TRAINED INDOOR CAT SINCE SHE IS SMALL :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27295467,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TAMMY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22218542,
+      "mentions": [
+        {
+          "text": {
+            "content": "TAMMY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hye",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16547976,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hye",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060952578,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.059583455,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04078183,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house compound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03552298,
+      "mentions": [
+        {
+          "text": {
+            "content": "house compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03509237,
+      "mentions": [
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT FOOD",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.030807137,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TAMMY",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029007124,
+      "mentions": [
+        {
+          "text": {
+            "content": "TAMMY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "CAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023199666,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FOOD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013562397,
+      "mentions": [
+        {
+          "text": {
+            "content": "FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KINDS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010870624,
+      "mentions": [
+        {
+          "text": {
+            "content": "KINDS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

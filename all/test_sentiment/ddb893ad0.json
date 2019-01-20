@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Buster is a Corgie mix who is very sweet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He loves attention and just loves being around people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Buster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6976446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buster",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15896343,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Corgie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02kh2h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi"
+      },
+      "salience": 0.07818687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corgie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04337136,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021833787,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,215 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sammy is a very handsome 7 month old mix German Shepherd, he is alert, active and loyal.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He has been vaccinated and neutered, he is looking forward to a forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He is currently kept at Second Chance dog shelter located at Old Klang Road, KL.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please call Mrs Lai or Mun Ee if you want to take him home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sammy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8102747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sammy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German Shepherd",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd",
+        "mid": "/m/0km5c"
+      },
+      "salience": 0.060667995,
+      "mentions": [
+        {
+          "text": {
+            "content": "German Shepherd",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11b7gf0ghy"
+      },
+      "salience": 0.04087799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030370886,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0146731045,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0144963125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Chance",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mun Ee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010900633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mun Ee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008124348,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004806998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004806998,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

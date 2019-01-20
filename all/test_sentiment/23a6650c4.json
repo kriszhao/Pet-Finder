@@ -1,0 +1,281 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ms Cool Cat :).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She loves relaxing about here and there and watching the world go by.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She loves playing and is super manja when she gets to know you and loves to jump around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She also loves to snuggle under your armpit when she gets really comfortable with you :).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Onyx was taken in with her three sisters after they got dumped at the Buddhist Temple in Brickfields.They were very malnourished and sickly and in constant danger of big dogs and very abusive humans.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We took her in and fostered her till she got strong and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Now its time to find her a good loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ms",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7278348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Onyx",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15816922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Onyx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cool Cat",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.039578702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cool Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015754132,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012110102,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011749344,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "armpit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008425325,
+      "mentions": [
+        {
+          "text": {
+            "content": "armpit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006313737,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058185025,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Buddhist Temple",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1234z5vt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Buddhist_temple"
+      },
+      "salience": 0.004567317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhist Temple",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Brickfields.",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004567317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brickfields.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "danger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025557445,
+      "mentions": [
+        {
+          "text": {
+            "content": "danger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025557445,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

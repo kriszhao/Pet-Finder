@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I rescued this pretty girl 2 months ago when I found that she has a wound on her leg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We sent her to vet and spayed her, she's recovering well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "For 1 month we been spraying medicine on her wound, feed her and foster her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's in good progress now and very loving girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I assure you she will make a great companion, please give her a chance to live.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "wound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3101609,
+      "mentions": [
+        {
+          "text": {
+            "content": "wound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27334893,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09454967,
+      "mentions": [
+        {
+          "text": {
+            "content": "wound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medicine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090546966,
+      "mentions": [
+        {
+          "text": {
+            "content": "medicine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.089891784,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049394507,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033353306,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031276535,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "progress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027477397,
+      "mentions": [
+        {
+          "text": {
+            "content": "progress",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

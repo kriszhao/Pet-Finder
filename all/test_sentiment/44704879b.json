@@ -1,0 +1,209 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She is approximately 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She loves to play and attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is learning to pee/poo at designated spot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She doesn't like to be caged.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "My location is Cheras, KL.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested to adopt her, please contact me directly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Terms and conditions apply.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22812334,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.17080334,
+      "mentions": [
+        {
+          "text": {
+            "content": "location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spot",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15596163,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15407863,
+      "mentions": [
+        {
+          "text": {
+            "content": "poo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cheras",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cheras,_Kuala_Lumpur",
+        "mid": "/m/09z0md"
+      },
+      "salience": 0.10791818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheras",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07990859,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.075167626,
+      "mentions": [
+        {
+          "text": {
+            "content": "conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+        "mid": "/m/049d1"
+      },
+      "salience": 0.028038671,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

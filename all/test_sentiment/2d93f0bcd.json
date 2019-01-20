@@ -1,0 +1,200 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These 2 puppies were rescued by a Malay lady from a drainage.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Am now fostering them at the moment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for pet lovers who would adopt, care, and love them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They are now a few months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly contact Sunny Lim.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Black &amp; White : Male Black &amp; Brown : Female",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29472277,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malay",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1834818,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pet lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15829058,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.120766334,
+      "mentions": [
+        {
+          "text": {
+            "content": "lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drainage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.120766334,
+      "mentions": [
+        {
+          "text": {
+            "content": "drainage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sunny Lim",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06230164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunny Lim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04072537,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Black & White : Male Black & Brown : Female",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018945167,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black &amp; White : Male Black &amp; Brown : Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,226 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I rescued 2 kittens from Klang which were abandoned and kept them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "One got pregnant by accident and had 5 kittens but unfortunately 3 died to Feline Panleukopenia (Parvo).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "2 of them survived the virus n has already been vacinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "So these 2 adults and 2 kittens are to be taken together as these are one of the same blood line.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "thanks alot.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42926103,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Klang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/02m2h0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Klang_(city)"
+      },
+      "salience": 0.3732008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adults",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.045499746,
+      "mentions": [
+        {
+          "text": {
+            "content": "adults",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Feline Panleukopenia",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Feline_panleukopenia",
+        "mid": "/m/06bt69"
+      },
+      "salience": 0.044578154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feline Panleukopenia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Parvo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.029360542,
+      "mentions": [
+        {
+          "text": {
+            "content": "accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024796577,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "virus n",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018435974,
+      "mentions": [
+        {
+          "text": {
+            "content": "virus n",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01749908,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009740893,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood line",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007627196,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

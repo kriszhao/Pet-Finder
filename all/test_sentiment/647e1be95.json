@@ -1,0 +1,258 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Health: so far so good from what i see.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "a small wound on the tip of the ear Ticks/flees: i've sprayed her with the anti-ticks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "didn't find any so far Price: ABSOLUTELY FREE.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "But make sure you spay her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's a very playful girl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She has learned &quot;sit&quot; command in just 1 try.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Interested, please email me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "see attached photo for yourself or view her flikr pics here:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38576782,
+      "mentions": [
+        {
+          "text": {
+            "content": "Health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17836969,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07431567,
+      "mentions": [
+        {
+          "text": {
+            "content": "wound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07431567,
+      "mentions": [
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ear Ticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07431567,
+      "mentions": [
+        {
+          "text": {
+            "content": "ear Ticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05033629,
+      "mentions": [
+        {
+          "text": {
+            "content": "flees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anti-ticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05033629,
+      "mentions": [
+        {
+          "text": {
+            "content": "anti-ticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046700664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Price",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "photo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.025879318,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pics",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0243406,
+      "mentions": [
+        {
+          "text": {
+            "content": "pics",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "``sit'' command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015322339,
+      "mentions": [
+        {
+          "text": {
+            "content": "&quot;sit&quot; command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "JILL will be at our adoption fair On Saturday and Sunday May 5th-6th , Come along and show your support for local rescue groups.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "WE WOULD LOVE TO SEE YOU THERE!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "2.. +2° .° 31' 6.01&quot; For more Info :",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "adoption fair",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.4389603,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "JILL",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3339708,
+      "mentions": [
+        {
+          "text": {
+            "content": "JILL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rescue groups",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12819146,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescue groups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "support",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068233415,
+      "mentions": [
+        {
+          "text": {
+            "content": "support",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030644026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

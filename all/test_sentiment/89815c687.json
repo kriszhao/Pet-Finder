@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Boxer mix puppies are up for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested, please call or sms to make an appointment for viewing.E-mail will not be entertained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Boxer mix puppies",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.5984043,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boxer mix puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2652258,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08504381,
+      "mentions": [
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "viewing.E-mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028626507,
+      "mentions": [
+        {
+          "text": {
+            "content": "viewing.E-mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appointment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02269958,
+      "mentions": [
+        {
+          "text": {
+            "content": "appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

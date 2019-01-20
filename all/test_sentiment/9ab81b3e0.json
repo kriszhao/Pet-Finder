@@ -1,0 +1,157 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jane was rescued from Taming Jaya industrial area, found leg limping as hitted by car.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Foster her about a month, leg recovered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please do give Jane a home,",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jane",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.70012057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jane",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08961187,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06997908,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.062612884,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taming Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tglkdqn"
+      },
+      "salience": 0.05455758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taming Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011625829,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011492178,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

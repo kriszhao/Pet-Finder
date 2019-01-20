@@ -1,0 +1,251 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "i saw he standing middle car-busy hgwy MRR2, freezing himself under a street light.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Seriously dehydrated and broken tail.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "After few weeks now he is recovering.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Small eye, long tail (cannot move) and big ear.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Sweet and Lively kitten he is!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Well toilet train kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for Home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sweet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2590711,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "street light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1576999,
+      "mentions": [
+        {
+          "text": {
+            "content": "street light",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MRR2",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09ydw6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_Middle_Ring_Road_2"
+      },
+      "salience": 0.13865314,
+      "mentions": [
+        {
+          "text": {
+            "content": "MRR2",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08720668,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08040551,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07073894,
+      "mentions": [
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06062099,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet train kitten",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053191267,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet train kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037250917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lively",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03161512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lively",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023546427,
+      "mentions": [
+        {
+          "text": {
+            "content": "ear",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

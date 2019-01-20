@@ -1,0 +1,233 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tipsi is now approx. 12 weeks old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I found her 2 weeks ago on the highway, dumped in the center drain.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Took her immediately to the vet, who said she is a full breed mix dog and will be about small to medium size.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "And that she is totally healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Since I live in Langkawi, I had to leave her behind with my friend Claudia in Damsansara Heights, who fosters her until she'll find a new loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is absolutely gorgeous and lovely.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.69236535,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tipsi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0815428,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tipsi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Claudia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07691023,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Claudia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "highway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.033417102,
+      "mentions": [
+        {
+          "text": {
+            "content": "highway",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "center drain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033417102,
+      "mentions": [
+        {
+          "text": {
+            "content": "center drain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029086128,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02279057,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017097738,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Damsansara Heights",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009293383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damsansara Heights",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Langkawi",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/026m5r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Langkawi"
+      },
+      "salience": 0.004079614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Langkawi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

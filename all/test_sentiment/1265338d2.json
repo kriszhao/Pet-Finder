@@ -1,0 +1,220 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kiss Kiss Kiss Kisses!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Kisses was abandoned last Sunday by her mother who gave birth about 2 weeks ago in my neighbour's shoe cabinet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is with foster mom now and will be available for adoption in a few week's time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "However, if you have experience in bottle feeding and do have the time to do so, you may adopt her now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Let us know if you are interested.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kisses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4910843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kisses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Kisses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28700536,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kiss Kiss Kiss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11413279,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kiss Kiss Kiss",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026072567,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017800955,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017800955,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoe cabinet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017672494,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoe cabinet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017672494,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottle feeding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005412045,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottle feeding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005346008,
+      "mentions": [
+        {
+          "text": {
+            "content": "experience",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

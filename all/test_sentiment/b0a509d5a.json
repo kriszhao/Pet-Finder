@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "4 kittens. 2 whites, 1 grayish black and one cream.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are around 3 weeks old and very active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Cant afford to take care of them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Sms or call if interested :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "whites",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.63548166,
+      "mentions": [
+        {
+          "text": {
+            "content": "whites",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17703943,
+      "mentions": [
+        {
+          "text": {
+            "content": "black",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12302229,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042714383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021742236,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

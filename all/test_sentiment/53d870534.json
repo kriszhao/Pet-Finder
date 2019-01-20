@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He is rescued from Sg Chua market, met him past 3 weeks ago during night feeding.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He was abused and bullied by those seller, decided to bring him back.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is very smart and obedient, fast learner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Learned basic command such as sit and hand.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please give him a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "learner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6957339,
+      "mentions": [
+        {
+          "text": {
+            "content": "learner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12861963,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sg Chua",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07954763,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sg Chua",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "night feeding",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.035688344,
+      "mentions": [
+        {
+          "text": {
+            "content": "night feeding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seller",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017595187,
+      "mentions": [
+        {
+          "text": {
+            "content": "seller",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012113003,
+      "mentions": [
+        {
+          "text": {
+            "content": "command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012113003,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012113003,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0064763273,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

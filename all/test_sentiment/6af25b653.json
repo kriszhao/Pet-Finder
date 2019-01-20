@@ -1,0 +1,241 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Playful, happy &amp; bright ( hence the name ).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Very clever and quick.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Looks after her sisters and is super friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Sunny was taken in with her three sisters after they got dumped at the Buddhist Temple in Brickfields.They were very malnourished and sickly and in constant danger of big dogs and very abusive humans.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "We took her in and fostered her till she got strong and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Now its time to find her a good loving home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sunny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.507927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21864158,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08346845,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.047907133,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Looks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04216261,
+      "mentions": [
+        {
+          "text": {
+            "content": "Looks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "danger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026461622,
+      "mentions": [
+        {
+          "text": {
+            "content": "danger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021658046,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Buddhist Temple",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1234z5vt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Buddhist_temple"
+      },
+      "salience": 0.01709738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buddhist Temple",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Brickfields.",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01709738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brickfields.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008789409,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008789409,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

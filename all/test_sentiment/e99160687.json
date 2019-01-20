@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Roxie was found by a good samritan at Bandar Sg Long and was rescued to be rehomed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is a very friendly and active girl, she does not bark a lot,she will be a very good companion dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "For adoption , please call Tracy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Roxie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.76711446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roxie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "samritan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1526304,
+      "mentions": [
+        {
+          "text": {
+            "content": "samritan",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bandar Sg Long",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0czgc0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Sungai_Long"
+      },
+      "salience": 0.038393117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bandar Sg Long",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "companion dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018475562,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010511703,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066399383,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tracy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006234802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

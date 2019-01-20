@@ -1,0 +1,151 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jinny Girl was found wandering and pining for a home in OUG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She loves to chat and be near to humans.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Loves to chase butterflies and just be a dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jinny Girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7433613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jinny Girl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.098924845,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "OUG",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0d_cxs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Taman_OUG"
+      },
+      "salience": 0.059808165,
+      "mentions": [
+        {
+          "text": {
+            "content": "OUG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "butterflies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034292024,
+      "mentions": [
+        {
+          "text": {
+            "content": "butterflies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029659135,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Loves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018689964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015264566,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,323 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens for Adoption, Location Klang Valley, 2 months old, dewormed and clean, able to feed on solid cat food 1.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Boy, White body with black spot and black tail 2.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Girl, Black body with white stripes, husky-like 3.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Boy, Black body with white spot Mum passed away from car accident while they are still weaning, temporarily taking care of the kittens Serious prospective owners only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens for Adoption",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1952244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens for Adoption",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Location Klang Valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.17272827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location Klang Valley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1467617,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.076853536,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04678017,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04644376,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042928416,
+      "mentions": [
+        {
+          "text": {
+            "content": "black spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0424098,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037762035,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0375761,
+      "mentions": [
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stripes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034505144,
+      "mentions": [
+        {
+          "text": {
+            "content": "stripes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.025969712,
+      "mentions": [
+        {
+          "text": {
+            "content": "car accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021095337,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020722296,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018213037,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01425749,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013007643,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mum",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067611528,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mum",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

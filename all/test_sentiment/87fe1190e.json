@@ -1,0 +1,164 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Xiang Xiang is an abandoned 5 to 6 years old male Shih Tzu.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He is healthy and is looking for sweet loving home in Penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact Ang at if you are interested to adopt him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Terms and conditions apply.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Xiang Xiang",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.81198424,
+      "mentions": [
+        {
+          "text": {
+            "content": "Xiang Xiang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shih Tzu",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shih_Tzu",
+        "mid": "/m/01s7fj"
+      },
+      "salience": 0.06906832,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shih Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04127731,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.02459146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023151936,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021784153,
+      "mentions": [
+        {
+          "text": {
+            "content": "conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ang",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00814258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

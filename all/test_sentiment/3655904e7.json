@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cutie was rescued week ago along with her brother who had been hit and run by a car at a temple in Alor Star, Kedah.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "My friend had sent both of them to the vet and they are currently board at the vet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Cutie is healthy enough and had been dewormed and vaccined.She is ready for adoption and if you can provide Cutie a forever home, we can arrange to spay her when she is mature enough at around 7 months old then",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cutie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4506917,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cutie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cutie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25096822,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.086514816,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.042760387,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temple",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.042760387,
+      "mentions": [
+        {
+          "text": {
+            "content": "temple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019466354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "board",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.01795969,
+      "mentions": [
+        {
+          "text": {
+            "content": "board",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Alor Star",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04p9tf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alor_Setar"
+      },
+      "salience": 0.017305888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alor Star",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01xl46",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah"
+      },
+      "salience": 0.017305888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016200542,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016200542,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009822031,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0077257957,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00431776,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

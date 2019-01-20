@@ -1,0 +1,252 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "White is a rescued kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Heis very active and playful.He prefers steam chicken and fish than kibbles.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He knows how to use the litter box.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "White is to be preferably neutered at six months.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you for considering White as your companion and giving him a forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly watsapp me for easier and faster communication as I seldom check my emails.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "White",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4753358,
+      "mentions": [
+        {
+          "text": {
+            "content": "White",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "White",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Heis",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2577453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heis",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "White",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04534153,
+      "mentions": [
+        {
+          "text": {
+            "content": "White",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "steam chicken",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044616837,
+      "mentions": [
+        {
+          "text": {
+            "content": "steam chicken",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044616837,
+      "mentions": [
+        {
+          "text": {
+            "content": "fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030454097,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030234206,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023477564,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020982567,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014678972,
+      "mentions": [
+        {
+          "text": {
+            "content": "communication",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "emails",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0125163095,
+      "mentions": [
+        {
+          "text": {
+            "content": "emails",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

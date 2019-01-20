@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Free cat for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Collection – USJ 14, Subang Jaya Tel – (Call and whatsapp).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.53933096,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23442347,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Collection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11797698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Collection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "USJ 14",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tfg9r62"
+      },
+      "salience": 0.04832225,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ 14",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Subang Jaya Tel",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/054t4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya"
+      },
+      "salience": 0.044939823,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang Jaya Tel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.015006502,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

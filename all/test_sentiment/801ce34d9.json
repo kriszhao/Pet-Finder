@@ -1,0 +1,275 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "she is a playful kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "she usually follow people around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "she willy likes to play with your feet and balls.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "she is 2 half month, so she is still in the mood of playing, learning and more.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "hope you can adopt her as I have to continue my study and i pity her and her siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "the price is the cost for their food and medication for a few month.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7891273,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05093806,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047569543,
+      "mentions": [
+        {
+          "text": {
+            "content": "price",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019749127,
+      "mentions": [
+        {
+          "text": {
+            "content": "feet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013481832,
+      "mentions": [
+        {
+          "text": {
+            "content": "mood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013481832,
+      "mentions": [
+        {
+          "text": {
+            "content": "playing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "learning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013481832,
+      "mentions": [
+        {
+          "text": {
+            "content": "learning",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "balls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0133649595,
+      "mentions": [
+        {
+          "text": {
+            "content": "balls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012375973,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009313491,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006511773,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medication",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.006511773,
+      "mentions": [
+        {
+          "text": {
+            "content": "medication",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "study",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040925383,
+      "mentions": [
+        {
+          "text": {
+            "content": "study",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

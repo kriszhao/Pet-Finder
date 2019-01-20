@@ -1,0 +1,204 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Taiga, a female kitten estimated around 3 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Found her abandoned by the roadside with an injured left foot in Cameron Highlands.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Now she's well, fleas cleared and dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She's very loving once she warms up to you and even sleeps in your arms! :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Is anyone willing to give her a home?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7621394,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taiga",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/07pry",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Taiga"
+      },
+      "salience": 0.11597018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taiga",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029949795,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roadside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020009665,
+      "mentions": [
+        {
+          "text": {
+            "content": "roadside",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020009665,
+      "mentions": [
+        {
+          "text": {
+            "content": "foot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018509824,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013935687,
+      "mentions": [
+        {
+          "text": {
+            "content": "arms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cameron Highlands",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04hwmq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cameron_Highlands_District"
+      },
+      "salience": 0.012029361,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cameron Highlands",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0074464544,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

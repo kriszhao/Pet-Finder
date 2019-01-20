@@ -1,0 +1,201 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cute healthy female puppy up for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She has the most adorable ears like Jumbo the elephant.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Your heart will just melt when she flops them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "If u can read her pathetic beady eyes, she's saying Please &quot;FEED me, LOVE me, HUG me&quot; MIMI WANTS TO GO HOME WITH YOU.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Would you like her to?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3464161,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3464161,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06692436,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052675672,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052220777,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "elephant",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045339845,
+      "mentions": [
+        {
+          "text": {
+            "content": "elephant",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jumbo",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01827m",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jumbo"
+      },
+      "salience": 0.03977205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jumbo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "HOME",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031547047,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOME",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MIMI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018688072,
+      "mentions": [
+        {
+          "text": {
+            "content": "MIMI",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

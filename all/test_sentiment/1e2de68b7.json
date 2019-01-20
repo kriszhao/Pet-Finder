@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "active and healthy mix breed with terrier For more information please contact Esther Woo",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mix breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.45832026,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terrier",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33137083,
+      "mentions": [
+        {
+          "text": {
+            "content": "terrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "information",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10812078,
+      "mentions": [
+        {
+          "text": {
+            "content": "information",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Esther Woo",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11fymk22rf"
+      },
+      "salience": 0.10218813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Esther Woo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

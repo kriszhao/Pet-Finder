@@ -1,0 +1,181 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this little fluffy one in the middle of the street in Johor Bahru.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Has scabbing on the right cheek, but is healing okay.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I have not taken him to the vet yet, but I will on Tuesday, 18 Oct. at least to get checked out.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am tight on money at the moment, so I can't pay for him to get vaccinated just yet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Would be ideal if adopter pays for it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He's too small to neuter yet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34469035,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.34469035,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Johor Bahru",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0207sh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Johor_Bahru"
+      },
+      "salience": 0.08411054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Johor Bahru",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "scabbing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068601884,
+      "mentions": [
+        {
+          "text": {
+            "content": "scabbing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cheek",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068601884,
+      "mentions": [
+        {
+          "text": {
+            "content": "cheek",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04635631,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04294865,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

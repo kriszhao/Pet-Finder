@@ -1,0 +1,434 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I've lived in Malaysia for four years, but now I'm permanently returning home to North America, and cannot bring Natasha with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please help me find her a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Natasha is a friendly cat with a very soft and clean coat of fur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She spends much of her time outdoors.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is quiet and curious.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She has no fleas or ticks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She needs a very special home because she exhibits symptoms of Pica, meaning she likes to eat things besides food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She will sometimes eat towels, clothing and other fabric items if they are left in her reach.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me if you have any questions about her habits.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Natasha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6887123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Natasha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Natasha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.083740234,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09pmkv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "salience": 0.05032274,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "towels",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.034561303,
+      "mentions": [
+        {
+          "text": {
+            "content": "towels",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "North America",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/059g4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/North_America"
+      },
+      "salience": 0.019317321,
+      "mentions": [
+        {
+          "text": {
+            "content": "North America",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018756576,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013493896,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010693045,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010693045,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009730926,
+      "mentions": [
+        {
+          "text": {
+            "content": "fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009730926,
+      "mentions": [
+        {
+          "text": {
+            "content": "ticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009424254,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clothing",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0073130145,
+      "mentions": [
+        {
+          "text": {
+            "content": "clothing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fabric items",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073130145,
+      "mentions": [
+        {
+          "text": {
+            "content": "fabric items",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051218867,
+      "mentions": [
+        {
+          "text": {
+            "content": "reach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "habits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051144795,
+      "mentions": [
+        {
+          "text": {
+            "content": "habits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "questions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0050520226,
+      "mentions": [
+        {
+          "text": {
+            "content": "questions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032156492,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032156492,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "symptoms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025769882,
+      "mentions": [
+        {
+          "text": {
+            "content": "symptoms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pica",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pica_(disorder)",
+        "mid": "/m/01b8zz"
+      },
+      "salience": 0.0019007481,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pica",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

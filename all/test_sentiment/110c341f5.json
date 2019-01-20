@@ -1,0 +1,178 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Trixie is a feisty young female cat who needs to go to a home with young or teenage children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is highly independent, often ignoring you but then when she wants a cuddle she clambers over everything to get to you and will not let you go until she is satisfied.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "she prefers to be stroked on top of her body; she seems to have a sensitive tummy and likes it to be left alone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Trixie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7438893,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trixie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12223674,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.038834274,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038834274,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017341066,
+      "mentions": [
+        {
+          "text": {
+            "content": "tummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuddle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012983455,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuddle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012983455,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008957149,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039402856,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

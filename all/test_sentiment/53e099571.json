@@ -1,0 +1,148 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "NAME: BABY AGE: 1YR GENDER: FEMALE WITH 5 NEW BORN BABIES.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "COLOR: BROWN WITH STRIPES *IF YOU'RE INTERESTED IN THIS ONE, U NEED TO TAKE THE BABIES AS WELL.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "**SHE'S VERY LOVING AND PLAYFUL **SANDBOX TRAINED",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "NAME",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2542925,
+      "mentions": [
+        {
+          "text": {
+            "content": "NAME",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BABY AGE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2542925,
+      "mentions": [
+        {
+          "text": {
+            "content": "BABY AGE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GENDER",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2542925,
+      "mentions": [
+        {
+          "text": {
+            "content": "GENDER",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BROWN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1687404,
+      "mentions": [
+        {
+          "text": {
+            "content": "BROWN",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "COLOR",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036033846,
+      "mentions": [
+        {
+          "text": {
+            "content": "COLOR",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SANDBOX",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017752277,
+      "mentions": [
+        {
+          "text": {
+            "content": "SANDBOX",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BABIES",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014596041,
+      "mentions": [
+        {
+          "text": {
+            "content": "BABIES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

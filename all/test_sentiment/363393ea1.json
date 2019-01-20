@@ -1,0 +1,298 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This puppy is urgently looking for a new home as her fosterer will be away soon.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She was rescued from the street near to USM and her fosterer is good enough to send her to the vet for a month-long treatment for parasites and other bodily wounds.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is now in good health but needs a permanent home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Her current fosterer is staying in an apartment and is unable to keep her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Those who are willing to help or temporary foster her may contact Serena Chan at or email to her at serena..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.72472477,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08707025,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07536269,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014720138,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Serena Chan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014637684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Serena Chan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010085782,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parasites",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010085782,
+      "mentions": [
+        {
+          "text": {
+            "content": "parasites",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wounds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010085782,
+      "mentions": [
+        {
+          "text": {
+            "content": "wounds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009963298,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009248282,
+      "mentions": [
+        {
+          "text": {
+            "content": "foster",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0092129875,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008940208,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "USM",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cchk3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Southern_Mississippi"
+      },
+      "salience": 0.008737692,
+      "mentions": [
+        {
+          "text": {
+            "content": "USM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040798513,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030448027,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

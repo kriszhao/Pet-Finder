@@ -1,0 +1,573 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, I am Sarsaparilla but you can call me Sarsi!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "My mom abandoned me on a rooftop, thank god a kind soul rescued me!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I am looking for a furever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Yes, I am black :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "black is beauuuuuuuuutiful :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Did you know that in Great Britain and in Ireland, black cats are a symbol of good luck?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Did you know that the Scottish believe that a strange black cat's arrival to your home signifies prosperity?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Did you also know that black cats are also considered good luck in Japan?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Best of all, it is believed that a lady who owns a black cat will have many suitors!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "All I know is that love is universal and knows no bounds!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Anyways, I have just been rescued and under quarantine for a couple of weeks before visiting the vet but I am healthy and I am playful and I am loving and and I am purrrrrfect for you!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sarsi",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0581rh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sarsi_(drink)"
+      },
+      "salience": 0.14727414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarsi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sarsaparilla",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.12597008,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarsaparilla",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09035761,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rooftop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09035761,
+      "mentions": [
+        {
+          "text": {
+            "content": "rooftop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040977295,
+      "mentions": [
+        {
+          "text": {
+            "content": "black",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.039046124,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03449089,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033310458,
+      "mentions": [
+        {
+          "text": {
+            "content": "black cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032716893,
+      "mentions": [
+        {
+          "text": {
+            "content": "lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "symbol",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0290206,
+      "mentions": [
+        {
+          "text": {
+            "content": "symbol",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026435347,
+      "mentions": [
+        {
+          "text": {
+            "content": "black cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026435347,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026162617,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025528835,
+      "mentions": [
+        {
+          "text": {
+            "content": "black cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02422115,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024186185,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "prosperity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023229346,
+      "mentions": [
+        {
+          "text": {
+            "content": "prosperity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021251919,
+      "mentions": [
+        {
+          "text": {
+            "content": "Best",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arrival",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.021057557,
+      "mentions": [
+        {
+          "text": {
+            "content": "arrival",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bounds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016002903,
+      "mentions": [
+        {
+          "text": {
+            "content": "bounds",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quarantine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01598418,
+      "mentions": [
+        {
+          "text": {
+            "content": "quarantine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014488012,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/07ssc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "salience": 0.013602851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Britain",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/012wgb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ireland"
+      },
+      "salience": 0.013602851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ireland",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03_3d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Japan"
+      },
+      "salience": 0.012591318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Japan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008445019,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Scottish",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06q1r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Scotland"
+      },
+      "salience": 0.008302873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scottish",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "black cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00800479,
+      "mentions": [
+        {
+          "text": {
+            "content": "black cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suitors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0069452105,
+      "mentions": [
+        {
+          "text": {
+            "content": "suitors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

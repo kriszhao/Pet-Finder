@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Peanut DOB ., Blue eye",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Peanut DOB",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6612949,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peanut DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Blue eye",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.33870512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blue eye",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

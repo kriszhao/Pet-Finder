@@ -1,0 +1,163 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "About The Pet Breed: Mix Medium Hair Gender: Not Sure Age: 2 Month Color: White , yellow and black Vaccinated: Yes Dewormed: Yes Health Condition: Health.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Toilet train Diet : Aims Location: Selayang Sms : Whatsapp :",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "The Pet Breed",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.6861214,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Pet Breed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Hair Gender",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09813856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09813856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet train Diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034048464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet train Diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034048464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yes Health Condition: Health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021071767,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes Health Condition: Health",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selayang Sms",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.014216401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selayang Sms",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.014216401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatsapp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

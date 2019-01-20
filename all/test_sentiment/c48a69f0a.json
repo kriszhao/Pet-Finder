@@ -1,0 +1,591 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dumped at main traffic road Terms &amp; Conditions (条规）： a) must provide medical attention when sick.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Please keep in mind that you are willing to spend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Vet bill can go up to hundred or thousand for serious illnesses.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Can you afford?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "(病了一定要看兽医，经济能力稳定） **b) must spay/castrate them when they reach 7-10months old to prevent unwanted litters (一定要结扎避免繁殖） c) all family members must have mutual agreement （家人同意） d) no students allowed （学生不能领养） e) treat like own child- no 24hr cage/chain (像儿女一样对待） f) it is a year of commitment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "(愿意照顾它年吗？）",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "g)monthly update 每个月需告诉我们狗狗的情况 h)make a pet tag with your phone num on it &amp; microchip（做狗牌一定要有主人的电话号码） i) provide us your info like phone num &amp; home address for record &amp; visitation in future 给个人资料 j) have time for them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "If you are a busy person and seldom at home please do not adopt 如果每天很忙要出外晚上很迟回家没时间请你不要养宠物 k) premium food / home cook for better health 不能随便喂因为不好的食物会影响健康和皮肤 l) no free roaming outside the house/ must leash during walk 不能让狗自己出去流浪/遛狗要用狗链",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Conditions",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.1444608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conditions",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dumped at main traffic road Terms",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.1444608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dumped at main traffic road Terms",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "must provide medical attention when sick.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.1444608,
+      "mentions": [
+        {
+          "text": {
+            "content": "must provide medical attention when sick.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "条规",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.121804856,
+      "mentions": [
+        {
+          "text": {
+            "content": "条规",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "**b",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036481738,
+      "mentions": [
+        {
+          "text": {
+            "content": "**b",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "经济能力",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030715838,
+      "mentions": [
+        {
+          "text": {
+            "content": "经济能力",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兽医",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0299578,
+      "mentions": [
+        {
+          "text": {
+            "content": "兽医",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "make",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01925498,
+      "mentions": [
+        {
+          "text": {
+            "content": "make",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "provide us your info like phone num & home address for record & visitation in future 给个人资料 j",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018779336,
+      "mentions": [
+        {
+          "text": {
+            "content": "provide us your info like phone num &amp; home address for record &amp; visitation in future 给个人资料 j",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018629445,
+      "mentions": [
+        {
+          "text": {
+            "content": "家人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treat like own child- no 24hr cage/chain",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018345645,
+      "mentions": [
+        {
+          "text": {
+            "content": "treat like own child- no 24hr cage/chain",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "it is a year of commitment.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018345645,
+      "mentions": [
+        {
+          "text": {
+            "content": "it is a year of commitment.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "microchip",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0c5zfd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Microchip_Technology"
+      },
+      "salience": 0.01699122,
+      "mentions": [
+        {
+          "text": {
+            "content": "microchip",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "电话号码",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016208015,
+      "mentions": [
+        {
+          "text": {
+            "content": "电话号码",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "狗牌",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016208015,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗牌",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "儿女",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015442389,
+      "mentions": [
+        {
+          "text": {
+            "content": "儿女",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monthly update",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015373144,
+      "mentions": [
+        {
+          "text": {
+            "content": "monthly update",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014592164,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "狗狗",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014302047,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "情况 h",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014302047,
+      "mentions": [
+        {
+          "text": {
+            "content": "情况 h",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "主人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014302047,
+      "mentions": [
+        {
+          "text": {
+            "content": "主人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no students allowed",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.013418681,
+      "mentions": [
+        {
+          "text": {
+            "content": "no students allowed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "d",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013418681,
+      "mentions": [
+        {
+          "text": {
+            "content": "d",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "all family members must have mutual agreement",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.013418681,
+      "mentions": [
+        {
+          "text": {
+            "content": "all family members must have mutual agreement",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "学生",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011294388,
+      "mentions": [
+        {
+          "text": {
+            "content": "学生",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "繁殖",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011294388,
+      "mentions": [
+        {
+          "text": {
+            "content": "繁殖",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "狗",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00989441,
+      "mentions": [
+        {
+          "text": {
+            "content": "狗",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "premium food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008160373,
+      "mentions": [
+        {
+          "text": {
+            "content": "premium food",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "食物",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007687121,
+      "mentions": [
+        {
+          "text": {
+            "content": "食物",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "健康",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070421663,
+      "mentions": [
+        {
+          "text": {
+            "content": "健康",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "皮肤 l",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070421663,
+      "mentions": [
+        {
+          "text": {
+            "content": "皮肤 l",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "流浪",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070421663,
+      "mentions": [
+        {
+          "text": {
+            "content": "流浪",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "宠物 k",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068680327,
+      "mentions": [
+        {
+          "text": {
+            "content": "宠物 k",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0
+  },
+  "language": "zh",
+  "categories": []
+}

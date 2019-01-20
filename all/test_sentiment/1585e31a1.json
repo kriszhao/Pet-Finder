@@ -1,0 +1,355 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "名:貓娘MiMi 年齡:1 + 性別:女 健康:打了第一支預防針，即將去結扎。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "性格:溫馴，親人，撒嬌 特色：全白，中长毛，和雙色眼睛。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Name: MiMi (貓娘) Gender: Female Age: Adult 1 year + Vaccination: Yes De-worm: Yes Spayed/Neutered: Yes ---------------------------------------------------------------------",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "貓娘MiMi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21029419,
+      "mentions": [
+        {
+          "text": {
+            "content": "貓娘MiMi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "性別",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19196777,
+      "mentions": [
+        {
+          "text": {
+            "content": "性別",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "女 健康",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12243037,
+      "mentions": [
+        {
+          "text": {
+            "content": "女 健康",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "預防針",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04800035,
+      "mentions": [
+        {
+          "text": {
+            "content": "預防針",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "貓娘",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01yrx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat"
+      },
+      "salience": 0.040812563,
+      "mentions": [
+        {
+          "text": {
+            "content": "貓娘",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MiMi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040812563,
+      "mentions": [
+        {
+          "text": {
+            "content": "MiMi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038554054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes De-worm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038554054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes De-worm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Name",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/015vq3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Name"
+      },
+      "salience": 0.029569833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/09hcb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gender"
+      },
+      "salience": 0.029569833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "性格",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025278203,
+      "mentions": [
+        {
+          "text": {
+            "content": "性格",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "全白",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024051145,
+      "mentions": [
+        {
+          "text": {
+            "content": "全白",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "特色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024051145,
+      "mentions": [
+        {
+          "text": {
+            "content": "特色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "親人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024051145,
+      "mentions": [
+        {
+          "text": {
+            "content": "親人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yes Spayed/Neutered",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022213235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes Spayed/Neutered",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022213235,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "眼睛",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020458397,
+      "mentions": [
+        {
+          "text": {
+            "content": "眼睛",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "色",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020458397,
+      "mentions": [
+        {
+          "text": {
+            "content": "色",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Female Age: Adult 1 year",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.013329768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Female Age: Adult 1 year",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Vaccination",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/07__7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vaccine"
+      },
+      "salience": 0.013329768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccination",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "zh-Hant",
+  "categories": []
+}

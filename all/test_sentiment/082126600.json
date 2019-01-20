@@ -1,0 +1,769 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found a pregnant cat on the street and gave her a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A few days later she gave birth to 4 beautiful kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They are adorable and fluffy and love playing with each other and surrounding objects like bag straps, towels, slippers and tissue paper.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "They are all litter trained and eat both wet and dry food now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately I cannot afford to take care of them all so I have to give them for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I hope they can find a wonderful forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Shiro is a beautiful kitten who loves playing with his siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He also enjoys a good nap and easily falls asleep when you hold him in your hand.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He also loves sleeping on bags.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "James is the oldest one and is quite fluffy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He is very playful and loves to cuddle up next to you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He also loves exploring around the house and likes to sleep on bags and slippers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He loves climbing up on chairs and bags and loves food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lily is the youngest one and is the only female.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is very beautiful and has a very pink belly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She loves sleeping on top of clothes and loves rolling in the sunlight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She also loves sleeping on top of suitcases and cuddles up in the blanket.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I would love for James and Lily to be adopted as a pair because they are very close, but it is okay for them to be adopted individually as well :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Shiro",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33191174,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shiro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "James",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18489341,
+      "mentions": [
+        {
+          "text": {
+            "content": "James",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "James",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lily",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11161067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lily",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lily",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06164691,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045674104,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045674104,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045674104,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022168923,
+      "mentions": [
+        {
+          "text": {
+            "content": "birth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "slippers",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0095548825,
+      "mentions": [
+        {
+          "text": {
+            "content": "slippers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009521251,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008396377,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bag straps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008396377,
+      "mentions": [
+        {
+          "text": {
+            "content": "bag straps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "towels",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008396377,
+      "mentions": [
+        {
+          "text": {
+            "content": "towels",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tissue paper",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008396377,
+      "mentions": [
+        {
+          "text": {
+            "content": "tissue paper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008366805,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0070646093,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064484943,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056798384,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005670531,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056337398,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005621138,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055329353,
+      "mentions": [
+        {
+          "text": {
+            "content": "nap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005177484,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044236486,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "objects",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004118902,
+      "mentions": [
+        {
+          "text": {
+            "content": "objects",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038920096,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clothes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038889232,
+      "mentions": [
+        {
+          "text": {
+            "content": "clothes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sunlight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038889232,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunlight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suitcases",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0038860259,
+      "mentions": [
+        {
+          "text": {
+            "content": "suitcases",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blanket",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038860259,
+      "mentions": [
+        {
+          "text": {
+            "content": "blanket",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pair",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027184656,
+      "mentions": [
+        {
+          "text": {
+            "content": "pair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021852185,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0021367215,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0021346183,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00207047,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "slippers",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0019488407,
+      "mentions": [
+        {
+          "text": {
+            "content": "slippers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chairs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017100365,
+      "mentions": [
+        {
+          "text": {
+            "content": "chairs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 13,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,263 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi my name is Cantek, but you can call me Beautiful too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I was found in a car engine and had a a very deep cut.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A kind lady brought me to the doctor and they helped me get better.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am healed now but they said I can't be put back into the streets because my leg feels funny and I can't run as fast anymore.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I think I am very cute because people smile when they look at me, but no one has taken me home yet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Call if you wanna get to know me more.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I promise I'll grow on you. :D",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37832987,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cantek",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24313667,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cantek",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "car engine",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.060051866,
+      "mentions": [
+        {
+          "text": {
+            "content": "car engine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cut",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060051866,
+      "mentions": [
+        {
+          "text": {
+            "content": "cut",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041664753,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.040768594,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040414736,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037420664,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030747728,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.028152755,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027643291,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": ":D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011617209,
+      "mentions": [
+        {
+          "text": {
+            "content": ":D",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

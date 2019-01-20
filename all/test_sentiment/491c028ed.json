@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found it by a roadside.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Complete set, manja, notty, playfull, gedik, makan kuat...minta pelempang..cute sgt.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "roadside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.36905715,
+      "mentions": [
+        {
+          "text": {
+            "content": "roadside",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "notty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12771511,
+      "mentions": [
+        {
+          "text": {
+            "content": "notty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playfull",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12771511,
+      "mentions": [
+        {
+          "text": {
+            "content": "playfull",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "set",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12619483,
+      "mentions": [
+        {
+          "text": {
+            "content": "set",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12619483,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gedik",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07010954,
+      "mentions": [
+        {
+          "text": {
+            "content": "gedik",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kuat...minta pelempang",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053013418,
+      "mentions": [
+        {
+          "text": {
+            "content": "kuat...minta pelempang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

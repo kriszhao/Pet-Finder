@@ -1,0 +1,288 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jenny is a fun loving dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She obeys commands like sit, shake hands and fetch.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is a good guard dog too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately, l have problems with my surroundings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "They dislike her and I'm afraid they will harm her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Coz my husband n I go to work and she will be in the porch.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I found litters thrown inside.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Pls help.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jenny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.63227135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17094877,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06007423,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023182603,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023182603,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022663163,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surroundings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01575517,
+      "mentions": [
+        {
+          "text": {
+            "content": "surroundings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problems",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015563951,
+      "mentions": [
+        {
+          "text": {
+            "content": "problems",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "porch",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01086303,
+      "mentions": [
+        {
+          "text": {
+            "content": "porch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litters",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075993426,
+      "mentions": [
+        {
+          "text": {
+            "content": "litters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pls help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075869057,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pls help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00553361,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047752447,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

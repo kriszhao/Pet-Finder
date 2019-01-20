@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These puppies were found at a construction area near by my place.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They need a home ASAP. #1 female - Little chili, most tiny, most fierce, fury #2 male - Friendly, most blur, most chubby( fat ), very fury # female - Small baby, keep hiding,sleeping #1 always protect her",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27595714,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "construction area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.27595714,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11192079,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Friendly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.091285795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friendly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054922283,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042896554,
+      "mentions": [
+        {
+          "text": {
+            "content": "fury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blur",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03467522,
+      "mentions": [
+        {
+          "text": {
+            "content": "blur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chili",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031846832,
+      "mentions": [
+        {
+          "text": {
+            "content": "chili",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ASAP. #1",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.029635938,
+      "mentions": [
+        {
+          "text": {
+            "content": "ASAP. #1",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026209328,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013143091,
+      "mentions": [
+        {
+          "text": {
+            "content": "fury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0115498705,
+      "mentions": [
+        {
+          "text": {
+            "content": "fat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

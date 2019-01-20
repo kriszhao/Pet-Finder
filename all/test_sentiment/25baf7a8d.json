@@ -1,0 +1,315 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bubu is fluffy girl who like to stand like Simba the lion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "So we would like to name her Simba.. but Simba is male.. and because she's fluffy (gebu in Malay) so we combined the name and we named her Simbu.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "We ended up calling her Bubu in short.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She is playfull, lovable, curious.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Have blue eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She's covered in white coat with a grey-black spot on the middle of her head which makes her even more unique.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She's cute with attitude.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bubu",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7098889,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bubu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Bubu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Simba",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Simba",
+        "mid": "/m/03wjyj"
+      },
+      "salience": 0.16741747,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simba",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Simba",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Simba",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0599265,
+      "mentions": [
+        {
+          "text": {
+            "content": "lion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Simbu",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/09jn9t",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Silambarasan"
+      },
+      "salience": 0.014310125,
+      "mentions": [
+        {
+          "text": {
+            "content": "Simbu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013466426,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gebu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007671627,
+      "mentions": [
+        {
+          "text": {
+            "content": "gebu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grey-black spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053060553,
+      "mentions": [
+        {
+          "text": {
+            "content": "grey-black spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053060553,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Malay",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0y1mh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malay_language"
+      },
+      "salience": 0.00454414,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malay",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038143971,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attitude",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003710342,
+      "mentions": [
+        {
+          "text": {
+            "content": "attitude",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002330641,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023073312,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

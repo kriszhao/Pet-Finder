@@ -1,0 +1,192 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Saving one dog will not change the world, but surely for that one dog, the world will change forever.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please call Ms.Liza / Ms.Nancy / Ms.Jennie LOCATION : FURRYKIDS SAFAHAVEN (SEREMBAN)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34561688,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jennie LOCATION",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2676323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jennie LOCATION",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Ms.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Ms.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14405897,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10271609,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.099150024,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FURRYKIDS SAFAHAVEN",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012542653,
+      "mentions": [
+        {
+          "text": {
+            "content": "FURRYKIDS SAFAHAVEN",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SEREMBAN",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0371_6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seremban"
+      },
+      "salience": 0.012542653,
+      "mentions": [
+        {
+          "text": {
+            "content": "SEREMBAN",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nancy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007870218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Liza",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007870218,
+      "mentions": [
+        {
+          "text": {
+            "content": "Liza",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

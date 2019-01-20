@@ -1,0 +1,207 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "GSD breed 4 year (Chichi) Female, good guard dog, not suitable for family with no dog, Experian’s No adoption fees.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "please call for an appointment ( ) for location map log on to www.g-pet.com",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "GSD",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0km5c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd"
+      },
+      "salience": 0.24028614,
+      "mentions": [
+        {
+          "text": {
+            "content": "GSD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12520684,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12374584,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11059778,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.101813205,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chichi) Female",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09625292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chichi) Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "No",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.061106104,
+      "mentions": [
+        {
+          "text": {
+            "content": "No",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Experian",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02npb0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Experian"
+      },
+      "salience": 0.061106104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Experian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "appointment",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.037692543,
+      "mentions": [
+        {
+          "text": {
+            "content": "appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "location map log",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026483845,
+      "mentions": [
+        {
+          "text": {
+            "content": "location map log",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.g-pet.com",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/068hy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pet"
+      },
+      "salience": 0.01570867,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.g-pet.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

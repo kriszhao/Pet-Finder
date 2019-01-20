@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mama Utih, a very pleasant and well behave cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Very sopan, lemah lembut n lemah gemalai..kikiii.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mama Utih",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.6298689,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama Utih",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.32073364,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lemah lembut n lemah gemalai...kikiii",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049397457,
+      "mentions": [
+        {
+          "text": {
+            "content": "lemah lembut n lemah gemalai..kikiii",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

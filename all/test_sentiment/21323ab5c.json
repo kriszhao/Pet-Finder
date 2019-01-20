@@ -1,0 +1,313 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Molly is a 4 month old mix Chihuahua and is active and alert.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Despite being a female, she barks at strangers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Moses is a 4 month old male German Pincher, very friendly and sweet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He loves being touched by human.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Both of them were dumped at Second Chance shelter shelter located at Old Klang Road, KL.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "If interested to adopt them, please call Mrs Lai or Mun Ee.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Molly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54267466,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/04yfh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Moses"
+      },
+      "salience": 0.15231048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chihuahua",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0khhs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chihuahua_(dog)"
+      },
+      "salience": 0.12525551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chihuahua",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031570554,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11b7gf0ghy"
+      },
+      "salience": 0.0232139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021399137,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0197228,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01966921,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pincher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016333716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pincher",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012790544,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008801608,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008801608,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shelter shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0074381414,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mun Ee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006152338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mun Ee",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0038658048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Chance",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

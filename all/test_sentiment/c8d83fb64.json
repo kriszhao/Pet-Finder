@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "10 years pedigree lives in house LOOKING FOR ADOPTER due to owner immigrating to US.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A bit lacks on vacs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "English Cocker.Please give him a new home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Owner contact: David Packiam",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pedigree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37912455,
+      "mentions": [
+        {
+          "text": {
+            "content": "pedigree",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14881563,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11562544,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTER",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.089788705,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "US",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/United_States",
+        "mid": "/m/09c7w0"
+      },
+      "salience": 0.061896022,
+      "mentions": [
+        {
+          "text": {
+            "content": "US",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050431196,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vacs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046331324,
+      "mentions": [
+        {
+          "text": {
+            "content": "vacs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027412068,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026665337,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Owner contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024395104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cocker.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015054569,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cocker.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "David Packiam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014460044,
+      "mentions": [
+        {
+          "text": {
+            "content": "David Packiam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

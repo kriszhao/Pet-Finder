@@ -1,0 +1,216 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sleepy head.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Timid and shy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Kitten has found a new home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Praise the Lord!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks for opting for adoptions.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Help spread the love :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.40913448,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sleepy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/06xzh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sleep"
+      },
+      "salience": 0.25995815,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sleepy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kitten",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0hjzp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kitten"
+      },
+      "salience": 0.07288083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitten",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.059267186,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054148942,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoptions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04101952,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoptions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040929083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Praise the Lord",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/11f64ddh6x"
+      },
+      "salience": 0.03524654,
+      "mentions": [
+        {
+          "text": {
+            "content": "Praise the Lord",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027415298,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

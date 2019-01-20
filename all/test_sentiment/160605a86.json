@@ -1,0 +1,464 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Taylor is a male Lilac Burmese born on /08.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is a very affectionate and loyal cat who loves head rubs and sitting on laps.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "His favourite companion is Inca, a black domestic short hair cat who loves to chat and is very affectionate to her younger playmate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Inca was born /06.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "These two cats have been with our family since they were kittens and we brought them over from Australia in March .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We now have an assignment in Tanzania so are forced to find them a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They are both neutered, fully vaccinated and in good health.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "We have two airport approved crates, and lambs wool rugs they like to sleep on.i Please email with enquiries if unable to contact by phone as we will be out of mobile range.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Taylor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5318847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taylor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Inca",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03yp_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_Empire"
+      },
+      "salience": 0.07601649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Inca",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Inca",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Burmese",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01mvkt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese_cat"
+      },
+      "salience": 0.06831575,
+      "mentions": [
+        {
+          "text": {
+            "content": "Burmese",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06327454,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lilac",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.053761613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilac",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035801124,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020210115,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020042872,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head rubs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017826745,
+      "mentions": [
+        {
+          "text": {
+            "content": "head rubs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011346587,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01127877,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playmate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01127877,
+      "mentions": [
+        {
+          "text": {
+            "content": "playmate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "assignment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0102637615,
+      "mentions": [
+        {
+          "text": {
+            "content": "assignment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crates",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00800241,
+      "mentions": [
+        {
+          "text": {
+            "content": "crates",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wool rugs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0078083584,
+      "mentions": [
+        {
+          "text": {
+            "content": "wool rugs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "airport",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0078083584,
+      "mentions": [
+        {
+          "text": {
+            "content": "airport",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0chghy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Australia"
+      },
+      "salience": 0.0061632995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Australia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tanzania",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/07dzf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tanzania"
+      },
+      "salience": 0.006149512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tanzania",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "enquiries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005468658,
+      "mentions": [
+        {
+          "text": {
+            "content": "enquiries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005468658,
+      "mentions": [
+        {
+          "text": {
+            "content": "phone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "range",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005468658,
+      "mentions": [
+        {
+          "text": {
+            "content": "range",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053547956,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034332755,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

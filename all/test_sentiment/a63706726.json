@@ -1,0 +1,206 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "FOUR persian kittens ready for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Available end of March .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "All potty-trained, healthy, friendly, and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Two whites, 1 black, and 1 cream.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "To view / Pick up in Damansara Perdana.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Serious buyers only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If interested, please email to alfa.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.36226806,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.36226806,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07764527,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whites",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053246684,
+      "mentions": [
+        {
+          "text": {
+            "content": "whites",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04896018,
+      "mentions": [
+        {
+          "text": {
+            "content": "black",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04896018,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "buyers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036933437,
+      "mentions": [
+        {
+          "text": {
+            "content": "buyers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Damansara Perdana",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0db4vp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Damansara_Perdana"
+      },
+      "salience": 0.00971814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damansara Perdana",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

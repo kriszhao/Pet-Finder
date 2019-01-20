@@ -1,0 +1,631 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "my name is A3.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "A for abandoned, not A for apple !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "someone just decide to dump me and my another 2 sisters (A1 &amp; A2) to a store at Selayang on 22.7.13.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Rescuer took us all home to shower and unfortunately all of us contracted the Parvovirus and were admitted to clinic one by one.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "it is all good now, lucky for us, we have all recovered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "i will b due for my 1st vaccination on 24.8.13.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "my fur has d mixture of white and brown.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "base is brown, outer layer is white.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "i have a special pair of ears, it stick up like an Antenna !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "it can b UP, can b DOWN, can 1 UP 1 DOWN !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "very flexible.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Haaaa i can make different face expression too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Happy, Sad, Curious and Cool, which one do u like ?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "i like to b Happy of course if u could adopt me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "tq for reading this stuff abt me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "hope to see u soon :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3642684,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "A3",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apple",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0737634,
+      "mentions": [
+        {
+          "text": {
+            "content": "apple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07087895,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04370054,
+      "mentions": [
+        {
+          "text": {
+            "content": "pair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034445737,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031610314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02804463,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "A1",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02804463,
+      "mentions": [
+        {
+          "text": {
+            "content": "A1",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "A2",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02804463,
+      "mentions": [
+        {
+          "text": {
+            "content": "A2",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "store",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02804463,
+      "mentions": [
+        {
+          "text": {
+            "content": "store",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027968097,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02230327,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020946579,
+      "mentions": [
+        {
+          "text": {
+            "content": "base",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "layer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020946579,
+      "mentions": [
+        {
+          "text": {
+            "content": "layer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019047253,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "d mixture",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019016072,
+      "mentions": [
+        {
+          "text": {
+            "content": "d mixture",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018892815,
+      "mentions": [
+        {
+          "text": {
+            "content": "clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017403057,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selayang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0b7zl3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bandar_Baru_Selayang"
+      },
+      "salience": 0.01660578,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selayang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "stuff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01153727,
+      "mentions": [
+        {
+          "text": {
+            "content": "stuff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Parvovirus",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03mcl0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Parvovirus"
+      },
+      "salience": 0.011178084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parvovirus",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "face expression",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010355562,
+      "mentions": [
+        {
+          "text": {
+            "content": "face expression",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "course",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009141578,
+      "mentions": [
+        {
+          "text": {
+            "content": "course",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tq",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009134328,
+      "mentions": [
+        {
+          "text": {
+            "content": "tq",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sad",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.007727353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sad",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Curious",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007727353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curious",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cool",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007727353,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cool",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Antenna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057571637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Antenna",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Haaaa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00573861,
+      "mentions": [
+        {
+          "text": {
+            "content": "Haaaa",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 7.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

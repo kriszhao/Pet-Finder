@@ -1,0 +1,478 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cloves (male) is one of the eight puppies born in our apartment car park.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "His mother is a young mixed-breed who appeared out of the blue in our apartment premises about a year ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I assume she had been abandoned by her owner as she seems to be a very human-oriented dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Since then, she's been living in one of our car parks but we couldn't have her spayed in time due to her poor skin condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Now we have seven puppies (initially eight but one died recently) and their parents living in one of our car parks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Cloves and his six siblings urgently need homes; otherwise they would be run over by cars or taken away by dog catchers if any resident decides to call DBKL!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "(Note: My neighbors and I strongly recommend neutering him when he reaches a certain age and we are more than happy to sponsor the neutering cost.)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29941443,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cloves",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/121hrbw_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Clove"
+      },
+      "salience": 0.27896148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cloves",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment car park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09616666,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment car park",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08801836,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car parks",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05105685,
+      "mentions": [
+        {
+          "text": {
+            "content": "car parks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "car parks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030475562,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment premises",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01445683,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment premises",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01445683,
+      "mentions": [
+        {
+          "text": {
+            "content": "blue",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01362105,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013128635,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012016669,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010210968,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009803631,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00971834,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008972208,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007556409,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007252252,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog catchers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067498223,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog catchers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "resident",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065056165,
+      "mentions": [
+        {
+          "text": {
+            "content": "resident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005269237,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004717398,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cnp39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall"
+      },
+      "salience": 0.003991845,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.002961853,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002524053,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cloves",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0019930166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cloves",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

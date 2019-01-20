@@ -1,0 +1,237 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Max and May were 2 siblings that look like labrador mix and were sent to our dog shelter when they were 2 months old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "May is a very sweet quiet pup whilst her brother Max is more active, and loves to play and not afraid of people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you want to give them a loving home, please contact Mrs Lai , Kim or May Leng for more adoption details and to arrange for viewing.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5717796,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "labrador mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08952187,
+      "mentions": [
+        {
+          "text": {
+            "content": "labrador mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog shelter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08952187,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Max",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053247232,
+      "mentions": [
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Max",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04604837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03821484,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035962716,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027513165,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014497958,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "viewing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014497958,
+      "mentions": [
+        {
+          "text": {
+            "content": "viewing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012251352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0069430647,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

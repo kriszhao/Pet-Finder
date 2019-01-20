@@ -1,0 +1,403 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I rescued Miu Miu in the middle of highway and found out her front left leg is unable to move.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "All 5 different vets is unable to help but this doesn't stop this 3-legged kitty from living a normal life!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Sadly,I could no longer keep her and she has to be moved out by 17 February (CNY).She is in a critical situation as my house owner threaten to let her go back to the street and I am extremely helpless right now.I could offer to buy a small/large cage at any cost and I just need a kind person to offer a place (indoor or out-door with cover,such as balcony/car porch)to keep this poor kitty from injure her hand in motion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Miu Miu is % well toilet-trained,not picky at food and get along well with people.If you are interested, please do not hesitate to call me or whatapps me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please help us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19987682,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16755924,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "highway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.16755924,
+      "mentions": [
+        {
+          "text": {
+            "content": "highway",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Miu Miu",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0h01k9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Miu_Miu"
+      },
+      "salience": 0.1505971,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miu Miu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Miu Miu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "vets",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037741095,
+      "mentions": [
+        {
+          "text": {
+            "content": "vets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035742395,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031423632,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02165991,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021396149,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021396149,
+      "mentions": [
+        {
+          "text": {
+            "content": "house owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021396149,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01963715,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016743494,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01481012,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01481012,
+      "mentions": [
+        {
+          "text": {
+            "content": "motion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014757922,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0103362445,
+      "mentions": [
+        {
+          "text": {
+            "content": "people.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006708191,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cover",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006501721,
+      "mentions": [
+        {
+          "text": {
+            "content": "cover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car porch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006501721,
+      "mentions": [
+        {
+          "text": {
+            "content": "car porch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "balcony",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006501721,
+      "mentions": [
+        {
+          "text": {
+            "content": "balcony",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00634375,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

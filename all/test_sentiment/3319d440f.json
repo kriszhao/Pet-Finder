@@ -1,0 +1,241 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, I can said it is very adorable kitten ^^ I found it when I taking my car at BUKIT JALIL road side, I'm realized it follow my step all the way &gt;_&lt;",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I'm tried to put it back to the small box that where it come from, but again, it follow me again xD To avoid car accident crash it, so I decided to bring it back and find a good owner to adopt it.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "(As my house already got 2 puppies, so I can't take it in anymore) kindly adopt it and give it some love~",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.30778193,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.25620916,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.10349816,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.078844205,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05346475,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "step",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052817896,
+      "mentions": [
+        {
+          "text": {
+            "content": "step",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BUKIT JALIL",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_d26",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Jalil"
+      },
+      "salience": 0.04691041,
+      "mentions": [
+        {
+          "text": {
+            "content": "BUKIT JALIL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "car accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.03023698,
+      "mentions": [
+        {
+          "text": {
+            "content": "car accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02298165,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "xD",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0140117165,
+      "mentions": [
+        {
+          "text": {
+            "content": "xD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012352283,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01127806,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009612797,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

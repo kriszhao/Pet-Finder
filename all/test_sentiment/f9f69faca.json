@@ -1,0 +1,163 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Interested parties, please call / SMS or e-mail me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Details about yourself and your experience with cats will be much appreciated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "------------------------------------------------------------------------------- Name: Men-Men (雯雯) Gender: Female D.O.B: September De-Worm: Yes Vaccination: Yes Spayed: Yes",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "parties",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.33737782,
+      "mentions": [
+        {
+          "text": {
+            "content": "parties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33737782,
+      "mentions": [
+        {
+          "text": {
+            "content": "SMS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13582201,
+      "mentions": [
+        {
+          "text": {
+            "content": "Details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "experience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06934455,
+      "mentions": [
+        {
+          "text": {
+            "content": "experience",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06934455,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Men-Men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022347307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Men-Men",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014604411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "雯雯) Gender: Female D.O.B: September De-Worm: Yes Vaccination",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013781552,
+      "mentions": [
+        {
+          "text": {
+            "content": "雯雯) Gender: Female D.O.B: September De-Worm: Yes Vaccination",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Jeremy (male)..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is 3 months old.. he's are cute, playful, adoreable and toilet train.. he is not really fussy on the food.. he eat whatever they can eat..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "i usually feed them with smartheart and bengy..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And just change their meal with Blackwood..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jeremy",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.58464015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeremy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "toilet train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.102108434,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet train",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.093775086,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smartheart",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07050107,
+      "mentions": [
+        {
+          "text": {
+            "content": "smartheart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bengy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07050107,
+      "mentions": [
+        {
+          "text": {
+            "content": "bengy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04928511,
+      "mentions": [
+        {
+          "text": {
+            "content": "meal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Blackwood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029189115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackwood",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

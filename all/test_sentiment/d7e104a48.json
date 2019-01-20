@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "BOBO IS AN OBEDIENT DOG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "SHE CAN TAKE CARE OF OUR HOUSE WHEN WE ARE OUT.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "SHE IS ALSO AN SMALLER EATER DOG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "SHE LIKES CLEANLINESS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "BOBO",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8000515,
+      "mentions": [
+        {
+          "text": {
+            "content": "BOBO",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "DOG",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.106284514,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOG",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CARE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028837815,
+      "mentions": [
+        {
+          "text": {
+            "content": "CARE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "EATER DOG",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025606398,
+      "mentions": [
+        {
+          "text": {
+            "content": "EATER DOG",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HOUSE",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025564222,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOUSE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CLEANLINESS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013655572,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLEANLINESS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

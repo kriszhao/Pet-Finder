@@ -1,0 +1,213 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jacob is around 2 years old,was given by my friend.I put him for adoption bcoz of theres a resident tom cat in my house.Im afraid the going to fight each other.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is adorable,easy going,loves to play and he's only eat cat food and i think he doesnt have taste for rice mix with fried fish or boiled mackerel fish.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6535694,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jacob",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.098734155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jacob",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05404702,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04255464,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tom cat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04181675,
+      "mentions": [
+        {
+          "text": {
+            "content": "tom cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "theres",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036839858,
+      "mentions": [
+        {
+          "text": {
+            "content": "theres",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house.Im",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021965567,
+      "mentions": [
+        {
+          "text": {
+            "content": "house.Im",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rice mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012544065,
+      "mentions": [
+        {
+          "text": {
+            "content": "rice mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012391666,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fried fish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010008695,
+      "mentions": [
+        {
+          "text": {
+            "content": "fried fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mackerel fish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010008695,
+      "mentions": [
+        {
+          "text": {
+            "content": "mackerel fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0055194977,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

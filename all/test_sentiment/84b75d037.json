@@ -1,0 +1,461 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dear Community: URGENT&gt;.....",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please help to re-home dear Jimmy (cat).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He had a warm, loving home for the past nearly one year with a family that loves them dearly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately, the dad lost his job 5 months ago, during these very hard times.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The family hoped to be able to stay here but the only job that has just come available is in Hong Kong.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The family will be in temporary housing for some time with no guarantee that pets will be allowed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It is a highly stressful time for the family and they are heart broken about the reality that it will be best to find a loving forever home for Jimmy (neutered).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please help us to connect thsi sweetie to a new loving family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They have been house pets together from puppyhood/kittenhood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Jimmy has been neutered/vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "THANK YOU!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37426355,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21672627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jimmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jimmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jimmy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.088398315,
+      "mentions": [
+        {
+          "text": {
+            "content": "Community",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07746151,
+      "mentions": [
+        {
+          "text": {
+            "content": "dad",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05062327,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043393247,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house pets",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022344,
+      "mentions": [
+        {
+          "text": {
+            "content": "house pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018817306,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.013897668,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "housing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012774936,
+      "mentions": [
+        {
+          "text": {
+            "content": "housing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012682323,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011725863,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010993536,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010696137,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guarantee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010305392,
+      "mentions": [
+        {
+          "text": {
+            "content": "guarantee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sweetie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007745556,
+      "mentions": [
+        {
+          "text": {
+            "content": "sweetie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03h64",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hong_Kong"
+      },
+      "salience": 0.006663001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hong Kong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038778826,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034064536,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppyhood/kittenhood",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0032037797,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppyhood/kittenhood",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,182 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cili belongs to meowmmy Sweetie who lives on our back lane.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We had to bring her in as the weather has been mad and wet and chances for them to survive may be very challenging.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I call her Cili as she is small, like a cili api, very fierce at first but now a loving, playful little kitty!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Fees = 0 but please promise to spay her as soon as she is ready.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Sweetie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.50522405,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweetie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "back lane",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.18831316,
+      "mentions": [
+        {
+          "text": {
+            "content": "back lane",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cili",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tl4d9l3"
+      },
+      "salience": 0.114624634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cili",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cili",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "chances",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076624915,
+      "mentions": [
+        {
+          "text": {
+            "content": "chances",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weather",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057407334,
+      "mentions": [
+        {
+          "text": {
+            "content": "weather",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "api",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023049366,
+      "mentions": [
+        {
+          "text": {
+            "content": "api",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0174088,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017347716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

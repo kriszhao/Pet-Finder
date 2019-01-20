@@ -1,0 +1,190 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I rescued Ginger on the srteets, Ginger is a healthy young cat, she is playful and is very normal and healthy, I think that they left her there is because she was a female, but otherwise ginger is curious always wondering what things are, she loves to play tag, wanting you to chase her, she is very sweet and doesn't harm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She will follow you around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "she follows me everywhere I go, sometimes other people she is very playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "WE WILL GIVE YOU LITTLE BIT OF CAT FOOD TO GET STARTED",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5942162,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ginger",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0f9n3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger"
+      },
+      "salience": 0.2693145,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ginger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ginger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "srteets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06977322,
+      "mentions": [
+        {
+          "text": {
+            "content": "srteets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ginger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027990103,
+      "mentions": [
+        {
+          "text": {
+            "content": "ginger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018326234,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008501534,
+      "mentions": [
+        {
+          "text": {
+            "content": "tag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007513096,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT FOOD",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.004365099,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

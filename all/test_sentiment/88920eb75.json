@@ -1,0 +1,184 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "wangcai was rescued at jln dedap it was raining heavily and he was too hubgry to walk, he is now clean and ready for adoption. he is active and can listen to some commands like 'come here', 'stand'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "; i just found out that wangcai's father is a German shepherd.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "no wonder wangcai is so smart and active, i believe wangcai will be a loyal companion and a good guard dog!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "wangcai",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.668058,
+      "mentions": [
+        {
+          "text": {
+            "content": "wangcai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "wangcai",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13915797,
+      "mentions": [
+        {
+          "text": {
+            "content": "wangcai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "wangcai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058188345,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057493985,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shepherd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044479586,
+      "mentions": [
+        {
+          "text": {
+            "content": "father",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "shepherd",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wonder wangcai",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013826533,
+      "mentions": [
+        {
+          "text": {
+            "content": "wonder wangcai",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013687816,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0051077916,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

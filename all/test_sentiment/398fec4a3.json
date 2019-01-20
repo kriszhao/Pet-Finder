@@ -1,0 +1,60 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ngao ngao she actually is a girl , she playful but she scare ppl .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ngao",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.94682425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ngao",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ppl",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.053175744,
+      "mentions": [
+        {
+          "text": {
+            "content": "ppl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

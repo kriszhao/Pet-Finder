@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Special needs: Extra care &amp; love Message for interested parties: I stay in flat..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I ald have 2 mongrel..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I heard that MPPP gonna come over 2molo (23/4/) to shoot them, so i bring them home 1st.. very pity the dog..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "who so cruel to report to MPPP",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Special needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17806874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Special needs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17806874,
+      "mentions": [
+        {
+          "text": {
+            "content": "Message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17806874,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17806874,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MPPP",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/02nnks",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Desmethylprodine"
+      },
+      "salience": 0.10432176,
+      "mentions": [
+        {
+          "text": {
+            "content": "MPPP",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "MPPP",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "parties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07164033,
+      "mentions": [
+        {
+          "text": {
+            "content": "parties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flat",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07164033,
+      "mentions": [
+        {
+          "text": {
+            "content": "flat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mongrel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02349861,
+      "mentions": [
+        {
+          "text": {
+            "content": "mongrel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016624024,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

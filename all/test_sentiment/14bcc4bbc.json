@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "YAY TERRY HAS FOUND HIS FOREVER HOME ^.^",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "TERRY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9258293,
+      "mentions": [
+        {
+          "text": {
+            "content": "TERRY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "HOME",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07417072,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOME",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

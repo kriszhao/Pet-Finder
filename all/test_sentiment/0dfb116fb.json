@@ -1,0 +1,443 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Oprah is a rescued kitten.All her siblings have been adopted recently and she's looking forward to go to a loving and caring home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "1.Oprah ~ Female Hi, I'm the eldest of all.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Initially I was mistaken for a male kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I'm quite reserved, quiet, very calculative, love cuddles and love to snuggle with my foster mom in her bed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I make a very good lappy kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I watch my diet, I eat just right and never over indulge myself unlike Dewey and Daisy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Although I'm quite reserved, I'm always up for a good fight with my brother and sister and I love my playtime.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I still suckle on my brother and sisters when I get too sleepy.I am a master litter tray user.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "*Potential adopters will need to fill up adoption form and screened through*",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "master litter tray user",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.72253144,
+      "mentions": [
+        {
+          "text": {
+            "content": "master litter tray user",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051712804,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eldest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04386906,
+      "mentions": [
+        {
+          "text": {
+            "content": "eldest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oprah",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0grwj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Oprah_Winfrey"
+      },
+      "salience": 0.04214503,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oprah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02370648,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020011213,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016636766,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010995532,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008105733,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071086627,
+      "mentions": [
+        {
+          "text": {
+            "content": "diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006556692,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love cuddles",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0064768,
+      "mentions": [
+        {
+          "text": {
+            "content": "love cuddles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lappy kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064608343,
+      "mentions": [
+        {
+          "text": {
+            "content": "lappy kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oprah ~ Female Hi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005726229,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oprah ~ Female Hi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051208185,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playtime",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004791922,
+      "mentions": [
+        {
+          "text": {
+            "content": "playtime",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035814361,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dewey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003543209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dewey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Daisy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003543209,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daisy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption form",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031462875,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption form",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022518293,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fight",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0019779962,
+      "mentions": [
+        {
+          "text": {
+            "content": "fight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

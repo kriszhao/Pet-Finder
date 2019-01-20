@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "His name is Ginger, as her orange strip coat and dotted spots at his belly area like a tiger.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is the eldest among the sibling.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He is very playful being a male kitten, curiousity, clever, brave.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He like to haing a nap next to your pillow and he is very cute when sleeping and very often dreaming with little noise that he made.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Very adorable!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "eldest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5491254,
+      "mentions": [
+        {
+          "text": {
+            "content": "eldest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.117496625,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strip coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09918313,
+      "mentions": [
+        {
+          "text": {
+            "content": "strip coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ginger",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger",
+        "mid": "/m/0f9n3"
+      },
+      "salience": 0.07637556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ginger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "spots",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.039344266,
+      "mentions": [
+        {
+          "text": {
+            "content": "spots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.039344266,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02679075,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013075809,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sibling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012981348,
+      "mentions": [
+        {
+          "text": {
+            "content": "sibling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curiousity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012005521,
+      "mentions": [
+        {
+          "text": {
+            "content": "curiousity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063323225,
+      "mentions": [
+        {
+          "text": {
+            "content": "noise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003972509,
+      "mentions": [
+        {
+          "text": {
+            "content": "nap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pillow",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.003972509,
+      "mentions": [
+        {
+          "text": {
+            "content": "pillow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

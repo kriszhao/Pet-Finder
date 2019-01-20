@@ -1,0 +1,219 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "DLH/Mix persian fo sale self pickup at setiawangsa.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "-for sale to catslover only -age 1year++ -female (calico) -eat RC hairball -toilet trained #condition: swap with food.Royal Canin 4kg only -you cn whatsapp my no or call",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "persian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33323896,
+      "mentions": [
+        {
+          "text": {
+            "content": "persian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DLH",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.20673546,
+      "mentions": [
+        {
+          "text": {
+            "content": "DLH",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "self pickup",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.13580419,
+      "mentions": [
+        {
+          "text": {
+            "content": "self pickup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "setiawangsa",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_rc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Setiawangsa"
+      },
+      "salience": 0.081815325,
+      "mentions": [
+        {
+          "text": {
+            "content": "setiawangsa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sale",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051529285,
+      "mentions": [
+        {
+          "text": {
+            "content": "sale",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "calico",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045906927,
+      "mentions": [
+        {
+          "text": {
+            "content": "calico",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hairball -toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042170476,
+      "mentions": [
+        {
+          "text": {
+            "content": "hairball -toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.025062088,
+      "mentions": [
+        {
+          "text": {
+            "content": "RC",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "no",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022380713,
+      "mentions": [
+        {
+          "text": {
+            "content": "no",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022380713,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Royal Canin",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Canin",
+        "mid": "/m/0bq5x1"
+      },
+      "salience": 0.01891984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal Canin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "#condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014056017,
+      "mentions": [
+        {
+          "text": {
+            "content": "#condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

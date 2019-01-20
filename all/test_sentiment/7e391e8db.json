@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "White persian and calm personality",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "persian",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.65071195,
+      "mentions": [
+        {
+          "text": {
+            "content": "persian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34928805,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,237 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A female puppy about two months old, very active, rescued from somewhere in Segambut.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She and her sister are currently being fostered by me in Cheras, Kl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She has taken the first vaccination and flea treatment and been dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If interested please contact me at for further enquiries.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.47186258,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.19056135,
+      "mentions": [
+        {
+          "text": {
+            "content": "somewhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Segambut",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0v2h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Segambut"
+      },
+      "salience": 0.07784974,
+      "mentions": [
+        {
+          "text": {
+            "content": "Segambut",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06337872,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cheras",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/09z0md",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cheras,_Kuala_Lumpur"
+      },
+      "salience": 0.038114816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheras",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kl",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.034990128,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "enquiries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030978927,
+      "mentions": [
+        {
+          "text": {
+            "content": "enquiries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030894468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02233524,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019517012,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019517012,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

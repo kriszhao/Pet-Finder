@@ -1,0 +1,176 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "There are 4 males and 2 females.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "No adoption fee.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Location at Petaling Jaya Old Town.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Further info please message me at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "males",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4749991,
+      "mentions": [
+        {
+          "text": {
+            "content": "males",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "females",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20315245,
+      "mentions": [
+        {
+          "text": {
+            "content": "females",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09882735,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06955582,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06921706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petaling Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03dqts",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya"
+      },
+      "salience": 0.03789888,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petaling Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033738445,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Town",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01261091,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Town",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

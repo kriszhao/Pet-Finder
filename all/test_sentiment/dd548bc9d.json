@@ -1,0 +1,263 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This cocker spaniel dog was rescued by my customer.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "vet said estimated to be around 10 years more or less.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "but he's still very active and obedient.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "all necessary treatmentd and medication already done on him. he's completely healthy and well now.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Please give him a new home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "im temporarily fostering him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "can view him at my shop in puchong. is FREE for adoption to good owner and loving home",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5454467,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cocker spaniel dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15597118,
+      "mentions": [
+        {
+          "text": {
+            "content": "cocker spaniel dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "customer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15597118,
+      "mentions": [
+        {
+          "text": {
+            "content": "customer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatmentd",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035754547,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatmentd",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medication",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.020717127,
+      "mentions": [
+        {
+          "text": {
+            "content": "medication",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "him.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020717127,
+      "mentions": [
+        {
+          "text": {
+            "content": "him.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014270406,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puchong.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014270406,
+      "mentions": [
+        {
+          "text": {
+            "content": "puchong.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011386814,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010007933,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010007933,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0054786317,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

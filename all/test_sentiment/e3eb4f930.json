@@ -1,0 +1,628 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I need help for this stray dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I don’t know whether he had owner before or not but seems like he wear red collar.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He might be lost or something.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I named him Marley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very calm and looks friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has been stranded at my housing area in Taman Sri Menegon.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Klang, Selangor since last month but I frequently feed him when I saw him laying and berteduh from hot sun and rains at the small place known as balai raya.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Recently, I received a complaints from neighbourhood in that area that Marley had chased some of school kids while they are heading to and back from school nearby.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Plus, they want to make complaints to the local council MPK to catch Marley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Pity Marley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I am looking for any potential adopter or fosterer for Marley or someone that willing to save and take care of him as soon as possible.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Usually, he often stay at that balairaya from early morning till around a.m..Please save Marley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Contact me at (Azleen) TQ",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Marley",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29158393,
+      "mentions": [
+        {
+          "text": {
+            "content": "Marley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Marley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Marley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Marley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Marley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Marley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12960936,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11091081,
+      "mentions": [
+        {
+          "text": {
+            "content": "help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06308996,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "red collar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04432825,
+      "mentions": [
+        {
+          "text": {
+            "content": "red collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "school kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04276227,
+      "mentions": [
+        {
+          "text": {
+            "content": "school kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03228009,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027234098,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "complaints",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020300481,
+      "mentions": [
+        {
+          "text": {
+            "content": "complaints",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "housing area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018243188,
+      "mentions": [
+        {
+          "text": {
+            "content": "housing area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "school",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016888727,
+      "mentions": [
+        {
+          "text": {
+            "content": "school",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016888727,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016196838,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016196838,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rains",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016196838,
+      "mentions": [
+        {
+          "text": {
+            "content": "rains",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "berteduh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016196838,
+      "mentions": [
+        {
+          "text": {
+            "content": "berteduh",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014838899,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014838899,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012755769,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011143423,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MPK",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011005198,
+      "mentions": [
+        {
+          "text": {
+            "content": "MPK",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "council",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "balai raya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009581912,
+      "mentions": [
+        {
+          "text": {
+            "content": "balai raya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taman Sri Menegon",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1vm_vddl"
+      },
+      "salience": 0.009482807,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Sri Menegon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.009464855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Klang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/02m2h0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Klang_(city)"
+      },
+      "salience": 0.009464855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Klang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004894558,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TQ",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0046025463,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Azleen",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046025463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Azleen",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "complaints",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044164867,
+      "mentions": [
+        {
+          "text": {
+            "content": "complaints",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

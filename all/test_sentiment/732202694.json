@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found it near working factory.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Such playful &amp; energetic female, love playing with my Rocky.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "factory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.62305784,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "female",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31152302,
+      "mentions": [
+        {
+          "text": {
+            "content": "female",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rocky",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02pwtfl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rocky_(film_series)"
+      },
+      "salience": 0.065419115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rocky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

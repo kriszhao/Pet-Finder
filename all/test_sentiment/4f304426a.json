@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Peaches is rescued from the streets in October , together with her siblings Billie and Raisin, they are homeless and looking for lovely home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Currently they are fostered at warehouse office.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Peaches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3642645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peaches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29623973,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.15258515,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Billie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06404202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Raisin",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Raisin",
+        "mid": "/m/0syzv"
+      },
+      "salience": 0.06404202,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raisin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0332712,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "warehouse office",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025555398,
+      "mentions": [
+        {
+          "text": {
+            "content": "warehouse office",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,335 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hye :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I'm looking for owners who can keep these cats in the house, or let her have her freedom inside/outside the house compound ONLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "And owners that can adopt both of these kittens aswell as they're siblings .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "NOMI and NETTY are a female cat and only 4 months old .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They only eat cat food and also PLEASE DONT TRAINED HER TO EAT ANY KIND OF FOOD OTHER THAN CAT FOOD BECAUSE THEY'RE FULLY TRAINED INDOOR CAT SINCE BORN :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.32315487,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18432519,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hye",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09827591,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hye",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "NOMI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07633038,
+      "mentions": [
+        {
+          "text": {
+            "content": "NOMI",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07296726,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035146642,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032509588,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0305411,
+      "mentions": [
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021074502,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021074502,
+      "mentions": [
+        {
+          "text": {
+            "content": "both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house compound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020921912,
+      "mentions": [
+        {
+          "text": {
+            "content": "house compound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FOOD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018089525,
+      "mentions": [
+        {
+          "text": {
+            "content": "FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT FOOD",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018089525,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KIND",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014507542,
+      "mentions": [
+        {
+          "text": {
+            "content": "KIND",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013615865,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "NETTY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011420871,
+      "mentions": [
+        {
+          "text": {
+            "content": "NETTY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat food",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007954834,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

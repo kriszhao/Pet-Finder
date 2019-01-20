@@ -1,0 +1,101 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I have 1 Male GSD puppy aged 3 months+.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "The left hind leg is stiff and but could still walk &amp; run.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Healthy, dewormed &amp; vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact me if you are interested to have him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.54788667,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GSD",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0km5c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd"
+      },
+      "salience": 0.35405782,
+      "mentions": [
+        {
+          "text": {
+            "content": "GSD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hind leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09805552,
+      "mentions": [
+        {
+          "text": {
+            "content": "hind leg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

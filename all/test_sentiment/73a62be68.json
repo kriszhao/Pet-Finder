@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A shelter is no place for a puppy to grow up in, and Blackie here is a good example of why it's not.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Having been with us since he was 2 months old, Blackie suffers from a touch of insecurity- he's very careful and always worried he's done something wrong.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He is, however, young and posses such potential to be an awesome life-long companion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Are you the the confident, patient human who will tap into his undoubted intelligence and lead him on many an adventure?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Blackie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6444321,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blackie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Blackie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09062085,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08563889,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07216048,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "example",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03613985,
+      "mentions": [
+        {
+          "text": {
+            "content": "example",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patient human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027799608,
+      "mentions": [
+        {
+          "text": {
+            "content": "patient human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009480096,
+      "mentions": [
+        {
+          "text": {
+            "content": "touch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "insecurity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009480096,
+      "mentions": [
+        {
+          "text": {
+            "content": "insecurity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008703248,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "intelligence",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045653204,
+      "mentions": [
+        {
+          "text": {
+            "content": "intelligence",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adventure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045653204,
+      "mentions": [
+        {
+          "text": {
+            "content": "adventure",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035406447,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "potential",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002873479,
+      "mentions": [
+        {
+          "text": {
+            "content": "potential",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

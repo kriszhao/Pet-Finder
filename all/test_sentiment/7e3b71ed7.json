@@ -1,0 +1,223 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is my lovely cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "His name is Scotty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is 12 month old (born on May ).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Due to my health conditions, (which i have been diagnosed with asthmatic &amp; serious sinusitis), and my works requirement (which I have to travel a lot and working over time every single day).., with all the hardest feeling, I have to give him to those who can take care and loving him as much as I do.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I'm looking for a kind hearted adopter as soon as possible.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He's very friendly, cute, and adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4742356,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Scotty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2964586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scotty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.083855905,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "works requirement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046323415,
+      "mentions": [
+        {
+          "text": {
+            "content": "works requirement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02677225,
+      "mentions": [
+        {
+          "text": {
+            "content": "health conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018340342,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sinusitis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018117528,
+      "mentions": [
+        {
+          "text": {
+            "content": "sinusitis",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feeling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01683596,
+      "mentions": [
+        {
+          "text": {
+            "content": "feeling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012669836,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006390576,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

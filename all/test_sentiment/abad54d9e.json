@@ -1,0 +1,216 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Spicky and Snowy are both Blind Dogs..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They can manage themselves very well.. and they are healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They need a home as i lost my job and shelter... :-(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Have had Snowy a mixed Shitzu for 4 years and lucky a toy poodle for 2 years.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I adopted them as the owners wanted to put them to sleep..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Blind Dogs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.27334484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Blind Dogs",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Snowy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0bmf0hb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Snowy_(character)"
+      },
+      "salience": 0.24794325,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snowy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Spicky",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21431418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Spicky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047723237,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047723237,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shitzu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043669634,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shitzu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04023832,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Snowy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037634887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Snowy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03289283,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy poodle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014515573,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy poodle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

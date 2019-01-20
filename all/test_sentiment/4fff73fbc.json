@@ -1,0 +1,233 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Lucius.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I rescued him along with his two brothers from a construction site.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's the alpha male of the pack.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "First to attention, and the first to bark and growl at me when the playing gets a little rough.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Also looks out for his two brothers whenever they're outside.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He knows how to call when he needs to go out to pee, which is always a plus!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Couldn't ask for a more dependable friend!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lucius",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40254316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucius",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "alpha male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37690857,
+      "mentions": [
+        {
+          "text": {
+            "content": "alpha male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07383411,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044976875,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "construction site",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025265424,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction site",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017185047,
+      "mentions": [
+        {
+          "text": {
+            "content": "playing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pack",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01703648,
+      "mentions": [
+        {
+          "text": {
+            "content": "pack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01697684,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "first",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01697684,
+      "mentions": [
+        {
+          "text": {
+            "content": "first",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008296654,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

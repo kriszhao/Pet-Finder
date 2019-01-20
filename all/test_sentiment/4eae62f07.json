@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "For any inquiry or adoption, pls call: Ching at Location : Sri Petaling, KL ----------------------------------------------------- Name: Ms. Fa-Fa Gender: Female DOB: Nov De-Flea : Yes De-worm: Yes Spayed / Neutered: Yes, on / ------------------------------------------------------------------",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "inquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21739046,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21739046,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.21739046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fa-Fa Gender: Female DOB",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13589987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Fa-Fa Gender: Female DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ms.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06426931,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ms.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sri Petaling",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_w4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Petaling"
+      },
+      "salience": 0.056000907,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sri Petaling",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.056000907,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nov De-Flea : Yes De-worm",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0356576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nov De-Flea : Yes De-worm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

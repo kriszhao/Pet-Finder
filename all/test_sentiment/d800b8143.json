@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Name: Ping-Ping (平平) Gender: Female D.O.B: 25 May",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ping-Ping",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4567067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ping-Ping",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Female D.O.B",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28333464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Female D.O.B",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/09hcb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gender"
+      },
+      "salience": 0.25995865,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "zh",
+  "categories": []
+}

@@ -1,0 +1,116 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Extremely cute and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "No heart to let go but can't keep her either.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Definitely love at first sight.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If keen to adopt please get in touch with Heman",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5677826,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1938812,
+      "mentions": [
+        {
+          "text": {
+            "content": "touch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.122806706,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Heman",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01ccnh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/He-Man"
+      },
+      "salience": 0.1155295,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heman",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

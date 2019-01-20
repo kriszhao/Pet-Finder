@@ -1,0 +1,191 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ginger is generally healthy, very playful and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Loves kids and loves to play the fetch game.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She has gone through dog obedient training and pass her pre-novice exams.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "So basic instructions like sit, stay, wait, OK, heel are not a problem to her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ginger",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0f9n3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger"
+      },
+      "salience": 0.47588882,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ginger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13100694,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08976545,
+      "mentions": [
+        {
+          "text": {
+            "content": "training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.088686824,
+      "mentions": [
+        {
+          "text": {
+            "content": "exams",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06068162,
+      "mentions": [
+        {
+          "text": {
+            "content": "heel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055052355,
+      "mentions": [
+        {
+          "text": {
+            "content": "problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "game",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.044040084,
+      "mentions": [
+        {
+          "text": {
+            "content": "game",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instructions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027438944,
+      "mentions": [
+        {
+          "text": {
+            "content": "instructions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027438944,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

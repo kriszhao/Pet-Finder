@@ -1,0 +1,95 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bianca is very loving, but shy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "If you try to touch her, she will walk a little bit farther out of your reach, but will wish you stay longer with her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "However, she is very very friendly,so once she gets to know you, she will be a loyal friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bianca",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.95930856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bianca",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020469023,
+      "mentions": [
+        {
+          "text": {
+            "content": "reach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020222416,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

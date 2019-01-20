@@ -1,0 +1,247 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Twinkle is one of the stray from our neighbourhood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She's a abandon cat, her previous owner just left Twinkle behind as she move away.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is one of the cat we been feeding very friendly and like to manja, she just had her sterilization done with clinic Kembiri, and she is ready to be rehome.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "If you like her do contact me, drop by to see her, do give her a second change.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49328837,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abandon cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15986995,
+      "mentions": [
+        {
+          "text": {
+            "content": "abandon cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Twinkle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1501642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twinkle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Twinkle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "stray",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07143931,
+      "mentions": [
+        {
+          "text": {
+            "content": "stray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbourhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07143931,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbourhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013303328,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010551848,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008515916,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clinic",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008515916,
+      "mentions": [
+        {
+          "text": {
+            "content": "clinic",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sterilization",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0078169955,
+      "mentions": [
+        {
+          "text": {
+            "content": "sterilization",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034251479,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kembiri",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016696905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kembiri",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

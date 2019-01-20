@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Ally is very playful, nice and calm.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Trained to litter box and follows you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Also I will bring her carrier, litter box, sand and 2 bags of food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I am giving her just because my grandmother has an allergy and is coming soon to live with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please help me, you can whatsapp me",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ally",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.430609,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ally",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13094303,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08949372,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07872263,
+      "mentions": [
+        {
+          "text": {
+            "content": "sand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.07872263,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07228892,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "carrier",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.06719024,
+      "mentions": [
+        {
+          "text": {
+            "content": "carrier",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grandmother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028085453,
+      "mentions": [
+        {
+          "text": {
+            "content": "grandmother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "allergy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023944397,
+      "mentions": [
+        {
+          "text": {
+            "content": "allergy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,965 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Background: From a litter of 6 puppies found abandoned at a playground in Petaling Jaya in January .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Was adopted for a week but returned before CNY as the family was not ready to care for a very young puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Profile &amp; personality traits: The smallest male in the litter but very healthy; Mischievous; Loves to chew; Loves to pull plants out from pots; Addictively cute; A little apprehensive of humans; Loves outdoor walks; Pees frequently; Poops 3 - 4 times a day; Sociable with other dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Needs: Care; Affection; Discipline; Potty/House training; Daily outdoor walks; A wipe under the eyes a few times each day; Tick &amp; flea prevention; Good food suitable for dogs; Supplements (currently taking one capsule each of omega-3 fish oil, cod liver oil, garlic capsule, bee propolis daily + 1 tsp of coconut oil in food for dinner); Monthly heartworm prevention; Annual vaccination; Deworm as needed; Fresh drinking water; A bath every 2 weeks or as necessary; A cozy place to live in the house; To be neutered when old enough (to prevent unwanted health conditions in future) Wants (but not a necessity): A lot of food every time of the day; Own toys; A big safe space to play and run.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.090889424,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090889424,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playground",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08011147,
+      "mentions": [
+        {
+          "text": {
+            "content": "playground",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Background",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08011147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Background",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Deworm",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03nnncz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Deworming"
+      },
+      "salience": 0.061416388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deworm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "drinking water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bath",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petaling Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya",
+        "mid": "/m/03dqts"
+      },
+      "salience": 0.047836374,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petaling Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043964636,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CNY",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.023119487,
+      "mentions": [
+        {
+          "text": {
+            "content": "CNY",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016876135,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Loves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016792519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Loves",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016792519,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016792519,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "personality traits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016792519,
+      "mentions": [
+        {
+          "text": {
+            "content": "personality traits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "male",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014757411,
+      "mentions": [
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Profile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014757411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Profile",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01254177,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012432652,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "capsule",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012165971,
+      "mentions": [
+        {
+          "text": {
+            "content": "capsule",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012060109,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cod liver oil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011509556,
+      "mentions": [
+        {
+          "text": {
+            "content": "cod liver oil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011509556,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fish oil",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.011509556,
+      "mentions": [
+        {
+          "text": {
+            "content": "fish oil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011482462,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011441996,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011441996,
+      "mentions": [
+        {
+          "text": {
+            "content": "training",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010499983,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea prevention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010499983,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea prevention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010499983,
+      "mentions": [
+        {
+          "text": {
+            "content": "each",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garlic capsule",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010499983,
+      "mentions": [
+        {
+          "text": {
+            "content": "garlic capsule",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sociable",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010088748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sociable",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Discipline",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010053177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Discipline",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Affection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010053177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Affection",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010053177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010053177,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010053177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Needs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00996564,
+      "mentions": [
+        {
+          "text": {
+            "content": "humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00996564,
+      "mentions": [
+        {
+          "text": {
+            "content": "pots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plants",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00996564,
+      "mentions": [
+        {
+          "text": {
+            "content": "plants",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009225158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tick",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Supplements",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009225158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Supplements",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mischievous",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008734589,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mischievous",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0079161655,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074864756,
+      "mentions": [
+        {
+          "text": {
+            "content": "health conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "House",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.006769252,
+      "mentions": [
+        {
+          "text": {
+            "content": "House",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060764616,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Potty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005946497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Potty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Poops",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005894649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poops",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pees",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005894649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pees",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Wants",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048686885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wants",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "necessity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048686885,
+      "mentions": [
+        {
+          "text": {
+            "content": "necessity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048686885,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0048686885,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0048686885,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coconut oil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038079075,
+      "mentions": [
+        {
+          "text": {
+            "content": "coconut oil",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038079075,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heartworm prevention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003473121,
+      "mentions": [
+        {
+          "text": {
+            "content": "heartworm prevention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bee propolis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030505862,
+      "mentions": [
+        {
+          "text": {
+            "content": "bee propolis",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dinner",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030505862,
+      "mentions": [
+        {
+          "text": {
+            "content": "dinner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030505862,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,190 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hello, i am amanda :-)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I am a typical queen.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I. LOve attention, i want to be your buddy at all times, i want to sit and your lap and cuddle with you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I am good with other cats too especially kittens. :-)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "for further inquiries about me, please call my beloved guardian Pn Hasina at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "queen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.88715106,
+      "mentions": [
+        {
+          "text": {
+            "content": "queen",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025182327,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "buddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020994294,
+      "mentions": [
+        {
+          "text": {
+            "content": "buddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pn Hasina",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018653512,
+      "mentions": [
+        {
+          "text": {
+            "content": "guardian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Pn Hasina",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015870253,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "I. LOve",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014979867,
+      "mentions": [
+        {
+          "text": {
+            "content": "I. LOve",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "inquiries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011911955,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005256734,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

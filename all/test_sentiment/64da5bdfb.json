@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mozart is a lively and energetic toy poodle and needs a family that is able to spend much time with him, to play with him and to cuddle him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "He loves to sing and jump.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Mozart",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/082db",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+      },
+      "salience": 0.55982834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mozart",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "toy poodle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44017166,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

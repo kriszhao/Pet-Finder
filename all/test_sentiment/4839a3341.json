@@ -1,0 +1,224 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": ".",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "very well-behaved female local dog, Maya .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "about two years old, good guard dog .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "short-haired, grey, German Shepherd-like .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "dewormed, vaccinated and spayed .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "free to loving home Call phone number given between 12pm-2pm and 8pm-10pm Location: Sg.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Petani, Kedah",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.49060065,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1345977,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Maya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.104743704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Maya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07139023,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.058299053,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home Call phone number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036672484,
+      "mentions": [
+        {
+          "text": {
+            "content": "home Call phone number",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sg",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03460885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sg",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Petani",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/042tdt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sungai_Petani"
+      },
+      "salience": 0.034543663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petani",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kedah",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01xl46",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kedah"
+      },
+      "salience": 0.034543663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

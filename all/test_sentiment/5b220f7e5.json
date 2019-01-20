@@ -1,0 +1,263 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 baby kittens to give away, Peach and PlayGirl.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Peach is the baby boy, and PlayGirl, as you know..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Peach is the more manja one, literally, he follows you everywhere you go.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "PlayGirl is more of an obedient cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Both still very playful and adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "So hard for me to let go of them but I have too many cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I recommend you to be an absolute cat lover to adopt them and I promise they wont disappoint you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I prefer if you'd take them both together, as they are very close and I don't want to separate them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "baby boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40222633,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PlayGirl",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01xkx3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Playgirl"
+      },
+      "salience": 0.14507873,
+      "mentions": [
+        {
+          "text": {
+            "content": "PlayGirl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "PlayGirl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "PlayGirl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13998817,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Peach",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0dj6p",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Peach"
+      },
+      "salience": 0.10473179,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peach",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Peach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10233661,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Peach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039452802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02272611,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020495342,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016255777,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0067083254,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

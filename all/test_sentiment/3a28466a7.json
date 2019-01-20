@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He's very playful and loving and intelligent.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Managed to teach him basic tricks in just 2 days such as sit, fetch etc. smile.gif Knows how to do his business at a lawn.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Please consider adopting him, but only if you are serious about it and is able to keep him permanently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He's also extremely friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "tricks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2815127,
+      "mentions": [
+        {
+          "text": {
+            "content": "tricks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "business",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24367435,
+      "mentions": [
+        {
+          "text": {
+            "content": "business",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19137794,
+      "mentions": [
+        {
+          "text": {
+            "content": "sit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lawn",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.17796095,
+      "mentions": [
+        {
+          "text": {
+            "content": "lawn",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gif",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10547407,
+      "mentions": [
+        {
+          "text": {
+            "content": "gif",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

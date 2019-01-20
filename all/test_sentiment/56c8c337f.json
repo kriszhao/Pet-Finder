@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Happy-go-lucky Queenie likes to run around with her little fur-friends.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Queenie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.76736885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Queenie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fur-friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23263112,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur-friends",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

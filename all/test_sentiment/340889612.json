@@ -1,0 +1,146 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Beanie has been roaming the neighborhood for a while, usually alone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "A friendly &amp; lovable dog who is also a good watchdog, obedient, intelligent and shows a loyal attitude.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She's slim built, has been spayed, is tick/worm free and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Looking for her forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "neighborhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.38344038,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighborhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watchdog",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.26366028,
+      "mentions": [
+        {
+          "text": {
+            "content": "watchdog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beanie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02gw_5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Beanie_(seamed_cap)"
+      },
+      "salience": 0.24363248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beanie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055149853,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027109023,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attitude",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027007986,
+      "mentions": [
+        {
+          "text": {
+            "content": "attitude",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,127 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "请大家帮忙分享！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "感恩！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Location: 槟城大山脚南美园 taman sri rambai,bukit mertajam,penang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "17-5--1- This is the second day for this baby dog. if u are interesting pls contact ms.lai",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Location",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37646633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "槟城大山脚",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Mertajam",
+        "mid": "/m/0ckckx"
+      },
+      "salience": 0.1430947,
+      "mentions": [
+        {
+          "text": {
+            "content": "槟城大山脚",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "bukit mertajam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "南美园",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11b6dy6pqc"
+      },
+      "salience": 0.1430947,
+      "mentions": [
+        {
+          "text": {
+            "content": "南美园",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "taman sri rambai",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc9gy4c4"
+      },
+      "salience": 0.1430947,
+      "mentions": [
+        {
+          "text": {
+            "content": "taman sri rambai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.6
+  },
+  "language": "zh",
+  "categories": []
+}

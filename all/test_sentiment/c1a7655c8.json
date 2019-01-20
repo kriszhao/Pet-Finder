@@ -1,0 +1,187 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tanya is a good guard dog ( deep growl ), she's very lovable and adores being played with.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She enjoys going for walks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Tanya has slightly sensitive skin ( fungal ) but is controlled by bathing with anti-fungal shampoo.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Regards, Mrs Lam",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tanya",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.67577326,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tanya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Tanya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18747412,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "growl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06268949,
+      "mentions": [
+        {
+          "text": {
+            "content": "growl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022932228,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01957622,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shampoo",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014736753,
+      "mentions": [
+        {
+          "text": {
+            "content": "shampoo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Regards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010314241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Regards",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065037063,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

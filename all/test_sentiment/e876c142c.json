@@ -1,0 +1,246 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm currently fostering these puppies which were posted on the Facebook page of Malaysia Independent Animal Rescue (MIAR).They were dumped at a construction site at only 2 weeks old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They're doing well now despite being orphaned at such a young age.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I'm trying my best to look for adopters.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I already have 5 rescued dogs in my home, so I really cannot take them in. :(",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please give them a forever home..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6973117,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05387302,
+      "mentions": [
+        {
+          "text": {
+            "content": "page",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053108405,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "construction site",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03666753,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction site",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02y1vz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Facebook"
+      },
+      "salience": 0.032203328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Facebook",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia Independent Animal Rescue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032203328,
+      "mentions": [
+        {
+          "text": {
+            "content": "Malaysia Independent Animal Rescue",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MIAR",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032203328,
+      "mentions": [
+        {
+          "text": {
+            "content": "MIAR",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019481748,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016504431,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012354419,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008636886,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054518706,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

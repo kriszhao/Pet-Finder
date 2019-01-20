@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hope Someone can rescue it for A good Home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Hope Someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.73181564,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hope Someone",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2681844,
+      "mentions": [
+        {
+          "text": {
+            "content": "Home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

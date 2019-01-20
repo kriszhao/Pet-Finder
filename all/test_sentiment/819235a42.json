@@ -1,0 +1,290 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Presenting Barley!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She has a very sweet and friendly nature.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Loves to play.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Despite being hissed at, she remained &quot;cool&quot; and acted &quot;blur&quot; - just like a politician!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Her other siblings are Cili, Curry and Parsley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Their meowmmy, Sweetie is a stray cat living on our backlane.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Fees = 0 but please promise to spay her as soon as she is ready.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Barley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2771656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Barley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1347041,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meowmmy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09378195,
+      "mentions": [
+        {
+          "text": {
+            "content": "meowmmy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nature",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08796349,
+      "mentions": [
+        {
+          "text": {
+            "content": "nature",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Loves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.087531984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loves",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05983105,
+      "mentions": [
+        {
+          "text": {
+            "content": "blur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "politician",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05983105,
+      "mentions": [
+        {
+          "text": {
+            "content": "politician",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "backlane",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041275658,
+      "mentions": [
+        {
+          "text": {
+            "content": "backlane",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041197922,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cili",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1tl4d9l3"
+      },
+      "salience": 0.040996723,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cili",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Curry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0324906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curry",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Parsley",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Parsley",
+        "mid": "/m/05s28"
+      },
+      "salience": 0.0324906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Parsley",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sweetie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010739286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweetie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

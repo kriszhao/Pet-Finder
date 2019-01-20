@@ -1,0 +1,208 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 puppies currently 3 months old Puppy # 1 : Female White in Colour Has had 2 vaccinations and on to the final one next month Puppy #2 Female Black with brown markings Has had 2 vaccinations and on to the final one next month Both are healthy and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Siblings from the same litter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Available for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39324287,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10552312,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09833362,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puppy # 1 : Female White in Colour Has",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.08917751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puppy # 1 : Female White in Colour Has",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brown markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08682027,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Has",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.06431743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Has",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Puppy #2 Female Black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05668201,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puppy #2 Female Black",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03214197,
+      "mentions": [
+        {
+          "text": {
+            "content": "Siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028704887,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022583853,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022472462,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

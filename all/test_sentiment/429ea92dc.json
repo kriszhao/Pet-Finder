@@ -1,0 +1,338 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "STATUS: CHAM IS ADOPTED BY SALINA &amp; FAMILY Cham is rescued together with her sister and 2 brothers and.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "This cutie is very playful and quick, ready to turn anything into real fun games.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She's now ready to be adopted by a real animal lover FREE OF CHARGE.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Terms and conditions may apply.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact Yanty () or Rudy () for more info.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Cheers",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "CHAM",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33967698,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHAM",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27324593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cham",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "FAMILY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "STATUS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12062634,
+      "mentions": [
+        {
+          "text": {
+            "content": "STATUS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SALINA",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0tbhb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Salina,_Kansas"
+      },
+      "salience": 0.07377682,
+      "mentions": [
+        {
+          "text": {
+            "content": "SALINA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048082862,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048082862,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019082492,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun games",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016093463,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun games",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011065659,
+      "mentions": [
+        {
+          "text": {
+            "content": "conditions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008737691,
+      "mentions": [
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "info",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007738378,
+      "mentions": [
+        {
+          "text": {
+            "content": "info",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cheers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007721111,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yanty",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0065392037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yanty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051769977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Terms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004886033,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lover",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CHARGE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004886033,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHARGE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Rudy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004581158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rudy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

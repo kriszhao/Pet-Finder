@@ -1,0 +1,383 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This Tux!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I gave her the name because under her tummy..it seems like she's wearing Tuxedo(like a penguin too!)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She if much much bigger and fat than her mummy Popok..sometimes i call her Gemok..haha~! She really ♥ attention..if not,she'll get stress..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "thanks to her..previously i dont know if cats also get stress. =p",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "she also already have kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "But she is a lazy bum ..she dont really care of her kittens..thank god the kittens have a great nanny~! the share milk together..they can change any mother any time~! =))",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "bum",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6485199,
+      "mentions": [
+        {
+          "text": {
+            "content": "bum",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07979561,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tux",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.07179089,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tux",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035196163,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035196163,
+      "mentions": [
+        {
+          "text": {
+            "content": "tummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tuxedo",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tuxedo",
+        "mid": "/m/0280yrc"
+      },
+      "salience": 0.01472633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tuxedo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "penguin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013476107,
+      "mentions": [
+        {
+          "text": {
+            "content": "penguin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012266579,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0117221,
+      "mentions": [
+        {
+          "text": {
+            "content": "stress",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0091764275,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009144143,
+      "mentions": [
+        {
+          "text": {
+            "content": "thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00906469,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00906469,
+      "mentions": [
+        {
+          "text": {
+            "content": "fat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007856496,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "god",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062982826,
+      "mentions": [
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gemok",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00629491,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gemok",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nanny",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006221461,
+      "mentions": [
+        {
+          "text": {
+            "content": "nanny",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Popok",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053664166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Popok",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044113398,
+      "mentions": [
+        {
+          "text": {
+            "content": "milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044113398,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

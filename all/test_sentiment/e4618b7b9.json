@@ -1,0 +1,339 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Two ladies rescued Sky who was with 3 other pitbulls in near starvation condition.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They took all the dogs for a medical check up and Sky is the best in health of all of the 3 and has been neutered.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The cost of the operation came to RM for Sky.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you are interested to adopt, please visit us at www.g-pet.com and you will be required to complete the forms and the ladies will decide who would be the adopter or you can call them directly, Mrs Lily or Ms Yap",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "ladies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40456286,
+      "mentions": [
+        {
+          "text": {
+            "content": "ladies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sky",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01bqvp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sky"
+      },
+      "salience": 0.20362999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sky",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pitbulls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12326064,
+      "mentions": [
+        {
+          "text": {
+            "content": "pitbulls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "starvation condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04831804,
+      "mentions": [
+        {
+          "text": {
+            "content": "starvation condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025836209,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ladies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024028156,
+      "mentions": [
+        {
+          "text": {
+            "content": "ladies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "check",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023438273,
+      "mentions": [
+        {
+          "text": {
+            "content": "check",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020248184,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01849818,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018040277,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lily",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017295396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lily",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yap",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017295396,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yap",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "operation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015975373,
+      "mentions": [
+        {
+          "text": {
+            "content": "operation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015859671,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012161892,
+      "mentions": [
+        {
+          "text": {
+            "content": "forms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008686976,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "www.g-pet.com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002864494,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.g-pet.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

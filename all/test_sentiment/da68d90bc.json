@@ -1,0 +1,415 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "They r healthy n active.Mom is mongrel ,dad looks like Old English Sheepdog.Molly is female ; Choco n Mousey r male,Mousey has green eyes,he is also the smallest.All paper trained(Molly will hv accident sometimes)Adoption is free with terms.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "-provide them with love,care,proper food,vaccination,vet care n shelter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "-spay them before they turn 1 year old -adopt them as a pet, not guard dog,not as present for others including family members.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "-take good care of them and let me visit them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Pls call,serious adopters only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23632477,
+      "mentions": [
+        {
+          "text": {
+            "content": "dad",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mongrel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14346527,
+      "mentions": [
+        {
+          "text": {
+            "content": "mongrel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13541318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old English",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068602934,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old English",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sheepdog.Molly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05762514,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sheepdog.Molly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Molly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04437708,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041545097,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030482804,
+      "mentions": [
+        {
+          "text": {
+            "content": "terms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paper",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03011463,
+      "mentions": [
+        {
+          "text": {
+            "content": "paper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accident",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.03011463,
+      "mentions": [
+        {
+          "text": {
+            "content": "accident",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mousey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030043455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mousey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Choco n Mousey",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.030043455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Choco n Mousey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018344386,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014716346,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014418398,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013507896,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013507896,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet care n shelter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013507896,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet care n shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "others",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010139854,
+      "mentions": [
+        {
+          "text": {
+            "content": "others",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008034603,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family members",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006763144,
+      "mentions": [
+        {
+          "text": {
+            "content": "family members",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044535664,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044535664,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

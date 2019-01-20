@@ -1,0 +1,131 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Tiger is a handsome, chubby &amp; healthy house cat, he looking for family that can share some love, anyone interested u may contact or whats app me at TQ",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tiger",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tiger",
+        "mid": "/m/07dm6"
+      },
+      "salience": 0.60722697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.103152364,
+      "mentions": [
+        {
+          "text": {
+            "content": "house cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08753873,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.082528874,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0577793,
+      "mentions": [
+        {
+          "text": {
+            "content": "app",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037477415,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TQ",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02429634,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

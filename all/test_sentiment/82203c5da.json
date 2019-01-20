@@ -1,0 +1,140 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "orenn have 2 sister...nanna n mail..orenn is the only male.but he is more gentle then the female.he very playfull,love to sleep on ur lap.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "love to follow u around hoping for u to play with them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "somtimes if u ignore him, he will stare at u waiting for u or sleep around u.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "orenn",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37409663,
+      "mentions": [
+        {
+          "text": {
+            "content": "orenn",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "male.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "orenn",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20056386,
+      "mentions": [
+        {
+          "text": {
+            "content": "orenn",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1843315,
+      "mentions": [
+        {
+          "text": {
+            "content": "mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18227065,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05086029,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somtimes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0078770565,
+      "mentions": [
+        {
+          "text": {
+            "content": "somtimes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

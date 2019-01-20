@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "one lovely tabby kitten, about 1.5 month old, female, well behaved and affectionate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Found it in SG DUA, near TESCO.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "tabby kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.89145935,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabby kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SG DUA",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06368684,
+      "mentions": [
+        {
+          "text": {
+            "content": "SG DUA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "TESCO",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tesco",
+        "mid": "/m/03p39x1"
+      },
+      "salience": 0.044853788,
+      "mentions": [
+        {
+          "text": {
+            "content": "TESCO",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

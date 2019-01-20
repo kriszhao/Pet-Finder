@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Shiro and his siblings were abandoned at the Selayang Market at 3 weeks old and had to be bottle-fed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He's a very sweet, playful, slightly hyper &amp; has a charming Personality!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Shiro",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.58500624,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shiro",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.30740532,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selayang Market",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08398494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selayang Market",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023603521,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

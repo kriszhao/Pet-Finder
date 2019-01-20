@@ -1,0 +1,491 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mama dog is an adopted stray,looks like a lab,but thinner.Daddy is Old English Sheepdog which lives across the street.Puppy will grow into medium size with long hair, so grooming is required.Adoption fee covered the vaccination fee,de-worming and consultation fee.Molly is calm and friendly with dogs and human,she is also paper-trained.Dog MUST be kept indoor and given good care and food.If you think you can fulfill these terms and are willing to provide her a loving home,pls call.no sms.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "p/s:Not for ppl who are adopting her as a gift for family members/gf/bf/etc.Family is preferred.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "TQ",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "thinner.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31094342,
+      "mentions": [
+        {
+          "text": {
+            "content": "thinner.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mama dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23863079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06764442,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daddy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old English Sheepdog",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03j7p3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Old_English_Sheepdog"
+      },
+      "salience": 0.06414896,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old English Sheepdog",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lab",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.056747004,
+      "mentions": [
+        {
+          "text": {
+            "content": "lab",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022063535,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020403748,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grooming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017954424,
+      "mentions": [
+        {
+          "text": {
+            "content": "grooming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015811555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015144626,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015144626,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fee.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015144626,
+      "mentions": [
+        {
+          "text": {
+            "content": "fee.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "consultation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0149614215,
+      "mentions": [
+        {
+          "text": {
+            "content": "consultation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "de-worming",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0149614215,
+      "mentions": [
+        {
+          "text": {
+            "content": "de-worming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0149614215,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013907298,
+      "mentions": [
+        {
+          "text": {
+            "content": "food.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013662458,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Puppy",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0bt9lr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dog"
+      },
+      "salience": 0.013127273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puppy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010633852,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Molly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008990312,
+      "mentions": [
+        {
+          "text": {
+            "content": "Molly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "p/s",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005057527,
+      "mentions": [
+        {
+          "text": {
+            "content": "p/s",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ppl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005057527,
+      "mentions": [
+        {
+          "text": {
+            "content": "ppl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "terms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046238014,
+      "mentions": [
+        {
+          "text": {
+            "content": "terms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040322687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gift",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035426002,
+      "mentions": [
+        {
+          "text": {
+            "content": "gift",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family members",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0035426002,
+      "mentions": [
+        {
+          "text": {
+            "content": "family members",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035426002,
+      "mentions": [
+        {
+          "text": {
+            "content": "bf",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0035292725,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TQ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020846308,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

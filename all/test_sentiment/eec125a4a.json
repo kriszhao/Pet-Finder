@@ -1,0 +1,56 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "American Bully very friendly not for Guard dog",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "American Bully",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1hc0g2b_g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Bully"
+      },
+      "salience": 0.7205782,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Bully",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27942184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

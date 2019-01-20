@@ -1,0 +1,131 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "One of my Friend who found him in Jalan Sri Permaisuri 1 Bandar Sri Permasuiri\u200e Kuala Lumpur\u200e He's so human attach.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Enjoy playing with him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Super cute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Handsome &amp; He has beautiful blue eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7960714,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human attach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07716395,
+      "mentions": [
+        {
+          "text": {
+            "content": "human attach",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jalan Sri Permaisuri 1 Bandar Sri Permasuiri",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.05648384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jalan Sri Permaisuri 1 Bandar Sri Permasuiri",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kuala Lumpur",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.050377727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuala Lumpur",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01990308,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.7,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,383 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Shah Dan found this little puppy crying in a box placed in front of a pet shop in Taipan.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He immediately carried it back home.. he has been feeding him and taking good care of him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "The pup is now ready for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Super Healthy, Super Cute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "No Adoption Fee.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Name: Brownie Gender: Male Age: 3 months ++ Location: USJ, Subang Contact: Shah Dan at or Sharifah at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Shah Dan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5880291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shah Dan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Shah Dan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.100001045,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.100001045,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03937057,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03937057,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taipan",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023500796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taipan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015661467,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015173667,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013618032,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012947155,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00895946,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Super Healthy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070696464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Super Healthy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Super Cute",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070696464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Super Cute",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006279079,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "USJ",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053049643,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adoption Fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039467467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption Fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003937915,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya",
+        "mid": "/m/054t4_"
+      },
+      "salience": 0.0037152541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sharifah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037152541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sharifah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Brownie Gender: Male Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023285742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brownie Gender: Male Age",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

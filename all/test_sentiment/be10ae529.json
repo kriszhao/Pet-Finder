@@ -1,0 +1,325 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These 2 pets were rescued form the bushes nearby Second Chance shelter at Old Klang Rd.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They were covered with cat fleas , but after a good Frontline spray by the rescuers, they looked very alert and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Both of the pups were very pretty and though initially they were wary of people but they warmed up to us in a short time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please give them a lovely home, they deserve more!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Pl call Mrs Lai , KIm, mei Leng for more adoption details.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.45545724,
+      "mentions": [
+        {
+          "text": {
+            "content": "pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bushes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13180542,
+      "mentions": [
+        {
+          "text": {
+            "content": "bushes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13180542,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.08005679,
+      "mentions": [
+        {
+          "text": {
+            "content": "Second Chance",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031831168,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Rd",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031040285,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Rd",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat fleas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025264466,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat fleas",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lai",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0207593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Frontline spray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017105814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Frontline spray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017105814,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015818438,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009086295,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008316036,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076796715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pl",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007026114,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pl",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KIm",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004920864,
+      "mentions": [
+        {
+          "text": {
+            "content": "KIm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Leng",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004920864,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leng",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

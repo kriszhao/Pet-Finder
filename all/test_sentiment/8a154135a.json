@@ -1,0 +1,399 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Five golden princess at one month old...arent they cute?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "They are one of the many abandoned cases we hear every now and then, being dumped on the road side in Salak South on last week.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Kind samaritan, a Myanmar worker, picked them up and currently keep them in his factory for temporary shelter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Auntie Pooi, as usual, will send food for them every evening...but..this is not the solution, we need adopters...who can give them a permanent home, without being worry of the future...they will definitely return you with a bundle of joy, given proper care, they can be a good companion too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Whoever that is interested, please call or text (auntie pooi) at zero one six- two zero six two four four eight",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3324654,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "princess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1714798,
+      "mentions": [
+        {
+          "text": {
+            "content": "princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "many",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08412167,
+      "mentions": [
+        {
+          "text": {
+            "content": "many",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06331955,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05493218,
+      "mentions": [
+        {
+          "text": {
+            "content": "worker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cases",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032220826,
+      "mentions": [
+        {
+          "text": {
+            "content": "cases",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032220826,
+      "mentions": [
+        {
+          "text": {
+            "content": "road side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "solution",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025637237,
+      "mentions": [
+        {
+          "text": {
+            "content": "solution",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021942064,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "samaritan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021674927,
+      "mentions": [
+        {
+          "text": {
+            "content": "samaritan",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021674927,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Salak South",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_cyg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Salak_South"
+      },
+      "salience": 0.019097485,
+      "mentions": [
+        {
+          "text": {
+            "content": "Salak South",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018644935,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01532275,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015135887,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Auntie Pooi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014733698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Auntie Pooi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Myanmar",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04xn_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Myanmar"
+      },
+      "salience": 0.012832646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Myanmar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "auntie pooi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0120341685,
+      "mentions": [
+        {
+          "text": {
+            "content": "auntie pooi",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010572608,
+      "mentions": [
+        {
+          "text": {
+            "content": "text",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bundle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006645465,
+      "mentions": [
+        {
+          "text": {
+            "content": "bundle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006645465,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006645465,
+      "mentions": [
+        {
+          "text": {
+            "content": "worry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

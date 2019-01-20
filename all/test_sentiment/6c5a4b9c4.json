@@ -1,0 +1,255 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Buffy is the oldest and the fattest among his sisters and brothers, his buff fur, thats why we call him buffy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He has long tail but sort crooked at the end.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Buffy is a loner, he is always somewhere else by himself *no student allow to adopt *within 3 months, pls send email or mms me his photos for me to know if they are well taken care email add:",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Buffy",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0cskb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"
+      },
+      "salience": 0.43179712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buffy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Buffy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "loner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fattest",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.1483296,
+      "mentions": [
+        {
+          "text": {
+            "content": "fattest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1483296,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.058397602,
+      "mentions": [
+        {
+          "text": {
+            "content": "brothers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "buff fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058397602,
+      "mentions": [
+        {
+          "text": {
+            "content": "buff fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "student",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034705605,
+      "mentions": [
+        {
+          "text": {
+            "content": "student",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.026624357,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019440275,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019204265,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017758481,
+      "mentions": [
+        {
+          "text": {
+            "content": "somewhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.015248867,
+      "mentions": [
+        {
+          "text": {
+            "content": "email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013402682,
+      "mentions": [
+        {
+          "text": {
+            "content": "mms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care email",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008363936,
+      "mentions": [
+        {
+          "text": {
+            "content": "care email",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

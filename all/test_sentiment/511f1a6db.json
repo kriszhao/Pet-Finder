@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "playfull frendly pls call me cuz my phone hav no credit and i cant send to your house cuz i hav no transport",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "playfull frendly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.436026,
+      "mentions": [
+        {
+          "text": {
+            "content": "playfull frendly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "credit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20168602,
+      "mentions": [
+        {
+          "text": {
+            "content": "credit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phone",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.19932897,
+      "mentions": [
+        {
+          "text": {
+            "content": "phone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "transport",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.099878706,
+      "mentions": [
+        {
+          "text": {
+            "content": "transport",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06308028,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": -0.4
+  },
+  "language": "en",
+  "categories": []
+}

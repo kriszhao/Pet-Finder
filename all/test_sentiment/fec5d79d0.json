@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kittens taken in by fosterer and moved to Batu Pahat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.66405064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2322262,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Batu Pahat",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04n4vhy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Batu_Pahat_(town)"
+      },
+      "salience": 0.103723176,
+      "mentions": [
+        {
+          "text": {
+            "content": "Batu Pahat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

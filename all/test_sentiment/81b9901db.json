@@ -1,0 +1,502 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "RM is the deposit for neutering surgery.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "It will be fully refund, when the cat being neutering and show me the receipt of vet as prove. --------------------------------------------------------------------- Name: Hey-Hey (喜喜) Gender: male D.O.B: January Vaccination: Yes (1st vaccine in 3/) De-flea: Yes De-worm: Yes --------------------------------------------------------------------- 如果您愿意给 Hey-Hey (喜喜)一个温暖的家， 或者想在带回家前看看这个可爱的小家伙， 欢迎联络我，再安排地点与时间。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "谢谢您，花2分钟看看 Hey-Hey (喜喜) 的资料。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "也希望你多花2分钟的时间，考虑收养 Hey-Hey (喜喜) 。 --------------------------------------------------------------------- If you are interested in giving a home to these lovely kitties, kindly contact the above information.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "But before that please do consider the responsibilities of being a pet owner and decide only after serious consideration.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "There is no point in having these kitties out of impulse and decide to throw them or give them away later.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Animals have feelings too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Interested parties, please call / SMS or e-mail me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Details about yourself and your experience with cats will be much appreciated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Hey-Hey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08708869,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey-Hey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "喜喜",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08708869,
+      "mentions": [
+        {
+          "text": {
+            "content": "喜喜",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.072395906,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes De-worm",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072395906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes De-worm",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.072395906,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "when the cat being neutering and show me the receipt of vet as prove.",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.05481858,
+      "mentions": [
+        {
+          "text": {
+            "content": "when the cat being neutering and show me the receipt of vet as prove.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gender",
+        "mid": "/m/09hcb"
+      },
+      "salience": 0.040682085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gender",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "male D.O.B: January Vaccination",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.040682085,
+      "mentions": [
+        {
+          "text": {
+            "content": "male D.O.B: January Vaccination",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Name",
+        "mid": "/m/015vq3"
+      },
+      "salience": 0.040682085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "1st vaccine in 3",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.040682085,
+      "mentions": [
+        {
+          "text": {
+            "content": "1st vaccine in 3",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "De-flea",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0k8by",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Flea"
+      },
+      "salience": 0.040682085,
+      "mentions": [
+        {
+          "text": {
+            "content": "De-flea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hey-Hey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035636973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey-Hey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "喜喜",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035636973,
+      "mentions": [
+        {
+          "text": {
+            "content": "喜喜",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "喜喜",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033870384,
+      "mentions": [
+        {
+          "text": {
+            "content": "喜喜",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hey-Hey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033870384,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey-Hey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "喜喜",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032269128,
+      "mentions": [
+        {
+          "text": {
+            "content": "喜喜",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028113082,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026782773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "---------------------------------------------------------------------",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026782773,
+      "mentions": [
+        {
+          "text": {
+            "content": "---------------------------------------------------------------------",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hey-Hey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018873025,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey-Hey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家伙",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018369844,
+      "mentions": [
+        {
+          "text": {
+            "content": "家伙",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地点",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017257823,
+      "mentions": [
+        {
+          "text": {
+            "content": "地点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "资料",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016410682,
+      "mentions": [
+        {
+          "text": {
+            "content": "资料",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012627592,
+      "mentions": [
+        {
+          "text": {
+            "content": "家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Interested parties",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008122512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Interested parties",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "please call",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0057819327,
+      "mentions": [
+        {
+          "text": {
+            "content": "please call",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.8,
+    "score": 0.3
+  },
+  "language": "zh",
+  "categories": []
+}

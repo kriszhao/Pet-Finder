@@ -1,0 +1,41 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "the interested must pay RM to be spayed before pick her up",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01_c9q",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysian_ringgit"
+      },
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

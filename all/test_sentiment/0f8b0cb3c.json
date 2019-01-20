@@ -1,0 +1,218 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Loki is a happy and energetic young dog - excellent as playmate for children.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He's trained with basic commands and is also very affectionate, loves a good cuddle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He's mischievous but always come when called.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Meal time is easy as he'll begin his meals only with 'the special word''.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Otherwise he'll just wait and stare at you so never forget the special word.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Best as an only furkid at home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Loki",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Loki_(comics)",
+        "mid": "/m/05pnb1"
+      },
+      "salience": 0.7528762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06734574,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "playmate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051700644,
+      "mentions": [
+        {
+          "text": {
+            "content": "playmate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.051700644,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025333362,
+      "mentions": [
+        {
+          "text": {
+            "content": "commands",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cuddle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01827134,
+      "mentions": [
+        {
+          "text": {
+            "content": "cuddle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016045615,
+      "mentions": [
+        {
+          "text": {
+            "content": "meals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "furkid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0083632115,
+      "mentions": [
+        {
+          "text": {
+            "content": "furkid",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0083632115,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

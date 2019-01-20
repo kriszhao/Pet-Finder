@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cookie was rescued together with his 11 siblings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He was adopted but the owner cant keep him anymore due to work needs He needs a home with a land to run around...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly contact Nandhini at, Roselin at or Masumi at Thank You",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cookie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.50005144,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cookie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20378493,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06888697,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05604226,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054034736,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nandhini",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028250204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nandhini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Roselin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028250204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roselin",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021092165,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Masumi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019803552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Masumi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Thank You",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019803552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thank You",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

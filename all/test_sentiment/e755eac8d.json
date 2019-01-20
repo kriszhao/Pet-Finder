@@ -1,0 +1,330 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": ";-)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Doggie with 7 cute adorable puppies ...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "born on 21 Dec ... need Help ... a home for them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "This Doggie could likely be a mixed M’sian style …",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "German Shepherd a.k.a.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Alsatian … origin.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "To all who love Dogs ... kindly assist to share this appeal ...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "GOD Bless.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly click this link for 2 min video clip ... ... .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5768696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10929849,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10177604,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Help",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036160395,
+      "mentions": [
+        {
+          "text": {
+            "content": "Help",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02870694,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "origin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026460683,
+      "mentions": [
+        {
+          "text": {
+            "content": "origin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appeal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02309716,
+      "mentions": [
+        {
+          "text": {
+            "content": "appeal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "German",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017144898,
+      "mentions": [
+        {
+          "text": {
+            "content": "German",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd a.k.a.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015737986,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shepherd a.k.a.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Alsatian",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0km5c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd"
+      },
+      "salience": 0.015702916,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alsatian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "link",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0139502585,
+      "mentions": [
+        {
+          "text": {
+            "content": "link",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "video clip",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0139502585,
+      "mentions": [
+        {
+          "text": {
+            "content": "video clip",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GOD Bless",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0118065635,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD Bless",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009337799,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.4,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

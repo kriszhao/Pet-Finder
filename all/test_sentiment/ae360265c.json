@@ -1,0 +1,169 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "These male &amp; female pups are looking for good homes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They are mix of golden sherperd &amp; can be a good guard dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Locations: Butterworth, Penang",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pups",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.57588553,
+      "mentions": [
+        {
+          "text": {
+            "content": "pups",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "homes",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.13494177,
+      "mentions": [
+        {
+          "text": {
+            "content": "homes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08439471,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sherperd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061798293,
+      "mentions": [
+        {
+          "text": {
+            "content": "sherperd",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057489738,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Locations",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04658787,
+      "mentions": [
+        {
+          "text": {
+            "content": "Locations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Butterworth",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03sqpj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Butterworth,_Penang"
+      },
+      "salience": 0.019451048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Butterworth",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.019451048,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

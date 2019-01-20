@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He's named Muk Ning because when we found him, he was gemuk and kuning (fat and yellow).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "An adorable and loud kitten, who is sneaky and mischievous.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Muk Ning",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42416686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muk Ning",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1487974,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kuning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14620103,
+      "mentions": [
+        {
+          "text": {
+            "content": "kuning",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14620103,
+      "mentions": [
+        {
+          "text": {
+            "content": "fat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yellow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1346337,
+      "mentions": [
+        {
+          "text": {
+            "content": "yellow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

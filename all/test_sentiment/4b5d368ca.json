@@ -1,0 +1,68 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2years old Male, Need to giving away bcoz need to move in to apartments.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4456108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Need",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bcoz",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3223799,
+      "mentions": [
+        {
+          "text": {
+            "content": "bcoz",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartments",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.23200932,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartments",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,55 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please help this homeless puppy near Jonker Street",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6879689,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jonker Street",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11bbrnk3g5"
+      },
+      "salience": 0.31203106,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jonker Street",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

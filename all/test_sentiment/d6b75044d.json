@@ -1,0 +1,106 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cheech super cute and super playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Such a photogenic guy and extremely adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you are keen to adopt please message whatsapp or call Koki at",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cheech",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/029k55",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cheech_Marin"
+      },
+      "salience": 0.6748552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cheech",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "guy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16240951,
+      "mentions": [
+        {
+          "text": {
+            "content": "guy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.114545375,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Koki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04818997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Koki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

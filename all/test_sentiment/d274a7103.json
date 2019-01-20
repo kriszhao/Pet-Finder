@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "All were adopted today by an owner whom we trust will love them all so dearly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Allah qarim - insyallah , they ll have an absolute happy life there .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.49339077,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43000096,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Allah",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0jfd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Allah"
+      },
+      "salience": 0.03477015,
+      "mentions": [
+        {
+          "text": {
+            "content": "Allah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03068593,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "qarim - insyallah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011152192,
+      "mentions": [
+        {
+          "text": {
+            "content": "qarim - insyallah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

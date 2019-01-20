@@ -1,0 +1,217 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please call Benny or 2 kitties rescued by friend's groomer are up for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Really nice elegant orange colored kitties. 1 male &amp; 1 female ...preferably to be adopted together.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "For those interested, please call the rescuer/fosterer, Mr Benny Ong Groom Groom Room Pet Salon 63 Jalan 5/58 Taman Gasing Indah Petalin Jaya Selangor Tel: Mail: Fb: www.facebook.com/groomgroomroom",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Benny Ong Groom Groom Room Pet Salon",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28578505,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benny",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Benny Ong Groom Groom Room Pet Salon",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitties",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22739916,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitties",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20734183,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groomer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10426633,
+      "mentions": [
+        {
+          "text": {
+            "content": "groomer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.084497586,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02610974,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02610974,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013856482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Taman Gasing Indah Petalin Jaya Selangor Tel",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008211365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Gasing Indah Petalin Jaya Selangor Tel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Fb",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02y1vz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Facebook"
+      },
+      "salience": 0.008211365,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fb",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "www.facebook.com/groomgroomroom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

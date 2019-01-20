@@ -1,0 +1,179 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "He's name is Freedom and I think He's mix breed of a Jack Russel and a Retriever.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He already dewormed and had he's first vaccinate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's very active and playful and also very cute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "The reason of giving him is changing house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "mix breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.585514,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14575335,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11129643,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Freedom",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.096182235,
+      "mentions": [
+        {
+          "text": {
+            "content": "Freedom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jack Russel",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01d7fl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier"
+      },
+      "salience": 0.020557463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jack Russel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Retriever",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/020xxc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Retriever"
+      },
+      "salience": 0.020557463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Retriever",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01195272,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008186311,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

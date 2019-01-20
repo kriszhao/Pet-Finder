@@ -1,0 +1,663 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Aapa &amp; Sokka Aapa is a girlcat, Sokka is the boycat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I named them after the characters in Avatar : the Legend of Aang, because when the mothercat was pregnant I was on an intense Avatar phase.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Both at about 3 months old, very friendly and hyper, loves to cuddle and play tag with each other.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Their eyes look yellow in the photos, but they have blue rings around the iris.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "They have an intense liking of plastic bags, easily amused with small toys, or strings, or generally all things that move.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "They eat ProDiet kitten/adult catfood, and they go nuts with ProDiet Wetfood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Particular favorite of their right now is ProDiet Chicken&amp;Tuna.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "They don't meow much, they love people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I'm looking for families looking to brighten their home lives with these loving and playful kittens, the reason for this is that I can't afford to keep all of my cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "girlcat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.45206583,
+      "mentions": [
+        {
+          "text": {
+            "content": "girlcat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boycat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0949869,
+      "mentions": [
+        {
+          "text": {
+            "content": "boycat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sokka Aapa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06859997,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sokka Aapa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sokka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Aapa",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03cljhc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Academy_of_Physician_Assistants"
+      },
+      "salience": 0.060920436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aapa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "characters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03645225,
+      "mentions": [
+        {
+          "text": {
+            "content": "characters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021930633,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021485088,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "families",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016436953,
+      "mentions": [
+        {
+          "text": {
+            "content": "families",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mothercat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015711598,
+      "mentions": [
+        {
+          "text": {
+            "content": "mothercat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phase",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.013900759,
+      "mentions": [
+        {
+          "text": {
+            "content": "phase",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009794531,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.009424708,
+      "mentions": [
+        {
+          "text": {
+            "content": "photos",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "iris",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009424708,
+      "mentions": [
+        {
+          "text": {
+            "content": "iris",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009398934,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00934268,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009309754,
+      "mentions": [
+        {
+          "text": {
+            "content": "rings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liking",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009284293,
+      "mentions": [
+        {
+          "text": {
+            "content": "liking",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008625121,
+      "mentions": [
+        {
+          "text": {
+            "content": "strings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toys",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008625121,
+      "mentions": [
+        {
+          "text": {
+            "content": "toys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Avatar : the Legend of Aang",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/05h95s",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender"
+      },
+      "salience": 0.008229913,
+      "mentions": [
+        {
+          "text": {
+            "content": "Avatar : the Legend of Aang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Avatar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home lives",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070356065,
+      "mentions": [
+        {
+          "text": {
+            "content": "home lives",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068748016,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "much",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006465212,
+      "mentions": [
+        {
+          "text": {
+            "content": "much",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ProDiet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063528223,
+      "mentions": [
+        {
+          "text": {
+            "content": "ProDiet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005435452,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051456178,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004663625,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045815837,
+      "mentions": [
+        {
+          "text": {
+            "content": "tag",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004520111,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "favorite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034169762,
+      "mentions": [
+        {
+          "text": {
+            "content": "favorite",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "catfood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002846559,
+      "mentions": [
+        {
+          "text": {
+            "content": "catfood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nuts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002846559,
+      "mentions": [
+        {
+          "text": {
+            "content": "nuts",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002841165,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ProDiet Chicken&Tuna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002147741,
+      "mentions": [
+        {
+          "text": {
+            "content": "ProDiet Chicken&amp;Tuna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ProDiet Wetfood",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0016822616,
+      "mentions": [
+        {
+          "text": {
+            "content": "ProDiet Wetfood",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.2,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

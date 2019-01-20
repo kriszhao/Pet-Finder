@@ -1,0 +1,271 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Jlo and Kiki both are female.They are 9 months old.Both are loving and sensitif dan tak cerewet about makan.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "--------- I am hoping to find them a responsible and full of love owner, with a good home and are able to give lots of time, patience and love to them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Treat them good like your child And pls dont simply left them at any street or market or elsewhere if you dont have a heart to take care of them anymore,pls give them back to me.Pls dont break my heart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.43170446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jlo",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/043zg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jennifer_Lopez"
+      },
+      "salience": 0.15165068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jlo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kiki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15165068,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kiki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.032758486,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03236079,
+      "mentions": [
+        {
+          "text": {
+            "content": "love owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030073196,
+      "mentions": [
+        {
+          "text": {
+            "content": "patience",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029924525,
+      "mentions": [
+        {
+          "text": {
+            "content": "child",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025839992,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025383096,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025032463,
+      "mentions": [
+        {
+          "text": {
+            "content": "lots",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018012937,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01582828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009926811,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "market",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009926811,
+      "mentions": [
+        {
+          "text": {
+            "content": "market",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "elsewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009926811,
+      "mentions": [
+        {
+          "text": {
+            "content": "elsewhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,73 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "ivy was found in my porch.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is about 25 days old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Very friendly and smart.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "ivy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.75129366,
+      "mentions": [
+        {
+          "text": {
+            "content": "ivy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "porch",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24870637,
+      "mentions": [
+        {
+          "text": {
+            "content": "porch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

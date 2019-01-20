@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "For any inquiry or adoption, pls call: Ching - Location : Sri Petaling, KL ----------------------------------------------------- Name: Foxy Gender: Male DOB: Nov De-Flea : Yes De-worm: Yes Vaccination：Yes -----------------------------------------------------",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "inquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26157013,
+      "mentions": [
+        {
+          "text": {
+            "content": "inquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26157013,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ching - Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1674706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ching - Location",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Foxy Gender: Male DOB",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15778619,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Foxy Gender: Male DOB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sri Petaling",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_w4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Petaling"
+      },
+      "salience": 0.06844085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sri Petaling",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "KL",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/049d1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "salience": 0.06844085,
+      "mentions": [
+        {
+          "text": {
+            "content": "KL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nov De-Flea : Yes De-worm: Yes Vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014721246,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nov De-Flea : Yes De-worm: Yes Vaccination",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

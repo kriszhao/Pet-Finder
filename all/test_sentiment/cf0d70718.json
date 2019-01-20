@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "THANK YOU VERY MUCH TO JEFF AND MARIA.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I AM BEING ADOPTED ON THE 14/9/.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "NOW I LIVE WITH MY FAMILY IN PETALING JAYA AND I HAVE A BIG SISTER (BONNIE THE ROTTIE)...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "JEFF",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5542217,
+      "mentions": [
+        {
+          "text": {
+            "content": "JEFF",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MARIA",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22200803,
+      "mentions": [
+        {
+          "text": {
+            "content": "MARIA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "FAMILY",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.114313826,
+      "mentions": [
+        {
+          "text": {
+            "content": "FAMILY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BIG SISTER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05077751,
+      "mentions": [
+        {
+          "text": {
+            "content": "BIG SISTER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "BONNIE THE ROTTIE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036052715,
+      "mentions": [
+        {
+          "text": {
+            "content": "BONNIE THE ROTTIE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PETALING JAYA",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya",
+        "mid": "/m/03dqts"
+      },
+      "salience": 0.022626234,
+      "mentions": [
+        {
+          "text": {
+            "content": "PETALING JAYA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

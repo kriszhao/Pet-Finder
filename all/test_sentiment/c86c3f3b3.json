@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi is a pedigree dog and need experience handler Hachi is not suitable for Family with children's",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pedigree dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3718245,
+      "mentions": [
+        {
+          "text": {
+            "content": "pedigree dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "experience handler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21332496,
+      "mentions": [
+        {
+          "text": {
+            "content": "experience handler",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hachi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.155462,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hachi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15144925,
+      "mentions": [
+        {
+          "text": {
+            "content": "Family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "children",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10793929,
+      "mentions": [
+        {
+          "text": {
+            "content": "children",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "categories": []
+}

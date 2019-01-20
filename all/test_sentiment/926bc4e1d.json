@@ -1,0 +1,308 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "The pet is believed abandoned by her last owner at the near date Infront my shop, she is so scared when she heard car &amp; motorcycle's sound and not even dare to walk around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "We wish to adopt her but our house has already 14dogs,really can't adopt her anymore, my mom bring her to pet's doctor and the dog is vaccinated, dewormed, and neutered too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The dog has some skin problem but now is under control and it's eating medicine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Really hope she can find a good owner that won't abandon her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20791766,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19178997,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Infront",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.12249972,
+      "mentions": [
+        {
+          "text": {
+            "content": "Infront",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07017084,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.066358924,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.066358924,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motorcycle",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.066358924,
+      "mentions": [
+        {
+          "text": {
+            "content": "motorcycle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045051567,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023001319,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022026198,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021493854,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020218248,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018751735,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015178638,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015178638,
+      "mentions": [
+        {
+          "text": {
+            "content": "control",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medicine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015178638,
+      "mentions": [
+        {
+          "text": {
+            "content": "medicine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012466203,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

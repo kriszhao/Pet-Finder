@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Big Singapura eyes Beautiful Tabby coat Soft fur Gorgeous colours Manja Adorable Cuddly Precious Litter box trained",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Tabby",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0g4cd0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tabby_cat"
+      },
+      "salience": 0.3064747,
+      "mentions": [
+        {
+          "text": {
+            "content": "coat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Tabby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26162696,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Big Singapura",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16623399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Singapura",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07734738,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colours",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07125643,
+      "mentions": [
+        {
+          "text": {
+            "content": "colours",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Soft",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.04610567,
+      "mentions": [
+        {
+          "text": {
+            "content": "Soft",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038402606,
+      "mentions": [
+        {
+          "text": {
+            "content": "box",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Manja Adorable Cuddly Precious Litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.032552283,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manja Adorable Cuddly Precious Litter",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

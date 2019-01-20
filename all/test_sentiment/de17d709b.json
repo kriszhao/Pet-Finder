@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Etsy boy such a loveable kiddo.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you are keen message whatsapp or call Koki at Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "message whatsapp",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37342426,
+      "mentions": [
+        {
+          "text": {
+            "content": "message whatsapp",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2971377,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Etsy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0byvh_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Etsy"
+      },
+      "salience": 0.19201769,
+      "mentions": [
+        {
+          "text": {
+            "content": "Etsy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kiddo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1291527,
+      "mentions": [
+        {
+          "text": {
+            "content": "kiddo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Koki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008267647,
+      "mentions": [
+        {
+          "text": {
+            "content": "Koki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

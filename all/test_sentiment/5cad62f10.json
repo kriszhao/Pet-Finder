@@ -1,0 +1,193 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "5 kittens for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Flea treatment already.Currently i feed them with kibles and sometimes wet food.Mixed gender playfull and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Well toilet trained.Charming and cute.Drop me an e-mail or sms if youre intrested to adopt.Thank you",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4805096,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2804173,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Flea treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05580996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Flea treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038361132,
+      "mentions": [
+        {
+          "text": {
+            "content": "gender",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037898455,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet trained.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035062514,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet trained.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "e-mail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026501622,
+      "mentions": [
+        {
+          "text": {
+            "content": "e-mail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026501622,
+      "mentions": [
+        {
+          "text": {
+            "content": "sms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cute.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011678338,
+      "mentions": [
+        {
+          "text": {
+            "content": "cute.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Charming",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0072594727,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charming",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

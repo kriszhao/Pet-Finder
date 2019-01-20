@@ -1,0 +1,238 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "i have 1 male kitten.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Age around 4 month old. this kitten is very active and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Know how to use litter tray (toilet trained) First vaccination and dewormed was done.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "free kitten food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "area gombak, kuchai lama and sg besi",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40893066,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20777342,
+      "mentions": [
+        {
+          "text": {
+            "content": "Age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.085447446,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gombak",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07213679,
+      "mentions": [
+        {
+          "text": {
+            "content": "gombak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter tray",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.047154415,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter tray",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04332063,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04332063,
+      "mentions": [
+        {
+          "text": {
+            "content": "toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03264639,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "besi",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022859862,
+      "mentions": [
+        {
+          "text": {
+            "content": "besi",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022859862,
+      "mentions": [
+        {
+          "text": {
+            "content": "sg",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kuchai lama",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_d00",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuchai_Lama"
+      },
+      "salience": 0.013549912,
+      "mentions": [
+        {
+          "text": {
+            "content": "kuchai lama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

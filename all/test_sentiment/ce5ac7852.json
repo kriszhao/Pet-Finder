@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kitten from a litter of three in the back alley.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Cream with brown flush, blue eyes.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49409476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.2187692,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "alley",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15444133,
+      "mentions": [
+        {
+          "text": {
+            "content": "alley",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.070838146,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03793811,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brown flush",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023918472,
+      "mentions": [
+        {
+          "text": {
+            "content": "brown flush",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

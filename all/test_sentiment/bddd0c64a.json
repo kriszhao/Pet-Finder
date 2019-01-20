@@ -1,0 +1,147 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "An American Bully standing proud and waiting for the right owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Owner relocated to Singapore and was unable to take him along.If you have the time to socialise and train Anubis to fit your household then this will be the ideal dog for you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "American Bully",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/1hc0g2b_g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Bully"
+      },
+      "salience": 0.3184196,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Bully",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29676208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.23736237,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "household",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.049623143,
+      "mentions": [
+        {
+          "text": {
+            "content": "household",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042881437,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06t2t",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Singapore"
+      },
+      "salience": 0.041983817,
+      "mentions": [
+        {
+          "text": {
+            "content": "Singapore",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Anubis",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Anubis",
+        "mid": "/m/012_7"
+      },
+      "salience": 0.012967561,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anubis",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

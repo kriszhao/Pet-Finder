@@ -1,0 +1,180 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Scotty is a 4mth old male.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "1st vacc.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Rescued fm junkyard , was kept in a cage for 2 month.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Recovered fm malnutrition, stunted growth, mange &amp; neglect but now happily adjusted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Scotty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.77020615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Scotty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "male",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vacc",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061411694,
+      "mentions": [
+        {
+          "text": {
+            "content": "vacc",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042200487,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fm junkyard",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041696552,
+      "mentions": [
+        {
+          "text": {
+            "content": "fm junkyard",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mange",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029286461,
+      "mentions": [
+        {
+          "text": {
+            "content": "mange",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neglect",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029286461,
+      "mentions": [
+        {
+          "text": {
+            "content": "neglect",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fm malnutrition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012956086,
+      "mentions": [
+        {
+          "text": {
+            "content": "fm malnutrition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "growth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012956086,
+      "mentions": [
+        {
+          "text": {
+            "content": "growth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

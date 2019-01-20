@@ -1,0 +1,220 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kat has been rescued from the neighborhood about 3years ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He has been living with us and is house trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He loves the indoors and will only go out when the weather is cool.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Most of the time, he prefers the indoors.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He loves his DRY CAT BISCUITS and his favourite snack is SOFT CHEESE.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "neighborhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.3641729,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighborhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22357623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "CHEESE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12036909,
+      "mentions": [
+        {
+          "text": {
+            "content": "snack",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "CHEESE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "indoors",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.058891665,
+      "mentions": [
+        {
+          "text": {
+            "content": "indoors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weather",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0537381,
+      "mentions": [
+        {
+          "text": {
+            "content": "weather",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.048406053,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Most",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044618595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Most",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BISCUITS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035728745,
+      "mentions": [
+        {
+          "text": {
+            "content": "BISCUITS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0336128,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "indoors",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01688582,
+      "mentions": [
+        {
+          "text": {
+            "content": "indoors",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

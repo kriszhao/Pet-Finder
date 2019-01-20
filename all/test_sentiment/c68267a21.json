@@ -1,0 +1,340 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This puppy is rescued from the jungle on 26 January by my kind cousin sister, Siti.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Mowgli is now at Ampang and looking for a loving fosterer/new owner!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Please help spread the word!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Extracted from: 28 JAN Mowgli (aka Brownie) has been adopted.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Here's the touching story of the process of rehoming Mowgli.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Link to Facebook: !/notes/murni-roslim/folks-meet-mowgli/",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2337518,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jungle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2337518,
+      "mentions": [
+        {
+          "text": {
+            "content": "jungle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Siti",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20103878,
+      "mentions": [
+        {
+          "text": {
+            "content": "cousin sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Siti",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "28 JAN Mowgli",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10616265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mowgli",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "28 JAN Mowgli",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mowgli",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030696237,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030696237,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029447855,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "notes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021255773,
+      "mentions": [
+        {
+          "text": {
+            "content": "notes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Link",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021255773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Link",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ampang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0kw581",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ampang,_Selangor"
+      },
+      "salience": 0.018210439,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ampang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "aka Brownie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016777514,
+      "mentions": [
+        {
+          "text": {
+            "content": "aka Brownie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014903292,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02y1vz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Facebook"
+      },
+      "salience": 0.012593262,
+      "mentions": [
+        {
+          "text": {
+            "content": "Facebook",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "story",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011265637,
+      "mentions": [
+        {
+          "text": {
+            "content": "story",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "process",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00937113,
+      "mentions": [
+        {
+          "text": {
+            "content": "process",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "murni-roslim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0088218115,
+      "mentions": [
+        {
+          "text": {
+            "content": "murni-roslim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

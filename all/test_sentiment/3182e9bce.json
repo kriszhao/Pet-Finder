@@ -1,0 +1,184 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A beautiful female ginger cat with long tail for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Just spayed a week ago at SPCA-Klinik Kembiri in Setapak.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Cat is located in Seri Kembangan/Puchong.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If interested, pls email me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "ginger cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46765342,
+      "mentions": [
+        {
+          "text": {
+            "content": "ginger cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17791697,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17791697,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06355766,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SPCA-Klinik Kembiri",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11bzt1b436"
+      },
+      "salience": 0.041510183,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPCA-Klinik Kembiri",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Setapak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_g0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Setapak"
+      },
+      "salience": 0.03355397,
+      "mentions": [
+        {
+          "text": {
+            "content": "Setapak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Puchong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cxff7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Puchong"
+      },
+      "salience": 0.02523632,
+      "mentions": [
+        {
+          "text": {
+            "content": "Puchong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Seri Kembangan",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Seri_Kembangan",
+        "mid": "/m/05ztfx"
+      },
+      "salience": 0.012654482,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seri Kembangan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

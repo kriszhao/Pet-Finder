@@ -1,0 +1,126 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mix breed 1 year (Lassie) Male, good guard dog, not suitable for family dog, no adoption fees.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "please call for an appointment ( ) for location map log onto www.g-pet.com",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3037057,
+      "mentions": [
+        {
+          "text": {
+            "content": "family dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3002926,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24869567,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "location map log",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066187955,
+      "mentions": [
+        {
+          "text": {
+            "content": "location map log",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appointment",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.041728877,
+      "mentions": [
+        {
+          "text": {
+            "content": "appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.g-pet.com",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/068hy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pet"
+      },
+      "salience": 0.039389193,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.g-pet.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

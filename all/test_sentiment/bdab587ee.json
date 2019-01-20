@@ -1,0 +1,179 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Alexander was rescued from DBKL dog pound when I went to look for our lost dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "He was too adoreable to be put down.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Now hw is a very healthy and happy pup, very sociable and gentle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He is ready tobe adopted, please call Tracy if you are interested to take him home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Alexander",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0jrg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+      },
+      "salience": 0.49126258,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alexander",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog pound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22868298,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog pound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DBKL",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0cnp39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_City_Hall"
+      },
+      "salience": 0.1418708,
+      "mentions": [
+        {
+          "text": {
+            "content": "DBKL",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063825265,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036691133,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015229052,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tracy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012873952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tobe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009564239,
+      "mentions": [
+        {
+          "text": {
+            "content": "tobe",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

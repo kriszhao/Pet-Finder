@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found at Ayer Keroh Heights, Melaka.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Dog is wearing yellow collar with red leash.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Contact if you're the owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "collar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.22003974,
+      "mentions": [
+        {
+          "text": {
+            "content": "collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ayer Keroh Heights",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc0x8f20"
+      },
+      "salience": 0.21487586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ayer Keroh Heights",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Melaka",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0dhf5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malacca"
+      },
+      "salience": 0.21487586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melaka",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16574249,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.112283215,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dog",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dog",
+        "mid": "/m/0bt9lr"
+      },
+      "salience": 0.072182834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dog",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

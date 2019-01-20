@@ -1,0 +1,617 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Mama Cat brought these 3 kittens over to my neighbour's house 3 weeks back.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We have been feeding mama cat and kittens since - kibbles, baby cat kibbles, wet food, home cooked fish(de-boned).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "They have been taken to the vet for general checkup and all 4 have been dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Vetri DMG is given on a daily basis to the kittens and they dont have any signs of flu.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Patches - Is the closest to the mumand has a very cute face &amp; nose Shyer - was the last to get to know us, always hiding Roamer - is the adventurous one, she is always running around and mama cat has a technique to call her back Looking for a family to adopt all 3 kittens.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I will also follow up upon adoption to ensure kittens are vaccinated on time and spayed at the age of 5 months.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Once kittens are adopted, I will be spaying mama cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Kindly contact Nandhini at if you are interested Thank You",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16723447,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mumand",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13622217,
+      "mentions": [
+        {
+          "text": {
+            "content": "mumand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0883292,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0883292,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06389588,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shyer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06289017,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shyer",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "last",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060894266,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mama Cat",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.051423464,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mama Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Vetri DMG",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.035012018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vetri DMG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby cat kibbles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018754931,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby cat kibbles",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016486283,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016486283,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016486283,
+      "mentions": [
+        {
+          "text": {
+            "content": "fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01646183,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "closest",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.014248613,
+      "mentions": [
+        {
+          "text": {
+            "content": "closest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Patches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013077751,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patches",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011181959,
+      "mentions": [
+        {
+          "text": {
+            "content": "flu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011151405,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "checkup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011084714,
+      "mentions": [
+        {
+          "text": {
+            "content": "checkup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011084714,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "signs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011045679,
+      "mentions": [
+        {
+          "text": {
+            "content": "signs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "basis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011045679,
+      "mentions": [
+        {
+          "text": {
+            "content": "basis",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008029741,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0076997494,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0076997494,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007644145,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006215909,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Roamer",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0060556107,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roamer",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mama cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005646005,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050552334,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033867871,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "technique",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033867871,
+      "mentions": [
+        {
+          "text": {
+            "content": "technique",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nandhini",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031766573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nandhini",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Thank You",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0031766573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thank You",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,523 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, this is little Miss Foxy that i found in a construction site in Setapak, feed by a construction worker who is a foreigner ( -- )",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's now 8weeks old, very healthy, happy with smiley face always.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "im now searching for a forever home for her, as i believe the foreigner worker couldnt take good care of her &amp; couldnt bring her along after this project is fully constructed &amp; eventually she will be another stray dog on the street.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Moreover, it's not safe to stay at the site, with no proper food &amp; clean water as i saw pititful Pretty Fox take water from the floor that mixed with cement.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "( i almost fainted) im searching for an interested &amp; caring adopter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "when is confirmed to adopt, i'll bring the pup to Bdr Kinrara Dr Goh Vet to undergo check up, deworm &amp; vaccination before going to her forever home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Pls take note that there's a requirement - MUST BE SPAYED when she's 5 months old &amp; the spaying fee will be born by me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "This is to avoid more pupps , as many stray pupps are longing to be adopted &amp; please, no abandoned pup...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "construction worker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6032463,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction worker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "foreigner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Foxy",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1715392,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foxy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "construction site",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05473573,
+      "mentions": [
+        {
+          "text": {
+            "content": "construction site",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Setapak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_g0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Setapak"
+      },
+      "salience": 0.028926335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Setapak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014225923,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010184442,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smiley face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008996458,
+      "mentions": [
+        {
+          "text": {
+            "content": "smiley face",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "project",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00831785,
+      "mentions": [
+        {
+          "text": {
+            "content": "project",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007541365,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072918525,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00694297,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "site",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00694297,
+      "mentions": [
+        {
+          "text": {
+            "content": "site",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0069213505,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foreigner worker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006882607,
+      "mentions": [
+        {
+          "text": {
+            "content": "foreigner worker",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006122615,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006101049,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couldnt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006047975,
+      "mentions": [
+        {
+          "text": {
+            "content": "couldnt",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055989856,
+      "mentions": [
+        {
+          "text": {
+            "content": "cement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pretty Fox",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0049077333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pretty Fox",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "note",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047991294,
+      "mentions": [
+        {
+          "text": {
+            "content": "note",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0047812657,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004192761,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pupps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033365816,
+      "mentions": [
+        {
+          "text": {
+            "content": "pupps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pupps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033365816,
+      "mentions": [
+        {
+          "text": {
+            "content": "pupps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033365816,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001843355,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018105878,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bdr Kinrara Dr Goh Vet",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.001089455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bdr Kinrara Dr Goh Vet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

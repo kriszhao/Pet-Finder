@@ -1,0 +1,350 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I adopted Tiger around April last year.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "However, due to the bankruptcy of Five Stars Tours Singapore which I worked, I am no longer able to carry out with the agriculture project that I used to have in my mind on the agri-land I bought.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "So as I plan to work at overseas again.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I hope I would find someone to take over Tiger.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "As I am jobless, I am unable to give a good environment and good food for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Overall he is very healthy and with high preying instinct, just a bit skinny.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is exceptionally suitable to be a guard dog for private premise, factory and to chase off monkeys at the farmland.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please give a good home for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "bankruptcy",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.3746157,
+      "mentions": [
+        {
+          "text": {
+            "content": "bankruptcy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tiger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15717062,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "agriculture project",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12784319,
+      "mentions": [
+        {
+          "text": {
+            "content": "agriculture project",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0534497,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034292843,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "agri-land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034292843,
+      "mentions": [
+        {
+          "text": {
+            "content": "agri-land",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0315079,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Five Stars Tours Singapore",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.030067177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Five Stars Tours Singapore",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "guard dog",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029154379,
+      "mentions": [
+        {
+          "text": {
+            "content": "guard dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024060434,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "premise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023669226,
+      "mentions": [
+        {
+          "text": {
+            "content": "premise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "factory",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023669226,
+      "mentions": [
+        {
+          "text": {
+            "content": "factory",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "monkeys",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016580276,
+      "mentions": [
+        {
+          "text": {
+            "content": "monkeys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "farmland",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016580276,
+      "mentions": [
+        {
+          "text": {
+            "content": "farmland",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012632507,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "instinct",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010413701,
+      "mentions": [
+        {
+          "text": {
+            "content": "instinct",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Am posting on behalf of my cousin.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Please do contact her Najiha / if you wish to adopt those meow.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "behalf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4859218,
+      "mentions": [
+        {
+          "text": {
+            "content": "behalf",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cousin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33766043,
+      "mentions": [
+        {
+          "text": {
+            "content": "cousin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Najiha",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09315296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Najiha",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "meow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08326479,
+      "mentions": [
+        {
+          "text": {
+            "content": "meow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

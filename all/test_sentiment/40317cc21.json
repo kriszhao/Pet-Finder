@@ -1,0 +1,486 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi Good Day To Everyone, 2 months old puppy ready for adoption, im now currently fostering her but im not be able to keep for long time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Im A student from SeGi University, as i dont have much time for her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I found her near my home area, Janice is a very obedient dog and friendly, for her age she know how to &quot;Hand Hand&quot; and climbing stairs for her age without any guidance.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "For now im giving her some basic training command and teach her the place to potty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Her medical records are at St. Angel Medical Centre, at the right side of tesco, i will provide further details of the location in PM.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I am not able to keep janice longer, please help.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Please give Janice a chance a forever loving home and promise her to give happiness and healthy life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "student",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16266142,
+      "mentions": [
+        {
+          "text": {
+            "content": "student",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14329432,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "im",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14329432,
+      "mentions": [
+        {
+          "text": {
+            "content": "im",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14329432,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Janice",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1410152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janice",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janice",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02304898,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020781556,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020781556,
+      "mentions": [
+        {
+          "text": {
+            "content": "age",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stairs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018263528,
+      "mentions": [
+        {
+          "text": {
+            "content": "stairs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01804105,
+      "mentions": [
+        {
+          "text": {
+            "content": "home area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guidance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01676169,
+      "mentions": [
+        {
+          "text": {
+            "content": "guidance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "training command",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01670267,
+      "mentions": [
+        {
+          "text": {
+            "content": "training command",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "potty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01670267,
+      "mentions": [
+        {
+          "text": {
+            "content": "potty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01670267,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SeGi University",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0b6h3sg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/SEGi_University"
+      },
+      "salience": 0.01589465,
+      "mentions": [
+        {
+          "text": {
+            "content": "SeGi University",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0125616845,
+      "mentions": [
+        {
+          "text": {
+            "content": "location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hand Hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012304687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hand Hand",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009587657,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0087612085,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0087612085,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006685293,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "happiness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006685293,
+      "mentions": [
+        {
+          "text": {
+            "content": "happiness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005513993,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "records",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053800084,
+      "mentions": [
+        {
+          "text": {
+            "content": "records",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "St. Angel Medical Centre",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032591824,
+      "mentions": [
+        {
+          "text": {
+            "content": "St. Angel Medical Centre",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tesco",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03p39x1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tesco"
+      },
+      "salience": 0.0032591824,
+      "mentions": [
+        {
+          "text": {
+            "content": "tesco",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

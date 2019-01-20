@@ -1,0 +1,407 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cherry was given by my friend together with her twins sister,Happy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She's labrador cross golden cross rottweller.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She's cute, smart, fast learner,healthy but abit naughty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She likes to bite stuff..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "although she is putting everything into her mouth,but I only feed her with dog foods and rice 2 times a day.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "No bone, no unwanted or spoilt foods, and never skip their meals.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I wish to find her a better owner.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She's really good, but I have 3 dogs now and unable to give her the best.The basic requirement is she must have a shelter and never starve.I believe that she will be a good door keeper.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Cherry",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7228291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cherry",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "learner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "door keeper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053599685,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "twins sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053599685,
+      "mentions": [
+        {
+          "text": {
+            "content": "twins sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Happy",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.03221012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Happy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "labrador",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026262298,
+      "mentions": [
+        {
+          "text": {
+            "content": "labrador",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "foods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017963327,
+      "mentions": [
+        {
+          "text": {
+            "content": "foods",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rottweller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010051949,
+      "mentions": [
+        {
+          "text": {
+            "content": "rottweller",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cross",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010051949,
+      "mentions": [
+        {
+          "text": {
+            "content": "cross",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00899363,
+      "mentions": [
+        {
+          "text": {
+            "content": "meals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog foods",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077390955,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog foods",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068016015,
+      "mentions": [
+        {
+          "text": {
+            "content": "rice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0068016015,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stuff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0067371638,
+      "mentions": [
+        {
+          "text": {
+            "content": "stuff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006718767,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006718767,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062284824,
+      "mentions": [
+        {
+          "text": {
+            "content": "bone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "requirement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056266463,
+      "mentions": [
+        {
+          "text": {
+            "content": "requirement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004623748,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelter",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032383357,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032040416,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.8,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

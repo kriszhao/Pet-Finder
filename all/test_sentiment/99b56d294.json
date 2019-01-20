@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This is Sweet Pea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The reason she is named Sweet Pea is because she is just the sweetest thing ever.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She is adorable and very easily lovable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.74417293,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Pea",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/09vg7s",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sweet_pea"
+      },
+      "salience": 0.20360333,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweet Pea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sweet Pea",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052223723,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

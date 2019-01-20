@@ -1,0 +1,168 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This poor guy was dumped and then got adopted, then dumped again, just because he has minor skin problem...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "People, if you need to adopt any animal, don't expect them to be too perfect.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "They too like us will fall sick and get infections here and there.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Care for them, NOT DUMP THEM.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Pets are not disposable, BE RESPONSIBLE!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "guy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6775373,
+      "mentions": [
+        {
+          "text": {
+            "content": "guy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "People",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.17020626,
+      "mentions": [
+        {
+          "text": {
+            "content": "People",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06753685,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin problem",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033263814,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022892749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pets",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015631706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "infections",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012931307,
+      "mentions": [
+        {
+          "text": {
+            "content": "infections",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

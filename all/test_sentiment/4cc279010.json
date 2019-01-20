@@ -1,0 +1,238 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Brownie is the name of this cutie pie.She had been slashed by somebody and had been sent to the vet and dvs had picked her up as evidence at jabatan haiwan kedah.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She was just being released and currently being fostered by a friend of mine while she is looking for a permanent home.She is just too sweet and always ask for petting.She loves to manja and of course she can be a very good guardian for your house too.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Brownie",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02hlnc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+      },
+      "salience": 0.7198358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brownie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "guardian",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.083781004,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cutie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.066879086,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026529798,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026529798,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dvs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018064974,
+      "mentions": [
+        {
+          "text": {
+            "content": "dvs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "evidence",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018064974,
+      "mentions": [
+        {
+          "text": {
+            "content": "evidence",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jabatan haiwan kedah",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010893393,
+      "mentions": [
+        {
+          "text": {
+            "content": "jabatan haiwan kedah",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008135469,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008135469,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "course",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061423313,
+      "mentions": [
+        {
+          "text": {
+            "content": "course",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0043063127,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027015572,
+      "mentions": [
+        {
+          "text": {
+            "content": "home.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

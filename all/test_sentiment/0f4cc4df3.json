@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "SHE WAS RESCUED BY ONE OF OUR CLIENT IN A PASAR.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "SHE HAD PARVOVIRUS DURING THAT TIME AND NOW IS RECOVER.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "SHE IS LOVELY AND FRIENDLY TO HUMAN.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "PLEASE GIVE HER A CHANCE TO HAS A HOME.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "ONE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4957007,
+      "mentions": [
+        {
+          "text": {
+            "content": "ONE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CLIENT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20588602,
+      "mentions": [
+        {
+          "text": {
+            "content": "CLIENT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PASAR",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20588602,
+      "mentions": [
+        {
+          "text": {
+            "content": "PASAR",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CHANCE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037049882,
+      "mentions": [
+        {
+          "text": {
+            "content": "CHANCE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HOME",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034019496,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOME",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HUMAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021457892,
+      "mentions": [
+        {
+          "text": {
+            "content": "HUMAN",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

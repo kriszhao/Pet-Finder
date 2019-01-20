@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lovely Bengal Kittens They have a very good temperament - kind and gentle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Have been regularly de-wormed and treated with flea preventative.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Lovely Bengal Kittens, make excellent family pets.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.54065686,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bengal",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.36731023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengal",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lovely Bengal Kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03704806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lovely Bengal Kittens",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "family pets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030587528,
+      "mentions": [
+        {
+          "text": {
+            "content": "family pets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea preventative",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.024397323,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea preventative",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

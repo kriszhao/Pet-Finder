@@ -1,0 +1,344 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "LOUIS IS A OBIDIENT DOG.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "HE IS VERY FRIENDLY.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "HE HAS A VERY SMOOTH CREAMY FUR AND A BEAUTIFUL EYES.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "WE BOUGHT A PAIR FROM PET SHOP IN OCT 08 WHERE A FEMALE DOG IS CALL CHARMINE AND A MALE IS CALL LOUIS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "UNFORTUNATELY WE LOST THE FEMALE AS SHE HAD RAN OUT OF THE HOUSE AND EATEN SOME POISONOUS FOOD AND DIED OF FOOD POISONOUS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "WE MISS HER VERY MUCH.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "SINCE WE LEFT LOUIS ALONE AND WE WILL BE MIGRATE TO OTHER COUNTRY, WE WILL LIKE SOMEONE REALLY COMMITTED IN TAKING OF DOGS TO ADOPT OUR DOG, LOUIS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "LOUIS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.64661336,
+      "mentions": [
+        {
+          "text": {
+            "content": "LOUIS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "LOUIS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "LOUIS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "OBIDIENT DOG",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.086590424,
+      "mentions": [
+        {
+          "text": {
+            "content": "OBIDIENT DOG",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "FEMALE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062662266,
+      "mentions": [
+        {
+          "text": {
+            "content": "FEMALE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FOOD",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032215603,
+      "mentions": [
+        {
+          "text": {
+            "content": "FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "FOOD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PET SHOP",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029064601,
+      "mentions": [
+        {
+          "text": {
+            "content": "PET SHOP",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SOMEONE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02050142,
+      "mentions": [
+        {
+          "text": {
+            "content": "SOMEONE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DOG",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01741009,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOG",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FUR",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017254954,
+      "mentions": [
+        {
+          "text": {
+            "content": "FUR",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "EYES",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017254954,
+      "mentions": [
+        {
+          "text": {
+            "content": "EYES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PAIR",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01637585,
+      "mentions": [
+        {
+          "text": {
+            "content": "PAIR",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MALE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014144428,
+      "mentions": [
+        {
+          "text": {
+            "content": "MALE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HOUSE",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010778754,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOUSE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CALL CHARMINE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008281741,
+      "mentions": [
+        {
+          "text": {
+            "content": "CALL CHARMINE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "COUNTRY",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008098738,
+      "mentions": [
+        {
+          "text": {
+            "content": "COUNTRY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DOG",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070786513,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOG",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DOGS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056741554,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOGS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,234 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I found this little kitten wandering around without his mother in Bercham, Ipoh.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I'm actually not very sure whether he's male or female, he's so young that it's a little hard to tell.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He's really affectionate once he gets to know you and likes to lick people and sit on my shoulders.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I hope you can give him a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "He has a bit of diarrhea so the adoption fee is to cover the medicine.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49443987,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21362138,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bercham",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0fm2ng",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bercham"
+      },
+      "salience": 0.12975067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bercham",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ipoh",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01rv39",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ipoh"
+      },
+      "salience": 0.05030801,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ipoh",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025637463,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019230027,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diarrhea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019230027,
+      "mentions": [
+        {
+          "text": {
+            "content": "diarrhea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016199442,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014726457,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoulders",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008506547,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoulders",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medicine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008350111,
+      "mentions": [
+        {
+          "text": {
+            "content": "medicine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

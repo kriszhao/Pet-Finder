@@ -1,0 +1,260 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Golden need a home~ he is sibling with &quot;RABBIT&quot;, we got him at impian height condo puchong parking area.He is a very nice n cute puppy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "For the person who can take good care of him, sms me, please sms first, so i can know your numbers Golden -Look like Golden Retriever's puppy -Very nice fur color golden cream with tail end white -Cute very cute -Clever -Foxy bark -Fury",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Golden",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.613124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "sibling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "RABBIT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09673586,
+      "mentions": [
+        {
+          "text": {
+            "content": "RABBIT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.083248205,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04702568,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condo",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.038148653,
+      "mentions": [
+        {
+          "text": {
+            "content": "condo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037487324,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puchong parking area.",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025944728,
+      "mentions": [
+        {
+          "text": {
+            "content": "puchong parking area.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014534233,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Foxy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013805649,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Foxy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cream",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0088063255,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0088063255,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006172365,
+      "mentions": [
+        {
+          "text": {
+            "content": "bark",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "numbers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038713226,
+      "mentions": [
+        {
+          "text": {
+            "content": "numbers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Golden Retriever",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Retriever",
+        "mid": "/m/01t032"
+      },
+      "salience": 0.002289332,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Retriever",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

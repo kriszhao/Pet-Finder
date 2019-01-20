@@ -1,0 +1,129 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Thor (white) is 7 months Loki (black) is 8months They are looking for new parent's.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If interested WhatsApp me or call",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Thor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5161468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20363662,
+      "mentions": [
+        {
+          "text": {
+            "content": "black",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Loki",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/05pnb1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Loki_(comics)"
+      },
+      "salience": 0.123115,
+      "mentions": [
+        {
+          "text": {
+            "content": "Loki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "parent",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.064939946,
+      "mentions": [
+        {
+          "text": {
+            "content": "parent",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04992125,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.04224043,
+      "mentions": [
+        {
+          "text": {
+            "content": "WhatsApp",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

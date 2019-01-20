@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "四隻貓咪都被領養囉 (y)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "貓咪",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.75522256,
+      "mentions": [
+        {
+          "text": {
+            "content": "貓咪",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "y",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24477746,
+      "mentions": [
+        {
+          "text": {
+            "content": "y",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "zh-Hant",
+  "categories": []
+}

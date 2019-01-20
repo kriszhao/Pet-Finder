@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Panda is a very lively and loving pup.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Caution : She bites shoes and may destroy plants.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Panda",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03bj1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Giant_panda"
+      },
+      "salience": 0.53287286,
+      "mentions": [
+        {
+          "text": {
+            "content": "Panda",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27076733,
+      "mentions": [
+        {
+          "text": {
+            "content": "pup",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Caution",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10887668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caution",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plants",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053655487,
+      "mentions": [
+        {
+          "text": {
+            "content": "plants",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoes",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.033827655,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

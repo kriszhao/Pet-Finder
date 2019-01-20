@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Grey Persian found wandering in Taman Mayang Jaya SS26.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone missing this cat, or wants to adopt please contact Melissa at .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Grey Persian",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6060345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Grey Persian",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taman Mayang Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1thwxz2z"
+      },
+      "salience": 0.13399409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Taman Mayang Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.1111178,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10230336,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Melissa",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046550244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Melissa",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

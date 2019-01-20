@@ -1,0 +1,96 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Chery is a very loving dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She likes to play with her sibling and her ball.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Chery",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/04wqw6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chery"
+      },
+      "salience": 0.601565,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chery",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3019091,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059222713,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sibling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037303183,
+      "mentions": [
+        {
+          "text": {
+            "content": "sibling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

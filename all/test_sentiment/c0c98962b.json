@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "My puppy is not fully trained but she listens if you hold a treat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She's got minor rash which is being treated, we will only hand her over once she's completely treated and spayed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.62109935,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.24627952,
+      "mentions": [
+        {
+          "text": {
+            "content": "treat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13262111,
+      "mentions": [
+        {
+          "text": {
+            "content": "rash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

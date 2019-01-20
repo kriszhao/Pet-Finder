@@ -1,0 +1,133 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Dady found this baby meow dlm longkang at TTDI Shah Alam 7 Eleven.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Very playfull.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Still bottle feed at the moment, kesian dia xde mama.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Dady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42199478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dady",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dlm longkang",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21318157,
+      "mentions": [
+        {
+          "text": {
+            "content": "dlm longkang",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby meow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21318157,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby meow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TTDI Shah Alam 7 Eleven",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.09166108,
+      "mentions": [
+        {
+          "text": {
+            "content": "TTDI Shah Alam 7 Eleven",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mama",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036788255,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottle feed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023192761,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottle feed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Female kitten with bobtail, healthy, playful, funny, naughty, smart....loves to play pingpong ball..and understand well whenever I wanna catch her to sleep, she will be running away :D I put her on blackwood diet and some can food on fancy feast.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If interested, you can call me or skype me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.70727766,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bobtail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.164902,
+      "mentions": [
+        {
+          "text": {
+            "content": "bobtail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03230673,
+      "mentions": [
+        {
+          "text": {
+            "content": "feast",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029784968,
+      "mentions": [
+        {
+          "text": {
+            "content": "D I",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pingpong ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02274913,
+      "mentions": [
+        {
+          "text": {
+            "content": "pingpong ball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blackwood diet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014326512,
+      "mentions": [
+        {
+          "text": {
+            "content": "blackwood diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014326512,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014326512,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

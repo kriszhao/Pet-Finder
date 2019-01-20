@@ -1,0 +1,138 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This cat is staying at our college for few years.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is adorable.Foster needed ASAP because the college's management want to throw away these 2 little cutie sweety kitty purry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.50123954,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "college",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23908444,
+      "mentions": [
+        {
+          "text": {
+            "content": "college",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "college",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.076133095,
+      "mentions": [
+        {
+          "text": {
+            "content": "college",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "management",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067074746,
+      "mentions": [
+        {
+          "text": {
+            "content": "management",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Foster",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043546047,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foster",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ASAP",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037184604,
+      "mentions": [
+        {
+          "text": {
+            "content": "ASAP",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cutie sweety kitty purry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035737503,
+      "mentions": [
+        {
+          "text": {
+            "content": "cutie sweety kitty purry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

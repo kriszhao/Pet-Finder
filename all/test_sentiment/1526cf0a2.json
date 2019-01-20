@@ -1,0 +1,177 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Caesar was a beagle crossed, he is very much like a beagle, playful, but not making much noise like a beagle!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Caesar &amp; Billy belong to the same family who just migrated, he was neutered, what u need to do is provide him a forever &amp; lovrly home!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If possible u can adopt both Caesar &amp; Billy together as they used to be with each other",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Caesar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6345605,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caesar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "beagle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.162145,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beagle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.071424514,
+      "mentions": [
+        {
+          "text": {
+            "content": "beagle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beagle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048886873,
+      "mentions": [
+        {
+          "text": {
+            "content": "beagle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "noise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045493856,
+      "mentions": [
+        {
+          "text": {
+            "content": "noise",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Caesar & Billy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.022192437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Caesar &amp; Billy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Caesar &amp; Billy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00938025,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0059165154,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

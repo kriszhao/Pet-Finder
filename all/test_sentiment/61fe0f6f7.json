@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She was loitering around the parking lot where i parked my bike.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Everytime wait for me to give her food,feeling pity for her so i rescued her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "parking lot",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.7315406,
+      "mentions": [
+        {
+          "text": {
+            "content": "parking lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bike",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.21186669,
+      "mentions": [
+        {
+          "text": {
+            "content": "bike",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032089636,
+      "mentions": [
+        {
+          "text": {
+            "content": "pity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024503075,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.1
+  },
+  "language": "en",
+  "categories": []
+}

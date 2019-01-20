@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Twilight and his siblings were abandoned at the Selayang Market at 3 weeks old and had to be bottle-fed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He has a very sweet Character, Gentle, playful &amp; is more attached to Humans",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4382069,
+      "mentions": [
+        {
+          "text": {
+            "content": "siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Twilight",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Twilight_Saga_(film_series)",
+        "mid": "/m/09gjmvw"
+      },
+      "salience": 0.28056252,
+      "mentions": [
+        {
+          "text": {
+            "content": "Twilight",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gentle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13471194,
+      "mentions": [
+        {
+          "text": {
+            "content": "Character",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Gentle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selayang Market",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11465854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selayang Market",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Humans",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0318601,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humans",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

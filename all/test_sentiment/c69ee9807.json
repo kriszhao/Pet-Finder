@@ -1,0 +1,106 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Lala is a Beagle mix and is very sweet and cute.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Even though at just 3 and a half months old, she is a good watch dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She is also affectionate and playful.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Lala",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6074191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lala",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23651816,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beagle",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01dj7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Beagle"
+      },
+      "salience": 0.12880544,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beagle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "watch dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027257329,
+      "mentions": [
+        {
+          "text": {
+            "content": "watch dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.3,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,81 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "A very beautiful Poodle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "FOC adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Poodle",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02kfwr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Poodle"
+      },
+      "salience": 0.5779625,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poodle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "FOC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.26916718,
+      "mentions": [
+        {
+          "text": {
+            "content": "FOC",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1528703,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

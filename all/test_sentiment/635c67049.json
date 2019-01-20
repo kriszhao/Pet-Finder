@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Halo.I'm the cute Bubble.Share your love with me.Come and adopt me!!!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bubble.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.531694,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bubble.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Halo.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20030113,
+      "mentions": [
+        {
+          "text": {
+            "content": "Halo.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1802912,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Come",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08771367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Come",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

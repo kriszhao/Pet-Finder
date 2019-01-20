@@ -1,0 +1,134 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "OMG!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "They are so fluffy I'm gonna die!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Super adorable, gorgeous Calico kittens with unique Bengal markings.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Call me at (The Cat Lady)!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34502068,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Calico",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22420652,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calico",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bengal",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0gzxy",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_cat"
+      },
+      "salience": 0.20596752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bengal",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.115850925,
+      "mentions": [
+        {
+          "text": {
+            "content": "markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "The Cat Lady",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0zmymc5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cat_Lady"
+      },
+      "salience": 0.10895436,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Cat Lady",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

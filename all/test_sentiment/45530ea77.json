@@ -1,0 +1,226 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Olivia is of Shih Tzu breed, she was given to us by someone who feared she would be taken away by dog catchers as she was straying outside a shop, we took her in and hope to find her a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She is a shy but sweet and friendly dog, you will like her once you see her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Please call Tracy or Kim or Mei leng for adoption details.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Olivia",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6851411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Olivia",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "breed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08304565,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08040534,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shih Tzu",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Shih_Tzu",
+        "mid": "/m/01s7fj"
+      },
+      "salience": 0.050440777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shih Tzu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03197341,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022544019,
+      "mentions": [
+        {
+          "text": {
+            "content": "shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog catchers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02227299,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog catchers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008209525,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052725556,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tracy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004454734,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031199732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031199732,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mei",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

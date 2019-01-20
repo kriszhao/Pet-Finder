@@ -1,0 +1,147 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Daniel is an intelligent kitten, who enjoys running around and tagging along with you around the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Daniel is sensitive to human emotions.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He often gives comforting purrs when either of us in the family is sad or upset.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Daniel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9068271,
+      "mentions": [
+        {
+          "text": {
+            "content": "Daniel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Daniel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.044768516,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human emotions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020120895,
+      "mentions": [
+        {
+          "text": {
+            "content": "human emotions",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015146778,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "either",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008031907,
+      "mentions": [
+        {
+          "text": {
+            "content": "either",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purrs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005104803,
+      "mentions": [
+        {
+          "text": {
+            "content": "purrs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

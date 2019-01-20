@@ -1,0 +1,208 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Hi, i am P2 from Prima Selayang.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I was with a group of gangsters roaming the area since I was born 😈 Pls consider to adopt me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I have beautiful Brindle print like a Tiger 🐯 I had my 1st vaccination on 13/6/15 &amp; i weight 8kgs !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Pretty heavy hah !",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Prima Selayang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc4k96_p"
+      },
+      "salience": 0.39930385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Prima Selayang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12777063,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.087749995,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gangsters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08668972,
+      "mentions": [
+        {
+          "text": {
+            "content": "gangsters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.08668972,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "print",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079221755,
+      "mentions": [
+        {
+          "text": {
+            "content": "print",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Brindle",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/046dj_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Brindle"
+      },
+      "salience": 0.047604743,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brindle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042504057,
+      "mentions": [
+        {
+          "text": {
+            "content": "weight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026679717,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tiger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015785802,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tiger",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

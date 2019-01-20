@@ -1,0 +1,158 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "FRIENDLY AND FUN TO PLAY WITH.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "LIKES SEEKING ATTENTION ONCE IN A WHILE WHILE PLAYING WITH HER OTHER FRIENDS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "KNOWS HOW TO COMMUNICATE AND REPLIES.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I AM NOT REALLY SURE IF THE BREED IS CORRECT AS ITS A RESCUED CAT.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "FRIENDLY",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.50180423,
+      "mentions": [
+        {
+          "text": {
+            "content": "FRIENDLY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BREED",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11681638,
+      "mentions": [
+        {
+          "text": {
+            "content": "BREED",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LIKES",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10433964,
+      "mentions": [
+        {
+          "text": {
+            "content": "LIKES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ATTENTION",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10433964,
+      "mentions": [
+        {
+          "text": {
+            "content": "ATTENTION",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FRIENDS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07196828,
+      "mentions": [
+        {
+          "text": {
+            "content": "FRIENDS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "REPLIES",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065823235,
+      "mentions": [
+        {
+          "text": {
+            "content": "REPLIES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CAT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034908623,
+      "mentions": [
+        {
+          "text": {
+            "content": "CAT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

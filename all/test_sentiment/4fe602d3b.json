@@ -1,0 +1,102 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She's playful and adorable.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "It's in Kampar, Perak now, but we can bring it to KL too (Kepong area).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Perak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/015q02",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Perak"
+      },
+      "salience": 0.28542408,
+      "mentions": [
+        {
+          "text": {
+            "content": "Perak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kampar",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0bf2qx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kampar,_Perak"
+      },
+      "salience": 0.28198758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kampar",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.23432028,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kepong",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d0_lw",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kepong"
+      },
+      "salience": 0.19826806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kepong",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

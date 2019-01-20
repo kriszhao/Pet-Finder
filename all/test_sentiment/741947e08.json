@@ -1,0 +1,437 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Sweetie was left outside a house in PJ about a week ago.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "This smart gal managed to sneak past the 3 dogs in the car porch &amp; entered the living room of the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Unfortunately, the family is not able to keep her permanently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "They are now looking for another human family for Sweetie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She's a gal who loves to play hide &amp; seek &amp; have romps &amp; rolls on the grass.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She's energetic &amp; very manja - loves human or doggie company!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Adopters are required to spay her when she reaches 5-6 months old and also agree to follow-up visits by the rescuer/fosterer.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Would appreciate donations upon adoption - to be given to an animal welfare organisation.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.27678913,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "gal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.24798924,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sweetie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19267221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweetie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PJ",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057877664,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "gal",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053613633,
+      "mentions": [
+        {
+          "text": {
+            "content": "gal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018160108,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car porch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018160108,
+      "mentions": [
+        {
+          "text": {
+            "content": "car porch",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "living room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018160108,
+      "mentions": [
+        {
+          "text": {
+            "content": "living room",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014027771,
+      "mentions": [
+        {
+          "text": {
+            "content": "human family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sweetie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014027771,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sweetie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rolls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0112882415,
+      "mentions": [
+        {
+          "text": {
+            "content": "rolls",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0112882415,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "romps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011150913,
+      "mentions": [
+        {
+          "text": {
+            "content": "romps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fosterer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008481546,
+      "mentions": [
+        {
+          "text": {
+            "content": "fosterer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rescuer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008481546,
+      "mentions": [
+        {
+          "text": {
+            "content": "rescuer",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visits",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.008378202,
+      "mentions": [
+        {
+          "text": {
+            "content": "visits",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "donations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006080091,
+      "mentions": [
+        {
+          "text": {
+            "content": "donations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animal welfare organisation",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0059326263,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal welfare organisation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0054893703,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "human",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042492137,
+      "mentions": [
+        {
+          "text": {
+            "content": "human",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0039694365,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doggie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037328328,
+      "mentions": [
+        {
+          "text": {
+            "content": "doggie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

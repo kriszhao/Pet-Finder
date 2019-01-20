@@ -1,0 +1,161 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Last darling of Kiki.......",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is a tomboy..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "lone ranger and more rambunctious than Button..hehe Thank you Eda Idayu for welcoming her into your house on 19th Sept ..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "May GOD Bless you...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kiki",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5953163,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kiki",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "darling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.20605908,
+      "mentions": [
+        {
+          "text": {
+            "content": "darling",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ranger",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11027816,
+      "mentions": [
+        {
+          "text": {
+            "content": "ranger",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tomboy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05373809,
+      "mentions": [
+        {
+          "text": {
+            "content": "tomboy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Button...hehe Thank you Eda Idayu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017300805,
+      "mentions": [
+        {
+          "text": {
+            "content": "Button..hehe Thank you Eda Idayu",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008919885,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "GOD",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.008387711,
+      "mentions": [
+        {
+          "text": {
+            "content": "GOD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

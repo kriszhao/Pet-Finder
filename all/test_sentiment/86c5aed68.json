@@ -1,0 +1,258 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Whiskey is a very affectionate and perky 8 years old English Cocker Spaniel.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I am sad to give her away but I have no choice as I am going overseas in June for work.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Anyone who is interested can contact me at-.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "PS : Whiskey has found her new mummy, Jeannie and &quot;sisters&quot; Nancy, Ruby and Mei Mei.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43526873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whiskey",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/082bv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Whisky"
+      },
+      "salience": 0.16839947,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whiskey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whiskey",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cocker Spaniel",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10149885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cocker Spaniel",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0797556,
+      "mentions": [
+        {
+          "text": {
+            "content": "English",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043482084,
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04091006,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mummy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030630179,
+      "mentions": [
+        {
+          "text": {
+            "content": "mummy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sisters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030630179,
+      "mentions": [
+        {
+          "text": {
+            "content": "sisters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jeannie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01814752,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jeannie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mei Mei",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014469533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mei Mei",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Nancy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012712753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nancy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012712753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ruby",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "PS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011382305,
+      "mentions": [
+        {
+          "text": {
+            "content": "PS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

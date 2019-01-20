@@ -1,0 +1,258 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cute puppies for adoption.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Can U give them a forever home?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Location: Melaka Age: 1-2months If U are interested, pls pm me or call , Miss Lim(for serious adopter only) 可爱宝宝需要一个家！",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "有没有人愿意把他们带回家？",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "地点：马六甲 年龄：1-2个月 有兴趣领养，请联络 : , Miss Lim(for serious adopter only)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Location",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15935713,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "for serious adopter only",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.1434038,
+      "mentions": [
+        {
+          "text": {
+            "content": "for serious adopter only",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Miss Lim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08289733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miss Lim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "马六甲",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.075410575,
+      "mentions": [
+        {
+          "text": {
+            "content": "马六甲",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07511327,
+      "mentions": [
+        {
+          "text": {
+            "content": "家",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "宝宝",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.068002954,
+      "mentions": [
+        {
+          "text": {
+            "content": "宝宝",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06463605,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "for serious adopter only",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.06450867,
+      "mentions": [
+        {
+          "text": {
+            "content": "for serious adopter only",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "地点",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06354214,
+      "mentions": [
+        {
+          "text": {
+            "content": "地点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "年龄",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06354214,
+      "mentions": [
+        {
+          "text": {
+            "content": "年龄",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pls pm me or call",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0591375,
+      "mentions": [
+        {
+          "text": {
+            "content": "pls pm me or call",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Miss Lim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05074615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miss Lim",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "兴趣",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02970229,
+      "mentions": [
+        {
+          "text": {
+            "content": "兴趣",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.4
+  },
+  "language": "zh",
+  "categories": []
+}

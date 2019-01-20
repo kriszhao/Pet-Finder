@@ -1,0 +1,83 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Teddy,approximately 2 months,orange in colour,love to play around,healthy, and currently like to play with ball.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Teddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49313718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Teddy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "orange",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24450961,
+      "mentions": [
+        {
+          "text": {
+            "content": "orange",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colour",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17300622,
+      "mentions": [
+        {
+          "text": {
+            "content": "colour",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08934698,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

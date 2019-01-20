@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "She's adorable,extremely playful and has the habit of chasing feet xD :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "habit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6772568,
+      "mentions": [
+        {
+          "text": {
+            "content": "habit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "xD",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.32274318,
+      "mentions": [
+        {
+          "text": {
+            "content": "xD",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "categories": []
+}

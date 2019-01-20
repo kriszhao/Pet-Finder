@@ -1,0 +1,110 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Both had been dewormed and free from flea.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Lilo likes to cuddle and crooked is very playful!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Diet = Equilibrio",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6341073,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20181894,
+      "mentions": [
+        {
+          "text": {
+            "content": "flea",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Equilibrio",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12269109,
+      "mentions": [
+        {
+          "text": {
+            "content": "Equilibrio",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Diet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lilo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041382696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lilo",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

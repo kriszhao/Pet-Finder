@@ -1,0 +1,168 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "American cocker spaniel 3 years old (Curly) Female, very active and friendly, adoption fees RM for neutering.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Interested, please call for an appointment ( ) for location map log onto www.g-pet.com",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cocker spaniel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35034394,
+      "mentions": [
+        {
+          "text": {
+            "content": "cocker spaniel",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.22260348,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "adoption fees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10357568,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption fees",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neutering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.095419295,
+      "mentions": [
+        {
+          "text": {
+            "content": "neutering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Curly) Female",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0902504,
+      "mentions": [
+        {
+          "text": {
+            "content": "Curly) Female",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.062481757,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "appointment",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.035516985,
+      "mentions": [
+        {
+          "text": {
+            "content": "appointment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "location map log",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024978912,
+      "mentions": [
+        {
+          "text": {
+            "content": "location map log",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.g-pet.com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014829557,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.g-pet.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm named Little Spot not bcos I'm little.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "It's just that the spot on my back is littler than my bro's ...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Little Spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5723437,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little Spot",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "spot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2609156,
+      "mentions": [
+        {
+          "text": {
+            "content": "spot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bro",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10235274,
+      "mentions": [
+        {
+          "text": {
+            "content": "bro",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064387985,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

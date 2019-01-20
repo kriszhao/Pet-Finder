@@ -1,0 +1,320 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I love this dog with all my heart, he has been my best friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He has given many me precious memories that I will cherish for the rest of my life.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "After many days of thinking and pondering and discerning I have decided to give him up for adoption to a loving family.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It's a painful decision but I'm hoping what's best for Killer.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Due to the change of my work I barely have time for him.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "And I'm staying in an apartment area which is a non dog friendly area, therefore I can't bring him for a ten minutes walk other than waiting for the weekend and bring him out to the park.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "best friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.50575817,
+      "mentions": [
+        {
+          "text": {
+            "content": "best friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apartment area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.11795101,
+      "mentions": [
+        {
+          "text": {
+            "content": "apartment area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1089816,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090803765,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "decision",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03516811,
+      "mentions": [
+        {
+          "text": {
+            "content": "decision",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032977205,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017045079,
+      "mentions": [
+        {
+          "text": {
+            "content": "rest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01207873,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011606685,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011606685,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011522452,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pondering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011465356,
+      "mentions": [
+        {
+          "text": {
+            "content": "pondering",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01058613,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01058613,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Killer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0062832623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Killer",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "park",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0055796257,
+      "mentions": [
+        {
+          "text": {
+            "content": "park",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.5,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,230 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Cute little princess is looking for a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She's adorable and playfull.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Healthy and litter trained.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She's perfectly alright alone all day long, but she can't wait to see you back home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "She like to taste your meal, but her favorite food is white fish.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "And her favourite hobby is to sleep on your pillows and purring while laying on your chest.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.34250247,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "princess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.33481666,
+      "mentions": [
+        {
+          "text": {
+            "content": "princess",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07092024,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "fish",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "litter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06604781,
+      "mentions": [
+        {
+          "text": {
+            "content": "litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041452184,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041339494,
+      "mentions": [
+        {
+          "text": {
+            "content": "meal",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hobby",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037410446,
+      "mentions": [
+        {
+          "text": {
+            "content": "hobby",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pillows",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0218369,
+      "mentions": [
+        {
+          "text": {
+            "content": "pillows",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "purring",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0218369,
+      "mentions": [
+        {
+          "text": {
+            "content": "purring",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0218369,
+      "mentions": [
+        {
+          "text": {
+            "content": "chest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.5,
+    "score": 0.7
+  },
+  "language": "en",
+  "categories": []
+}

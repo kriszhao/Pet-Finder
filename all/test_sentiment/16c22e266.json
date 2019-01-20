@@ -1,0 +1,318 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "*UPDATE* vaccinated and dewormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Girl Monday was found 8/1/ alone, with no parents in sight, in an area not conducive for stray dogs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is only 3 months old, and vet checks show no signs of disease (parvo,corona,distemper etc).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She is healthy,friendly, loving and playful, and deserves a good home rather than life on the street.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Adopters must commit to neutering her and keeping up with vaccinations.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5627117,
+      "mentions": [
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "UPDATE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15130644,
+      "mentions": [
+        {
+          "text": {
+            "content": "UPDATE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034887467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029421192,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029421192,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019942258,
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dogs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019942258,
+      "mentions": [
+        {
+          "text": {
+            "content": "dogs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018444633,
+      "mentions": [
+        {
+          "text": {
+            "content": "disease",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distemper",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018444633,
+      "mentions": [
+        {
+          "text": {
+            "content": "distemper",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parvo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018444633,
+      "mentions": [
+        {
+          "text": {
+            "content": "parvo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corona",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018444633,
+      "mentions": [
+        {
+          "text": {
+            "content": "corona",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vet checks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016729685,
+      "mentions": [
+        {
+          "text": {
+            "content": "vet checks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013880098,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013880098,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "street",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013880098,
+      "mentions": [
+        {
+          "text": {
+            "content": "street",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "signs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010512397,
+      "mentions": [
+        {
+          "text": {
+            "content": "signs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009706557,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.8,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

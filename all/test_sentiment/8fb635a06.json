@@ -1,0 +1,616 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kitty is about 2 months age when i saw her in a grocery shop during i bought some house needs last march.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I directly fall for her and brought her home.Still remembered how I rush with my husband to the pet store to buy an anti kutu shampoo to get rid of her &quot;kutus&quot; which was all over her fur when we first took her home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "now growing up as a cute calico she was very manja who will follow us around wherever we go and snuggle up into our bed whenever we sleep to sleep with us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "It was hard to let go this charming kitty but i have too since my son was diagnosed with asthma recently.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Tried to keep her but my son's cough is not getting well and he keep on rubbing his nose,sneezing and worst got his asthma whenever he get near to the kitty and this really makes me worry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Sad but I have to let go due to my son's health and doc's advice.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "i was looking for someone who re really responsible, cat loving and caring to adopt kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "i will require the adopter to emaiil me every month about kitty's progress and pictures.We really love kitty and would really hope the person who will adopt kitty will love and take care of her like we do.We would also hope the new adopter wil neuter kitty.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kitty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6337878,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "grocery shop",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.042129654,
+      "mentions": [
+        {
+          "text": {
+            "content": "grocery shop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04055121,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040143255,
+      "mentions": [
+        {
+          "text": {
+            "content": "house needs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03561449,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030127034,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cough",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026771795,
+      "mentions": [
+        {
+          "text": {
+            "content": "cough",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kutus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025332948,
+      "mentions": [
+        {
+          "text": {
+            "content": "kutus",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "person",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010016613,
+      "mentions": [
+        {
+          "text": {
+            "content": "person",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kutu shampoo",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00856095,
+      "mentions": [
+        {
+          "text": {
+            "content": "kutu shampoo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007760549,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet store",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007760549,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet store",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "husband",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007760549,
+      "mentions": [
+        {
+          "text": {
+            "content": "husband",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0065787705,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006561553,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worst",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006152244,
+      "mentions": [
+        {
+          "text": {
+            "content": "worst",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "asthma",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059856754,
+      "mentions": [
+        {
+          "text": {
+            "content": "asthma",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058311587,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "calico",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052127587,
+      "mentions": [
+        {
+          "text": {
+            "content": "calico",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052127587,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sneezing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004811946,
+      "mentions": [
+        {
+          "text": {
+            "content": "sneezing",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004811946,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Still",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004591224,
+      "mentions": [
+        {
+          "text": {
+            "content": "Still",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004044,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036118473,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "progress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036059215,
+      "mentions": [
+        {
+          "text": {
+            "content": "progress",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pictures.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036059215,
+      "mentions": [
+        {
+          "text": {
+            "content": "pictures.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "asthma",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034333523,
+      "mentions": [
+        {
+          "text": {
+            "content": "asthma",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028898274,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019809694,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015868987,
+      "mentions": [
+        {
+          "text": {
+            "content": "health",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015868987,
+      "mentions": [
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doc",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015868987,
+      "mentions": [
+        {
+          "text": {
+            "content": "doc",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

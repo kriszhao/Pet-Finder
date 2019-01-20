@@ -1,0 +1,382 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "2 kittens (around 3 weeks) (somebody abandoned 2 new born kittens...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "so the big cat is feeding the breast milk - can't see the gender yet.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "too young) The cats are Suntech building(next to Sunshine supermarket)in Bayan Baru, Bayan Lepas, Penang) Adoption requirement : a) She must be neutered and vaccinated when she grows up.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "The fee shall be borne by adopter.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "b) Agree to bring her for yearly vaccination c) Provide necessary medical attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "d) Provide balanced meals and fresh water all the time",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22544003,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22544003,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.19998637,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038526077,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breast milk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038526077,
+      "mentions": [
+        {
+          "text": {
+            "content": "breast milk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "building",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03273172,
+      "mentions": [
+        {
+          "text": {
+            "content": "building",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027735868,
+      "mentions": [
+        {
+          "text": {
+            "content": "gender",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "supermarket",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02628487,
+      "mentions": [
+        {
+          "text": {
+            "content": "supermarket",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025340063,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Adoption requirement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024132473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption requirement",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01810455,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sunshine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015587748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunshine",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Penang",
+        "mid": "/m/0g6xq"
+      },
+      "salience": 0.015587748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bayan Lepas",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d_dv9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Lepas"
+      },
+      "salience": 0.015587748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bayan Lepas",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Bayan Baru",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/026tq64",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bayan_Baru"
+      },
+      "salience": 0.015587748,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bayan Baru",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Suntech",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0153979855,
+      "mentions": [
+        {
+          "text": {
+            "content": "Suntech",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012663028,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009689302,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009667642,
+      "mentions": [
+        {
+          "text": {
+            "content": "meals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007982929,
+      "mentions": [
+        {
+          "text": {
+            "content": "fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

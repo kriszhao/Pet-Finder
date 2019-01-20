@@ -1,0 +1,234 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Archie was found on the ground floor of our apt building 2 months ago, looking very hungry nand lost.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He wasn't put up for adoption earlier as he wasn't well when we picked him up - sore eyes &amp; flu.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He's all good now and ready to be adopted by good animal lovers.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "If you're interested, please contact us at (Yanty) and (Rudy).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "We are in Cyberjaya by the way.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Archie",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Archie_Andrews",
+        "mid": "/m/0pdh4"
+      },
+      "salience": 0.7348943,
+      "mentions": [
+        {
+          "text": {
+            "content": "Archie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ground floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12259039,
+      "mentions": [
+        {
+          "text": {
+            "content": "ground floor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06417077,
+      "mentions": [
+        {
+          "text": {
+            "content": "nand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0163555,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01615747,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015018136,
+      "mentions": [
+        {
+          "text": {
+            "content": "flu",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007864376,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yanty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006663885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yanty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rudy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006663885,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rudy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "animal lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004965588,
+      "mentions": [
+        {
+          "text": {
+            "content": "animal lovers",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cyberjaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0qnfc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cyberjaya"
+      },
+      "salience": 0.004655749,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cyberjaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

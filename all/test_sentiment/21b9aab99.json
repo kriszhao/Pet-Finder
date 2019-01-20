@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Two little rascals for adoption!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Found abandoned in front of a hawker stall in Bukit Rimau Shah Alam.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "rascals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.58378434,
+      "mentions": [
+        {
+          "text": {
+            "content": "rascals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.26468205,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09430479,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hawker stall",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029438032,
+      "mentions": [
+        {
+          "text": {
+            "content": "hawker stall",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bukit Rimau Shah Alam",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027790781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bukit Rimau Shah Alam",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.2
+  },
+  "language": "en",
+  "categories": []
+}

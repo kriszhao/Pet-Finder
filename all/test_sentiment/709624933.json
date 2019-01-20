@@ -1,0 +1,108 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Son of Tom, very2 hyperactive.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "manja, suka jilat and gigit jari orang....notti sumtimes..",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.49957448,
+      "mentions": [
+        {
+          "text": {
+            "content": "Son",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3314064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tom",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "manja",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.079755716,
+      "mentions": [
+        {
+          "text": {
+            "content": "manja",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jilat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.074299835,
+      "mentions": [
+        {
+          "text": {
+            "content": "jilat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gigit jari orang...notti sumtimes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014963533,
+      "mentions": [
+        {
+          "text": {
+            "content": "gigit jari orang....notti sumtimes",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

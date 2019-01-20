@@ -1,0 +1,128 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Stoney has been in the cat bungalow at for quite a while.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is really tired of waiting and that's why she decided to sleep all the time.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is too lazy to response to the camera lady, even after calling her name.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "So come and help her quick...",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "cat bungalow",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.4704391,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat bungalow",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Stoney",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4427196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Stoney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04611254,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "response",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020364368,
+      "mentions": [
+        {
+          "text": {
+            "content": "response",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "camera lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020364368,
+      "mentions": [
+        {
+          "text": {
+            "content": "camera lady",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,549 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Female rottie mix for adoption - Jane Doe was abandoned by its owners,was found tied to a tree with no food and water.Probably beaten previously as she cowers when you raise your hand at her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Looks healthy and is very well-behaved and friendly - likes being pet and nuzzled.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Eats well and has no signs of injury.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I can't take care of her because I already have a dog and they don't get along - please help!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I will pay/take her for vaccination if needed as well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "If anyone can take her in, or knows anyone who can - please call or message me on FB.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "*Update 6th April - have gotten her a new chain,bowl,collar and she has been vaccinated and de-wormed.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Still looking for a good home for her.She has a good bark and would make a good watch-dog.Very well trained and always waits to be taken for a walk to urinate/defecate.Vet has said she is healthy - no heartworms,etc.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jane Doe",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0dnjc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/John_Doe"
+      },
+      "salience": 0.37562454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jane Doe",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "rottie mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13882573,
+      "mentions": [
+        {
+          "text": {
+            "content": "rottie mix",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07599766,
+      "mentions": [
+        {
+          "text": {
+            "content": "water.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057215843,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.057215843,
+      "mentions": [
+        {
+          "text": {
+            "content": "owners",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057215843,
+      "mentions": [
+        {
+          "text": {
+            "content": "tree",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057215843,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.039458524,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022094587,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011124013,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friendly - likes",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0092076175,
+      "mentions": [
+        {
+          "text": {
+            "content": "friendly - likes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008176411,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccination",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007213148,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccination",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007205746,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "signs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007170001,
+      "mentions": [
+        {
+          "text": {
+            "content": "signs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Eats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007170001,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007170001,
+      "mentions": [
+        {
+          "text": {
+            "content": "injury",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007144747,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066048237,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066048237,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watch-dog.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004962607,
+      "mentions": [
+        {
+          "text": {
+            "content": "watch-dog.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004962607,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004962607,
+      "mentions": [
+        {
+          "text": {
+            "content": "bark",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FB",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02y1vz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Facebook"
+      },
+      "salience": 0.0039078644,
+      "mentions": [
+        {
+          "text": {
+            "content": "FB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "heartworms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034750302,
+      "mentions": [
+        {
+          "text": {
+            "content": "heartworms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walk",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0034750302,
+      "mentions": [
+        {
+          "text": {
+            "content": "walk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0021813407,
+      "mentions": [
+        {
+          "text": {
+            "content": "collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bowl",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0021813407,
+      "mentions": [
+        {
+          "text": {
+            "content": "bowl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021813407,
+      "mentions": [
+        {
+          "text": {
+            "content": "chain",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "defecate.Vet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020544801,
+      "mentions": [
+        {
+          "text": {
+            "content": "defecate.Vet",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

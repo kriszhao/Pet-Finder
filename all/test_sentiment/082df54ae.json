@@ -1,0 +1,291 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "this puppy was recommend by a online friend.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "her cousin leaving to Sydney nxt wk for his uni.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "the parents aint willing to take care of this boy cause he is a super large breed dog.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "therefore he is putting out together with accessories.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "alot have said i did not state.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "therefore i shall put in caps.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "PLEASE CALL TO ENQUIRE!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "THANKYOU!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.44282982,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17517833,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11254897,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cousin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08512929,
+      "mentions": [
+        {
+          "text": {
+            "content": "cousin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03419029,
+      "mentions": [
+        {
+          "text": {
+            "content": "wk",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breed dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027349602,
+      "mentions": [
+        {
+          "text": {
+            "content": "breed dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026370473,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "uni",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.023181582,
+      "mentions": [
+        {
+          "text": {
+            "content": "uni",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023067424,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sydney",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06y57",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sydney"
+      },
+      "salience": 0.020339014,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sydney",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "caps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01605796,
+      "mentions": [
+        {
+          "text": {
+            "content": "caps",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accessories",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0071021663,
+      "mentions": [
+        {
+          "text": {
+            "content": "accessories",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ENQUIRE",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006655096,
+      "mentions": [
+        {
+          "text": {
+            "content": "ENQUIRE",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

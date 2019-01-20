@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Kitty is a playful and adorable orphaned kitten of just approx 2+mth old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "He was about to be thrown away by the Carrefour Subang staff.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "He is now healthy, dewormed and staying with me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "He is extremely lively and curious when he gets used to the environment he is in.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kitty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.88286483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kitty",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "staff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04379403,
+      "mentions": [
+        {
+          "text": {
+            "content": "staff",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Subang",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/054t4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya"
+      },
+      "salience": 0.026070196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Subang",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Carrefour",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Carrefour",
+        "mid": "/g/11b6pgdtxy"
+      },
+      "salience": 0.026070196,
+      "mentions": [
+        {
+          "text": {
+            "content": "Carrefour",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "environment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02120075,
+      "mentions": [
+        {
+          "text": {
+            "content": "environment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

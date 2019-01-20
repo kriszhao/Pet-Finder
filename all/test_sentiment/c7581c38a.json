@@ -1,0 +1,478 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Pixie is a small kitten, vivacious and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She loves skipping about in the house.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She loves to be carried, cuddled and will fall asleep on you if you manja her for abit while watching tv.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She has a nice thick long tail, bright orange eyes that widen in the dark.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She loves socialising with other kittys and people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Her favourite kind of toy is chasing something attached to a string.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She is very smart, will respond to her name, or jump on your lap without claws.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Toilet trained, no accidents ever.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Not a picky eater, will eat commercial kibble, wet food w rice or ikan bills from nasi lemak.. :) will even stand up to beg for food.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.8188329,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pixie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03619633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pixie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024678612,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02148142,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tv",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007550965,
+      "mentions": [
+        {
+          "text": {
+            "content": "tv",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kittys",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072815917,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittys",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006417442,
+      "mentions": [
+        {
+          "text": {
+            "content": "dark",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063999277,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "abit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006361699,
+      "mentions": [
+        {
+          "text": {
+            "content": "abit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tail",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063393232,
+      "mentions": [
+        {
+          "text": {
+            "content": "tail",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058608837,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "string",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058608837,
+      "mentions": [
+        {
+          "text": {
+            "content": "string",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0058608837,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058608837,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accidents",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0044050533,
+      "mentions": [
+        {
+          "text": {
+            "content": "accidents",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eater",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043986924,
+      "mentions": [
+        {
+          "text": {
+            "content": "eater",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kibble",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043986924,
+      "mentions": [
+        {
+          "text": {
+            "content": "kibble",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food w rice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043986924,
+      "mentions": [
+        {
+          "text": {
+            "content": "food w rice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035069399,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bills",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003081044,
+      "mentions": [
+        {
+          "text": {
+            "content": "bills",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nasi lemak",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003081044,
+      "mentions": [
+        {
+          "text": {
+            "content": "nasi lemak",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019373187,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019373187,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "claws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019373187,
+      "mentions": [
+        {
+          "text": {
+            "content": "claws",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019341403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 4.6,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

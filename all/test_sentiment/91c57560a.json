@@ -1,0 +1,106 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "TQ for your enquiry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "The dog has now been booked and delivered soon.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Tx",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "TQ",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.50112164,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "enquiry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.34249523,
+      "mentions": [
+        {
+          "text": {
+            "content": "enquiry",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1205991,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tx",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/07b_l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Texas"
+      },
+      "salience": 0.035784032,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tx",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,388 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Personality: Kopi is the sweetest kitten ever.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She is so floppy and doesn't complain when I carry her around.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "She purrs immediately when I pick her up.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is very calm and doesn't even complain and struggle when I bathe her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Definitely a lap cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Born: September  (about 3 months old) Dewormed: yes Vaccinated: yes (3rd and final booster due in january Neutered/spayed: no, too young Location: Petaling Jaya or Ipoh Adopters must: - continue their booster and annual vaccinations - spay/neuter them when they are 6 months old - keep them indoors - NEVER abandon them on the streets or in a shelter - NEVER use them for breeding Adoption fee: RM80 This is to cover the first 2 courses of vaccine and deworm costs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I get no profit from this fee.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Please contact Tracy - or send me a PM on my facebook please do not comment below here as it is difficult to contact you in return",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Kopi",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6867082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kopi",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ipoh Adopters",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.15976407,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ipoh Adopters",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Personality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058489468,
+      "mentions": [
+        {
+          "text": {
+            "content": "Personality",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "booster",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018419532,
+      "mentions": [
+        {
+          "text": {
+            "content": "booster",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "booster",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008410849,
+      "mentions": [
+        {
+          "text": {
+            "content": "booster",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccinations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007719624,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccinations",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007391692,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lap cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073179817,
+      "mentions": [
+        {
+          "text": {
+            "content": "lap cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "profit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065264604,
+      "mentions": [
+        {
+          "text": {
+            "content": "profit",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005822549,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005811547,
+      "mentions": [
+        {
+          "text": {
+            "content": "fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00511593,
+      "mentions": [
+        {
+          "text": {
+            "content": "costs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petaling Jaya",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03dqts",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petaling_Jaya"
+      },
+      "salience": 0.0043752715,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petaling Jaya",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "return",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003570262,
+      "mentions": [
+        {
+          "text": {
+            "content": "return",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "facebook",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003570262,
+      "mentions": [
+        {
+          "text": {
+            "content": "facebook",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "courses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031685499,
+      "mentions": [
+        {
+          "text": {
+            "content": "courses",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tracy",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030156148,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tracy",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adoption fee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025565038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption fee",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022456448,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

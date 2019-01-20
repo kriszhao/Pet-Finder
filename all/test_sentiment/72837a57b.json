@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "- For Free Adoption - Green Color Eyes - Rare Color - Vaccinated - Neutered -Dewormed",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5125587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Color Eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.37081376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Color Eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dewormed",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03nnncz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Deworming"
+      },
+      "salience": 0.11662753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dewormed",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,65 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I picked her up at Ipoh Garden East.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Very adventurous but lovable cat.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Ipoh Garden East",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/11c4bnbjs2"
+      },
+      "salience": 0.6341322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ipoh Garden East",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.36586776,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

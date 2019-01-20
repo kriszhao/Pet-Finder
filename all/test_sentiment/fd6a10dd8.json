@@ -1,0 +1,251 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Please call my grandfather for further details: Currently residing in Miri, Sarawak with my grandfather.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She is very timid and gentle at times, but she loves to bark when you interact with her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Her favourite toy is the tug of war rope.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Reaallllyyy love snacks and attention.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Her last vaccine was in and she has not been dewormed in only.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I am looking into spaying or neutering her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Miri",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03x621",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Miri,_Malaysia"
+      },
+      "salience": 0.68047845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miri",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "grandfather",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09629454,
+      "mentions": [
+        {
+          "text": {
+            "content": "grandfather",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085422255,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tug of war rope",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.052023344,
+      "mentions": [
+        {
+          "text": {
+            "content": "toy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "tug of war rope",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grandfather",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038349215,
+      "mentions": [
+        {
+          "text": {
+            "content": "grandfather",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sarawak",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/06_z0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sarawak"
+      },
+      "salience": 0.020212622,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sarawak",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011146185,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spaying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005408891,
+      "mentions": [
+        {
+          "text": {
+            "content": "spaying",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038448048,
+      "mentions": [
+        {
+          "text": {
+            "content": "vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love snacks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034098316,
+      "mentions": [
+        {
+          "text": {
+            "content": "love snacks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034098316,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

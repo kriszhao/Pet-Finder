@@ -1,0 +1,397 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "她是幸福，幸福的主人（不是我）因为私人理由要把她送去狗场，还好好心姐姐暂时接收了我，有没有人要把我带回家？",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "名字：幸福 性别： 女 年龄：5岁 地点：雪隆区 领养条件：不能长期关笼子，不能长期绑着 领养价：结扎费，12月6号送去结扎，会附单据 养狗狗是一辈子的承诺，请不要为了一时兴趣而领养，兴趣过后就弃养。",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "如果你可以给幸福一辈子的承诺可以Ｐｍ我 XingFu is up for adoption, her owner (not me) due to personal reason cannot keep her anymore, she is currently foster care by me, if you interested to adopt XingFu and give her a home, please pm me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "主人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13650678,
+      "mentions": [
+        {
+          "text": {
+            "content": "主人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "理由",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13154304,
+      "mentions": [
+        {
+          "text": {
+            "content": "理由",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "姐姐",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.097745106,
+      "mentions": [
+        {
+          "text": {
+            "content": "姐姐",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.097745106,
+      "mentions": [
+        {
+          "text": {
+            "content": "人",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "名字",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05375503,
+      "mentions": [
+        {
+          "text": {
+            "content": "名字",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09lkz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adoption"
+      },
+      "salience": 0.044540346,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "承诺",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043582868,
+      "mentions": [
+        {
+          "text": {
+            "content": "承诺",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兴趣",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041982673,
+      "mentions": [
+        {
+          "text": {
+            "content": "兴趣",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "兴趣",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041982673,
+      "mentions": [
+        {
+          "text": {
+            "content": "兴趣",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "领养价",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03887499,
+      "mentions": [
+        {
+          "text": {
+            "content": "领养价",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "养狗狗",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0bt9lr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dog"
+      },
+      "salience": 0.035522908,
+      "mentions": [
+        {
+          "text": {
+            "content": "养狗狗",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "结扎费",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027068028,
+      "mentions": [
+        {
+          "text": {
+            "content": "结扎费",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "her owner",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02646093,
+      "mentions": [
+        {
+          "text": {
+            "content": "her owner",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "雪隆区",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.023525717,
+      "mentions": [
+        {
+          "text": {
+            "content": "雪隆区",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "承诺",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021925874,
+      "mentions": [
+        {
+          "text": {
+            "content": "承诺",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "领养条件",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019805744,
+      "mentions": [
+        {
+          "text": {
+            "content": "领养条件",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "地点",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019805744,
+      "mentions": [
+        {
+          "text": {
+            "content": "地点",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "女 年龄",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019805744,
+      "mentions": [
+        {
+          "text": {
+            "content": "女 年龄",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "性别",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019805744,
+      "mentions": [
+        {
+          "text": {
+            "content": "性别",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "笼子",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.015617922,
+      "mentions": [
+        {
+          "text": {
+            "content": "笼子",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "not me",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014808208,
+      "mentions": [
+        {
+          "text": {
+            "content": "not me",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "she",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01mvmvl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/S.H.E"
+      },
+      "salience": 0.014808208,
+      "mentions": [
+        {
+          "text": {
+            "content": "she",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012780627,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": 0.4
+  },
+  "language": "zh",
+  "categories": []
+}

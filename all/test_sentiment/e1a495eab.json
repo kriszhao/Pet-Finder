@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this puppy yesterday night at Kampong Tengku,PJ Kindly contact Jenny Tham at if you are willing to give her a home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Jenny Tham",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.42197573,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jenny Tham",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "puppy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38899976,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppy",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PJ Kindly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.072101034,
+      "mentions": [
+        {
+          "text": {
+            "content": "PJ Kindly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Kampong Tengku",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07125227,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kampong Tengku",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045671225,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

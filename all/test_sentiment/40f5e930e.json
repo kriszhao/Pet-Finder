@@ -1,0 +1,169 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bruno- 7 m , male excellent watchdog, friendly, macho and active!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Come and meet our animals for adoption at Selangor (Tues - Sun, 10am - 4pm) and fall in love!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "www.spca.org.my",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bruno- 7",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4079036,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruno- 7",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "watchdog",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.2716347,
+      "mentions": [
+        {
+          "text": {
+            "content": "watchdog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "animals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09345089,
+      "mentions": [
+        {
+          "text": {
+            "content": "animals",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.085908055,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01jc9d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor"
+      },
+      "salience": 0.05122851,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selangor",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045771915,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "www.spca.org.my",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01qhnc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/.org"
+      },
+      "salience": 0.02703961,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.spca.org.my",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tues - Sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017062716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tues - Sun",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,266 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "This Bulldog is friendly but he hates the garbage men, mail men, newspaper men.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "He also hates brooms and dustpan.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He is not used to wearing a collar or a leash.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "He is suitable to stay alone.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I need to give him away because he cannot get along with my older dog who is a basset hound.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "He needs a good home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "No breeders, please.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bulldog",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bulldog",
+        "mid": "/m/01k3tq"
+      },
+      "salience": 0.7209454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bulldog",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "garbage men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10049167,
+      "mentions": [
+        {
+          "text": {
+            "content": "garbage men",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mail men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040314995,
+      "mentions": [
+        {
+          "text": {
+            "content": "mail men",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "newspaper men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040314995,
+      "mentions": [
+        {
+          "text": {
+            "content": "newspaper men",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "basset hound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028717937,
+      "mentions": [
+        {
+          "text": {
+            "content": "basset hound",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.019846298,
+      "mentions": [
+        {
+          "text": {
+            "content": "collar",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010811604,
+      "mentions": [
+        {
+          "text": {
+            "content": "leash",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brooms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010733499,
+      "mentions": [
+        {
+          "text": {
+            "content": "brooms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dustpan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010733499,
+      "mentions": [
+        {
+          "text": {
+            "content": "dustpan",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074479114,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breeders",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052000233,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeders",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0044421274,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

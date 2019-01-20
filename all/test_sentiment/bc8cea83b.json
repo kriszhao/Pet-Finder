@@ -1,0 +1,508 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Just look at her sad eyes and big headshot, why would anyone not want to love her?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "This cute little cream pie is hanging around the showroom/office of Le Yuan Residence condominium at Kuchai Lama/Happy Garden or near Old Klang Road, K.L.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She is with her mom, brother and sister.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "She is the youngest and the smallest among them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "She has some kind of injuries on the top left-right sides of her nose but has healed nicely but left with black marks.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "She has some lices on her, other than that she is extremely docile, friendly and healthy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Also, very very hungry.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "If you are serious about adopting or fostering her, please contact me so that I can lead you to them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Or, you can visit her at Le Yuan Residence showroom during evening.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Please inform me if you decided to adopt her, so that I can change the status at Petfinder to 'adopted'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thank you.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "anyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7105439,
+      "mentions": [
+        {
+          "text": {
+            "content": "anyone",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059321497,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "headshot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059321497,
+      "mentions": [
+        {
+          "text": {
+            "content": "headshot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Le Yuan Residence",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11b8zrhrqc"
+      },
+      "salience": 0.018836673,
+      "mentions": [
+        {
+          "text": {
+            "content": "Le Yuan Residence",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Le Yuan Residence",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "showroom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012564817,
+      "mentions": [
+        {
+          "text": {
+            "content": "showroom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cream pie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011044058,
+      "mentions": [
+        {
+          "text": {
+            "content": "cream pie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "office",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011044058,
+      "mentions": [
+        {
+          "text": {
+            "content": "office",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "condominium",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011044058,
+      "mentions": [
+        {
+          "text": {
+            "content": "condominium",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kuchai Lama",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0d_d00",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kuchai_Lama"
+      },
+      "salience": 0.010536305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kuchai Lama",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "K.L.",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074688513,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sides",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074688513,
+      "mentions": [
+        {
+          "text": {
+            "content": "sides",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "injuries",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074688513,
+      "mentions": [
+        {
+          "text": {
+            "content": "injuries",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074688513,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074241664,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074241664,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mom",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0074241664,
+      "mentions": [
+        {
+          "text": {
+            "content": "mom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smallest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007398012,
+      "mentions": [
+        {
+          "text": {
+            "content": "smallest",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "marks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006854171,
+      "mentions": [
+        {
+          "text": {
+            "content": "marks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lices",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068388535,
+      "mentions": [
+        {
+          "text": {
+            "content": "lices",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Happy Garden",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/02878ny",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Happy_Garden"
+      },
+      "salience": 0.0065402216,
+      "mentions": [
+        {
+          "text": {
+            "content": "Happy Garden",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "showroom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005839965,
+      "mentions": [
+        {
+          "text": {
+            "content": "showroom",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Old Klang Road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0044148616,
+      "mentions": [
+        {
+          "text": {
+            "content": "Old Klang Road",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "status",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035880115,
+      "mentions": [
+        {
+          "text": {
+            "content": "status",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Petfinder",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0cdyq6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Petfinder"
+      },
+      "salience": 0.0021211929,
+      "mentions": [
+        {
+          "text": {
+            "content": "Petfinder",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "categories": []
+}

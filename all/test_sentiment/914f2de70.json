@@ -1,0 +1,373 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "ONE OF THE STRAY MUMMY GAVE BIRTH TO 4 PUPPIES OUTSIDE MY HOUSE COMPOUND.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "WE PITY THE MOTHER,SO WE FEED HER DAILY RIGHT ON THE SAME SPOT.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "SHE NOW STAYS WITH HER PUPPIES RIGHT OUTSIDE MY HOUSE AND THE SHELTER IS LIMITED.THIS MORNING,WE NOTICED 1 OF THE PUPPIES WENT MISSING,I'VE TRIED LOOKING AROUND BUT WAS UNABLE TO FIND THE BABY.WE WORRY THEY WILL WALK AND STUMBLE ON THE SERVICE ROAD AND GET HIT BY VEHICLES.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "WE ARE NOT ABLE TO TAKE THEM IN AS WE HAVE OUR DOG IN OUR COMPOUND.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "PLEASE HELP ME FIND THEM A HOME, INTERESTED PLEASE CALL (MISS LEE).WE ARE IN USJ 11, SUBANG JAYA.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "MOTHER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.18608841,
+      "mentions": [
+        {
+          "text": {
+            "content": "MOTHER",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MUMMY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14094971,
+      "mentions": [
+        {
+          "text": {
+            "content": "MUMMY",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BIRTH",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.14094971,
+      "mentions": [
+        {
+          "text": {
+            "content": "BIRTH",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ONE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14094971,
+      "mentions": [
+        {
+          "text": {
+            "content": "ONE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "PUPPIES",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09903297,
+      "mentions": [
+        {
+          "text": {
+            "content": "PUPPIES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "PUPPIES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HOUSE COMPOUND",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.096114345,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOUSE COMPOUND",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SPOT",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026433352,
+      "mentions": [
+        {
+          "text": {
+            "content": "SPOT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "BABY.",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02566745,
+      "mentions": [
+        {
+          "text": {
+            "content": "BABY.",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SHELTER",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02136451,
+      "mentions": [
+        {
+          "text": {
+            "content": "SHELTER",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HOUSE",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.020229768,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOUSE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HOME",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019250207,
+      "mentions": [
+        {
+          "text": {
+            "content": "HOME",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "SERVICE ROAD",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016518641,
+      "mentions": [
+        {
+          "text": {
+            "content": "SERVICE ROAD",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "COMPOUND",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01412854,
+      "mentions": [
+        {
+          "text": {
+            "content": "COMPOUND",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "DOG",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012262834,
+      "mentions": [
+        {
+          "text": {
+            "content": "DOG",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "CALL",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008670975,
+      "mentions": [
+        {
+          "text": {
+            "content": "CALL",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MISS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008670975,
+      "mentions": [
+        {
+          "text": {
+            "content": "MISS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "HIT",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0069939406,
+      "mentions": [
+        {
+          "text": {
+            "content": "HIT",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "VEHICLES",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005469205,
+      "mentions": [
+        {
+          "text": {
+            "content": "VEHICLES",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "USJ",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005127373,
+      "mentions": [
+        {
+          "text": {
+            "content": "USJ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "SUBANG JAYA",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/054t4_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_Jaya"
+      },
+      "salience": 0.005127373,
+      "mentions": [
+        {
+          "text": {
+            "content": "SUBANG JAYA",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

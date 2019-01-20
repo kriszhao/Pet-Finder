@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "If you are interested to adopt, please visit us at www.g-pet.com and you will be required to complete the forms",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "www.g-pet.com",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5037023,
+      "mentions": [
+        {
+          "text": {
+            "content": "www.g-pet.com",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "forms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.4962977,
+      "mentions": [
+        {
+          "text": {
+            "content": "forms",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

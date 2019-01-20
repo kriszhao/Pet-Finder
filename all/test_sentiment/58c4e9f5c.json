@@ -1,0 +1,200 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Muimui, 4months old, a playful n obedient girl, she was refused to adopt due to wearing &quot;socks&quot; even 4 of the &quot;very keen&quot; adopters came to see her n told me she is very very very cute @.@ , we are new generation, why care so much?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Do u like to offer her a furever home?",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "All u need to do is love her like her mama, play with her, feed her tasty food(well, whatever can eat she will finish it in juz 10seconds time...)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Muimui",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7932221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Muimui",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "socks",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06901784,
+      "mentions": [
+        {
+          "text": {
+            "content": "socks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "generation",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033001777,
+      "mentions": [
+        {
+          "text": {
+            "content": "generation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "n",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029446658,
+      "mentions": [
+        {
+          "text": {
+            "content": "n",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025925165,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatever",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017389696,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatever",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "@",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0156169385,
+      "mentions": [
+        {
+          "text": {
+            "content": "@",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00875611,
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038491823,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0037745119,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

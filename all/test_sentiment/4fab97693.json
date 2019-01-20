@@ -1,0 +1,281 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Name : Mac Breed : Mixed Birth Date : In , March Vaccine : 2 times only Neutered : Non Tall, Handsome, Golden Medium length hair, less shedding, Friendly, Like to chase Cats and Rats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Temeprament : Very friendly.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Color: Golden Brown Contact Person : (Mr Tan)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2584784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Name",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mac Breed : Mixed Birth Date : In",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.15942486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mac Breed : Mixed Birth Date : In",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Vaccine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10438631,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vaccine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07944997,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07220915,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "length",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07220915,
+      "mentions": [
+        {
+          "text": {
+            "content": "length",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shedding",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.06640197,
+      "mentions": [
+        {
+          "text": {
+            "content": "shedding",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Neutered : Non Tall",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04264478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Neutered : Non Tall",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Friendly",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03965477,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friendly",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.037970774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024270415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Color",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cats",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01yrx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat"
+      },
+      "salience": 0.013226957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cats",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Rats",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rat",
+        "mid": "/m/06lk1"
+      },
+      "salience": 0.013226957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Rats",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Golden Brown Contact Person",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010087577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Golden Brown Contact Person",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Temeprament",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006357957,
+      "mentions": [
+        {
+          "text": {
+            "content": "Temeprament",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

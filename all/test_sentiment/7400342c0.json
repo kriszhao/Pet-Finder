@@ -1,0 +1,93 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Little Ketsbie is homeless and have been identified as great pet kitty material.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Do bring him home and begin to experience fun kitty life :)",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Little Ketsbie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.74615204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little Ketsbie",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pet kitty material",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.17792997,
+      "mentions": [
+        {
+          "text": {
+            "content": "pet kitty material",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitty life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048042998,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitty life",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027874999,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.8
+  },
+  "language": "en",
+  "categories": []
+}

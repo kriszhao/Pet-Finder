@@ -1,0 +1,153 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Gizmo is smart and toilet-trained; his owner is unable to take care of him any further due to her health condition and restricted physical movements.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Photo shown here is after full grooming, fur length is long.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Gizmo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3642682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gizmo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.35377356,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10029485,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "health condition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08201642,
+      "mentions": [
+        {
+          "text": {
+            "content": "health condition",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grooming",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.030300837,
+      "mentions": [
+        {
+          "text": {
+            "content": "grooming",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movements",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02772391,
+      "mentions": [
+        {
+          "text": {
+            "content": "movements",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur length",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025554053,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur length",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Photo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016068166,
+      "mentions": [
+        {
+          "text": {
+            "content": "Photo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.4
+  },
+  "language": "en",
+  "categories": []
+}

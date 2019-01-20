@@ -1,0 +1,145 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Found this abandoned poodle around Citta Mall.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It had ticks and lice so I had sent him for treatment.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "The hair was shaved so that it can be groomed again.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "It had been dewormed and vaccinated.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "poodle",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.491036,
+      "mentions": [
+        {
+          "text": {
+            "content": "poodle",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14984964,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Citta Mall",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/g/1hc578nvb"
+      },
+      "salience": 0.12237555,
+      "mentions": [
+        {
+          "text": {
+            "content": "Citta Mall",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ticks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.099938214,
+      "mentions": [
+        {
+          "text": {
+            "content": "ticks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "treatment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0688137,
+      "mentions": [
+        {
+          "text": {
+            "content": "treatment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067986906,
+      "mentions": [
+        {
+          "text": {
+            "content": "lice",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

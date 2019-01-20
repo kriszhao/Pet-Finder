@@ -1,0 +1,337 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Bulat just had 4 kittens on 5th January .",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I gave one kitten to my untie.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Two reason on why I put up Bulat for adoption: 1)I already have 4 adult cats(including Bulat);and 2)My neighbor has been bugging and threatened to kill my cats.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Bulat is very sweet and obedient cat.It is hard for me to let her go, but I am really afraid that she is not safe here in my neighborhood.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "If there is anybody around JB/Skudai who can take care and love Bulat and her kittens, please contact me.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Bulat",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.53742725,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bulat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bulat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bulat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bulat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Bulat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15538439,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kitten",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07677328,
+      "mentions": [
+        {
+          "text": {
+            "content": "kitten",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04993161,
+      "mentions": [
+        {
+          "text": {
+            "content": "anybody",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "untie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023704277,
+      "mentions": [
+        {
+          "text": {
+            "content": "untie",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023587206,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adoption",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023587206,
+      "mentions": [
+        {
+          "text": {
+            "content": "adoption",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01836855,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbor",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01836855,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017924499,
+      "mentions": [
+        {
+          "text": {
+            "content": "cats",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighborhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012675402,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighborhood",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat.It",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01yrx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat"
+      },
+      "salience": 0.010509272,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat.It",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kittens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009707743,
+      "mentions": [
+        {
+          "text": {
+            "content": "kittens",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008905997,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Skudai",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/058z21",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Skudai"
+      },
+      "salience": 0.0065723862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Skudai",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "JB",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0065723862,
+      "mentions": [
+        {
+          "text": {
+            "content": "JB",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

@@ -1,0 +1,373 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Donna, is a pure-breed dalmation.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "She has very sensitive skin especially the hind legs (born with)- there's discoloration to her skin because of the sensitivity (brown), she sheds a lot of fur.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "She can't eat chicken, only lamb.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "She a wonderful play-mate and companion.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "She is well trained, friendly and not noisy.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She likes to climb on people, giving them hugs.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Her nails grow very fast and sharp.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Photo will be uploaded soon.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Thanks",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "Donna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6863502,
+      "mentions": [
+        {
+          "text": {
+            "content": "Donna",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "dalmation",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11273416,
+      "mentions": [
+        {
+          "text": {
+            "content": "dalmation",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023694025,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020258306,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019402545,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hind legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01706666,
+      "mentions": [
+        {
+          "text": {
+            "content": "hind legs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "discoloration",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013872071,
+      "mentions": [
+        {
+          "text": {
+            "content": "discoloration",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013137364,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fur",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0116918795,
+      "mentions": [
+        {
+          "text": {
+            "content": "fur",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chicken",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0116340825,
+      "mentions": [
+        {
+          "text": {
+            "content": "chicken",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sensitivity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011549847,
+      "mentions": [
+        {
+          "text": {
+            "content": "sensitivity",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lamb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010679811,
+      "mentions": [
+        {
+          "text": {
+            "content": "lamb",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "play-mate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010642301,
+      "mentions": [
+        {
+          "text": {
+            "content": "play-mate",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "companion",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010642301,
+      "mentions": [
+        {
+          "text": {
+            "content": "companion",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hugs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007990953,
+      "mentions": [
+        {
+          "text": {
+            "content": "hugs",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nails",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007501848,
+      "mentions": [
+        {
+          "text": {
+            "content": "nails",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Photo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0055798455,
+      "mentions": [
+        {
+          "text": {
+            "content": "Photo",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005571786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thanks",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": 0.3
+  },
+  "language": "en",
+  "categories": []
+}

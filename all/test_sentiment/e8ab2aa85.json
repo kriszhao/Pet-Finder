@@ -1,0 +1,283 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "-Location: Sunway Mentari -Gender : FEMALE -she is a very calm and loving cat, im a college student so i cant afford to keep her.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "-ADOPTER MUST SPAY TO PREVENT UNWANTED KITTENS.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "ADOPTER MUST NEVER DECLAW.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "ADOPTER MUST VACCINATE PLS UNDERSTAND TQ.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "-Contact : (Charmaine) WHATSAPP OR CALL",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "FEMALE",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.37358627,
+      "mentions": [
+        {
+          "text": {
+            "content": "FEMALE",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Location",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.2212289,
+      "mentions": [
+        {
+          "text": {
+            "content": "Location",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sunway Mentari -Gender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1358188,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sunway Mentari -Gender",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07690476,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "college student",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06053646,
+      "mentions": [
+        {
+          "text": {
+            "content": "college student",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTER",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.034032676,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTER",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "KITTENS",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02940586,
+      "mentions": [
+        {
+          "text": {
+            "content": "KITTENS",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020419208,
+      "mentions": [
+        {
+          "text": {
+            "content": "Contact",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TQ",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.012137167,
+      "mentions": [
+        {
+          "text": {
+            "content": "TQ",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "WHATSAPP",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0gwzvs1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WhatsApp"
+      },
+      "salience": 0.00848104,
+      "mentions": [
+        {
+          "text": {
+            "content": "WHATSAPP",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Charmaine",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00848104,
+      "mentions": [
+        {
+          "text": {
+            "content": "Charmaine",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "VACCINATE PLS",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008400552,
+      "mentions": [
+        {
+          "text": {
+            "content": "VACCINATE PLS",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "NEVER DECLAW",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005351352,
+      "mentions": [
+        {
+          "text": {
+            "content": "NEVER DECLAW",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ADOPTER",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052159405,
+      "mentions": [
+        {
+          "text": {
+            "content": "ADOPTER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ADOPTER",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}

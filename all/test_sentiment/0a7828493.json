@@ -1,0 +1,171 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "One year old Beagle, adorable, playful, always ready to have fun, looking for family or owner who will take care of his wellness and happiness.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Potential adopters will be checked to ensure their seriousness.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "family",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.43475565,
+      "mentions": [
+        {
+          "text": {
+            "content": "family",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beagle",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01dj7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Beagle"
+      },
+      "salience": 0.1830139,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beagle",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.087950036,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08388421,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08191956,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "adopters",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056252707,
+      "mentions": [
+        {
+          "text": {
+            "content": "adopters",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wellness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02609567,
+      "mentions": [
+        {
+          "text": {
+            "content": "wellness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "happiness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02609567,
+      "mentions": [
+        {
+          "text": {
+            "content": "happiness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seriousness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020032607,
+      "mentions": [
+        {
+          "text": {
+            "content": "seriousness",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "categories": []
+}

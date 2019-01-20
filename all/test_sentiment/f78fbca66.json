@@ -1,0 +1,141 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Eclipse was found lying beside a garbage bin at the Selayang Market when he was 3 weeks old.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "He is slightly more aloof compared to the other Siblings, he is the Cool Cat of the Bunch, warms up to people with time definately!",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "garbage bin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7638735,
+      "mentions": [
+        {
+          "text": {
+            "content": "garbage bin",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Eclipse",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/01fs1d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Eclipse_(software)"
+      },
+      "salience": 0.12630026,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eclipse",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Selayang Market",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05087133,
+      "mentions": [
+        {
+          "text": {
+            "content": "Selayang Market",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Siblings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026369566,
+      "mentions": [
+        {
+          "text": {
+            "content": "Siblings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014034586,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bunch",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01187022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bunch",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cool Cat",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0066805007,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cool Cat",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0
+  },
+  "language": "en",
+  "categories": []
+}

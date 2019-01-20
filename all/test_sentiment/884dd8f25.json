@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "Two gorgeous and elegant golden tabbies with mackerel markings (tiger stripes).",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Both are healthy, intelligent, curious and very affectionate.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Call me at (The Cat Lady) for details.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "tabbies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2984982,
+      "mentions": [
+        {
+          "text": {
+            "content": "tabbies",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mackerel markings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2984982,
+      "mentions": [
+        {
+          "text": {
+            "content": "mackerel markings",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tiger stripes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20742235,
+      "mentions": [
+        {
+          "text": {
+            "content": "tiger stripes",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Both",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10160399,
+      "mentions": [
+        {
+          "text": {
+            "content": "Both",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "details",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050898086,
+      "mentions": [
+        {
+          "text": {
+            "content": "details",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "The Cat Lady",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/0zmymc5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cat_Lady"
+      },
+      "salience": 0.043079138,
+      "mentions": [
+        {
+          "text": {
+            "content": "The Cat Lady",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "categories": []
+}

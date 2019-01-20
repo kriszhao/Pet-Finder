@@ -1,0 +1,74 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "the interested must pay RM to be spayed before pick her up .Owner in Pakistan",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "RM",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01_c9q",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysian_ringgit"
+      },
+      "salience": 0.46193528,
+      "mentions": [
+        {
+          "text": {
+            "content": "RM",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3757473,
+      "mentions": [
+        {
+          "text": {
+            "content": "Owner",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/05sb1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pakistan"
+      },
+      "salience": 0.16231741,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pakistan",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "categories": []
+}

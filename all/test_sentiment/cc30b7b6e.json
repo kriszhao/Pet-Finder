@@ -1,0 +1,204 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "I have adopt it since a couple of month ago but next month, I will move to condominium.So, there are not the appropriate place for my cat.My cat is very playful and active.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "It also easy to comfort itself with anybody.To the people who wants to adopt it,I will give the cat litter together with the cat without any payment,its free of charge.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "couple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40399614,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13719352,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13072571,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat.My",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat",
+        "mid": "/m/01yrx"
+      },
+      "salience": 0.06580366,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat.My",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "condominium.So",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/020ys5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Condominium"
+      },
+      "salience": 0.06500793,
+      "mentions": [
+        {
+          "text": {
+            "content": "condominium.So",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046246313,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.041517247,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anybody.To",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029140055,
+      "mentions": [
+        {
+          "text": {
+            "content": "anybody.To",
+            "beginOffset": -1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cat litter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.028343178,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat litter",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "payment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02601312,
+      "mentions": [
+        {
+          "text": {
+            "content": "payment",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "charge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02601312,
+      "mentions": [
+        {
+          "text": {
+            "content": "charge",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "categories": []
+}
