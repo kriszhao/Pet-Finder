@@ -10,7 +10,8 @@ training_iteration = 30
 batch_size = 100
 display_step = 2
 
-num_inputs = 23
+# TODO: get programmatically
+num_inputs = 19
 num_outputs = 5
 
 # TF graph input
@@ -23,8 +24,8 @@ y = tf.placeholder('float', [None, num_outputs])
 W = tf.Variable(tf.zeros([num_inputs, num_outputs]))
 b = tf.Variable(tf.zeros([num_outputs]))
 
+# Construct a linear model
 with tf.name_scope('Wx_b') as scope:
-    # Construct a linear model
     model = tf.nn.softmax(tf.matmul(x, W) + b)
 
 # Add summary ops to collect data

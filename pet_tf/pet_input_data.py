@@ -8,7 +8,7 @@ def extract_pet_data(path, is_test=False):
     pet_data_df = pd.read_csv(path, sep=',')
 
     if not is_test:
-        pet_data_df = pet_data_df.drop('AdoptionSpeed', axis=1)
+        pet_data_df = pet_data_df.drop(['Name', 'RescuerID', 'Description', 'PetID', 'AdoptionSpeed'], axis=1)
 
     factorized_pet_df = pet_data_df.apply(lambda col: pd.factorize(col, sort=True)[0])
     factorized_values = factorized_pet_df.values
