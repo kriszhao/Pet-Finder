@@ -8,7 +8,7 @@ def extract_pet_data(path, is_test=False):
     pet_data_df = pd.read_csv(path, sep=',')
 
     if not is_test:
-        pet_data_df = pet_data_df.drop(['RescuerID', 'Description', 'PetID', 'AdoptionSpeed', 'State'], axis=1)
+        pet_data_df = pet_data_df.drop(['RescuerID', 'Description', 'PetID', 'AdoptionSpeed'], axis=1)
 
     # Apply binning to ages
     pet_data_df['Age'] = pd.cut(pet_data_df['Age'], [-1, 2, 3, 6, 255], labels=[0, 1, 2, 3])
@@ -21,6 +21,8 @@ def extract_pet_data(path, is_test=False):
     factorized_values = factorized_pet_df.values
     factorized_scaled = preprocessing.MinMaxScaler().fit_transform(factorized_values)
     normalized_pet_df = pd.DataFrame(factorized_scaled)
+
+    print(normalized_pet_df.head())
 
     return normalized_pet_df
 

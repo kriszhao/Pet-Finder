@@ -12,7 +12,7 @@ if __name__ == '__main__':
     display_step = 5
 
     # TODO: get programmatically
-    num_inputs = 19
+    num_inputs = 20
     num_outputs = 5
 
     # TF graph input
