@@ -8,7 +8,14 @@ def extract_pet_data(path, is_test=False):
     pet_data_df = pd.read_csv(path, sep=',')
 
     if not is_test:
-        pet_data_df = pet_data_df.drop(['Name', 'RescuerID', 'Description', 'PetID', 'AdoptionSpeed'], axis=1)
+        pet_data_df = pet_data_df.drop(['RescuerID', 'Description', 'PetID', 'AdoptionSpeed', 'State'], axis=1)
+
+    # Apply binning to ages
+    pet_data_df['Age'] = pd.cut(pet_data_df['Age'], [-1, 2, 3, 6, 255], labels=[0, 1, 2, 3])
+
+    # Replace names with 1 is present, 0 if not present
+    pet_data_df.loc[pet_data_df['Name'].notnull(), 'Name'] = 1
+    pet_data_df.loc[pet_data_df['Name'].isnull(), 'Name'] = 0
 
     factorized_pet_df = pet_data_df.apply(lambda col: pd.factorize(col, sort=True)[0])
     factorized_values = factorized_pet_df.values
