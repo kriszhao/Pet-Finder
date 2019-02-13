@@ -11,7 +11,7 @@ def load_house_attributes(inputPath):
 	# initialize the list of column names in the CSV file and then
 	# load it using Pandas
 	cols = ["bedrooms", "bathrooms", "area", "zipcode", "price"]
-	df = pd.read_csv(inputPath, sep=" ", header=None, names=cols)
+	
 
 	# determine (1) the unique zip codes and (2) the number of data
 	# points with each zip code
