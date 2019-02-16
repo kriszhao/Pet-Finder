@@ -8,10 +8,19 @@ def extract_pet_data(path, is_test=False):
     pet_data_df = pd.read_csv(path, sep=',')
 
     if not is_test:
-        pet_data_df = pet_data_df.drop(['RescuerID', 'Description', 'PetID', 'AdoptionSpeed'], axis=1)
+        pet_data_df.drop(['RescuerID', 'Description', 'PetID', 'AdoptionSpeed', 'State'], axis=1, inplace=True)
 
     # Apply binning to ages
     pet_data_df['Age'] = pd.cut(pet_data_df['Age'], [-1, 2, 3, 6, 255], labels=[0, 1, 2, 3])
+
+    # Apply binning to fee
+    pet_data_df['Fee'] = pd.cut(pet_data_df['Fee'], [-1, 50, 100, 200, 3000], labels=[0, 1, 2, 3])
+
+    # Apply binning to photo amount
+    pet_data_df['PhotoAmt'] = pd.cut(pet_data_df['PhotoAmt'], [-1, 1, 5, 10, 100], labels=[0, 1, 2, 3])
+
+    # Apply binning to video amount
+    pet_data_df['VideoAmt'] = pd.cut(pet_data_df['VideoAmt'], [-1, 1, 100], labels=[0, 1])
 
     # Replace names with 1 is present, 0 if not present
     pet_data_df.loc[pet_data_df['Name'].notnull(), 'Name'] = 1

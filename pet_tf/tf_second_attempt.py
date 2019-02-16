@@ -12,23 +12,25 @@ import matplotlib.pyplot as plt
 if __name__ == '__main__':
     tf.logging.set_verbosity(tf.logging.INFO)
 
+    ITERATIONS = 5000
+
     # Import and split
     train = pd.read_csv('../all/train.csv')
-    train.drop('PetID', axis=1, inplace=True)
+    train.drop(['RescuerID', 'Description', 'PetID', 'State', 'Name'], axis=1, inplace=True)
     train_numerical = train.select_dtypes(exclude=['object'])
     train_numerical.fillna(0, inplace=True)
-    train_categoric = train.select_dtypes(include=['object'])
-    train_categoric.fillna('NONE', inplace=True)
-    train = train_numerical.merge(train_categoric, left_index=True, right_index=True)
+    train_categorical = train.select_dtypes(include=['object'])
+    # train_categorical.fillna('NONE', inplace=True)
+    train = train_numerical.merge(train_categorical, left_index=True, right_index=True)
 
     test = pd.read_csv('../all/test/test.csv')
     PetID = test.PetID
-    test.drop('PetID', axis=1, inplace=True)
+    test.drop(['RescuerID', 'Description', 'PetID', 'State', 'Name'], axis=1, inplace=True)
     test_numerical = test.select_dtypes(exclude=['object'])
     test_numerical.fillna(0, inplace=True)
-    test_categoric = test.select_dtypes(include=['object'])
-    test_categoric.fillna('NONE', inplace=True)
-    test = test_numerical.merge(test_categoric, left_index=True, right_index=True)
+    test_categorical = test.select_dtypes(include=['object'])
+    # test_categorical.fillna('NONE', inplace=True)
+    test = test_numerical.merge(test_categorical, left_index=True, right_index=True)
 
     # Remove the outliers
     clf = IsolationForest(max_samples=100, random_state=42)
@@ -39,8 +41,8 @@ if __name__ == '__main__':
     train_numerical = train_numerical.iloc[y_noano[y_noano['Top'] == 1].index.values]
     train_numerical.reset_index(drop=True, inplace=True)
 
-    train_categoric = train_categoric.iloc[y_noano[y_noano['Top'] == 1].index.values]
-    train_categoric.reset_index(drop=True, inplace=True)
+    train_categorical = train_categorical.iloc[y_noano[y_noano['Top'] == 1].index.values]
+    train_categorical.reset_index(drop=True, inplace=True)
 
     train = train.iloc[y_noano[y_noano['Top'] == 1].index.values]
     train.reset_index(drop=True, inplace=True)
@@ -48,7 +50,7 @@ if __name__ == '__main__':
     col_train_num = list(train_numerical.columns)
     col_train_num_bis = list(train_numerical.columns)
 
-    col_train_cat = list(train_categoric.columns)
+    col_train_cat = list(train_categorical.columns)
 
     col_train_num_bis.remove('AdoptionSpeed')
 
@@ -137,14 +139,15 @@ if __name__ == '__main__':
 
     # Model
     regressor = tf.contrib.learn.DNNRegressor(feature_columns=engineered_features,
-                                              activation_fn=tf.nn.relu, hidden_units=[200, 100, 50, 25, 12])
+                                              activation_fn=tf.nn.relu,
+                                              hidden_units=[200, 100, 50, 25, 12])
 
     categorical_cols = {
         k: tf.SparseTensor(indices=[[i, 0] for i in range(training_set[k].size)], values=training_set[k].values,
                            dense_shape=[training_set[k].size, 1]) for k in FEATURES_CAT}
 
     # Deep Neural Network Regressor with the training set which contain the data split by train test split
-    regressor.fit(input_fn=lambda: input_fn_new(training_set), steps=2000)
+    regressor.fit(input_fn=lambda: input_fn_new(training_set), steps=ITERATIONS)
 
     ev = regressor.evaluate(input_fn=lambda: input_fn_new(testing_set, training=True), steps=1)
 
@@ -157,6 +160,12 @@ if __name__ == '__main__':
     predictions = pd.DataFrame(prepro_y.inverse_transform(np.array(predictions).reshape(4453, 1)))
 
     reality = pd.DataFrame(prepro.inverse_transform(testing_set), columns=[COLUMNS]).AdoptionSpeed
+    rounded_predictions = predictions.round()
+
+    matching = rounded_predictions.where(reality.values == rounded_predictions.values)
+    accuracy = matching.count()[0] / len(reality)
+
+    print('Accuracy: {}%'.format(accuracy))
 
     matplotlib.rc('xtick', labelsize=30)
     matplotlib.rc('ytick', labelsize=30)
@@ -172,6 +181,7 @@ if __name__ == '__main__':
     plt.show()
 
     y_predict = regressor.predict(input_fn=lambda: input_fn_new(testing_sub, training=False))
+    print(y_predict)
 
 
     def to_submit(pred_y, name_out):
@@ -180,6 +190,5 @@ if __name__ == '__main__':
                                  columns=['AdoptionSpeed'])
         y_predict = y_predict.join(PetID)
         y_predict.to_csv(name_out + '.csv', index=False)
-
 
     # to_submit(y_predict, "submission_cont_categ")
