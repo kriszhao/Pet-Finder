@@ -15,21 +15,21 @@ if __name__ == '__main__':
     ITERATIONS = 5000
 
     # Import and split
-    train = pd.read_csv('../all/train.csv')
+    train = pd.read_csv('../all/train_andy.csv')
     train.drop(['RescuerID', 'Description', 'PetID', 'State', 'Name'], axis=1, inplace=True)
     train_numerical = train.select_dtypes(exclude=['object'])
     train_numerical.fillna(0, inplace=True)
     train_categorical = train.select_dtypes(include=['object'])
-    # train_categorical.fillna('NONE', inplace=True)
+    train_categorical.fillna('NONE', inplace=True)
     train = train_numerical.merge(train_categorical, left_index=True, right_index=True)
 
-    test = pd.read_csv('../all/test/test.csv')
+    test = pd.read_csv('../all/test_andy.csv')
     PetID = test.PetID
     test.drop(['RescuerID', 'Description', 'PetID', 'State', 'Name'], axis=1, inplace=True)
     test_numerical = test.select_dtypes(exclude=['object'])
     test_numerical.fillna(0, inplace=True)
     test_categorical = test.select_dtypes(include=['object'])
-    # test_categorical.fillna('NONE', inplace=True)
+    test_categorical.fillna('NONE', inplace=True)
     test = test_numerical.merge(test_categorical, left_index=True, right_index=True)
 
     # Remove the outliers
@@ -60,7 +60,7 @@ if __name__ == '__main__':
     mat_y = np.array(train.AdoptionSpeed)
 
     prepro_y = MinMaxScaler()
-    prepro_y.fit(mat_y.reshape(13493, 1))
+    prepro_y.fit(mat_y.reshape(9016, 1))
 
     prepro = MinMaxScaler()
     prepro.fit(mat_train)
