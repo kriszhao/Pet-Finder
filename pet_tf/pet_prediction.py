@@ -9,6 +9,13 @@ from sklearn.ensemble import IsolationForest
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
+# CONSTANTS
+ITERATIONS = 40000
+LABEL = 'AdoptionSpeed'
+HIDDEN_UNITS = [200, 100, 50, 25, 12]
+TRAINING_TEST_SPLIT = 0.33
+RANDOM_NUMBER_SEED = 42
+
 
 def prepare_data(data):
     pet_id = data.PetID
@@ -32,37 +39,55 @@ def prepare_data(data):
     data.loc[data['Name'].notnull(), 'Name'] = 1
     data.loc[data['Name'].isnull(), 'Name'] = 0
 
-    # Fill missing numerical data
-    data_numerical = data.select_dtypes(exclude=['object'])
-    data_numerical.fillna(0, inplace=True)
+    # Fill missing continuous data
+    data_continuous = data.select_dtypes(exclude=['object'])
+    data_continuous.fillna(0, inplace=True)
 
     # Fill missing string data
     data_categorical = data.select_dtypes(include=['object'])
     data_categorical.fillna('NONE', inplace=True)
 
-    final_data = data_numerical.merge(data_categorical, left_index=True, right_index=True)
+    final_data = data_continuous.merge(data_categorical, left_index=True, right_index=True)
 
-    return final_data, data_categorical, data_numerical, pet_id
+    return final_data, data_categorical, data_continuous, pet_id
+
+
+def input_function(data_set, training=True):
+    continuous_cols = {key: tf.constant(data_set[key].values) for key in features_continuous}
+
+    categorical_cols = {
+        key: tf.SparseTensor(indices=[[i, 0] for i in range(data_set[key].size)],
+                             values=data_set[key].values,
+                             dense_shape=[data_set[key].size, 1])
+        for key in features_categorical}
+
+    # Merges the dictionaries
+    feature_cols = dict(list(continuous_cols.items()) + list(categorical_cols.items()))
+
+    if training:
+        # Convert the label column into a constant Tensor
+        label = tf.constant(data_set[LABEL].values)
+
+        return feature_cols, label
+
+    return feature_cols
 
 
 if __name__ == '__main__':
     tf.logging.set_verbosity(tf.logging.INFO)
 
-    ITERATIONS = 40000
-    LABEL = "AdoptionSpeed"
-
     # Import and split
-    train, train_categorical, train_numerical, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
-    test, test_categorical, test_numerical, test_pet_id = prepare_data(pd.read_csv('../all/test/test.csv'))
+    train, train_categorical, train_continuous, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
+    test, test_categorical, test_continuous, test_pet_id = prepare_data(pd.read_csv('../all/test/test.csv'))
 
     # Remove the outliers
-    clf = IsolationForest(max_samples=100, random_state=42)
-    clf.fit(train_numerical)
-    y_no_outliers = clf.predict(train_numerical)
+    clf = IsolationForest(max_samples=100, random_state=RANDOM_NUMBER_SEED)
+    clf.fit(train_continuous)
+    y_no_outliers = clf.predict(train_continuous)
     y_no_outliers = pd.DataFrame(y_no_outliers, columns=['Top'])
 
-    train_numerical = train_numerical.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
-    train_numerical.reset_index(drop=True, inplace=True)
+    train_continuous = train_continuous.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
+    train_continuous.reset_index(drop=True, inplace=True)
 
     train_categorical = train_categorical.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
     train_categorical.reset_index(drop=True, inplace=True)
@@ -70,138 +95,102 @@ if __name__ == '__main__':
     train = train.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
     train.reset_index(drop=True, inplace=True)
 
-    col_train_num = list(train_numerical.columns)
-    col_train_num_no_label = list(train_numerical.columns)
+    # Extract columns
+    columns = list(train_continuous.columns)
 
-    col_train_cat = list(train_categorical.columns)
+    features_continuous = list(train_continuous.columns)
+    features_continuous.remove(LABEL)
 
-    col_train_num_no_label.remove(LABEL)
+    features_categorical = list(train_categorical.columns)
 
-    matrix_train = np.matrix(train_numerical)
-    matrix_test = np.matrix(test_numerical)
-    mat_new = np.matrix(train_numerical.drop(LABEL, axis=1))
+    # Extract matrices
+    matrix_train = np.matrix(train_continuous)
+    matrix_test = np.matrix(test_continuous)
+    matrix_test_no_label = np.matrix(train_continuous.drop(LABEL, axis=1))
     matrix_y = np.array(train.AdoptionSpeed)
 
-    prepro_y = MinMaxScaler()
-    prepro_y.fit(matrix_y.reshape(matrix_y.shape[0], 1))
+    # Scale data
+    y_scaler = MinMaxScaler()
+    y_scaler.fit(matrix_y.reshape(matrix_y.shape[0], 1))
 
-    prepro = MinMaxScaler()
-    prepro.fit(matrix_train)
+    train_scaler = MinMaxScaler()
+    train_scaler.fit(matrix_train)
 
-    prepro_test = MinMaxScaler()
-    prepro_test.fit(mat_new)
+    test_scaler = MinMaxScaler()
+    test_scaler.fit(matrix_test_no_label)
 
-    train_num_scale = pd.DataFrame(prepro.transform(matrix_train), columns=col_train_num)
-    test_num_scale = pd.DataFrame(prepro_test.transform(matrix_test), columns=col_train_num_no_label)
+    matrix_train_scaled = pd.DataFrame(train_scaler.transform(matrix_train), columns=columns)
+    test_matrix_scaled = pd.DataFrame(test_scaler.transform(matrix_test), columns=features_continuous)
 
-    train[col_train_num] = pd.DataFrame(prepro.transform(matrix_train), columns=col_train_num)
-    test[col_train_num_no_label] = test_num_scale
+    train[columns] = pd.DataFrame(train_scaler.transform(matrix_train), columns=columns)
+    test[features_continuous] = test_matrix_scaled
 
-    # List of features
-    COLUMNS = col_train_num
-    FEATURES = col_train_num_no_label
-
-    FEATURES_CAT = col_train_cat
-
+    # Extract continuous and categorical features
     engineered_features = []
 
-    for continuous_feature in FEATURES:
+    for continuous_feature in features_continuous:
         engineered_features.append(tf.contrib.layers.real_valued_column(continuous_feature))
 
-    for categorical_feature in FEATURES_CAT:
+    for categorical_feature in features_categorical:
         sparse_column = tf.contrib.layers.sparse_column_with_hash_bucket(categorical_feature, hash_bucket_size=1000)
 
         engineered_features.append(tf.contrib.layers.embedding_column(sparse_id_column=sparse_column,
                                                                       dimension=16,
-                                                                      combiner="sum"))
+                                                                      combiner='sum'))
 
-    # Training set and Prediction set with the features to predict
-    training_set = train[FEATURES + FEATURES_CAT]
-    prediction_set = train.AdoptionSpeed
+    training_set = train[features_continuous + features_categorical]
+    prediction_set = train[LABEL]
 
-    # Train and Test
-    x_train, x_test, y_train, y_test = train_test_split(training_set[FEATURES + FEATURES_CAT],
+    # Split training set data between train and test
+    x_train, x_test, y_train, y_test = train_test_split(training_set[features_continuous + features_categorical],
                                                         prediction_set,
-                                                        test_size=0.33,
-                                                        random_state=42)
+                                                        test_size=TRAINING_TEST_SPLIT,
+                                                        random_state=RANDOM_NUMBER_SEED)
 
     y_train = pd.DataFrame(y_train, columns=[LABEL])
-    training_set = pd.DataFrame(x_train, columns=FEATURES + FEATURES_CAT).merge(y_train, left_index=True,
-                                                                                right_index=True)
+    training_set = pd.DataFrame(x_train, columns=features_continuous + features_categorical) \
+        .merge(y_train, left_index=True, right_index=True)
 
-    # Training for submission
-    training_sub = training_set[FEATURES + FEATURES_CAT]
-    testing_sub = test[FEATURES + FEATURES_CAT]
-
-    # Same thing but for the test set
     y_test = pd.DataFrame(y_test, columns=[LABEL])
-    testing_set = pd.DataFrame(x_test, columns=FEATURES + FEATURES_CAT).merge(y_test, left_index=True, right_index=True)
+    testing_set = pd.DataFrame(x_test, columns=features_continuous + features_categorical) \
+        .merge(y_test, left_index=True, right_index=True)
 
-    training_set[FEATURES_CAT] = training_set[FEATURES_CAT].applymap(str)
-    testing_set[FEATURES_CAT] = testing_set[FEATURES_CAT].applymap(str)
-
-
-    def input_fn_new(data_set, training=True):
-        continuous_cols = {k: tf.constant(data_set[k].values) for k in FEATURES}
-
-        categorical_cols = {k: tf.SparseTensor(indices=[[i, 0] for i in range(data_set[k].size)],
-                                               values=data_set[k].values,
-                                               dense_shape=[data_set[k].size, 1])
-                            for k in FEATURES_CAT}
-
-        # Merges the dictionaries
-        feature_cols = dict(list(continuous_cols.items()) + list(categorical_cols.items()))
-
-        if training:
-            # Convert the label column into a constant Tensor
-            label = tf.constant(data_set[LABEL].values)
-
-            return feature_cols, label
-
-        return feature_cols
-
-
-    # Model
+    # Deep neural network regressor
     regressor = tf.contrib.learn.DNNRegressor(feature_columns=engineered_features,
                                               activation_fn=tf.nn.relu,
-                                              hidden_units=[200, 100, 50, 25, 12])
+                                              hidden_units=HIDDEN_UNITS)
 
-    categorical_cols = {
-        k: tf.SparseTensor(indices=[[i, 0] for i in range(training_set[k].size)],
-                           values=training_set[k].values,
-                           dense_shape=[training_set[k].size, 1])
-        for k in FEATURES_CAT}
+    regressor.fit(input_fn=lambda: input_function(training_set), steps=ITERATIONS)
 
-    # Deep Neural Network Regressor with the training set which contain the data split by train test split
-    regressor.fit(input_fn=lambda: input_fn_new(training_set), steps=ITERATIONS)
+    # Print final evaluation
+    evaluation = regressor.evaluate(input_fn=lambda: input_function(testing_set, training=True), steps=1)
 
-    ev = regressor.evaluate(input_fn=lambda: input_fn_new(testing_set, training=True), steps=1)
-
-    loss_score4 = ev["loss"]
-    print("Final Loss on the testing set: {0:f}".format(loss_score4))
+    loss_score = evaluation['loss']
+    print('Final loss on testing set: {0:f}'.format(loss_score))
 
     # Predictions
-    y = regressor.predict(input_fn=lambda: input_fn_new(testing_set))
+    y = regressor.predict(input_fn=lambda: input_function(testing_set))
     predictions = list(itertools.islice(y, testing_set.shape[0]))
-    predictions = pd.DataFrame(prepro_y.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
+    predictions = pd.DataFrame(y_scaler.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
 
-    reality = pd.DataFrame(prepro.inverse_transform(testing_set), columns=[COLUMNS])[LABEL]
+    # Compute accuracy
     rounded_predictions = predictions.round()
-
+    reality = pd.DataFrame(train_scaler.inverse_transform(testing_set), columns=[columns])[LABEL]
     matching = rounded_predictions.where(reality.values == rounded_predictions.values)
     accuracy = matching.count()[0] / len(reality) * 100
 
-    print('Accuracy: {0:.2f}%'.format(accuracy))
+    print('Final accuracy: {0:.2f}%'.format(accuracy))
 
-    # matplotlib.rc('xtick', labelsize=30)
-    # matplotlib.rc('ytick', labelsize=30)
-    #
-    # fig, ax = plt.subplots(figsize=(50, 40))
-    #
-    # plt.style.use('ggplot')
-    # plt.plot(predictions.values, reality.values, 'ro')
-    # plt.xlabel('Predictions', fontsize=30)
-    # plt.ylabel('Reality', fontsize=30)
-    # plt.title('Predictions x Reality on dataset Test', fontsize=30)
-    # ax.plot([reality.min(), reality.max()], [reality.min(), reality.max()], 'k--', lw=4)
-    # plt.show()
+    # Plot final results
+    matplotlib.rc('xtick', labelsize=30)
+    matplotlib.rc('ytick', labelsize=30)
+
+    fig, ax = plt.subplots(figsize=(50, 40))
+
+    plt.style.use('ggplot')
+    plt.plot(predictions.values, reality.values, 'ro')
+    plt.xlabel('Predictions', fontsize=30)
+    plt.ylabel('Reality', fontsize=30)
+    plt.title('Predictions x Reality on dataset Test', fontsize=30)
+    ax.plot([reality.min(), reality.max()], [reality.min(), reality.max()], 'k--', lw=4)
+    plt.show()
