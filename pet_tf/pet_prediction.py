@@ -138,47 +138,45 @@ if __name__ == '__main__':
                                                                       dimension=16,
                                                                       combiner='sum'))
 
-    training_set = train[features_continuous + features_categorical]
-    prediction_set = train[LABEL]
-
     # Split training set data between train and test
-    x_train, x_test, y_train, y_test = train_test_split(training_set[features_continuous + features_categorical],
-                                                        prediction_set,
+    x_train, x_test, y_train, y_test = train_test_split(train[features_continuous + features_categorical],
+                                                        train[LABEL],
                                                         test_size=TRAINING_TEST_SPLIT,
                                                         random_state=RANDOM_NUMBER_SEED)
 
+    # Convert back to DataFrame
     y_train = pd.DataFrame(y_train, columns=[LABEL])
-    training_set = pd.DataFrame(x_train, columns=features_continuous + features_categorical) \
+    x_train = pd.DataFrame(x_train, columns=features_continuous + features_categorical) \
         .merge(y_train, left_index=True, right_index=True)
 
     y_test = pd.DataFrame(y_test, columns=[LABEL])
-    testing_set = pd.DataFrame(x_test, columns=features_continuous + features_categorical) \
+    x_test = pd.DataFrame(x_test, columns=features_continuous + features_categorical) \
         .merge(y_test, left_index=True, right_index=True)
 
-    # Deep neural network regressor
+    # Deep neural network model
     regressor = tf.contrib.learn.DNNRegressor(feature_columns=engineered_features,
                                               activation_fn=tf.nn.relu,
                                               hidden_units=HIDDEN_UNITS)
 
-    regressor.fit(input_fn=lambda: input_function(training_set), steps=ITERATIONS)
+    # Train model
+    regressor.fit(input_fn=lambda: input_function(x_train), steps=ITERATIONS)
 
-    # Print final evaluation
-    evaluation = regressor.evaluate(input_fn=lambda: input_function(testing_set, training=True), steps=1)
-
-    loss_score = evaluation['loss']
-    print('Final loss on testing set: {0:f}'.format(loss_score))
+    # Evaluate model
+    evaluation = regressor.evaluate(input_fn=lambda: input_function(x_test, training=True), steps=1)
 
     # Predictions
-    y = regressor.predict(input_fn=lambda: input_function(testing_set))
-    predictions = list(itertools.islice(y, testing_set.shape[0]))
+    y = regressor.predict(input_fn=lambda: input_function(x_test))
+    predictions = list(itertools.islice(y, x_test.shape[0]))
     predictions = pd.DataFrame(y_scaler.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
 
     # Compute accuracy
     rounded_predictions = predictions.round()
-    reality = pd.DataFrame(train_scaler.inverse_transform(testing_set), columns=[columns])[LABEL]
+    reality = pd.DataFrame(train_scaler.inverse_transform(x_test), columns=[columns])[LABEL]
     matching = rounded_predictions.where(reality.values == rounded_predictions.values)
     accuracy = matching.count()[0] / len(reality) * 100
 
+    # Print metrics
+    print('Final loss on testing set: {0:f}'.format(evaluation['loss']))
     print('Final accuracy: {0:.2f}%'.format(accuracy))
 
     # Plot final results
@@ -193,4 +191,5 @@ if __name__ == '__main__':
     plt.ylabel('Reality', fontsize=30)
     plt.title('Predictions x Reality on dataset Test', fontsize=30)
     ax.plot([reality.min(), reality.max()], [reality.min(), reality.max()], 'k--', lw=4)
+
     plt.show()
