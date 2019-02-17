@@ -9,74 +9,95 @@ from sklearn.ensemble import IsolationForest
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
+
+def prepare_data(data):
+    pet_id = data.PetID
+
+    # Remove unused features
+    data.drop(['RescuerID', 'Description', 'PetID', 'State'], axis=1, inplace=True)
+
+    # Apply binning to ages
+    data['Age'] = pd.cut(data['Age'], [-1, 2, 3, 6, 255], labels=[0, 1, 2, 3])
+
+    # Apply binning to fee
+    data['Fee'] = pd.cut(data['Fee'], [-1, 50, 100, 200, 3000], labels=[0, 1, 2, 3])
+
+    # Apply binning to photo amount
+    data['PhotoAmt'] = pd.cut(data['PhotoAmt'], [-1, 1, 5, 10, 100], labels=[0, 1, 2, 3])
+
+    # Apply binning to video amount
+    data['VideoAmt'] = pd.cut(data['VideoAmt'], [-1, 1, 100], labels=[0, 1])
+
+    # Replace names with 1 is present, 0 if not present
+    data.loc[data['Name'].notnull(), 'Name'] = 1
+    data.loc[data['Name'].isnull(), 'Name'] = 0
+
+    # Fill missing numerical data
+    data_numerical = data.select_dtypes(exclude=['object'])
+    data_numerical.fillna(0, inplace=True)
+
+    # Fill missing string data
+    data_categorical = data.select_dtypes(include=['object'])
+    data_categorical.fillna('NONE', inplace=True)
+
+    final_data = data_numerical.merge(data_categorical, left_index=True, right_index=True)
+    return final_data, data_categorical, data_numerical, pet_id
+
+
 if __name__ == '__main__':
     tf.logging.set_verbosity(tf.logging.INFO)
 
-    ITERATIONS = 5000
+    ITERATIONS = 50000
 
     # Import and split
-    train = pd.read_csv('../all/train_andy.csv')
-    train.drop(['RescuerID', 'Description', 'PetID', 'State', 'Name'], axis=1, inplace=True)
-    train_numerical = train.select_dtypes(exclude=['object'])
-    train_numerical.fillna(0, inplace=True)
-    train_categorical = train.select_dtypes(include=['object'])
-    train_categorical.fillna('NONE', inplace=True)
-    train = train_numerical.merge(train_categorical, left_index=True, right_index=True)
-
-    test = pd.read_csv('../all/test_andy.csv')
-    PetID = test.PetID
-    test.drop(['RescuerID', 'Description', 'PetID', 'State', 'Name'], axis=1, inplace=True)
-    test_numerical = test.select_dtypes(exclude=['object'])
-    test_numerical.fillna(0, inplace=True)
-    test_categorical = test.select_dtypes(include=['object'])
-    test_categorical.fillna('NONE', inplace=True)
-    test = test_numerical.merge(test_categorical, left_index=True, right_index=True)
+    train, train_categorical, train_numerical, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
+    test, test_categorical, test_numerical, test_pet_id = prepare_data(pd.read_csv('../all/test/test.csv'))
 
     # Remove the outliers
     clf = IsolationForest(max_samples=100, random_state=42)
     clf.fit(train_numerical)
-    y_noano = clf.predict(train_numerical)
-    y_noano = pd.DataFrame(y_noano, columns=['Top'])
+    y_no_outliers = clf.predict(train_numerical)
+    y_no_outliers = pd.DataFrame(y_no_outliers, columns=['Top'])
 
-    train_numerical = train_numerical.iloc[y_noano[y_noano['Top'] == 1].index.values]
+    train_numerical = train_numerical.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
     train_numerical.reset_index(drop=True, inplace=True)
 
-    train_categorical = train_categorical.iloc[y_noano[y_noano['Top'] == 1].index.values]
+    train_categorical = train_categorical.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
     train_categorical.reset_index(drop=True, inplace=True)
 
-    train = train.iloc[y_noano[y_noano['Top'] == 1].index.values]
+    train = train.iloc[y_no_outliers[y_no_outliers['Top'] == 1].index.values]
     train.reset_index(drop=True, inplace=True)
 
     col_train_num = list(train_numerical.columns)
-    col_train_num_bis = list(train_numerical.columns)
+    col_train_num_no_label = list(train_numerical.columns)
 
     col_train_cat = list(train_categorical.columns)
 
-    col_train_num_bis.remove('AdoptionSpeed')
+    col_train_num_no_label.remove('AdoptionSpeed')
 
-    mat_train = np.matrix(train_numerical)
-    mat_test = np.matrix(test_numerical)
+    matrix_train = np.matrix(train_numerical)
+    matrix_test = np.matrix(test_numerical)
     mat_new = np.matrix(train_numerical.drop('AdoptionSpeed', axis=1))
-    mat_y = np.array(train.AdoptionSpeed)
+    matrix_y = np.array(train.AdoptionSpeed)
 
     prepro_y = MinMaxScaler()
-    prepro_y.fit(mat_y.reshape(9016, 1))
+    prepro_y.fit(matrix_y.reshape(matrix_y.shape[0], 1))
 
     prepro = MinMaxScaler()
-    prepro.fit(mat_train)
+    prepro.fit(matrix_train)
 
     prepro_test = MinMaxScaler()
     prepro_test.fit(mat_new)
 
-    train_num_scale = pd.DataFrame(prepro.transform(mat_train), columns=col_train_num)
-    test_num_scale = pd.DataFrame(prepro_test.transform(mat_test), columns=col_train_num_bis)
+    train_num_scale = pd.DataFrame(prepro.transform(matrix_train), columns=col_train_num)
+    test_num_scale = pd.DataFrame(prepro_test.transform(matrix_test), columns=col_train_num_no_label)
 
-    train[col_train_num] = pd.DataFrame(prepro.transform(mat_train), columns=col_train_num)
-    test[col_train_num_bis] = test_num_scale
+    train[col_train_num] = pd.DataFrame(prepro.transform(matrix_train), columns=col_train_num)
+    test[col_train_num_no_label] = test_num_scale
 
     # List of features
     COLUMNS = col_train_num
-    FEATURES = col_train_num_bis
+    FEATURES = col_train_num_no_label
     LABEL = "AdoptionSpeed"
 
     FEATURES_CAT = col_train_cat
@@ -84,15 +105,14 @@ if __name__ == '__main__':
     engineered_features = []
 
     for continuous_feature in FEATURES:
-        engineered_features.append(
-            tf.contrib.layers.real_valued_column(continuous_feature))
+        engineered_features.append(tf.contrib.layers.real_valued_column(continuous_feature))
 
     for categorical_feature in FEATURES_CAT:
-        sparse_column = tf.contrib.layers.sparse_column_with_hash_bucket(
-            categorical_feature, hash_bucket_size=1000)
+        sparse_column = tf.contrib.layers.sparse_column_with_hash_bucket(categorical_feature, hash_bucket_size=1000)
 
-        engineered_features.append(
-            tf.contrib.layers.embedding_column(sparse_id_column=sparse_column, dimension=16, combiner="sum"))
+        engineered_features.append( tf.contrib.layers.embedding_column(sparse_id_column=sparse_column,
+                                                                       dimension=16,
+                                                                       combiner="sum"))
 
     # Training set and Prediction set with the features to predict
     training_set = train[FEATURES + FEATURES_CAT]
@@ -100,7 +120,10 @@ if __name__ == '__main__':
 
     # Train and Test
     x_train, x_test, y_train, y_test = train_test_split(training_set[FEATURES + FEATURES_CAT],
-                                                        prediction_set, test_size=0.33, random_state=42)
+                                                        prediction_set,
+                                                        test_size=0.33,
+                                                        random_state=42)
+
     y_train = pd.DataFrame(y_train, columns=[LABEL])
     training_set = pd.DataFrame(x_train, columns=FEATURES + FEATURES_CAT).merge(y_train, left_index=True,
                                                                                 right_index=True)
@@ -157,38 +180,25 @@ if __name__ == '__main__':
     # Predictions
     y = regressor.predict(input_fn=lambda: input_fn_new(testing_set))
     predictions = list(itertools.islice(y, testing_set.shape[0]))
-    predictions = pd.DataFrame(prepro_y.inverse_transform(np.array(predictions).reshape(4453, 1)))
+    predictions = pd.DataFrame(prepro_y.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
 
     reality = pd.DataFrame(prepro.inverse_transform(testing_set), columns=[COLUMNS]).AdoptionSpeed
     rounded_predictions = predictions.round()
 
     matching = rounded_predictions.where(reality.values == rounded_predictions.values)
-    accuracy = matching.count()[0] / len(reality)
+    accuracy = matching.count()[0] / len(reality) * 100
 
-    print('Accuracy: {}%'.format(accuracy))
+    print('Accuracy: {0:.2f}%'.format(accuracy))
 
-    matplotlib.rc('xtick', labelsize=30)
-    matplotlib.rc('ytick', labelsize=30)
-
-    fig, ax = plt.subplots(figsize=(50, 40))
-
-    plt.style.use('ggplot')
-    plt.plot(predictions.values, reality.values, 'ro')
-    plt.xlabel('Predictions', fontsize=30)
-    plt.ylabel('Reality', fontsize=30)
-    plt.title('Predictions x Reality on dataset Test', fontsize=30)
-    ax.plot([reality.min(), reality.max()], [reality.min(), reality.max()], 'k--', lw=4)
-    plt.show()
-
-    y_predict = regressor.predict(input_fn=lambda: input_fn_new(testing_sub, training=False))
-    print(y_predict)
-
-
-    def to_submit(pred_y, name_out):
-        y_predict = list(itertools.islice(pred_y, test.shape[0]))
-        y_predict = pd.DataFrame(prepro_y.inverse_transform(np.array(y_predict).reshape(len(y_predict), 1)),
-                                 columns=['AdoptionSpeed'])
-        y_predict = y_predict.join(PetID)
-        y_predict.to_csv(name_out + '.csv', index=False)
-
-    # to_submit(y_predict, "submission_cont_categ")
+    # matplotlib.rc('xtick', labelsize=30)
+    # matplotlib.rc('ytick', labelsize=30)
+    #
+    # fig, ax = plt.subplots(figsize=(50, 40))
+    #
+    # plt.style.use('ggplot')
+    # plt.plot(predictions.values, reality.values, 'ro')
+    # plt.xlabel('Predictions', fontsize=30)
+    # plt.ylabel('Reality', fontsize=30)
+    # plt.title('Predictions x Reality on dataset Test', fontsize=30)
+    # ax.plot([reality.min(), reality.max()], [reality.min(), reality.max()], 'k--', lw=4)
+    # plt.show()
