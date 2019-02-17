@@ -41,13 +41,15 @@ def prepare_data(data):
     data_categorical.fillna('NONE', inplace=True)
 
     final_data = data_numerical.merge(data_categorical, left_index=True, right_index=True)
+
     return final_data, data_categorical, data_numerical, pet_id
 
 
 if __name__ == '__main__':
     tf.logging.set_verbosity(tf.logging.INFO)
 
-    ITERATIONS = 50000
+    ITERATIONS = 40000
+    LABEL = "AdoptionSpeed"
 
     # Import and split
     train, train_categorical, train_numerical, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
@@ -73,11 +75,11 @@ if __name__ == '__main__':
 
     col_train_cat = list(train_categorical.columns)
 
-    col_train_num_no_label.remove('AdoptionSpeed')
+    col_train_num_no_label.remove(LABEL)
 
     matrix_train = np.matrix(train_numerical)
     matrix_test = np.matrix(test_numerical)
-    mat_new = np.matrix(train_numerical.drop('AdoptionSpeed', axis=1))
+    mat_new = np.matrix(train_numerical.drop(LABEL, axis=1))
     matrix_y = np.array(train.AdoptionSpeed)
 
     prepro_y = MinMaxScaler()
@@ -98,7 +100,6 @@ if __name__ == '__main__':
     # List of features
     COLUMNS = col_train_num
     FEATURES = col_train_num_no_label
-    LABEL = "AdoptionSpeed"
 
     FEATURES_CAT = col_train_cat
 
@@ -110,9 +111,9 @@ if __name__ == '__main__':
     for categorical_feature in FEATURES_CAT:
         sparse_column = tf.contrib.layers.sparse_column_with_hash_bucket(categorical_feature, hash_bucket_size=1000)
 
-        engineered_features.append( tf.contrib.layers.embedding_column(sparse_id_column=sparse_column,
-                                                                       dimension=16,
-                                                                       combiner="sum"))
+        engineered_features.append(tf.contrib.layers.embedding_column(sparse_id_column=sparse_column,
+                                                                      dimension=16,
+                                                                      combiner="sum"))
 
     # Training set and Prediction set with the features to predict
     training_set = train[FEATURES + FEATURES_CAT]
@@ -143,18 +144,18 @@ if __name__ == '__main__':
     def input_fn_new(data_set, training=True):
         continuous_cols = {k: tf.constant(data_set[k].values) for k in FEATURES}
 
-        categorical_cols = {k: tf.SparseTensor(
-            indices=[[i, 0] for i in range(data_set[k].size)], values=data_set[k].values,
-            dense_shape=[data_set[k].size, 1]) for k in FEATURES_CAT}
+        categorical_cols = {k: tf.SparseTensor(indices=[[i, 0] for i in range(data_set[k].size)],
+                                               values=data_set[k].values,
+                                               dense_shape=[data_set[k].size, 1])
+                            for k in FEATURES_CAT}
 
-        # Merges the two dictionaries into one.
+        # Merges the dictionaries
         feature_cols = dict(list(continuous_cols.items()) + list(categorical_cols.items()))
 
         if training:
-            # Converts the label column into a constant Tensor.
+            # Convert the label column into a constant Tensor
             label = tf.constant(data_set[LABEL].values)
 
-            # Returns the feature columns and the label.
             return feature_cols, label
 
         return feature_cols
@@ -166,8 +167,10 @@ if __name__ == '__main__':
                                               hidden_units=[200, 100, 50, 25, 12])
 
     categorical_cols = {
-        k: tf.SparseTensor(indices=[[i, 0] for i in range(training_set[k].size)], values=training_set[k].values,
-                           dense_shape=[training_set[k].size, 1]) for k in FEATURES_CAT}
+        k: tf.SparseTensor(indices=[[i, 0] for i in range(training_set[k].size)],
+                           values=training_set[k].values,
+                           dense_shape=[training_set[k].size, 1])
+        for k in FEATURES_CAT}
 
     # Deep Neural Network Regressor with the training set which contain the data split by train test split
     regressor.fit(input_fn=lambda: input_fn_new(training_set), steps=ITERATIONS)
@@ -182,7 +185,7 @@ if __name__ == '__main__':
     predictions = list(itertools.islice(y, testing_set.shape[0]))
     predictions = pd.DataFrame(prepro_y.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
 
-    reality = pd.DataFrame(prepro.inverse_transform(testing_set), columns=[COLUMNS]).AdoptionSpeed
+    reality = pd.DataFrame(prepro.inverse_transform(testing_set), columns=[COLUMNS])[LABEL]
     rounded_predictions = predictions.round()
 
     matching = rounded_predictions.where(reality.values == rounded_predictions.values)
