@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 ITERATIONS = 40000
 LABEL = 'AdoptionSpeed'
 HIDDEN_UNITS = [200, 100, 50, 25, 12]
-TRAINING_TEST_SPLIT = 0.33
+TRAINING_TEST_SPLIT = 0.20
 RANDOM_NUMBER_SEED = 42
 
 
@@ -168,6 +168,8 @@ if __name__ == '__main__':
     y = regressor.predict(input_fn=lambda: input_function(x_test))
     predictions = list(itertools.islice(y, x_test.shape[0]))
     predictions = pd.DataFrame(y_scaler.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
+    predictions_scaler = MinMaxScaler(feature_range=(0, 4))
+    predictions_scaler.fit(predictions)
 
     # Compute accuracy
     rounded_predictions = predictions.round()
