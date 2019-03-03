@@ -77,8 +77,8 @@ if __name__ == '__main__':
     tf.logging.set_verbosity(tf.logging.INFO)
 
     # Import and split
-    train, train_categorical, train_continuous, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
-    test, test_categorical, test_continuous, test_pet_id = prepare_data(pd.read_csv('../all/test/test.csv'))
+    train, train_categorical, train_continuous, train_pet_id = prepare_data(pd.read_csv('/tmp/pycharm_project_40/all/train.csv'))
+    test, test_categorical, test_continuous, test_pet_id = prepare_data(pd.read_csv('/tmp/pycharm_project_40/all/test/test.csv'))
 
     # Remove the outliers
     clf = IsolationForest(max_samples=100, random_state=RANDOM_NUMBER_SEED)
@@ -168,8 +168,6 @@ if __name__ == '__main__':
     y = regressor.predict(input_fn=lambda: input_function(x_test))
     predictions = list(itertools.islice(y, x_test.shape[0]))
     predictions = pd.DataFrame(y_scaler.inverse_transform(np.array(predictions).reshape(len(predictions), 1)))
-    predictions_scaler = MinMaxScaler(feature_range=(0, 4))
-    predictions_scaler.fit(predictions)
 
     # Compute accuracy
     rounded_predictions = predictions.round()
