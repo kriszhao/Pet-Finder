@@ -94,7 +94,7 @@ print(model.get_weights())
 
 model.compile(optimizer='adam', loss='mse', metrics=['mae'])
 
-model.fit(X_train, y_train, epochs=100, batch_size=1, verbose=1)
+model.fit(X_train, y_train, epochs=500, batch_size=1, verbose=1)
 
 y_pred = model.predict(X_test)
 
