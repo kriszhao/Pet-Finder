@@ -12,19 +12,51 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.utils import shuffle
 
 # CONSTANTS
-from pet_tf.pet_prediction import prepare_data
-
 HIDDEN_UNITS = [100, 50, 25, 12]
 LABEL = 'AdoptionSpeed'
 TRAINING_TEST_SPLIT = 0.2
 RANDOM_NUMBER_SEED = 42
 N_CLASSES = 5
-TRAIN_DIM = 20
 EPOCHS = 100
 TRAIN_BATCH_SIZE = 10
 TRAIN_FILENAME = 'weights.best.hdf5'
 
 np.random.seed(RANDOM_NUMBER_SEED)
+
+
+def prepare_data(data):
+    pet_id = data.PetID
+
+    # Remove unused features
+    data.drop(['RescuerID', 'Description', 'PetID', 'State'], axis=1, inplace=True)
+
+    # Apply binning to ages
+    data['Age'] = pd.cut(data['Age'], [-1, 2, 3, 6, 255], labels=[0, 1, 2, 3])
+
+    # Apply binning to fee
+    data['Fee'] = pd.cut(data['Fee'], [-1, 50, 100, 200, 3000], labels=[0, 1, 2, 3])
+
+    # Apply binning to photo amount
+    data['PhotoAmt'] = pd.cut(data['PhotoAmt'], [-1, 1, 5, 10, 100], labels=[0, 1, 2, 3])
+
+    # Apply binning to video amount
+    data['VideoAmt'] = pd.cut(data['VideoAmt'], [-1, 1, 100], labels=[0, 1])
+
+    # Replace names with 1 is present, 0 if not present
+    data.loc[data['Name'].notnull(), 'Name'] = 1
+    data.loc[data['Name'].isnull(), 'Name'] = 0
+
+    # Fill missing continuous data
+    data_continuous = data.select_dtypes(exclude=['object'])
+    data_continuous.fillna(0, inplace=True)
+
+    # Fill missing string data
+    data_categorical = data.select_dtypes(include=['object'])
+    data_categorical.fillna('NONE', inplace=True)
+
+    final_data = data_continuous.merge(data_categorical, left_index=True, right_index=True)
+
+    return final_data, data_categorical, data_continuous, pet_id, data.shape[1]
 
 
 def create_mlp(input_dim, output_dim, dropout=0.3, arch=None):
@@ -43,7 +75,6 @@ def create_mlp(input_dim, output_dim, dropout=0.3, arch=None):
 
     # Compile model and save architecture to disk
     sgd = SGD(lr=0.01, momentum=0.9, decay=0.0001, nesterov=True)
-    # adam = Adam(lr=0.001, decay=0.0001)
 
     model.compile(loss='categorical_crossentropy',
                   optimizer=sgd,
@@ -54,8 +85,9 @@ def create_mlp(input_dim, output_dim, dropout=0.3, arch=None):
 
 if __name__ == '__main__':
     # Import and split
-    train, train_categorical, train_continuous, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
-    test, test_categorical, test_continuous, test_pet_id = prepare_data(pd.read_csv('../all/test/test.csv'))
+    train, train_categorical, train_continuous, train_pet_id, training_dimension = prepare_data(
+        pd.read_csv('../all/train.csv'))
+    test, test_categorical, test_continuous, test_pet_id, _ = prepare_data(pd.read_csv('../all/test/test.csv'))
 
     # Remove the outliers
     clf = IsolationForest(max_samples=100, random_state=RANDOM_NUMBER_SEED)
@@ -135,7 +167,7 @@ if __name__ == '__main__':
     y_test_onehot = to_categorical(y_test, N_CLASSES)
 
     # Get neural network architecture and save to disk
-    model = create_mlp(input_dim=TRAIN_DIM, output_dim=N_CLASSES, arch=HIDDEN_UNITS)
+    model = create_mlp(input_dim=training_dimension, output_dim=N_CLASSES, arch=HIDDEN_UNITS)
 
     with open(TRAIN_FILENAME, 'w') as f:
         f.write(model.to_yaml())
@@ -150,7 +182,7 @@ if __name__ == '__main__':
                                  save_best_only=True)
 
     # Stop training early if validation accuracy doesn't improve for long enough
-    early_stopping = EarlyStopping(monitor='val_acc', patience=5)
+    early_stopping = EarlyStopping(monitor='val_acc', patience=50)
 
     # Shuffle data for good measure before fitting
     x_train, y_train_onehot = shuffle(x_train, y_train_onehot)
