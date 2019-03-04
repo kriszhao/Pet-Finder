@@ -73,7 +73,7 @@ model = Model(inputs=[mlp.input, cnn.input], outputs=x)
 # implying that we seek to minimize the absolute percentage difference
 # between our price *predictions* and the *actual prices*
 opt = Adam(lr=1e-3, decay=1e-3 / 200)
-model.compile(loss="mean_absolute_percentage_error", optimizer=opt)
+model.compile(loss="mean_absolute_percentage_error", optimizer=opt, metrics=['accuracy'])
 
 # train the model
 print("[INFO] training model...")
