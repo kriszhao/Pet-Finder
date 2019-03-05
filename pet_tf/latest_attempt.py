@@ -56,7 +56,7 @@ def prepare_data(data):
 
     final_data = data_continuous.merge(data_categorical, left_index=True, right_index=True)
 
-    return final_data, data_categorical, data_continuous, pet_id, data.shape[1]
+    return final_data, data_categorical, data_continuous, pet_id, data.shape[1] - 1
 
 
 def create_mlp(input_dim, output_dim, arch=None):
@@ -149,12 +149,10 @@ if __name__ == '__main__':
                                                         random_state=RANDOM_NUMBER_SEED)
     # Convert back to DataFrame
     y_train = pd.DataFrame(y_train, columns=[LABEL])
-    x_train = pd.DataFrame(x_train, columns=features_continuous + features_categorical) \
-        .merge(y_train, left_index=True, right_index=True)
+    x_train = pd.DataFrame(x_train, columns=features_continuous + features_categorical)
 
     y_test = pd.DataFrame(y_test, columns=[LABEL])
-    x_test = pd.DataFrame(x_test, columns=features_continuous + features_categorical) \
-        .merge(y_test, left_index=True, right_index=True)
+    x_test = pd.DataFrame(x_test, columns=features_continuous + features_categorical)
 
     # Labels must be one-hot encoded for loss='categorical_crossentropy'
     y_train_onehot = to_categorical(y_train, N_CLASSES)
@@ -178,7 +176,9 @@ if __name__ == '__main__':
     # Shuffle data for good measure before fitting
     x_train, y_train_onehot = shuffle(x_train, y_train_onehot)
 
-    model.fit(x_train, y_train_onehot, validation_data=(x_test, y_test_onehot), epochs=EPOCHS,
+    model.fit(x_train, y_train_onehot,
+              validation_data=(x_test, y_test_onehot),
+              epochs=EPOCHS,
               batch_size=TRAIN_BATCH_SIZE,
               shuffle=True,
               callbacks=[checkpoint, early_stopping])
