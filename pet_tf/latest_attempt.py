@@ -14,7 +14,7 @@ from sklearn.utils import shuffle
 # CONSTANTS
 HIDDEN_UNITS = [64, 32, 32, 16]
 LABEL = 'AdoptionSpeed'
-TRAINING_TEST_SPLIT = 0.2
+TRAINING_TEST_SPLIT = 0.33
 RANDOM_NUMBER_SEED = 42
 N_CLASSES = 5
 EPOCHS = 100
@@ -105,6 +105,7 @@ if __name__ == '__main__':
 
     # Extract columns
     columns = list(train_continuous.columns)
+    columns_minus_label = columns[:-1]
 
     features_continuous = list(train_continuous.columns)
     features_continuous.remove(LABEL)
@@ -115,23 +116,18 @@ if __name__ == '__main__':
     matrix_train = np.matrix(train_continuous)
     matrix_test = np.matrix(test_continuous)
     matrix_test_no_label = np.matrix(train_continuous.drop(LABEL, axis=1))
-    matrix_y = np.array(train.AdoptionSpeed)
+    matrix_train_y = np.array(train[LABEL])
 
     # Scale data
-    y_scaler = MinMaxScaler()
-    y_scaler.fit(matrix_y.reshape(matrix_y.shape[0], 1))
-
     train_scaler = MinMaxScaler()
     train_scaler.fit(matrix_train)
 
     test_scaler = MinMaxScaler()
     test_scaler.fit(matrix_test_no_label)
 
-    matrix_train_scaled = pd.DataFrame(train_scaler.transform(matrix_train), columns=columns)
-    test_matrix_scaled = pd.DataFrame(test_scaler.transform(matrix_test), columns=features_continuous)
-
     train[columns] = pd.DataFrame(train_scaler.transform(matrix_train), columns=columns)
-    test[features_continuous] = test_matrix_scaled
+    train[LABEL] = matrix_train_y
+    test[features_continuous] = pd.DataFrame(test_scaler.transform(matrix_test), columns=features_continuous)
 
     # Extract continuous and categorical features
     engineered_features = []
@@ -149,7 +145,7 @@ if __name__ == '__main__':
     # Split training set data between train and test
     x_train, x_test, y_train, y_test = train_test_split(train[features_continuous + features_categorical],
                                                         train[LABEL],
-                                                        test_size=0.8,
+                                                        test_size=TRAINING_TEST_SPLIT,
                                                         random_state=RANDOM_NUMBER_SEED)
     # Convert back to DataFrame
     y_train = pd.DataFrame(y_train, columns=[LABEL])
@@ -170,9 +166,6 @@ if __name__ == '__main__':
     with open(TRAIN_FILENAME, 'w') as f:
         f.write(model.to_yaml())
 
-    # Output logs to tensorflow TensorBoard
-    # tensorboard = TensorBoard()
-
     # only save model weights for best performing model
     checkpoint = ModelCheckpoint(TRAIN_FILENAME,
                                  monitor='val_acc',
@@ -185,10 +178,6 @@ if __name__ == '__main__':
     # Shuffle data for good measure before fitting
     x_train, y_train_onehot = shuffle(x_train, y_train_onehot)
 
-    x_train, x_val, y_train_onehot, y_val_onehot = train_test_split(x_train, y_train_onehot,
-                                                                    test_size=TRAINING_TEST_SPLIT,
-                                                                    random_state=RANDOM_NUMBER_SEED)
-
     model.fit(x_train, y_train_onehot, validation_data=(x_test, y_test_onehot), epochs=EPOCHS,
               batch_size=TRAIN_BATCH_SIZE,
               shuffle=True,
@@ -196,7 +185,7 @@ if __name__ == '__main__':
 
     print('\nTesting ------------')
     # Evaluate the model with the metrics we defined earlier
-    loss, accuracy = model.evaluate(x_val, y_val_onehot)
+    loss, accuracy = model.evaluate(x_test, y_test_onehot)
 
     print('test loss: ', loss)
     print('test accuracy: ', accuracy)
