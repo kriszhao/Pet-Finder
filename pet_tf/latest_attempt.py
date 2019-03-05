@@ -2,9 +2,9 @@ import pandas as pd
 import tensorflow as tf
 from keras import Sequential
 from keras.callbacks import ModelCheckpoint, EarlyStopping
-from keras.constraints import maxnorm
-from keras.layers import Dropout, Dense, np
-from keras.optimizers import SGD
+from keras.layers import Activation
+from keras.layers import Dense, np
+from keras.optimizers import RMSprop
 from keras.utils import to_categorical
 from sklearn.ensemble import IsolationForest
 from sklearn.model_selection import train_test_split
@@ -12,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.utils import shuffle
 
 # CONSTANTS
-HIDDEN_UNITS = [100, 50, 25, 12]
+HIDDEN_UNITS = [64, 32, 32, 16]
 LABEL = 'AdoptionSpeed'
 TRAINING_TEST_SPLIT = 0.2
 RANDOM_NUMBER_SEED = 42
@@ -59,25 +59,24 @@ def prepare_data(data):
     return final_data, data_categorical, data_continuous, pet_id, data.shape[1]
 
 
-def create_mlp(input_dim, output_dim, dropout=0.3, arch=None):
+def create_mlp(input_dim, output_dim, arch=None):
     # Default mlp architecture
-    arch = arch if arch else [64, 32, 32, 16]
+    arch = arch if arch else HIDDEN_UNITS
 
     # Setup densely connected NN architecture (MLP)
     model = Sequential()
-    model.add(Dropout(dropout, input_shape=(input_dim,)))
+    model.add(Dense(arch[0], input_dim=input_dim, activation='relu'),)
 
-    for output in arch:
-        model.add(Dense(output, activation='relu', W_constraint=maxnorm(3)))
-        model.add(Dropout(dropout))
+    for output in arch[1:]:
+        model.add(Dense(output, activation='relu'))
+        model.add(Activation('relu'))
 
     model.add(Dense(output_dim, activation='sigmoid'))
 
-    # Compile model and save architecture to disk
-    sgd = SGD(lr=0.01, momentum=0.9, decay=0.0001, nesterov=True)
+    rmsprop = RMSprop(lr=0.001, rho=0.9, epsilon=1e-08, decay=0.0)
 
-    model.compile(loss='categorical_crossentropy',
-                  optimizer=sgd,
+    model.compile(optimizer=rmsprop,
+                  loss='mse',
                   metrics=['accuracy'])
 
     return model
@@ -150,9 +149,8 @@ if __name__ == '__main__':
     # Split training set data between train and test
     x_train, x_test, y_train, y_test = train_test_split(train[features_continuous + features_categorical],
                                                         train[LABEL],
-                                                        test_size=TRAINING_TEST_SPLIT,
+                                                        test_size=0.8,
                                                         random_state=RANDOM_NUMBER_SEED)
-
     # Convert back to DataFrame
     y_train = pd.DataFrame(y_train, columns=[LABEL])
     x_train = pd.DataFrame(x_train, columns=features_continuous + features_categorical) \
@@ -167,7 +165,7 @@ if __name__ == '__main__':
     y_test_onehot = to_categorical(y_test, N_CLASSES)
 
     # Get neural network architecture and save to disk
-    model = create_mlp(input_dim=training_dimension, output_dim=N_CLASSES, arch=HIDDEN_UNITS)
+    model = create_mlp(input_dim=training_dimension, output_dim=N_CLASSES)
 
     with open(TRAIN_FILENAME, 'w') as f:
         f.write(model.to_yaml())
@@ -182,14 +180,23 @@ if __name__ == '__main__':
                                  save_best_only=True)
 
     # Stop training early if validation accuracy doesn't improve for long enough
-    early_stopping = EarlyStopping(monitor='val_acc', patience=50)
+    early_stopping = EarlyStopping(monitor='val_acc', patience=10)
 
     # Shuffle data for good measure before fitting
     x_train, y_train_onehot = shuffle(x_train, y_train_onehot)
 
-    model.fit(x_train, y_train_onehot,
-              nb_epoch=EPOCHS,
+    x_train, x_val, y_train_onehot, y_val_onehot = train_test_split(x_train, y_train_onehot,
+                                                                    test_size=TRAINING_TEST_SPLIT,
+                                                                    random_state=RANDOM_NUMBER_SEED)
+
+    model.fit(x_train, y_train_onehot, validation_data=(x_test, y_test_onehot), epochs=EPOCHS,
               batch_size=TRAIN_BATCH_SIZE,
               shuffle=True,
-              callbacks=[checkpoint, early_stopping],
-              validation_data=(x_test, y_test_onehot))
+              callbacks=[checkpoint, early_stopping])
+
+    print('\nTesting ------------')
+    # Evaluate the model with the metrics we defined earlier
+    loss, accuracy = model.evaluate(x_val, y_val_onehot)
+
+    print('test loss: ', loss)
+    print('test accuracy: ', accuracy)
