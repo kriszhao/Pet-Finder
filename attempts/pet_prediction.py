@@ -85,8 +85,8 @@ def create_mlp(input_dim, output_dim, arch=None):
 if __name__ == '__main__':
     # Import and split
     train, train_categorical, train_continuous, train_pet_id, training_dimension = prepare_data(
-        pd.read_csv('./all/train.csv'))
-    test, test_categorical, test_continuous, test_pet_id, _ = prepare_data(pd.read_csv('./all/test/test.csv'))
+        pd.read_csv('../all/train.csv'))
+    test, test_categorical, test_continuous, test_pet_id, _ = prepare_data(pd.read_csv('../all/test/test.csv'))
 
     # Remove the outliers
     clf = IsolationForest(max_samples=100, random_state=RANDOM_NUMBER_SEED)
