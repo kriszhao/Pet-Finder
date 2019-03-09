@@ -27,8 +27,8 @@ def kappa(y_true, y_pred):
 
 
 if __name__ == '__main__':
-    train_df = pd.read_csv("../all/train.csv")
-    test_df = pd.read_csv("../all/test/test.csv")
+    train_df = pd.read_csv('../all/train.csv')
+    test_df = pd.read_csv('../all/test/test.csv')
 
     cat_cols = ['Type', 'Age', 'Breed1', 'Breed2', 'Gender', 'Color1', 'Color2', 'Color3', 'MaturitySize',
                 'FurLength', 'Vaccinated', 'Dewormed', 'Sterilized', 'Health', 'Quantity', 'State', 'VideoAmt',
@@ -81,7 +81,7 @@ if __name__ == '__main__':
                   loss='mse',
                   metrics=['accuracy'])
 
-    filepath = "../checkpoints/weights_image_categorical.hdf6"
+    filepath = '../checkpoints/weights_image_categorical.hdf6'
     checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
     earlystopped = EarlyStopping(monitor='val_acc', min_delta=0.0001, patience=10, verbose=0, mode='max')
     callbacks_list = [checkpoint]
@@ -123,8 +123,8 @@ if __name__ == '__main__':
     avg_valid_kappa = 0
     avg_train_kappa += kappa(y_train_pred, y_train)
     avg_valid_kappa += kappa(y_valid_pred, y_valid)
-    print("\navg train kappa:", avg_train_kappa, )
-    print("\navg valid kappa:", avg_valid_kappa, )
+    print('Avg train kappa:', avg_train_kappa, )
+    print('Avg valid kappa:', avg_valid_kappa, )
 
     f = plt.figure(figsize=(10, 3))
     ax = f.add_subplot(121)
