@@ -161,7 +161,7 @@ if __name__ == '__main__':
     # Get neural network architecture and save to disk
     model = create_mlp(input_dim=training_dimension, output_dim=N_CLASSES)
 
-    checkpoint_path = './checkpoints/{}'.format(TRAIN_FILENAME)
+    checkpoint_path = '../checkpoints/{}'.format(TRAIN_FILENAME)
 
     with open(checkpoint_path, 'w') as f:
         f.write(model.to_yaml())
