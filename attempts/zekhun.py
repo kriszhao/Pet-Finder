@@ -17,6 +17,8 @@ from sklearn.preprocessing import StandardScaler
 
 np.random.seed(1337)  # for reproducibility
 
+LABEL = 'AdoptionSpeed'
+
 
 def extract_max(input):
     return list(map(int, re.findall('\d+', input)))
@@ -49,8 +51,8 @@ if __name__ == '__main__':
 
     tr_df, val_df = train_test_split(train_df, test_size=0.5, random_state=4)
 
-    y_train = np_utils.to_categorical(tr_df['AdoptionSpeed'], num_classes=5)
-    y_valid = np_utils.to_categorical(val_df['AdoptionSpeed'], num_classes=5)
+    y_train = np_utils.to_categorical(tr_df[LABEL], num_classes=5)
+    y_valid = np_utils.to_categorical(val_df[LABEL], num_classes=5)
 
     cs = StandardScaler()
     trainContinuous = cs.fit_transform(tr_df[cat_cols])
@@ -83,7 +85,7 @@ if __name__ == '__main__':
 
     filepath = '../checkpoints/weights_image_categorical.hdf6'
     checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
-    earlystopped = EarlyStopping(monitor='val_acc', min_delta=0.0001, patience=10, verbose=0, mode='max')
+    early_stopped = EarlyStopping(monitor='val_acc', min_delta=0.0001, patience=10, verbose=0, mode='max')
     callbacks_list = [checkpoint]
 
     for i in range(10):
@@ -104,7 +106,7 @@ if __name__ == '__main__':
 
     ans = array(ans)
 
-    y_train = tr_df['AdoptionSpeed'].values
+    y_train = tr_df[LABEL].values
 
     loss1 = model.predict(x_valid, batch_size=1000)
     ans1 = [0 for x in range(len(x_valid))]
@@ -115,7 +117,7 @@ if __name__ == '__main__':
 
     ans1 = array(ans1)
 
-    y_valid = val_df['AdoptionSpeed'].values
+    y_valid = val_df[LABEL].values
 
     y_train_pred = ans
     y_valid_pred = ans1
