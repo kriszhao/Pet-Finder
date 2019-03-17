@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 
 # CONSTANTS
-ITERATIONS = 100
+ITERATIONS = 10000
 LABEL = 'AdoptionSpeed'
 HIDDEN_UNITS = [200, 100, 50, 25, 12]
 TRAINING_TEST_SPLIT = 0.20
