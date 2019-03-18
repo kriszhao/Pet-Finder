@@ -8,6 +8,6 @@ CMPS 240 Final Project
 
 ## Contents
 - `all` contains the input data
-- `attempts` contains the approaches described in the project report. Two are iPython notebooks, one is a regular script
+- `attempts` contains the approaches described in the project report. Three are iPython notebooks, one is a regular script
 - `checkpoints` contains the best models we obtained
 - `data_exploration` contains iPython notebooks containing the data analytics we performed, the the Decision Tree discovery in the traditional machine learning pre-trials we made for the project
