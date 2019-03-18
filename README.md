@@ -2,7 +2,7 @@
 CMPS 240 Final Project - N. Varghese, A. Vitek, Z. Zhao
 
 ## Before running the code
-The training data is large (~10GB uncompressed). The training data can be downloaded with the following instructions. Alternatively, the iPython notebooks contain saved states with the results.
+The training data is large (~10GB uncompressed). It can be downloaded with the following instructions. Alternatively, the iPython notebooks contain saved states with the results.
 1. `kaggle competitions download -c petfinder-adoption-prediction`
 2. Ensure the training data is extracted in `./all`
 3. Download https://github.com/git-lfs/git-lfs/releases/download/v2.7.1/git-lfs-darwin-amd64-v2.7.1.tar.gz
