@@ -1,16 +1,16 @@
 import itertools
-import matplotlib
 
-import pandas as pd
+import matplotlib
+import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import tensorflow as tf
+from sklearn.ensemble import IsolationForest
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.ensemble import IsolationForest
-import tensorflow as tf
-import matplotlib.pyplot as plt
 
 # CONSTANTS
-ITERATIONS = 40000
+ITERATIONS = 10000
 LABEL = 'AdoptionSpeed'
 HIDDEN_UNITS = [200, 100, 50, 25, 12]
 TRAINING_TEST_SPLIT = 0.20
@@ -77,10 +77,8 @@ if __name__ == '__main__':
     tf.logging.set_verbosity(tf.logging.INFO)
 
     # Import and split
-    train, train_categorical, train_continuous, train_pet_id = prepare_data(
-        pd.read_csv('/tmp/pycharm_project_40/all/train.csv'))
-    test, test_categorical, test_continuous, test_pet_id = prepare_data(
-        pd.read_csv('/tmp/pycharm_project_40/all/test/test.csv'))
+    train, train_categorical, train_continuous, train_pet_id = prepare_data(pd.read_csv('../all/train.csv'))
+    test, test_categorical, test_continuous, test_pet_id = prepare_data(pd.read_csv('../all/test/test.csv'))
 
     # Remove the outliers
     clf = IsolationForest(max_samples=100, random_state=RANDOM_NUMBER_SEED)
