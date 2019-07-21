@@ -1,5 +1,5 @@
 # project
-- N. Varghese, A. Vitek, Z. Zhao -
+- N. Varghese, A. Vitek, Z. Zhao
 
 ## Before running the code
 The training data is large (~10GB uncompressed). It can be downloaded with the following instructions. Alternatively, the iPython notebooks contain saved states with the results.
